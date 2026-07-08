@@ -1,0 +1,7 @@
+timestamp	status	companies	boards	found	filtered_title	filtered_tier	filtered_location	filtered_salary	filtered_content	filtered_cooldown	dupes	new_added	errors
+2026-07-08T10:28:24.041Z	completed	16	3	508	501	0	6	0	0	0	0	1	10
+2026-07-08T11:41:42.607Z	completed	14	3	848	837	0	10	0	0	0	1	0	2
+2026-07-08T11:42:22.830Z	completed	14	3	848	845	0	1	0	0	0	0	2	2
+2026-07-08T11:54:28.953Z	completed	14	3	848	833	0	6	0	0	0	4	5	2
+2026-07-08T11:54:59.642Z	completed	14	3	848	833	0	6	0	0	0	8	1	2
+2026-07-08T13:17:41.309Z	completed	20	3	1134	1065	0	18	0	0	0	10	41	5

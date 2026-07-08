@@ -107,3 +107,27 @@ package-lock.json
 
 # Planning (local scratchpad)
 plan/
+
+# ── Personal fork (hpz0): track user-layer files for backup/sync ─────────────
+# Upstream gitignores these by default (PII safety on public repos). On your
+# private fork it's fine — and expected — to version-control your job-search data.
+!cv.md
+!config/profile.yml
+!portals.yml
+!modes/_profile.md
+!modes/_custom.md
+!article-digest.md
+!voice-dna.md
+!data/applications.md
+!data/pipeline.md
+!data/follow-ups.md
+!data/scan-history.tsv
+!data/scan-runs.tsv
+!data/salary-observations.tsv
+!interview-prep/*.md
+!reports/*.md
+reports/*-RESERVED.md
+!jds/*
+
+# Accidental nested clone (full repo inside repo) — ignore; your real files are at repo root
+/career-ops/

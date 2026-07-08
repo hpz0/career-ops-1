@@ -1,0 +1,294 @@
+# Career-Ops Profile Configuration
+# Copy this file to config/profile.yml and fill in your details.
+# This is the single source of truth for your personal data across all modes.
+
+candidate:
+  full_name: "Harrison Pizzi"
+  email: "harrisonpizzi@gmail.com"
+  phone: "215-595-8175"
+  # Optional. Used by `/career-ops email` contact blocks in markets where WeChat
+  # is an expected recruiting channel. Omit or leave blank if not applicable.
+  wechat: ""
+  location: "Richboro, PA"
+  linkedin: "linkedin.com/in/hpizzi"
+  # Optional profile photo for the PDF CV (opt-in, #264). Leave empty to omit it
+  # entirely: US/UK and many-market ATS penalize photos, so the photoless layout
+  # is the default. Set it only for DACH/European markets (Germany, Austria,
+  # Switzerland) where a professional photo is expected. Use a local file path or
+  # a data: URL — the PDF renderer inlines local images.
+  photo: ""
+
+target_roles:
+  # Dual track: procurement/supply chain builder OR account management (buyer-side → seller-side pivot)
+  primary:
+    - "Director of Procurement"
+    - "Senior Director of Procurement"
+    - "Director of Global Sourcing"
+    - "Enterprise Account Executive"
+    - "Strategic Account Manager"
+  secondary:
+    - "Senior Manager of Procurement"
+    - "Head of Supply Planning"
+    - "Supply Chain Director"
+    - "Key Account Manager"
+    - "Director, Source to Pay"
+  archetypes:
+    - name: "Enterprise Account Executive"
+      level: "Senior"
+      fit: "primary"
+    - name: "Strategic Account Manager"
+      level: "Senior"
+      fit: "primary"
+    - name: "Director of Procurement"
+      level: "Director"
+      fit: "primary"
+    - name: "Director of Global Sourcing"
+      level: "Director"
+      fit: "primary"
+    - name: "Source to Pay / Spend Analytics Leader"
+      level: "Director"
+      fit: "primary"
+    - name: "Procurement Manager"
+      level: "Senior"
+      fit: "secondary"
+    - name: "Global Supply Chain Manager"
+      level: "Senior"
+      fit: "secondary"
+
+narrative:
+  # Your professional headline (1 line)
+  headline: "Procurement & partnership leader | 9+ years on the buyer side — now selling to the teams I used to be"
+  exit_story: "Spent 9+ years as the procurement buyer that account executives sell to — at Plenty (startup/hardware manufacturing) and Comcast (enterprise). Actively interviewing for remote AE at Ramp (fintech selling to finance/procurement). Also hunting Director+ procurement and global sourcing roles — especially data centers, hardware, and infrastructure — plus B2B SaaS AE roles where buyer-side fluency is the wedge. Remote-first."
+  target_industries:
+    - "health"
+    - "food"
+    - "agtech"
+    - "tech"
+    - "tech manufacturing"
+    - "hardware"
+    - "data centers"
+    - "infrastructure"
+    - "advanced manufacturing"
+    - "B2B SaaS"
+    - "fintech"
+    - "procurement / spend management software"
+    - "supply chain software"
+  avoid:
+    - "Fortune 500 mega-corps with heavy bureaucracy (unless Director+ remote with systems/P2P scope — case-by-case)"
+    - "Roles requiring 4-5 days on-site with no remote option"
+    - "Relocation required — not open to moving to Boston, SF, NYC, or other metros for on-site/hybrid roles"
+    - "HQ/on-site only postings (Boston, San Francisco, Somerville, NYC) even if company is otherwise interesting"
+    - "Engineering, product management, design, or technical IC/manager titles — not an engineer"
+    - "Current employer (Comcast) — not seeking internal moves"
+    - "Regional / field / territory roles with heavy travel (not strategic HQ builder roles)"
+    - "Restaurant fleet logistics and QSR field operations"
+    - "SDR / BDR / entry-level inside sales (quota-only, no strategic account scope)"
+    - "On-site only roles in Greater Philadelphia suburbs (e.g. Chalfont PA) — remote-first"
+  superpowers:
+    - "Buyer-side fluency — knows procurement, P2P, and CLM from the customer seat (ideal for Ramp-style AE)"
+    - "Source-to-pay and spend systems — Coupa, NetSuite, Ironclad, DocuSign CLM implementations"
+    - "Strategic sourcing and value engineering (30% BOM cost reduction in 6 months)"
+    - "Hardware / manufacturing procurement — BOM, NPI, multi-site supply, regulated suppliers"
+    - "Supplier relationship management and contract negotiation (99% spend on contract)"
+  proof_points:
+    - name: "Buyer-side partnership depth"
+      hero_metric: "Managed multimillion-dollar supplier portfolios; the person AEs pitch to"
+    - name: "Plenty BOM Cost Reduction"
+      hero_metric: "30% reduction in Bill of Material costs within six months"
+    - name: "NetSuite ERP Migration"
+      hero_metric: "Migrated manual inventory to dynamic MRP across multiple manufacturing sites"
+    - name: "Procure-to-Pay Transformation"
+      hero_metric: "99% of spend on contract; requisition cycle time cut from 3 days to 1.5 days"
+    - name: "Electronic Invoice Adoption"
+      hero_metric: "Increased supplier electronic invoice rate by 50%, reducing AP labor"
+
+compensation:
+  target_range: "$150K-200K"     # Procurement track: total comp
+  # Account management / AE track: target OTE (base + commission)
+  ae_target_ote: "$150K-250K"
+  currency: "USD"
+  minimum: "$140K"               # Walk-away number (base for AE, total for procurement)
+  location_flexibility: "Remote-first (primary goal). Open to occasional travel for the right mission-driven startup. Not interested in 4-5 day on-site mega-corp roles."
+
+location:
+  country: "United States"
+  city: "Richboro, PA"
+  timezone: "EST"
+  visa_status: "No sponsorship needed"
+  # For remote roles outside your country:
+  remote_preference: "primary"   # primary | flexible | optional
+  onsite_availability: "Not relocating — remote US only. EST-based (Richboro, PA). Occasional travel OK; no Boston/SF/NYC relocation."
+
+# Optional follow-up cadence preferences for `node followup-cadence.mjs`.
+# CLI flags still win for one-off runs (for example `--applied-days 10`).
+# followup_cadence:
+#   applied_first_days: 7
+#   applied_subsequent_days: 7
+#   applied_max_followups: 2
+#   responded_initial_days: 1
+#   responded_subsequent_days: 3
+#   interview_thankyou_days: 1
+
+cv:
+  output_format: "html" # "html" (default) or "latex"
+  # (Optional) Canva resume design ID for visual CV generation via /career-ops pdf.
+  # Find it in your Canva design URL: https://www.canva.com/design/DAxxxxxxx/...
+  # The ID starts with "D" and is 11 characters long.
+  # canva_resume_design_id: "DAxxxxxxxxx"
+
+# ── Culture Screen ───────────────────────────────────────────────────────────
+#
+# Enforces structural capping on the "Cultural signals" dimension during evaluation.
+#
+culture_screen:
+  require:
+    - "Remote-first or fully remote"
+    - "Director+ procurement/sourcing OR enterprise AE/AM at B2B SaaS (fintech, spend, supply chain)"
+    - "Hardware, data center, infrastructure, health, food, agtech, or tech manufacturing — OR fintech selling to finance/procurement buyers"
+  deprioritize_if_absent: false
+
+# ── Cover Letter Settings ──────────────────────────────────────────────────
+#
+# Used by `/career-ops cover` and the cover letter sub-flow in `/career-ops pdf`.
+# All fields are optional — omit any you don't need.
+
+cover_letter:
+  # Your notice period in calendar days. Surfaced as a prompt default when the
+  # JD requests an immediate start. The user confirms the actual value before it
+  # appears in the letter.
+  notice_period_days: 30
+
+  # Your current professional domain (used to detect domain gaps vs the JD).
+  # Plain English, e.g. "digital media", "fintech", "healthcare IT".
+  primary_domain: "procurement/supply chain (hardware, data centers, manufacturing) OR enterprise AE/AM (fintech, spend management, B2B SaaS to procurement buyers)"
+
+# ── Active interviews (operational — not CV claims) ───────────────────────
+active_interviews:
+  - company: "Ramp"
+    role: "Account Executive (remote)"
+    track: "B"
+    status: "Interviewing"
+    notes: "Remote AE — fintech/expense selling to finance & procurement. Strong buyer-side fit. Prioritize interview prep over cold-applying to similar roles at lower fit."
+
+# ── Recent application signals (Jul 2026 — informs targeting, not tracker) ─
+recent_apply_patterns:
+  procurement_track:
+    - "Director / Sr. Director Procurement — remote US"
+    - "Director Global Sourcing — remote US"
+    - "Procurement Director — Data Centers"
+    - "Director, Business Systems — Sourcing, Procurement, Spend Analytics (Source to Pay)"
+    - "Supply Chain Director — remote US"
+    - "Procurement Manager — remote US (applied; prefer Director+)"
+  deprioritize:
+    - "On-site only (e.g. Chalfont PA)"
+    - "25%+ travel in title unless strategic HQ scope"
+  applied_companies_skip_rescan:
+    - "Western Digital"
+    - "Graham Packaging"
+    - "Carrot Fertility"
+    - "Datavant"
+    - "Pengate Handling Systems"
+
+# ── Contact Preferences ──────────────────────────────────────────────────────
+#
+# Used by `/career-ops contacto` (outreach CTA) and `/career-ops email` (contact
+# block) to steer drafted messages toward how you actually want to be reached.
+# Optional. Omit the whole block, or set preferred_channel to "either", to keep
+# today's behavior unchanged (no channel steering).
+#
+# contact_preferences:
+#   preferred_channel: "email"   # email | phone | either — default "either" if omitted
+#   # Optional. Surfaced near the contact block in `/career-ops email` drafts and
+#   # can inform the CTA wording in `/career-ops contacto`. Keep it one line.
+#   note: "Screens unknown numbers — please email or text first to schedule a call"
+
+# ── Outreach / greeting ─────────────────────────────────────────────────────
+#
+# Used by the greeting variant of `/career-ops contacto` (the short first-touch
+# message for BOSS Zhipin 打招呼, job-board chat, or a cold-email opener).
+#
+# greeting_max_chars is the hard character budget for that message. Default when
+# the key is absent: 150 (BOSS Zhipin's greeting limit). Raise or lower it to
+# match the platform you're messaging on.
+# outreach:
+#   greeting_max_chars: 150
+
+# ── Application Email Drafts ────────────────────────────────────────────────
+#
+# Used by `/career-ops email` when drafting formal application emails. This is
+# separate from `contacto` short outreach and `cover` full cover letters.
+# All fields are optional.
+#
+# application_email:
+#   include_contact_block: true
+#   include_attachment_checklist: true
+#   # Use this when you want the email body to say "the email used to send this
+#   # message" instead of printing a concrete email address from candidate.email.
+#   # default_sender_note: "the email used to send this message"
+#   signature_name: "Harrison Pizzi"
+
+# ── Scan / JD extractor ─────────────────────────────────────────────────────
+#
+# How the scan and JD-extraction steps read SPA job pages.
+#   mcp (default) — the browser MCP (browser_navigate + browser_snapshot). Works
+#                   out of the box; the snapshot is token-heavy.
+#   cli           — the headless `browser-extract.mjs` helper: renders the page
+#                   and returns compact JSON, cutting per-page tokens ~2–5×. Opt-in.
+#                   If the helper isn't available, the modes fall back to mcp
+#                   silently, so nothing breaks. `doctor` reports the active mode.
+# scan:
+#   extractor: mcp   # mcp (default) | cli
+
+# ── Auto-PDF threshold ──────────────────────────────────────────────────────
+#
+# Auto-PDF threshold during evaluation (used by `/career-ops pipeline` and
+# `bash batch/batch-runner.sh`).
+#
+# An offer's tailored CV PDF is auto-generated only when its score is
+# >= this threshold. Generating a PDF costs ~30-60s per offer (Playwright
+# launch + HTML render), and most offers in a scan score 2.x/3.x and never
+# become an actual application — so the gate avoids wasted renders.
+#
+# Default (key absent OR commented out): 3.0 — the original gate of
+# `/career-ops pipeline`. Both evaluation paths apply the same default, so
+# a batch run and an interactive run treat the same offer identically.
+#
+# Raise it (e.g. 4.0) to auto-generate PDFs only for stronger matches and
+# leave the rest report-only — those can still be produced on demand via
+# `/career-ops pdf {company-slug}`. Fractional thresholds work (e.g. 3.5 —
+# half-point scores like 3.5/5 occur in evaluations). Set it to 0 to
+# generate a PDF for every offer.
+# auto_pdf_score_threshold: 4.0
+
+# ── Re-apply Cooldown Windows ──────────────────────────────────────────────
+#
+# Define cooldown windows for companies where you've recently applied.
+# The scanner will skip new postings at these companies during the window.
+#
+re_apply_windows:
+  Comcast:
+    same_role_days: 365
+    cross_role_bucket: "all_procurement_roles"
+    applied_to: ["Senior Manager, Enterprise Procurement", "Manager, Enterprise Procurement"]
+    last_apply_date: "2026-02-01"
+    notes: "Current employer — skip unless explicitly exploring internal transfer"
+  "Western Digital":
+    same_role_days: 90
+    last_apply_date: "2026-07-07"
+    notes: "Applied Director Business Systems Sourcing/P2P — skip dup postings 90d"
+  "Graham Packaging":
+    same_role_days: 90
+    last_apply_date: "2026-07-03"
+    notes: "Applied Sr. Director Procurement"
+  "Carrot Fertility":
+    same_role_days: 90
+    last_apply_date: "2026-07-03"
+    notes: "Applied Director Procurement"
+  "Datavant":
+    same_role_days: 90
+    last_apply_date: "2026-06-30"
+    notes: "Applied Procurement Manager"
+  Ramp:
+    same_role_days: 180
+    last_apply_date: "2026-07-01"
+    notes: "Active interview process — do not re-apply; focus on prep"
