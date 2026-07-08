@@ -10,21 +10,31 @@ Procurement 9+ years — Plenty (startup, team of 3) → Comcast (enterprise). I
 
 ---
 
-## Why procurement → AE (talking points)
+## Why procurement → AE *(reusable for any AE interview)*
 
-**Challenge:** Impact capped inside one company — you're the evaluator, not the closer. Great at killing bad vendor deals; want to help good ones win. Procurement is reactive (tickets, approvals, compliance); sales is proactive (pipeline, relationships, revenue).
+**One-liner:** I've spent 9 years as the buyer — now I want to be on the side that helps teams win, not just the one evaluating vendors.
 
-**Accomplishments to drop naturally:**
-- Led **Coupa P2P** rollout — **99% spend on contract**, requisition cycle **3 days → 1.5 days**
-- **Ironclad + DocuSign** CLM implementation — know where legal kills deals
-- **NetSuite ERP** migration — cross-functional "selling" to Finance, IT, Legal
-- **30% BOM cost reduction** in 6 months (Plenty) — negotiation + value engineering
-- **Team of 3 buyers** — published procurement policy, ran the function at a startup
-- Comcast: **multimillion-dollar enterprise portfolios** — Fortune 50 buying complexity
+### What transfers
 
-**Why now:** I've seen what great AEs do vs what procurement ignores. I want to be on the solution side — help finance/procurement teams like the ones I led. Ramp's buyer is literally my old job.
+| From procurement | → To AE |
+|------------------|---------|
+| **Negotiation & deal structure** | Vendor contracts, TCO, payment terms → closing deals, handling objections, structuring agreements |
+| **Relationship & influence** | Supplier partnerships, cross-functional buy-in (Finance, Legal, IT) → building champions, long-term accounts |
+| **Buyer credibility** | Evaluated Coupa, Ironclad, NetSuite from the customer seat → selling spend/fintech tools with insider fluency |
+| **Analytical rigor** | Cost analysis, risk, forecasting → pain-point discovery, ROI business cases that survive procurement review |
 
-**Don't claim:** Quota, closed-won revenue, SDR experience.
+### Why I'm choosing sales (not running from procurement)
+
+- **Impact:** Procurement optimizes cost inside one company; sales scales that expertise across customers who need it.
+- **Energy:** I want revenue ownership and external wins — not another cycle of savings targets and policy enforcement.
+- **Comp:** AE OTE with upside; targeting **$150k+** — growth path procurement rarely offers at my level.
+- **Fit:** At Plenty I *was* the sales motion internally — rolled out systems, sold executives on change, managed a **team of 3**. Different title, same muscle.
+
+### Proof to drop (don't recite — weave in)
+
+Coupa P2P (**99% on contract**, 3d→1.5d requisitions) · Ironclad CLM · NetSuite ERP · **30% BOM cut** in 6mo · Comcast multimillion-dollar portfolios · Black Locust outreach
+
+**Honest gap:** No quota on résumé. Internal selling and vendor-side negotiation, not classic SDR→AE path.
 
 ---
 
