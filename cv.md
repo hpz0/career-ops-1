@@ -7,7 +7,7 @@
 
 ## Professional Summary
 
-Procurement and partnership leader with 9+ years on the **buyer side** of B2B relationships — managing vendor portfolios, negotiating contracts, and running procure-to-pay at Plenty (agtech startup) and Comcast (enterprise). Deep fluency in how purchasing decisions get made, which translates directly to account management and enterprise sales roles selling to procurement and supply chain teams. Also pursuing strategic procurement / supply chain builder roles at remote-first, mission-driven companies in health, food, and tech manufacturing.
+Procurement and category leader with 9+ years of **technology and indirect sourcing** on the buyer side — managing vendor portfolios, negotiating contracts, and running procure-to-pay at Plenty (agtech/manufacturing) and Comcast (Fortune 50 enterprise). Owns strategic sourcing across Technology/IT, Wireless Infrastructure, Fixed Network, and broader indirect categories (facilities, travel, marketing, contract labor). Builds supplier partnerships and scalable sourcing programs that improve total cost of ownership, contract compliance, and supply continuity.
 
 **Positioning for account management roles:** Former procurement decision-maker who understands RFP cycles, contract negotiation, stakeholder alignment, and what kills vendor deals — now moving to the sell side with insider buyer empathy.
 
@@ -21,8 +21,9 @@ Feb 2026 – Present
 **Manager, Enterprise Procurement**
 Apr 2024 – Feb 2026
 
-- Lead enterprise procurement operations for a Fortune 50 telecommunications company
-- Led strategic vendor negotiations and supplier relationship management across multimillion-dollar spend portfolios
+- Lead strategic sourcing for Wireless Infrastructure and Fixed Network categories across Comcast, NBC, and Sky — multi-billion-dollar technology/infrastructure portfolio supporting network expansion, modernization, and supply continuity
+- Drive executive-level contract negotiations and manage global vendor ecosystems for performance, commercial risk mitigation, and long-term scalability
+- Promoted to Senior Manager for strategic impact; selected to lead Fixed Networks after excelling in Wireless
 
 ### Plenty® — San Francisco, CA / South San Francisco, CA
 
@@ -40,7 +41,7 @@ Mar 2021 – Jan 2024
 Jan 2018 – Mar 2021
 
 - Led major company-wide system implementations: Coupa (P2P), Ironclad and DocuSign SpringCM (CLM), TripActions (travel)
-- Oversaw multimillion-dollar indirect procurement budget (facilities, travel, IT, marketing, contract labor, office supplies)
+- Oversaw multimillion-dollar **indirect procurement** budget including **IT/technology**, facilities, travel, marketing, contract labor, and office supplies — category planning, sourcing, and supplier performance
 - Managed team of 3 buyers; published and enforced Procurement Policy
 - Achieved 99% of spend on contract; reduced purchase requisition cycle time from 3 days to 1.5 days
 - Increased supplier electronic invoice rate by 50%, reducing Accounts Payable labor
@@ -79,8 +80,9 @@ May 2014 – Aug 2014
 
 ## Skills
 
-- **Procurement & Supply Chain:** Strategic sourcing, procure-to-pay, contract lifecycle management, supplier management, indirect procurement, material requirements planning, NPI
+- **Technology & Indirect Sourcing:** Technology/IT category sourcing, Wireless Infrastructure, Fixed Network, indirect procurement (IT, facilities, travel, marketing, contract labor), category strategy, TCO
+- **Procurement & Supply Chain:** Strategic sourcing, procure-to-pay, contract lifecycle management, supplier management, material requirements planning, NPI, value engineering
 - **Account Management & Partnerships:** Strategic vendor relationship management, contract negotiation, stakeholder alignment, buyer-process fluency, consultative partnership development, RFP/procurement cycle knowledge
 - **Systems:** NetSuite ERP, Coupa, Ironclad, DocuSign SpringCM, TripActions
 - **Operations:** Inventory management, quality management, regulatory compliance (FDA, SQF), cross-functional program leadership
-- **Tools:** Large-Scale Scrum (LeSS), project management, value engineering
+- **Tools:** Large-Scale Scrum (LeSS), project management
