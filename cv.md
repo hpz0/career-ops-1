@@ -7,7 +7,7 @@
 
 ## Professional Summary
 
-Procurement leader with more than nine years of experience in technology and indirect category management, strategic sourcing, and supplier negotiations. Builds and executes category strategies that optimize total cost of ownership, strengthen supplier performance, and support business priorities across Fortune 50 and high-growth environments. Partners with IT, Finance, Legal, and business stakeholders to take Technology sourcing from category planning through contract execution, while developing teams and scalable procurement processes.
+Procurement leader with more than nine years of experience in technology and indirect category management, strategic sourcing, and supplier negotiations. Builds and executes category strategies that optimize total cost of ownership, strengthen supplier performance, and support business priorities — from standing up procurement at a high-growth startup to leading Technology category work at a Fortune 50 enterprise. Partners with key stakeholders to take Technology sourcing from category planning through contract execution, while developing teams and scalable procurement processes.
 
 ## Work Experience
 
