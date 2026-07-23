@@ -7,7 +7,7 @@
 
 ## Professional Summary
 
-Senior Category Manager profile with 9+ years of **Indirect Procurement** and **Technology category** ownership — category plans, sourcing strategies, negotiation, contract execution, and supplier performance. Leads Wireless Infrastructure and Fixed Network Technology spend at Comcast (Fortune 50); previously owned multimillion-dollar indirect IT/technology and broader indirect categories at Plenty while standing up Coupa P2P and CLM. Strengths: total cost of ownership, spend analytics, stakeholder partnerships (business / IT / Finance / Legal), and developing buyer teams — strategy through signed contract.
+Technology and indirect procurement leader with more than nine years of experience building category strategies, running sourcing programs, and negotiating supplier agreements from plan through signed contract. Currently leads Wireless Infrastructure and Fixed Network categories at Comcast across a multi-billion-dollar enterprise portfolio. Previously owned multimillion-dollar indirect spend at Plenty—including IT and technology—while implementing Coupa procure-to-pay and contract lifecycle management, cutting requisition cycle time in half and bringing 99% of spend onto contract. Partners with business, IT, Finance, and Legal stakeholders to improve total cost of ownership, strengthen supplier performance, and translate Technology priorities into executable sourcing roadmaps.
 
 ## Work Experience
 
