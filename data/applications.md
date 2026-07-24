@@ -2,6 +2,10 @@
 
 | # | Date | Company | Via | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|-----|------|-------|--------|-----|--------|-------|
+| 8 | 2026-07-24 | Neko Health | — | Procurement & Logistics Specialist, Clinic Operations (US) | 2.1/5 | SKIP | ❌ | [008](../reports/008-neko-health-2026-07-24.md) | Entry-level PO/logistics + Hybrid NYC — skip; overqualified vs Sr Manager track |
+| 7 | 2026-07-24 | The Nuclear Company | — | Sr. Category Manager (Indirect/Corporate) | 4.4/5 | Evaluated | ✅ | [007](../reports/007-nuclear-company-2026-07-24.md) | Track A — Plenty indirect exact match; confirm DC/SC location vs remote before apply; $151-176k |
+| 6 | 2026-07-24 | Levels | — | Senior Procurement Manager-Ingredients, Packaging & Strategic Sourcing | 4.3/5 | Evaluated | ✅ | [006](../reports/006-levels-2026-07-24.md) | Track A — co-man + national retail/major grocers confirmed; still confirm Ashburn vs remote |
+| 5 | 2026-07-24 | Once Upon a Farm | — | Director of Strategic Sourcing and Procurement | 4.5/5 | Evaluated | ✅ | [005](../reports/005-once-upon-a-farm-2026-07-24.md) | Track A North Star — remote Director food/CPG; Plenty change mgmt + sourcing; $175-200k |
 | 4 | 2026-07-23 | lululemon | — | Senior Category Manager, Technology - Indirect Procurement | 4.1/5 | Evaluated | ✅ | [004](../reports/004-lululemon-2026-07-23.md) | Track A — 1-page Hyper-format CV; Comcast Wireless/Fixed Network + Plenty indirect IT; culture still not Director+ |
 | 3 | 2026-07-20 | ? | Xplora Search | Head of Procure-to-Pay (P2P) | 4.6/5 | Evaluated | ❌ | [003](../reports/003-confidential-p2p-2026-07-20.md) | Re-eval 2026-07-20 (4.5→4.6). Track A North Star — Coupa/P2P builder; remote under Controller; phone-screen prep ready |
 | 2 | 2026-07-08 | Benchling | — | Enterprise Account Executive | 3.3/5 | Evaluated | ❌ | [002](../reports/002-benchling-2026-07-08.md) | Track B stretch — great company/comp; lacks proven AE quota history |
