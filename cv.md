@@ -7,7 +7,7 @@
 
 ## Professional Summary
 
-Strategic sourcing and procurement leader with more than nine years building category strategy, supplier partnerships, and procurement operations in high-growth food/CPG and enterprise environments. Owns multimillion-dollar direct and indirect spend with a track record of cost takeout, MRP-enabled planning, team development, and cross-functional delivery with engineering and operations.
+Strategic sourcing and procurement leader with more than nine years owning category strategy, supplier negotiations, and procurement operations across high-growth food/CPG manufacturing and Fortune 50 enterprise environments. Builds multi-year sourcing strategies that balance cost, quality, supply continuity, and total cost of ownership; delivers measurable savings across large direct and indirect spend portfolios; and develops buyer teams while aligning Ops, QA, Finance, and leadership on sourcing priorities. Experienced in agricultural and packaging supply chains, MRP-enabled planning, supplier performance management, and food-safety partnered sourcing (FDA/SQF).
 
 ## Work Experience
 
