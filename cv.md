@@ -7,9 +7,7 @@
 
 ## Professional Summary
 
-Procurement and category leader with 9+ years of **technology and indirect sourcing** on the buyer side — managing vendor portfolios, negotiating contracts, and running procure-to-pay at Plenty (agtech/manufacturing) and Comcast (Fortune 50 enterprise). Owns strategic sourcing across Technology/IT, Wireless Infrastructure, Fixed Network, and broader indirect categories (facilities, travel, marketing, contract labor). Builds supplier partnerships and scalable sourcing programs that improve total cost of ownership, contract compliance, and supply continuity.
-
-**Positioning for account management roles:** Former procurement decision-maker who understands RFP cycles, contract negotiation, stakeholder alignment, and what kills vendor deals — now moving to the sell side with insider buyer empathy.
+Strategic sourcing and procurement leader with more than nine years in high-growth food/CPG manufacturing and Fortune 50 enterprise. Owns category strategy and supplier negotiations across large direct and indirect portfolios, with a track record of cost reduction, team leadership, MRP-enabled planning, and partnering across Ops, QA, and Finance in regulated food environments.
 
 ## Work Experience
 
@@ -30,11 +28,11 @@ Apr 2024 – Feb 2026
 **Senior Global Supply Manager**
 Mar 2021 – Jan 2024
 
-- Managed strategic supplier partnerships and negotiations across raw material, packaging, and agricultural input categories
+- Managed strategic supplier partnerships and negotiations across raw material, packaging, and agricultural input categories for a high-growth food / CPG manufacturing environment
 - Delivered 30% reduction in Bill of Material costs within six months through value engineering, supplier negotiations, and cost-saving initiatives
+- Led change management with engineering and operations through manufacturing scale-up, aligning teams on new processes, equipment, and ways of working
 - Orchestrated migration from manual inventory management to NetSuite ERP with dynamic material requirements planning
 - Collaborated with Global Supplier Quality teams on supplier evaluation processes for FDA and SQF compliance
-- Led complete redesign of postharvest and packaging line with hardware optimization strategies
 - Directed New Product Introduction (NPI) initiatives, integrating procurement into product development
 
 **Global Supply Manager**
