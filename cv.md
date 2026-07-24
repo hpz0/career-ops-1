@@ -29,6 +29,7 @@ Apr 2024 – Feb 2026
 Mar 2021 – Jan 2024
 
 - Managed strategic supplier partnerships and negotiations across raw material, packaging, and agricultural input categories for a high-growth food / CPG manufacturing environment
+- Worked with contract manufacturers and supported national retail product launches with major grocers
 - Delivered 30% reduction in Bill of Material costs within six months through value engineering, supplier negotiations, and cost-saving initiatives
 - Led change management with engineering and operations through manufacturing scale-up, aligning teams on new processes, equipment, and ways of working
 - Orchestrated migration from manual inventory management to NetSuite ERP with dynamic material requirements planning
