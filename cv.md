@@ -7,9 +7,7 @@
 
 ## Professional Summary
 
-Procurement and category leader with 9+ years of **technology and indirect sourcing** on the buyer side — managing vendor portfolios, negotiating contracts, and running procure-to-pay at Plenty (agtech/manufacturing) and Comcast (Fortune 50 enterprise). Owns strategic sourcing across Technology/IT, Wireless Infrastructure, Fixed Network, and broader indirect categories (facilities, travel, marketing, contract labor). Builds supplier partnerships and scalable sourcing programs that improve total cost of ownership, contract compliance, and supply continuity.
-
-**Positioning for account management roles:** Former procurement decision-maker who understands RFP cycles, contract negotiation, stakeholder alignment, and what kills vendor deals — now moving to the sell side with insider buyer empathy.
+Strategic sourcing and procurement leader with more than nine years building category strategy, supplier partnerships, and procurement operations in high-growth food/CPG and enterprise environments. Led change management and team development while owning multimillion-dollar direct and indirect spend, delivering cost takeout, MRP-enabled planning, and scalable sourcing processes.
 
 ## Work Experience
 
@@ -30,8 +28,9 @@ Apr 2024 – Feb 2026
 **Senior Global Supply Manager**
 Mar 2021 – Jan 2024
 
-- Managed strategic supplier partnerships and negotiations across raw material, packaging, and agricultural input categories
+- Managed strategic supplier partnerships and negotiations across raw material, packaging, and agricultural input categories for a high-growth food / CPG manufacturing environment
 - Delivered 30% reduction in Bill of Material costs within six months through value engineering, supplier negotiations, and cost-saving initiatives
+- Led change management for major procurement and supply-chain transformations, aligning stakeholders on new processes, systems, and ways of working
 - Orchestrated migration from manual inventory management to NetSuite ERP with dynamic material requirements planning
 - Collaborated with Global Supplier Quality teams on supplier evaluation processes for FDA and SQF compliance
 - Led complete redesign of postharvest and packaging line with hardware optimization strategies
@@ -40,7 +39,7 @@ Mar 2021 – Jan 2024
 **Global Supply Manager**
 Jan 2018 – Mar 2021
 
-- Led major company-wide system implementations: Coupa (P2P), Ironclad and DocuSign SpringCM (CLM), TripActions (travel)
+- Led major company-wide system implementations and change management: Coupa (P2P), Ironclad and DocuSign SpringCM (CLM), TripActions (travel)
 - Oversaw multimillion-dollar **indirect procurement** budget including **IT/technology**, facilities, travel, marketing, contract labor, and office supplies — category planning, sourcing, and supplier performance
 - Managed team of 3 buyers; published and enforced Procurement Policy
 - Achieved 99% of spend on contract; reduced purchase requisition cycle time from 3 days to 1.5 days
