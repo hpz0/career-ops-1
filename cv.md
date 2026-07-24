@@ -7,7 +7,7 @@
 
 ## Professional Summary
 
-Strategic sourcing and procurement leader with more than nine years building category strategy, supplier partnerships, and procurement operations in high-growth food/CPG and enterprise environments. Led change management and team development while owning multimillion-dollar direct and indirect spend, delivering cost takeout, MRP-enabled planning, and scalable sourcing processes.
+Strategic sourcing and procurement leader with more than nine years building category strategy, supplier partnerships, and procurement operations in high-growth food/CPG and enterprise environments. Owns multimillion-dollar direct and indirect spend with a track record of cost takeout, MRP-enabled planning, team development, and cross-functional delivery with engineering and operations.
 
 ## Work Experience
 
@@ -30,16 +30,15 @@ Mar 2021 – Jan 2024
 
 - Managed strategic supplier partnerships and negotiations across raw material, packaging, and agricultural input categories for a high-growth food / CPG manufacturing environment
 - Delivered 30% reduction in Bill of Material costs within six months through value engineering, supplier negotiations, and cost-saving initiatives
-- Led change management for major procurement and supply-chain transformations, aligning stakeholders on new processes, systems, and ways of working
+- Led postharvest and packaging line redesign with engineering and operations, driving operational change management through new hardware, processes, and ways of working
 - Orchestrated migration from manual inventory management to NetSuite ERP with dynamic material requirements planning
 - Collaborated with Global Supplier Quality teams on supplier evaluation processes for FDA and SQF compliance
-- Led complete redesign of postharvest and packaging line with hardware optimization strategies
 - Directed New Product Introduction (NPI) initiatives, integrating procurement into product development
 
 **Global Supply Manager**
 Jan 2018 – Mar 2021
 
-- Led major company-wide system implementations and change management: Coupa (P2P), Ironclad and DocuSign SpringCM (CLM), TripActions (travel)
+- Led major company-wide system implementations: Coupa (P2P), Ironclad and DocuSign SpringCM (CLM), TripActions (travel)
 - Oversaw multimillion-dollar **indirect procurement** budget including **IT/technology**, facilities, travel, marketing, contract labor, and office supplies — category planning, sourcing, and supplier performance
 - Managed team of 3 buyers; published and enforced Procurement Policy
 - Achieved 99% of spend on contract; reduced purchase requisition cycle time from 3 days to 1.5 days

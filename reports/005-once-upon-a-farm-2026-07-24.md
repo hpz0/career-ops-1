@@ -28,7 +28,7 @@ soft_gaps:
   - "Up to ~20% travel - within profile tolerance but not zero-travel"
 top_strengths:
   - "Plenty high-growth food/CPG sourcing: materials, packaging, ag inputs, NPI, 30% BOM takeout, team of 3"
-  - "Change management + procurement build (Coupa, NetSuite MRP, policy) matches JD transformation language"
+  - "Change management with engineering/operations (line redesign / scale) plus Coupa/NetSuite procurement build matches growth-org language without overclaiming P2P change ownership"
   - "Remote US + $175-200k base aligns with Director+ hunt and comp targets"
 risk_level: "Low"
 confidence: "High"
@@ -57,7 +57,7 @@ advertised_comp: "$175,000.00 to $200,000.00"
 |----------------|-------|
 | 10+ years strategic sourcing in food/CPG | Strong adjacent — 9+ years; Plenty food/CPG manufacturing is the wedge |
 | Lead/develop procurement teams | Strong — managed 3 buyers; Comcast Sr Manager |
-| Change management / transform procurement | Strong — user-affirmed + Coupa/NetSuite/policy rollouts at Plenty |
+| Change management / transform procurement | Solid — engineering/operations change management on packaging line redesign; separately built Coupa/NetSuite/policy (not framed as P2P change management) |
 | MRP / demand-supply alignment | Strong — NetSuite dynamic MRP |
 | Cost savings / TCO | Strong — 30% BOM; 99% on contract |
 | Food safety / regulatory | Solid — FDA/SQF supplier quality |
