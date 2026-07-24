@@ -2,6 +2,7 @@
 
 | # | Date | Company | Via | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|-----|------|-------|--------|-----|--------|-------|
+| 7 | 2026-07-24 | The Nuclear Company | — | Sr. Category Manager (Indirect/Corporate) | 4.4/5 | Evaluated | ✅ | [007](../reports/007-nuclear-company-2026-07-24.md) | Track A — Plenty indirect exact match; confirm DC/SC location vs remote before apply; $151-176k |
 | 6 | 2026-07-24 | Levels | — | Senior Procurement Manager-Ingredients, Packaging & Strategic Sourcing | 4.3/5 | Evaluated | ✅ | [006](../reports/006-levels-2026-07-24.md) | Track A — co-man + national retail/major grocers confirmed; still confirm Ashburn vs remote |
 | 5 | 2026-07-24 | Once Upon a Farm | — | Director of Strategic Sourcing and Procurement | 4.5/5 | Evaluated | ✅ | [005](../reports/005-once-upon-a-farm-2026-07-24.md) | Track A North Star — remote Director food/CPG; Plenty change mgmt + sourcing; $175-200k |
 | 4 | 2026-07-23 | lululemon | — | Senior Category Manager, Technology - Indirect Procurement | 4.1/5 | Evaluated | ✅ | [004](../reports/004-lululemon-2026-07-23.md) | Track A — 1-page Hyper-format CV; Comcast Wireless/Fixed Network + Plenty indirect IT; culture still not Director+ |
