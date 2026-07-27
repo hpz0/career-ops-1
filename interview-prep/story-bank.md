@@ -6,7 +6,7 @@ Accumulated stories for interviews. Only facts backed by `cv.md` / user statemen
 
 ## S1 — Coupa P2P Implementation (Plenty)
 
-**Use for:** Coupa depth, P2P ownership, transformation, first-100-days credibility  
+**Use for:** Coupa depth, P2P ownership, transformation, first-100-days credibility, **standing up procurement from scratch** (Pengate VP Finance)  
 **Audience:** recruiter-screen · hiring-manager · peer-tech
 
 - **Situation:** Plenty needed company-wide procure-to-pay discipline; manual / fragmented process.
@@ -14,6 +14,7 @@ Accumulated stories for interviews. Only facts backed by `cv.md` / user statemen
 - **Action:** Led Coupa rollout; published and enforced Procurement Policy; managed 3 buyers; partnered with Finance, Legal, IT.
 - **Result:** 99% of spend on contract; purchase requisition cycle time cut from 3 days to 1.5 days.
 - **Reflection:** Platform only works when policy, approvals, and buyer behavior move with it — ownership of process + system beats “install and hope.”
+- **Finance framing (Pengate):** Lead with on-contract %, cycle time, and Finance/Legal partnership — not “I installed Coupa.”
 
 **Proof source:** cv.md — Global Supply Manager, Plenty (Jan 2018 – Mar 2021)
 
