@@ -164,6 +164,11 @@ cover_letter:
 
 # ── Active interviews (operational — not CV claims) ───────────────────────
 active_interviews:
+  - company: "Pengate Handling Systems"
+    role: "Procurement Manager / Strategic Procurement Lead (Chalfont)"
+    track: "A"
+    status: "Interviewing"
+    notes: "Next round: VP of Finance. Mandate = stand up procurement org from scratch. Prep: interview-prep/pengate-cheatsheet.md + pengate-procurement-manager.md. Plenty builder stories are primary."
   - company: "Ramp"
     role: "Account Executive (remote)"
     track: "B"

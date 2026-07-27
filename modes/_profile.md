@@ -81,7 +81,8 @@ When generating PDF/cover for AE/AM roles:
 
 | Company | Role | Track | Notes |
 |---------|------|-------|-------|
-| **Ramp** | Account Executive (remote) | B | Fintech/expense — sells to finance & procurement. Use `interview-prep/ramp.md`. Highest priority.
+| **Pengate Handling Systems** | Procurement Manager / Strategic Procurement Lead (Chalfont) | A | VP Finance round — stand up procurement from scratch. Use `interview-prep/pengate-cheatsheet.md` + `pengate-procurement-manager.md`. Lead with Plenty builder stories. |
+| **Ramp** | Account Executive (remote) | B | Fintech/expense — sells to finance & procurement. Use `interview-prep/ramp.md`. |
 
 ## Hunt Priorities (from Jul 2026 applications)
 
