@@ -1,86 +1,67 @@
 # CV — Harrison Pizzi
 
-**Location:** Richboro, PA
+**Location:** Richboro, PA 18954
 **Email:** harrisonpizzi@gmail.com
 **Phone:** 215-595-8175
 **LinkedIn:** linkedin.com/in/hpizzi
 
 ## Professional Summary
 
-Procurement and partnership leader with 9+ years on the **buyer side** of B2B relationships — managing vendor portfolios, negotiating contracts, and running procure-to-pay at Plenty (agtech startup) and Comcast (enterprise). Deep fluency in how purchasing decisions get made, which translates directly to account management and enterprise sales roles selling to procurement and supply chain teams. Also pursuing strategic procurement / supply chain builder roles at remote-first, mission-driven companies in health, food, and tech manufacturing.
+Strategic procurement leader with proven experience in high-growth manufacturing startups and Fortune 50 enterprises, directing multi-billion-dollar spend across direct materials, CapEx, and scaling operations. Excel at building sourcing strategies, fostering supplier partnerships, accelerating time-to-market, mitigating risks, and ensuring supply continuity through executive partnerships and data-driven decisions.
 
-**Positioning for account management roles:** Former procurement decision-maker who understands RFP cycles, contract negotiation, stakeholder alignment, and what kills vendor deals — now moving to the sell side with insider buyer empathy.
+## Core Competencies
+
+- Strategic Sourcing & Category Management
+- High-Value Contract Negotiation
+- ERP/P2P Systems (NetSuite, Coupa, Oracle)
+- Inventory & Demand Planning
+- Cost Reduction & Value Engineering
+- Supplier Risk Assessment & Mitigation
+- Procurement Policy & Compliance
+- Process Optimization
 
 ## Work Experience
 
-### Comcast — Philadelphia, PA
+### Comcast Corporation — Philadelphia, PA
 
 **Senior Manager, Enterprise Procurement**
 Feb 2026 – Present
 
+- Lead sourcing strategy for high-spend **Wireless Infrastructure** and **Fixed Network** categories across Comcast, NBC, and Sky, supporting a multi-billion-dollar portfolio and accelerating time-to-market for major initiatives
+- Drive complex, high-stakes contract negotiations to secure favorable terms, mitigate operational and commercial risk, and support network expansion and modernization
+- Deliver cost savings and efficiency improvements by aligning procurement strategy with enterprise network roadmaps and senior leadership priorities
+- Manage global vendor ecosystems to strengthen supplier innovation, performance, and long-term scalability
+
 **Manager, Enterprise Procurement**
 Apr 2024 – Feb 2026
 
-- Lead enterprise procurement operations for a Fortune 50 telecommunications company
-- Led strategic vendor negotiations and supplier relationship management across multimillion-dollar spend portfolios
+- Promoted to Senior Manager in recognition of strong leadership, strategic impact on multi-billion-dollar network categories, and consistent high-performance execution
+- Selected to lead Fixed Networks after excelling in the Wireless category, demonstrating adaptability, strategic thinking, and consistent execution under visibility
 
-### Plenty® — San Francisco, CA / South San Francisco, CA
+### Plenty Unlimited Inc. — South San Francisco, CA
 
 **Senior Global Supply Manager**
 Mar 2021 – Jan 2024
 
-- Managed strategic supplier partnerships and negotiations across raw material, packaging, and agricultural input categories
-- Delivered 30% reduction in Bill of Material costs within six months through value engineering, supplier negotiations, and cost-saving initiatives
-- Orchestrated migration from manual inventory management to NetSuite ERP with dynamic material requirements planning
-- Collaborated with Global Supplier Quality teams on supplier evaluation processes for FDA and SQF compliance
-- Led complete redesign of postharvest and packaging line with hardware optimization strategies
-- Directed New Product Introduction (NPI) initiatives, integrating procurement into product development
+- Owned end-to-end sourcing for **direct materials, equipment, and CapEx** in high-growth vertical farming/manufacturing, supporting continuous production and rapid scaling
+- Delivered **30% BOM cost reduction in 6 months** through strategic negotiations, value engineering, supplier optimization, and cross-functional S&OP demand planning
+- Implemented **NetSuite BOMs, material requirements planning, and inventory management** within existing ERP — replacing manual processes and improving spend visibility and throughput
+- Partnered with Supplier Quality on FDA/SQF compliance; embedded sourcing early in **NPI** cycles for faster product launches
 
 **Global Supply Manager**
 Jan 2018 – Mar 2021
 
-- Led major company-wide system implementations: Coupa (P2P), Ironclad and DocuSign SpringCM (CLM), TripActions (travel)
-- Oversaw multimillion-dollar indirect procurement budget (facilities, travel, IT, marketing, contract labor, office supplies)
-- Managed team of 3 buyers; published and enforced Procurement Policy
-- Achieved 99% of spend on contract; reduced purchase requisition cycle time from 3 days to 1.5 days
-- Increased supplier electronic invoice rate by 50%, reducing Accounts Payable labor
-- Collaborated with Finance, Legal, and IT to align procurement strategies with corporate goals
+- Led end-to-end implementation of enterprise procurement systems, including **Coupa (P2P)**, **Ironclad**, **DocuSign SpringCM**, and **TripActions**, modernizing procurement operations company-wide
+- Former **Coupa certified admin** (~5 years at Plenty); platform owner partnering with vendor on feature requests, onsite product sessions, and local user group; nominated for Coupa procurement award
+- Managed multimillion-dollar indirect procurement budget (IT, facilities, marketing, travel); improved purchasing efficiency and reduced cycle times by **50%** (3 days → 1.5 days); **99% spend on contract**
+- Supervised team of **3 buyers**; boosted supplier e-invoicing adoption by **50%**; co-authored corporate Procurement Policy with Finance/Legal/IT to embed governance and scalable workflows
 
-### Black Locust Lumber, U.S.A. — Pittstown, NJ
+### Earlier Experience
 
-**Project Manager**
-May 2016 – Feb 2017
-
-- Orchestrated documentation, planning, and outreach for sales and marketing initiatives; increased sales presentation appointment rates through targeted email campaigns and follow-up calls
-
-### Nuage Consulting Group, Inc.
-
-**Business Analyst**
-Jun 2015 – Aug 2015
-
-- Prepared legacy database input files for integration into NetSuite Cloud Business Software
-- Managed workload and prioritized tasks to meet critical path deadlines
-
-### Northeast Metal Traders, Inc. — Philadelphia, PA
-
-**Inventory Control**
-May 2014 – Aug 2014
-
-- Led quality control aspects of inventory software conversion at a multi-million-dollar metal recycling plant
+- **Project Manager** — Black Locust Lumber (2016–2017)
+- **Business Analyst** — Nuage Consulting Group (2015)
 
 ## Education
 
-- **Bachelor's Degree, Agribusiness Management** — Penn State University (2012–2016)
-- **International Business** — Temple University Rome
-
-## Certifications
-
-- Learning Java — LinkedIn Learning (Nov 2020)
-
-## Skills
-
-- **Procurement & Supply Chain:** Strategic sourcing, procure-to-pay, contract lifecycle management, supplier management, indirect procurement, material requirements planning, NPI
-- **Account Management & Partnerships:** Strategic vendor relationship management, contract negotiation, stakeholder alignment, buyer-process fluency, consultative partnership development, RFP/procurement cycle knowledge
-- **Systems:** NetSuite ERP, Coupa, Ironclad, DocuSign SpringCM, TripActions
-- **Operations:** Inventory management, quality management, regulatory compliance (FDA, SQF), cross-functional program leadership
-- **Tools:** Large-Scale Scrum (LeSS), project management, value engineering
+- **B.S., Agribusiness Management** — Pennsylvania State University, University Park, PA (Dec 2016)
+- **International Business** — Temple University Rome, Rome, Italy (Jan 2015)

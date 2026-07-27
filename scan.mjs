@@ -45,7 +45,8 @@ import { resolveColumns, parseTrackerRow } from './tracker-parse.mjs';
 
 try {
   const { config } = await import('dotenv');
-  config();
+  // quiet: stdout must stay clean when scan.mjs is imported by scan-ats-full --json
+  config({ quiet: true });
 } catch {
   // dotenv is optional — fall back to process.env if not installed
 }

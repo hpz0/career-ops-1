@@ -57,8 +57,8 @@ target_roles:
 
 narrative:
   # Your professional headline (1 line)
-  headline: "Procurement & partnership leader | 9+ years on the buyer side — now selling to the teams I used to be"
-  exit_story: "Spent 9+ years as the procurement buyer that account executives sell to — at Plenty (startup/hardware manufacturing) and Comcast (enterprise). Actively interviewing for remote AE at Ramp (fintech selling to finance/procurement). Also hunting Director+ procurement and global sourcing roles — especially data centers, hardware, and infrastructure — plus B2B SaaS AE roles where buyer-side fluency is the wedge. Remote-first."
+  headline: "Procurement & P2P platform leader | 9+ years buyer-side — partnerships, TAM, or solutions at spend SaaS"
+  exit_story: "Spent 9+ years as the procurement buyer that sales teams sell to — at Plenty (startup) and Comcast (enterprise). Active Ramp process (Jul 2026): Gabriel fit chat — open to Partnerships, TAM, or Solutions Architect on procurement/P2P. Also hunting Director+ procurement and global sourcing — especially data centers, hardware, and infrastructure. Remote-first where possible."
   target_industries:
     - "health"
     - "food"
@@ -85,7 +85,7 @@ narrative:
     - "SDR / BDR / entry-level inside sales (quota-only, no strategic account scope)"
     - "On-site only roles in Greater Philadelphia suburbs (e.g. Chalfont PA) — remote-first"
   superpowers:
-    - "Buyer-side fluency — knows procurement, P2P, and CLM from the customer seat (ideal for Ramp-style AE)"
+    - "Coupa certified admin — implementation, catalogs, punchout, supplier programs, adoption"
     - "Source-to-pay and spend systems — Coupa, NetSuite, Ironclad, DocuSign CLM implementations"
     - "Strategic sourcing and value engineering (30% BOM cost reduction in 6 months)"
     - "Hardware / manufacturing procurement — BOM, NPI, multi-site supply, regulated suppliers"
@@ -164,11 +164,18 @@ cover_letter:
 
 # ── Active interviews (operational — not CV claims) ───────────────────────
 active_interviews:
+  - company: "Pengate Handling Systems"
+    role: "Procurement Manager (greenfield — hire #1)"
+    track: "A"
+    status: "Interviewing"
+    contact: "Taylor Cubbler (TA); VP Finance (HM, next)"
+    notes: "Jul 23 recruiter screen w/ Taylor. $140-160K + 10-20% bonus; fully onsite Chalfont. First procurement hire; dept self-buy today; VP Finance mandate. Next: virtual w/ VP Finance, then onsite EVP Admin + dept leaders. Thank-you sent."
   - company: "Ramp"
-    role: "Account Executive (remote)"
+    role: "SA/SE · TAM · Partnerships — open; Gabriel reviewing"
     track: "B"
     status: "Interviewing"
-    notes: "Remote AE — fintech/expense selling to finance & procurement. Strong buyer-side fit. Prioritize interview prep over cold-applying to similar roles at lower fit."
+    contact: "Max (SVP Sales); Gabriel Ragoff (Founding SA); Katrina Gin"
+    notes: "Jul 8 Max chat — SE/SA path. Jul 10 Gabriel fit chat — good; open to SA/SE, TAM, Partnerships. Gabriel reviewing internally; follow-up ~late next week."
 
 # ── Recent application signals (Jul 2026 — informs targeting, not tracker) ─
 recent_apply_patterns:

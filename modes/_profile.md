@@ -56,7 +56,7 @@ When generating PDF/cover for AE/AM roles:
 **Frame:** The buyer who understands what it's like on the other side of the table.
 
 - **Track A (procurement):** Plenty builder → leaving Comcast bureaucracy → remote-first startup
-- **Track B (AE/AM):** Active **Ramp** interview (remote AE, fintech → finance/procurement buyers). This is the proof the pivot is real — prioritize Ramp prep and similar fintech/spend SaaS AE roles over generic biotech AE (e.g. Benchling science buyers).
+- **Track B (AE/AM/SE):** Active **Ramp** process — open to SA/SE, TAM, Partnerships; Gabriel reviewing ~late next week. See `interview-prep/ramp-gabriel.md`.
 - **In interviews (AE):** Use Plenty supplier negotiation stories as "how I'd handle a skeptical procurement stakeholder today — because I was one"
 
 ## Your Cross-cutting Advantage
@@ -81,7 +81,7 @@ When generating PDF/cover for AE/AM roles:
 
 | Company | Role | Track | Notes |
 |---------|------|-------|-------|
-| **Ramp** | Account Executive (remote) | B | Fintech/expense — sells to finance & procurement. Use `interview-prep/ramp.md`. Highest priority.
+| **Ramp** | SA/SE · TAM · Partnerships — open | B | Gabriel Jul 10: reviewing internally ~late next week. `interview-prep/ramp-gabriel.md`. Highest priority.
 
 ## Hunt Priorities (from Jul 2026 applications)
 
