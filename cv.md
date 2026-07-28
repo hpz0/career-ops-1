@@ -32,6 +32,7 @@ Mar 2021 – Jan 2024
 
 - Managed strategic supplier partnerships and negotiations across raw material, packaging, and agricultural input categories
 - Delivered 30% reduction in Bill of Material costs within six months through value engineering, supplier negotiations, and cost-saving initiatives
+- Sourced supplies, materials, and equipment for Plant Science / R&D teams; purchased third-party lab testing services supporting product development and quality programs
 - Orchestrated migration from manual inventory management to NetSuite ERP with dynamic material requirements planning
 - Collaborated with Global Supplier Quality teams on supplier evaluation processes for FDA and SQF compliance
 - Led complete redesign of postharvest and packaging line with hardware optimization strategies
@@ -41,6 +42,7 @@ Mar 2021 – Jan 2024
 Jan 2018 – Mar 2021
 
 - Led major company-wide system implementations: Coupa (P2P), Ironclad and DocuSign SpringCM (CLM), TripActions (travel)
+- Used Power BI and ERP spend analytics to inform category decisions and cost-driver analysis
 - Oversaw multimillion-dollar **indirect procurement** budget including **IT/technology**, facilities, travel, marketing, contract labor, and office supplies — category planning, sourcing, and supplier performance
 - Managed team of 3 buyers; published and enforced Procurement Policy
 - Achieved 99% of spend on contract; reduced purchase requisition cycle time from 3 days to 1.5 days
@@ -83,6 +85,6 @@ May 2014 – Aug 2014
 - **Technology & Indirect Sourcing:** Technology/IT category sourcing, Wireless Infrastructure, Fixed Network, indirect procurement (IT, facilities, travel, marketing, contract labor), category strategy, TCO
 - **Procurement & Supply Chain:** Strategic sourcing, procure-to-pay, contract lifecycle management, supplier management, material requirements planning, NPI, value engineering
 - **Account Management & Partnerships:** Strategic vendor relationship management, contract negotiation, stakeholder alignment, buyer-process fluency, consultative partnership development, RFP/procurement cycle knowledge
-- **Systems:** NetSuite ERP, Coupa, Ironclad, DocuSign SpringCM, TripActions
-- **Operations:** Inventory management, quality management, regulatory compliance (FDA, SQF), cross-functional program leadership
-- **Tools:** Large-Scale Scrum (LeSS), project management
+- **Systems:** NetSuite ERP, Coupa, Ironclad, DocuSign SpringCM, TripActions, Power BI, MS Office (Excel, Word, PowerPoint)
+- **Operations:** Inventory management, quality management, regulatory compliance (FDA, SQF), Plant Science / R&D supply & equipment sourcing, third-party lab testing services procurement, cross-functional program leadership
+- **Analytics & Tools:** Spend analytics, Power BI dashboards, Large-Scale Scrum (LeSS), project management

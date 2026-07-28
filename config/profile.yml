@@ -101,6 +101,8 @@ narrative:
       hero_metric: "99% of spend on contract; requisition cycle time cut from 3 days to 1.5 days"
     - name: "Electronic Invoice Adoption"
       hero_metric: "Increased supplier electronic invoice rate by 50%, reducing AP labor"
+    - name: "R&D / lab services sourcing"
+      hero_metric: "Plant Science & R&D supplies, equipment, and third-party lab testing services"
 
 compensation:
   target_range: "$150K-200K"     # Procurement track: total comp
