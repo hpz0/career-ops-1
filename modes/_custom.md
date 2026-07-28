@@ -20,6 +20,14 @@
 - Flag agency postings (Boden Talent, Spencer Rigby, Zazu, etc.) — note end employer if known.
 - If score >= 4.0 on Track B fintech/spend AE, note account-management CV variant.
 
+## Resume / CV Formatting (persistent)
+
+- **One page every time** — letter format for US roles; tighten spacing, drop weak early roles / non-relevant certs / empty Projects section when needed to fit.
+- **Short professional summary** — 2–3 lines max (not 4+).
+- **Always include a Skills section** — JD-keyworded, truthful reformulation only.
+- Prefer Core Competencies + Skills + Experience + Education; omit Projects/Certifications unless they strengthen the specific JD.
+- Ask clarifying questions when JD skills are adjacent but not explicit in `cv.md` (e.g. Power BI, spend analytics, domain-specific categories).
+
 ## Off-Limits
 
 - Never claim quota-carrying sales experience, President's Club, or revenue closed unless explicitly added to cv.md by the user.
