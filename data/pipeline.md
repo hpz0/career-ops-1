@@ -13,7 +13,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/ramp/f7c4de3c-1d64-42e9-8111-f38e265327d8 | Ramp | Account Executive / Mid-Market | Remote (US)
 - [ ] https://jobs.ashbyhq.com/ramp/b4cbb19e-8249-4339-8eac-20e3806d7999 | Ramp | Enterprise Account Executive, Juno | Remote (US)
 - [ ] https://jobs.ashbyhq.com/ramp/f0e3a8bb-5f86-4ce1-b345-80d8912f9ddc | Ramp | Procurement Product Activation Manager | Remote (US)
-- [ ] https://jobs.ashbyhq.com/ramp/d238a056-3a1f-4dcc-99de-fadc95b9f31c | Ramp | Manager, Procurement Product Activation | Remote (US)
+- [x] https://jobs.ashbyhq.com/ramp/d238a056-3a1f-4dcc-99de-fadc95b9f31c | Ramp | Senior Manager, Procurement Product Activation | Remote (US) — Interview; prep ready 2026-07-29
 - [ ] https://jobs.ashbyhq.com/ramp/d84bbf19-572a-499c-9c87-0c154ce85caf | Ramp | Account Manager / Mid-Market | Remote (US)
 
 ## Processed

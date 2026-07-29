@@ -58,7 +58,7 @@ target_roles:
 narrative:
   # Your professional headline (1 line)
   headline: "Procurement & partnership leader | 9+ years on the buyer side — now selling to the teams I used to be"
-  exit_story: "Spent 9+ years as the procurement buyer that account executives sell to — at Plenty (startup/hardware manufacturing) and Comcast (enterprise). Actively interviewing for remote AE at Ramp (fintech selling to finance/procurement). Also hunting Director+ procurement and global sourcing roles — especially data centers, hardware, and infrastructure — plus B2B SaaS AE roles where buyer-side fluency is the wedge. Remote-first."
+  exit_story: "Spent 9+ years as the procurement buyer that account executives sell to — at Plenty (startup/hardware manufacturing) and Comcast (enterprise). Active recruiter process for Ramp Senior Manager, Procurement Product Activation (founding CS playbook seat — buyer-side Coupa/P2P fit). Also hunting Director+ procurement and global sourcing roles — especially data centers, hardware, and infrastructure — plus B2B SaaS AE roles where buyer-side fluency is the wedge. Remote-first."
   target_industries:
     - "health"
     - "food"
@@ -172,10 +172,15 @@ active_interviews:
     status: "Interviewing"
     notes: "Next round: VP of Finance. Mandate = stand up procurement org from scratch. Prep: interview-prep/pengate-cheatsheet.md + pengate-procurement-manager.md. Plenty builder stories are primary."
   - company: "Ramp"
+    role: "Senior Manager, Procurement Product Activation (remote/hybrid TBD)"
+    track: "A-adjacent"
+    status: "Interviewing — recruiter screen"
+    notes: "Official recruiter outreach 2026-07-29. CS activation leadership (founding playbook), NOT AE. Ashby d238a056. Comp Nationwide OTE $166–227K 70/30. MUST confirm fully remote + base ≥$140K. Prep: interview-prep/ramp-senior-manager-procurement-product-activation.md + ramp-procurement-activation-cheatsheet.md. Prior Max AE chat is exploratory context only."
+  - company: "Ramp"
     role: "Account Executive (remote)"
     track: "B"
-    status: "Interviewing"
-    notes: "Remote AE — fintech/expense selling to finance & procurement. Strong buyer-side fit. Prioritize interview prep over cold-applying to similar roles at lower fit."
+    status: "Exploratory / deprioritized vs Activation seat"
+    notes: "Informal chat with Max (SVP Sales). Keep warm but prioritize Senior Manager Procurement Product Activation recruiter process."
 
 # ── Recent application signals (Jul 2026 — informs targeting, not tracker) ─
 recent_apply_patterns:
@@ -298,4 +303,4 @@ re_apply_windows:
   Ramp:
     same_role_days: 180
     last_apply_date: "2026-07-01"
-    notes: "Active interview process — do not re-apply; focus on prep"
+    notes: "Active Interview — Senior Manager Procurement Product Activation (recruiter). Do not re-apply; focus on prep. AE exploratory with Max is secondary."

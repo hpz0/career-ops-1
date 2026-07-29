@@ -84,5 +84,9 @@ Accumulated stories for interviews. Only facts backed by `cv.md` / user statemen
 
 - [ ] Conflict / influence with Finance or Controller-type stakeholder
 - [ ] Failed automation or adoption miss + recovery
-- [ ] Team performance management (3 buyers) — coaching / underperformance
+- [ ] **S6 — Team performance management (3 buyers) — coaching / underperformance** — **BLOCKING for Ramp Activation HM round** (JD: “real people development experience”)
 - [ ] Comcast enterprise portfolio negotiation (need metrics user can confirm)
+
+### Ramp Activation note (2026-07-29)
+
+Reframe S1 for **customer go-live** language (discovery → config → education → go-live) when answering async AI / “how would you onboard a client” prompts. You were the **buyer-side** implementer, not vendor CS — say that explicitly.
