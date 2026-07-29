@@ -7,7 +7,7 @@
 
 ## Professional Summary
 
-Procurement and category leader with 9+ years of **technology and indirect sourcing** on the buyer side — managing vendor portfolios, negotiating contracts, and running procure-to-pay at Plenty (agtech/manufacturing) and Comcast (Fortune 50 enterprise). Owns strategic sourcing across Technology/IT, Wireless Infrastructure, Fixed Network, and broader indirect categories (facilities, travel, marketing, contract labor). Builds supplier partnerships and scalable sourcing programs that improve total cost of ownership, contract compliance, and supply continuity.
+Procurement and category leader with 9+ years directing strategic sourcing across technology infrastructure and regulated supply chains — at Plenty (agtech/manufacturing) and Comcast (Fortune 50 enterprise). Builds supplier partnerships and category programs that improve total cost of ownership, contract coverage, and supply continuity. Owns strategic sourcing across Technology/IT, Wireless Infrastructure, Fixed Network, and broader indirect categories (facilities, travel, marketing, contract labor).
 
 **Positioning for account management roles:** Former procurement decision-maker who understands RFP cycles, contract negotiation, stakeholder alignment, and what kills vendor deals — now moving to the sell side with insider buyer empathy.
 
@@ -25,7 +25,7 @@ Apr 2024 – Feb 2026
 - Drive executive-level contract negotiations and manage global vendor ecosystems for performance, commercial risk mitigation, and long-term scalability
 - Promoted to Senior Manager for strategic impact; selected to lead Fixed Networks after excelling in Wireless
 
-### Plenty® — San Francisco, CA / South San Francisco, CA
+### Plenty — San Francisco, CA / South San Francisco, CA
 
 **Senior Global Supply Manager**
 Mar 2021 – Jan 2024

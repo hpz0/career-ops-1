@@ -23,8 +23,10 @@
 ## Resume / CV Formatting (persistent)
 
 - **One page every time** — letter format for US roles; tighten spacing, drop weak early roles / non-relevant certs / empty Projects section when needed to fit.
-- **Short professional summary** — 2–3 lines max (not 4+).
+- **Short professional summary** — 2–3 lines max (not 4+). Write as a **procurement / supply chain leader** (ownership, category programs, supplier partnerships, TCO/continuity) — not a tactical keyword laundry list.
 - **Always include a Skills section** — JD-keyworded, truthful reformulation only.
+- **Nest multi-title tenures** under one company block (Comcast-style dual titles + one date span), not separate company repeats.
+- **No trademark/register marks** on company names in the CV (e.g. Plenty, not Plenty®).
 - Prefer Core Competencies + Skills + Experience + Education; omit Projects/Certifications unless they strengthen the specific JD.
 - Ask clarifying questions when JD skills are adjacent but not explicit in `cv.md` (e.g. Power BI, spend analytics, domain-specific categories).
 
