@@ -73,8 +73,8 @@ May 2014 – Aug 2014
 
 ## Education
 
-- **Bachelor's Degree, Agribusiness Management** — Penn State University (2012–2016)
-- **Minor in International Business** — Temple University Rome
+- **Bachelor's Degree, Agribusiness Management; Minor in International Business** — Penn State University (2012–2016)
+- **Study abroad** — Temple University Rome (International Business coursework)
 
 ## Certifications
 
