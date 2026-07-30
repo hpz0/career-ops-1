@@ -215,10 +215,10 @@ No named panelists yet. When schedule arrives, build Panel Intel table. Hand-off
 
 ### To the recruiter / HR screen
 
-- **Volunteer:** procurement depth, remote PA, notice, why *this* role over AE, Max context in one sentence  
-- **Do NOT volunteer:** hard lowball base; Pengate strategy detail; Comcast complaints; “looking at everything”  
-- **Vocabulary:** intake-to-pay, activation, go-live, mid-market, playbook, procurement authority, slope over intercept (JD language)  
-- **Red flags they screen for:** relocation refusal surprise, comp mismatch, confused AE vs activation
+- **Volunteer:** procurement depth, remote PA, notice, why this activation seat  
+- **Do NOT volunteer:** hard lowball base; detailed other-process strategy; Comcast complaints  
+- **Vocabulary:** intake-to-pay, activation, go-live, mid-market, playbook, procurement authority  
+- **Red flags they screen for:** relocation refusal surprise, comp mismatch, weak role understanding
 
 ### To the hiring manager
 
