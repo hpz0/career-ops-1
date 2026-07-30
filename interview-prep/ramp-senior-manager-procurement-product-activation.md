@@ -6,45 +6,47 @@
 **Researched:** 2026-07-29  
 **Sources:** Ashby posting API (JD + comp tiers), Built In SF mirror, Glassdoor interview snippets (Activation Specialist Mar 27 2026; Implementation Manager Mar 20 2026), Ramp careers/benefits, Ramp PR Newswire Apr 29 2026 (procurement AI agents), jobsbyculture.com Ramp culture/interview guides 2026, Blind remote-work thread Jul 2026  
 **Audiences covered:** recruiter-screen, hiring-manager, peer-tech, panel-mixed  
-**Prior context:** Informal chat with Max (SVP Sales) for AE track — see `interview-prep/ramp.md`. This recruiter outreach is a **different role** (CS / activation leadership, not quota AE).
+**Prior context:** Separate AE exploratory file exists at `interview-prep/ramp.md` — ignore for this recruiter call unless *they* bring it up.
 
 ---
 
-## Recruiter Call — 1-Page Cheat Sheet (print this)
+## Recruiter Call — use the print sheet
 
-### 60–90s walk-through
+**Print:** `interview-prep/ramp-procurement-activation-cheatsheet.md` (scripted intro, experience→role map, remote/comp scripts, questions).
 
-> I’m Harrison Pizzi — 9+ years on the **buyer side** of procurement, at Plenty (startup, built the function) and Comcast (enterprise infrastructure categories). At Plenty I led **Coupa P2P**, **Ironclad/DocuSign CLM**, and **NetSuite**, published procurement policy, managed three buyers, and got **99% of spend on contract** while cutting requisition cycle time **3 → 1.5 days**. Controllers and VPs of Finance already trust that language.  
-> This Senior Manager, Procurement Product Activation seat is the rare role where that depth is the product: hire and coach activation specialists, write the playbook from scratch, and become the procurement authority for mid-market go-lives. I already spoke informally with Max on the AE side — this activation seat is the stronger fit for how I actually create value.
+### Scripted intro (same as cheatsheet)
 
-### Logistics (deal-breaker gates — ask early)
+> I’m Harrison Pizzi. I’ve spent a little over nine years in procurement — first building the function at Plenty, an agtech manufacturer, and now leading enterprise technology and infrastructure categories at Comcast.
+>
+> At Plenty I wasn’t just a buyer. I stood up how the company purchased. I managed a team of three buyers, published our procurement policy, and led the major systems implementations — Coupa for procure-to-pay, Ironclad and DocuSign for contracts, and NetSuite on the ERP side. We got ninety-nine percent of spend on contract and cut requisition cycle time from three days to a day and a half. I also coached people on that team from ticket-takers into category owners — for example, developing a junior buyer to own our IT and technology spend end to end.
+>
+> Controllers and finance leaders already trust that language: approvals, ERP, vendor management, change management. That’s why this role fits. You’re hiring someone to lead Procurement Activation Specialists for mid-market customers, build the playbook from discovery through go-live, and be the procurement authority inside Ramp. I’ve lived that motion from the customer seat — and I’ve built the operating system and the people around it. I’m excited to do that at scale here.
+
+### Logistics (ask early)
 
 | Topic | Your answer | Ask them |
 |-------|-------------|----------|
-| **Location** | Richboro, PA · EST · **remote US only** · not relocating to SF/NYC | Posting lists Remote (US) + Hybrid. Is this seat **fully remote nationwide**, or hub hybrid with travel? |
+| **Location** | Richboro, PA · EST · remote US · not relocating | Confirm **fully remote nationwide** + any travel (kickoffs/onsites) |
 | **Visa** | No sponsorship needed | — |
-| **Notice** | ~30 days (confirm before you quote) | Timeline to start? |
-| **Comp** | Targeting **$150–180K+** total / OTE in band; walk-away **$140K base** | Share the **Nationwide** band + what **70/30** means for base vs variable for this level |
-| **Other processes** | Honest: Pengate (procurement builder) + earlier Ramp AE exploratory with Max | How does this role relate to Max / Sales vs CS org? |
+| **Notice** | ~30 days | Start timeline? |
+| **Comp** | Walk-away **$140K base**; aligned to Nationwide OTE band | Nationwide **base** under 70/30? |
 
-**Comp math from Ashby (cite in conversation, don’t invent):**
+**Comp (Ashby):** Nationwide OTE **$166–227K** 70/30 + equity · SF/NY **$184–253K** 70/30 + equity. Low-end 70% of $166K ≈ $116K base — below walk-away; get base from them first.
 
-- **Nationwide:** OTE **$166K–$227K** · Offers equity · **70/30 split**  
-- **SF/NY:** OTE **$184K–$253K** · Offers equity · **70/30 split**  
-- Source: Ashby `compensationTiers` for this job ID (fetched 2026-07-29)
+### Experience → role map
 
-If 70/30 is base/variable on OTE, Nationwide low end ≈ **$116K base** — below your $140K walk-away. **Defer hard numbers until they confirm base**, then anchor: *“I’m calibrating to the posted Nationwide OTE band; I need base at or above $140K given the split.”*
-
-### Why Ramp (2–3 sentences, product-specific)
-
-Ramp is pushing **intake-to-pay** with AI agents for intake, sourcing, due diligence, and renewals (Apr 29 2026 PR). Mid-market customers still fail implementations when policy, approvals, ERP, and change management don’t move with the tool — that’s the Coupa lesson I lived. This role is writing the playbook so specialists scale that without heroics.
+| Role need | Your proof |
+|-----------|------------|
+| Procurement depth | Coupa; 99% on contract; cycle 3→1.5d |
+| ERP / integrations | NetSuite; Coupa; Ironclad/DocuSign |
+| Playbook others use | Procurement Policy + operating model |
+| Coach / develop ICs | S6 — junior buyer → IT category owner |
+| Cross-functional | Finance / Legal / IT on implementations |
+| Gap if asked | No vendor-side CS title — buyer-side discovery→go-live |
 
 ### Do NOT
 
-- Lead with AE / quota pivot (wrong seat)  
-- Claim SaaS CS tenure you don’t have — reframe as **buyer-side implementer of Coupa/CLM/ERP**  
-- Invent coaching stories — draft S6 below if they ask people-dev depth  
-- Badmouth Comcast or trash the AE path with Max  
+- Invent SaaS CS tenure · Invent quota · Relocate · Lowball base first · Badmouth Comcast · Drag in unrelated role comparisons unless they ask
 
 ---
 
@@ -84,9 +86,9 @@ Ramp is pushing **intake-to-pay** with AI agents for intake, sourcing, due dilig
 
 - **Duration:** ~25–30 min (company pattern from jobsbyculture / techinterview guides)  
 - **Conducted by:** Recruiter / TA  
-- **What they evaluate:** fit gate — motivation, remote/hybrid, comp, timeline, role understanding (activation ≠ AE), notice period  
+- **What they evaluate:** fit gate — experience match to activation leadership, remote/hybrid, comp, timeline, notice  
 - **Reported questions:** company guides emphasize background, why Ramp, product awareness, location/comp/timeline — [jobsbyculture.com/blog/ramp-interview-prep-2026]  
-- **How to prepare:** Cheat sheet above; confirm Remote (US) vs Hybrid; ask process map and hiring manager title
+- **How to prepare:** Print cheatsheet; practice scripted intro aloud once; confirm remote + base; ask process + HM title
 
 ### Round 2: Hiring manager — audience: `hiring-manager` [inferred]
 
@@ -94,7 +96,7 @@ Ramp is pushing **intake-to-pay** with AI agents for intake, sourcing, due dilig
 - **Conducted by:** likely CS / activation leadership (JD: Customer Success Management team under Sales dept in Ashby)  
 - **What they evaluate:** procurement depth with Controllers; people development; playbook-building; cross-functional influence without authority  
 - **Reported questions:** none sourced for this exact title — use JD-inferred pack below  
-- **How to prepare:** S1 Coupa + policy; draft people-dev story; 90-day plan; sharp product questions
+- **How to prepare:** S1 Coupa + policy; **S6 coaching**; 90-day plan; sharp product questions
 
 ### Round 3+: Peer / panel — audience: `peer-tech` / `panel-mixed` [inferred]
 
@@ -108,10 +110,7 @@ Ramp is pushing **intake-to-pay** with AI agents for intake, sourcing, due dilig
 ### Audience: `recruiter-screen`
 
 **Walk me through your CV / why looking?**  
-- **Headline:** Buyer-side procurement leader now targeting the seat that scales how mid-market companies adopt Ramp Procurement.  
-- **Effect:** You’ve lived broken P2P and successful Coupa go-lives — activation quality is the difference.  
-- **Rationale:** AE exploratory with Max was useful; this role matches builder + systems + coaching DNA better than quota carrying.  
-- **Ops:** Plenty Coupa/CLM/NetSuite + 3 buyers + policy; Comcast enterprise categories; leaving bureaucracy for high-agency builder culture.
+Use the **scripted intro** on the cheatsheet (verbatim practice). Short “why leave Comcast” if needed: high-agency builder seat owning playbook + team craft vs bureaucracy.
 
 **Comp expectation**  
 - Anchor to posted Nationwide OTE **$166–227K** + equity; ask them to confirm **base under 70/30**.  
@@ -121,19 +120,18 @@ Ramp is pushing **intake-to-pay** with AI agents for intake, sourcing, due dilig
 **Why this company**  
 - Intake-to-pay + Apr 2026 AI agent fleet (intake, sourcing, diligence, renewals) — [PR Newswire 2026-04-29].  
 - Unified finance stack vs Coupa-class bolted workflows.  
-- Founding activation playbook = slope-over-intercept culture matching JD language.
+- Founding activation playbook = builder culture matching JD language.
 
 **Location / remote**  
 - Remote US from PA is non-negotiable per profile. Posting: `isRemote: true`, `workplaceType: Hybrid`, secondary **Remote (US)** + NYC HQ.  
-- Ask explicitly. Benefits list **relocation support to NYC or SF** — signal that hubs matter for some roles; don’t assume.
+- Ask: fully remote? travel for kickoffs/onsites? how remote managers coach call quality and stay tied to Sales/AM/Product?
 
-**Timeline / other processes**  
-- Notice ~30 days.  
-- Other processes: Pengate procurement builder interview; prior Ramp AE conversation with Max — transparent, no strategy dump.
+**Timeline**  
+- Notice ~30 days. Numbers, not vibes.
 
 **Background red flags (preempt)**  
-- *“You haven’t been in SaaS CS.”* → *“I’ve been the customer implementing Coupa, Ironclad, and NetSuite — discovery, configuration, education, go-live, and the policy layer that makes adoption stick. Nice-to-have on your JD literally includes working in Procurement.”*  
-- *“Limited formal people management.”* → Plenty: managed 3 buyers; Comcast: Senior Manager. Need a concrete coaching example (gap — draft S6).
+- *“You haven’t been in SaaS CS.”* → *“I’ve been the customer implementing Coupa, Ironclad, and NetSuite — discovery, configuration, education, go-live, and the policy layer that makes adoption stick. Nice-to-have on your JD includes working in Procurement.”*  
+- *“People development?”* → S6 (junior buyer → IT category owner: scoped book, weekly decision coaching, shadow → reverse-shadow).
 
 ### Audience: `hiring-manager`
 
@@ -151,7 +149,7 @@ Connect Plenty “stand up procurement + systems” → Ramp “founding activat
 |-------|-------|
 | Can they earn the room with a Controller? | Coupa + 99% on-contract + cycle time; Comcast exec negotiations |
 | Can they build a playbook? | Published Procurement Policy; systems program (Coupa/CLM/TripActions/NetSuite) |
-| People development? | Managed 3 buyers — **need STAR for coaching moment** |
+| People development? | **S6** — junior buyer → IT category owner |
 | Customer-facing SaaS? | Buyer-side implementation ownership; not vendor CS tenure — own the gap honestly |
 
 **Sharp questions to ask back**  
@@ -186,19 +184,14 @@ No named panelists yet. When schedule arrives, build Panel Intel table. Hand-off
 
 | # | Audience | Likely question/topic | Best story | Fit | Gap? |
 |---|----------|----------------------|------------|-----|------|
-| 1 | recruiter-screen | Walk-through / why Ramp | S1 Coupa + policy | strong | |
-| 2 | recruiter-screen | Onboarding a client (async AI) | S1 reframed as customer go-live stages | partial | Reframe as *customer* of implementation, not vendor CS |
+| 1 | recruiter-screen | Walk-through / why this role | Scripted intro + S1 | strong | |
+| 2 | recruiter-screen | Onboarding a client (async AI) | S1 as customer go-live stages | partial | Say buyer-side, not vendor CS |
 | 3 | hiring-manager | Built a playbook others use | S1 Procurement Policy | strong | |
 | 4 | hiring-manager | AP / invoice adjacent | S2 e-invoice +50% | strong | |
-| 5 | hiring-manager | Cross-functional without authority | S4 NetSuite migration | partial | Need Finance/Legal conflict story |
-| 6 | hiring-manager | People development | — | **none** | Draft S6 from Plenty 3-buyer coaching |
-| 7 | peer-tech | T&E / adjacent spend modules | S3 TripActions | partial | Only if Bill Pay/Travel bundling comes up |
-| 8 | peer-tech | Commercial rigor / savings | S5 BOM 30% | partial | Use sparingly — role is activation not sourcing savings |
-
-### Gap to draft (recommended before HM round)
-
-**S6 — Coaching a buyer to independence (Plenty)**  
-Need from you: one specific person, what they struggled with, what you changed in 1:1s/shadowing, what improved. Until then, only say: managed team of 3 buyers + published policy — don’t invent a transformation anecdote.
+| 5 | hiring-manager | Cross-functional without authority | S4 NetSuite migration | partial | Finance conflict story still thin |
+| 6 | hiring-manager | People development / coaching | **S6** junior buyer → IT owner | strong | Verify soft details |
+| 7 | peer-tech | T&E / adjacent modules | S3 TripActions | partial | Only if Bill Pay/Travel bundling |
+| 8 | peer-tech | Commercial rigor | S5 BOM 30% | partial | Sparingly — activation ≠ sourcing |
 
 ---
 
@@ -212,8 +205,9 @@ Need from you: one specific person, what they struggled with, what you changed i
 - [ ] Mid-market profile (100–999 emp, ~$50–100M rev) — why: JD segment  
 - [ ] Activation playbook outline (1 page) — why: founding role; HM will probe  
 - [ ] Comp 70/30 + Nationwide vs SF/NY bands memorized — why: recruiter screen  
-- [ ] Remote vs Hybrid clarification script — why: deal-breaker  
-- [ ] Relation to Max / AE process — why: avoid role confusion
+- [ ] Remote vs Hybrid clarification + travel ask — why: deal-breaker  
+- [ ] Practice scripted intro once out loud (~90s) — why: recruiter/async AI  
+- [ ] S6 coaching one-liner memorized — why: people-dev screen
 
 ---
 
@@ -247,7 +241,6 @@ Need from you: one specific person, what they struggled with, what you changed i
 
 ## Post-research actions
 
-1. Draft **S6** (people development) before HM — say the word and we’ll STAR+R it into `story-bank.md`  
-2. If you have interview date/time, say so — I’ll add a timed review reminder  
-3. Want deeper company strategy? Run `deep` mode next  
-4. Optional: 30-min `interview/practice` focused on recruiter screen + async AI prompts
+1. Skim S6 once — if any detail feels wrong, say so and we’ll edit  
+2. If you have interview date/time, say so for a timed review reminder  
+3. Optional: 30-min `interview/practice` on scripted intro + remote/comp Qs

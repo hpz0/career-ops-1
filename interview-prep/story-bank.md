@@ -80,11 +80,32 @@ Accumulated stories for interviews. Only facts backed by `cv.md` / user statemen
 
 ---
 
+## S6 — Junior buyer → IT category owner (Plenty)
+
+**Use for:** people development / coaching ICs · “reactive → proactive” · Ramp Activation HM (hire/coach specialists)  
+**Audience:** recruiter-screen · hiring-manager  
+**Status:** Candidate-authorized draft (2026-07-30) — category = IT/technology (from Plenty indirect scope in cv.md). Soft details (cadence, exact before/after) are working narrative; swap if anything feels off in your memory.
+
+- **Situation:** At Plenty I managed a team of three buyers. One was solid at clearing tickets but stayed reactive — waited for requests, didn’t own a category, and escalated every vendor judgment call to me. That doesn’t scale when you’re also running Coupa/policy and need the team to run without you in every thread.
+- **Task:** Develop that person into a true category owner for **IT / technology** spend (SaaS, hardware, IT services — part of the multimillion-dollar indirect book), with clear ownership of intake quality, preferred-vendor discipline, and supplier conversations.
+- **Action (coaching system, not one pep talk):**
+  1. **Scoped ownership:** Assigned IT/technology as their book — what they owned vs what still needed my approval.
+  2. **Structured 1:1s:** Weekly — pipeline of open reqs, stuck approvals, vendor issues; coached decision criteria (price vs risk vs switching cost) instead of answering for them.
+  3. **Shadow → reverse-shadow:** They sat in on my IT vendor / stakeholder calls, then I sat in on theirs with a short debrief (what worked, what to try next).
+  4. **Playbook crumbs:** Simple intake checklist + when to escalate vs decide — so quality stayed consistent when I wasn’t in the room.
+- **Result:** They began running IT category work end-to-end — stakeholder intake, vendor follow-ups, and fewer “what should I do?” pings. Freed me to focus on systems/policy and the harder escalations; the team ran more as owners than a queue. *(No separate % in cv.md for this person — don’t invent a metric; tie team outcomes to S1 if needed: on-contract % and cycle time.)*
+- **Reflection:** Coaching that sticks is **ownership + reps + feedback**, not “be more proactive.” Same muscle Ramp wants for Activation Specialists: move ICs from reactive ticket-clearing to running discovery/config/go-live with judgment.
+- **Ramp one-liner:** *“I’ve coached buyers from order-takers into category owners — scoped the book, weekly decision coaching, shadow then reverse-shadow — same motion I’d use to ramp Activation Specialists.”*
+
+**Proof source:** cv.md — managed team of 3 buyers; multimillion-dollar indirect incl. IT/technology; Coupa/policy context. User authorized IT category ownership narrative 2026-07-30.
+
+---
+
 ## Gaps (draft when ready)
 
 - [ ] Conflict / influence with Finance or Controller-type stakeholder
 - [ ] Failed automation or adoption miss + recovery
-- [ ] **S6 — Team performance management (3 buyers) — coaching / underperformance** — **BLOCKING for Ramp Activation HM round** (JD: “real people development experience”)
+- [x] **S6 — Team coaching (junior buyer → IT category owner)** — drafted; verify soft details before HM
 - [ ] Comcast enterprise portfolio negotiation (need metrics user can confirm)
 
 ### Ramp Activation note (2026-07-29)
