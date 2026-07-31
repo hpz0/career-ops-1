@@ -130,8 +130,12 @@ Not a novel. A **field manual** specialists open on Monday morning. Four stages 
 | **C. Deal desk / scope rules** | What Activation will / won’t swallow when Sales sold ahead of readiness |
 | **D. Specialist quality bar** | Call scorecard: discovery depth, Controller credibility, config judgment, education clarity |
 | **E. Mid-market segment notes** | Typical 100–999 company constraints: thin procurement staff, Controller wears many hats, ERP = NetSuite/QBO heavy |
+| **F. Vendor onboarding / credit** | How credit is opened (vendor app vs company packet); who signs; don’t casually accept vendor boilerplate terms — see story **S7** |
 
 **How I’d keep it alive:** Every red deal produces one playbook edit or one Product ticket. Playbook that doesn’t change is dead.
+
+### Product feedback seed (from your experience — S7)
+Pattern to watch in the field: vendors push **their** credit applications (terms buried inside). Strong Controllers often prefer a **Finance-approved company packet** with the data vendors need — without signing vendor paper. If Ramp automates “fill credit forms,” Activation should push for **term-safe / Controller-controlled** flows, not speed-at-any-risk.
 
 ---
 

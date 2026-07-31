@@ -240,6 +240,9 @@ That beats a feature tour every time.
 ### F. “3-way match in plain English”
 > Don’t pay until what we ordered, what we received, and what they billed agree — within tolerance. It’s how you stop paying for air.
 
+### G. “Vendor credit apps — a real process call”
+> We stopped signing vendors’ credit applications by default. Those forms smuggle in the vendor’s terms. Instead we gave them a Controller-signed company packet with the info they needed to extend credit — on our posture. Vendor onboarding is risk, not paperwork. If a product ‘auto-fills credit apps,’ I’d want Finance-controlled output, not blind acceptance of vendor paper.
+
 ---
 
 ## 11. Your proof map (only real claims)
