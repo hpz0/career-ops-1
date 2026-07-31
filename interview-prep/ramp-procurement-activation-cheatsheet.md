@@ -153,6 +153,8 @@ Full plan: `interview-prep/ramp-activation-playbook-plan.md`
 **Team build in one breath:**  
 > Hire for Controller-ready discovery and judgment. Ramp with shadow → reverse-shadow → scoped ownership (same as developing a junior buyer into an IT category owner). 1:1s on decisions, not status. Promote people who make the next specialist faster.
 
+**Domain refresher (study before HM):** `interview-prep/ramp-p2p-erp-refresher.md` — P2P/intake-to-pay, approvals, NetSuite/ERP, CLM, AP/3-way match, speakable drills tied to Coupa/Ironclad/NetSuite.
+
 ---
 
-*Full intel: `interview-prep/ramp-senior-manager-procurement-product-activation.md` · Playbook plan · Story S6 · Report 006*
+*Full intel · Playbook plan · P2P/ERP refresher · Story S6 · Report 006*
