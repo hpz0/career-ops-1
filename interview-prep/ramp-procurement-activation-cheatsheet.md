@@ -140,4 +140,19 @@ Pick from the list above — lead with #1 (6-month success) and #4 (remote opera
 
 ---
 
-*Full intel: `interview-prep/ramp-senior-manager-procurement-product-activation.md` · Story S6 · Report 006*
+## If they ask how you’d do the job (HM / deep recruiter)
+
+Full plan: `interview-prep/ramp-activation-playbook-plan.md`
+
+**60–90 sec approach:**  
+> I’d build an operating system, not manage a queue. First 30 days: shadow live mid-market activations, map stalls — discovery, approvals, ERP, training, handoffs — and get on a few Controller calls myself. Days 30–60: ship a v1 playbook (discovery → config → education → go-live), lock handoff standards with Sales/AM/CSM, and coach specialists on judgment. By 90 days: playbook in live use, clear escalation taxonomy, Product getting patterns not anecdotes. I’ve done the buyer-side version — Coupa, policy, coaching owners — so I’m not guessing what excellent looks like for a Controller.
+
+**Playbook in one breath:**  
+> Four stages — discovery that redesigns buying, config that matches real approvals/ERP, education for requesters *and* approvers, go-live checklist + clean CSM handoff — plus escalation types and Product feedback format. Short, used weekly, updated when red deals teach us something.
+
+**Team build in one breath:**  
+> Hire for Controller-ready discovery and judgment. Ramp with shadow → reverse-shadow → scoped ownership (same as developing a junior buyer into an IT category owner). 1:1s on decisions, not status. Promote people who make the next specialist faster.
+
+---
+
+*Full intel: `interview-prep/ramp-senior-manager-procurement-product-activation.md` · Playbook plan · Story S6 · Report 006*
