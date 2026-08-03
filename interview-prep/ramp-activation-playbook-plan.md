@@ -163,14 +163,16 @@ Same motion as S6 (junior buyer → category owner): **scoped ownership → week
 
 ### How I’d coach ongoing
 - 1:1s are about **judgment**, not status theater (“What did you decide and why?”)
-- Review 1 recorded/customer call per specialist per month against the scorecard
+- Review 1 recorded/customer call per specialist per month against the quality bar
 - Promote people who make the *next* person faster — not only personal go-live counts
 - Public praise for clean handoffs and Product tickets that changed the roadmap
+- **Headcount trigger:** capacity model (backlog + time-to-go-live + utilization + quality) — not “everyone’s busy” (see `ramp-hm-qa-from-chatgpt-share.md`)
 
 ### Culture I’d protect
 - AEs/AMs/CSMs come to Activation **before** it’s on fire  
 - We tell the truth about scope and readiness (earn trust once; lose it forever if we rubber-stamp bad deals)  
 - Procurement authority = credibility with customers **and** internal teams
+- **Speed vs quality:** optimize for repeatability; ship playbook v1 then iterate from data — don’t wait for perfect
 
 ---
 

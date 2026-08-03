@@ -155,6 +155,17 @@ Full plan: `interview-prep/ramp-activation-playbook-plan.md`
 
 **Domain refresher (study before HM):** `interview-prep/ramp-p2p-erp-refresher.md` — P2P/intake-to-pay, approvals, NetSuite/ERP, CLM, AP/3-way match, speakable drills tied to Coupa/Ironclad/NetSuite.
 
+**HM Q&A pack (ChatGPT share merged + corrected):** `interview-prep/ramp-hm-qa-from-chatgpt-share.md` — team build, headcount/capacity, playbook layers, KPIs, Product, 90 days, speed vs quality, “built from scratch” = **Plenty**.
+
+**Extra scripts from that pack:**
+> **Headcount:** Capacity model — backlog, time-to-go-live, utilization, quality. ~80% utilized *and* slipping cycle/quality ⇒ system constrained; hire when value > delay.
+>
+> **Speed vs quality:** Optimize for repeatability, not perfection. Ship playbook v1, measure, iterate.
+>
+> **Built from scratch:** Plenty Coupa + policy + operating model (99% on contract; cycle 3→1.5d) — *not* Comcast as the systems story.
+>
+> **Mgmt reframe:** Don’t apologize. Cross-functional systems + coaching buyers + frameworks others used > “I managed 12 people.”
+
 ---
 
-*Full intel · Playbook plan · P2P/ERP refresher · Story S6 · Report 006*
+*Full intel · Playbook plan · P2P/ERP refresher · HM Q&A pack · Story S6/S7 · Report 006*
