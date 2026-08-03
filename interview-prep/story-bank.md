@@ -101,6 +101,26 @@ Accumulated stories for interviews. Only facts backed by `cv.md` / user statemen
 
 ---
 
+## S7 — Controller-signed credit packet (not vendor credit apps)
+
+**Use for:** Controller partnership · vendor onboarding · protecting the company from one-sided terms · playbook / Product feedback angle for Ramp Activation  
+**Audience:** hiring-manager · peer-tech · (light touch on recruiter if vendor-onboarding comes up)  
+**Status:** User-stated 2026-07-31 — confirm company/context if asked (fits Plenty-era process ownership with Controller; say so only if accurate).
+
+- **Situation:** Vendors routinely pushed **their** credit applications as the path to open terms / a line of credit. Those packets buried the vendor’s terms — easy to sign away leverage or accept junk conditions while “just setting up credit.”
+- **Task:** Establish credit relationships without executing vendor-paper terms that weren’t negotiated or approved.
+- **Action:** Stopped signing vendor credit apps as the default. Instead worked with the **Controller** on a **company template packet** — Controller-signed — that gave vendors the financial/credit info they needed to extend terms, on **our** paper and posture.
+- **Result:** Vendors could still underwrite/open credit, but we avoided casually agreeing to their boilerplate credit terms. Cleaner control, faster “here’s what you need” motion, Finance stayed in the loop.
+- **Reflection:** Vendor onboarding isn’t clerical — it’s **risk and terms**. Same class of problem Activation sees: customers get stuck in vendor setup / credit / master-data sludge, or they sign whatever the vendor emails. A standard packet is a playbook artifact; “auto-fill the vendor’s form” without term control is a product smell.
+- **Ramp angles (pick one, don’t force):**
+  - **Playbook:** Discovery question — *How do you open vendor credit today? Who signs? Do you execute vendor apps or issue a standard company packet?*
+  - **Product feedback pattern:** Mid-market Controllers may want a **controlled credit/onboarding packet** (exportable, Finance-approved) more than blind “fill the vendor’s credit application” automation.
+  - **Credibility line:** *“I’ve sat with a Controller designing how we share credit info without accepting the vendor’s terms by accident.”*
+
+**Proof source:** User statement in conversation 2026-07-31 (not yet in cv.md — fine for interview speech; add to cv/article-digest only if you want it on paper applications).
+
+---
+
 ## Gaps (draft when ready)
 
 - [ ] Conflict / influence with Finance or Controller-type stakeholder
