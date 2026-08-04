@@ -44,6 +44,7 @@ Jan 2018 – Mar 2021
 - Led major company-wide system implementations: Coupa (P2P), Ironclad and DocuSign SpringCM (CLM), TripActions (travel)
 - Used Power BI and ERP spend analytics to inform category decisions and cost-driver analysis
 - Oversaw multimillion-dollar **indirect procurement** budget including **IT/technology**, facilities, travel, marketing, contract labor, and office supplies — category planning, sourcing, and supplier performance
+- Managed and negotiated **industrial gas** supply — including **CO₂ and oxygen** — covering contracted supply, delivery continuity, and commercial terms with gas suppliers
 - Managed team of 3 buyers; published and enforced Procurement Policy
 - Achieved 99% of spend on contract; reduced purchase requisition cycle time from 3 days to 1.5 days
 - Increased supplier electronic invoice rate by 50%, reducing Accounts Payable labor
@@ -82,8 +83,8 @@ May 2014 – Aug 2014
 
 ## Skills
 
-- **Technology & Indirect Sourcing:** Technology/IT category sourcing, Wireless Infrastructure, Fixed Network, indirect procurement (IT, facilities, travel, marketing, contract labor), category strategy, TCO
-- **Procurement & Supply Chain:** Strategic sourcing, procure-to-pay, contract lifecycle management, supplier management, material requirements planning, NPI, value engineering
+- **Technology & Indirect Sourcing:** Technology/IT category sourcing, Wireless Infrastructure, Fixed Network, indirect procurement (IT, facilities, travel, marketing, contract labor), industrial gases (CO₂, oxygen), category strategy, TCO
+- **Procurement & Supply Chain:** Strategic sourcing, procure-to-pay, contract lifecycle management, supplier management, material requirements planning, NPI, value engineering, commodity / bulk-supply negotiation
 - **Account Management & Partnerships:** Strategic vendor relationship management, contract negotiation, stakeholder alignment, buyer-process fluency, consultative partnership development, RFP/procurement cycle knowledge
 - **Systems:** NetSuite ERP, Coupa, Ironclad, DocuSign SpringCM, TripActions, Power BI, MS Office (Excel, Word, PowerPoint)
 - **Operations:** Inventory management, quality management, regulatory compliance (FDA, SQF), Plant Science / R&D supply & equipment sourcing, third-party lab testing services procurement, cross-functional program leadership
