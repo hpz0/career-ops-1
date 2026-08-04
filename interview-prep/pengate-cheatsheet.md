@@ -20,9 +20,10 @@
 | **PR 3 → 1.5 days** | Approvals + process; working capital / ops speed |
 | **E-invoice +50%** | Upstream vendor enablement → less AP labor |
 | **Team of 3 + policy** | Org design, not just personal buying |
+| **Industrial gases (CO₂ / O₂)** | Negotiated bulk commodity supply — **same muscle as dealer fuel** |
 | **Coupa · Ironclad · DocuSign · TripActions · NetSuite** | Systems + change management |
 
-Lead with **controls / visibility / AP partnership**. Use **30% BOM** only if they ask about savings depth.
+Lead with **controls / visibility / AP partnership**. Use **gases→fuel** when they talk operating spend. Use **30% BOM** only if they ask about savings depth.
 
 ---
 
@@ -30,7 +31,7 @@ Lead with **controls / visibility / AP partnership**. Use **30% BOM** only if th
 
 1. **Diagnose (weeks 1–4):** Spend map by category/site/entity; who buys today; vendor master & PO→AP path; maverick spend; post-acquisition gaps (Arbor/Hooper).
 2. **Govern (weeks 3–8):** Procurement policy, approval matrix, vendor onboarding, contract thresholds — co-authored with Finance/Legal.
-3. **Control the flow (days 30–90):** PR→PO→receipt→invoice discipline in ERP; partner on Concur/expense adjacency; top-category sourcing (parts, facilities, IT, contract labor, project/systems vendors).
+3. **Control the flow (days 30–90):** PR→PO→receipt→invoice discipline in ERP; partner on Concur/expense adjacency; top-category sourcing (**fuel/energy**, parts, facilities, IT, contract labor, project/systems vendors) — gases→fuel story ready.
 4. **Scale:** Hire plan only after volume and controls prove the need — start as player-coach.
 
 **Year-1 scoreboard with VP Finance:** % spend on contract · PR/PO cycle time · e-invoice / exception rate · savings vs budget · audit findings closed.
@@ -46,7 +47,10 @@ Diagnose → policy/approvals → system hygiene → category quick wins → hir
 Spend visibility, on-contract compliance, cleaner AP intake, faster close support, fewer surprises on vendors/contracts.
 
 **First 90 days?**  
-Baseline KPIs; publish policy + approval matrix; fix top 3 process leaks; source 2–3 high-impact categories; recommend ERP/P2P roadmap (don’t boil the ocean day one).
+Baseline KPIs; publish policy + approval matrix; fix top 3 process leaks; source 2–3 high-impact categories (**fuel**, parts, facilities/IT); recommend ERP/P2P roadmap (don’t boil the ocean day one).
+
+**Category depth — fuel / operating commodities?**  
+At Plenty I owned **industrial gases — CO₂ and oxygen** — negotiated supply agreements and kept operations covered. Same playbook as dealer **fuel**: contracted commodity, delivery continuity, cost control, clean invoices. I’d baseline fuel early across sites/entities.
 
 **How do you partner with AP?**  
 I own upstream: vendor master quality, PO accuracy, e-invoicing. Plenty: +50% e-invoice → less AP labor.
@@ -71,13 +75,13 @@ Led Coupa P2P + NetSuite MRP migration. Assess current stack before recommending
 2. Post-Arbor/Hooper — how fragmented are vendor masters, POs, and approvals across entities?
 3. What does **success look like at 12 months** for you (compliance, savings, headcount, systems)?
 4. What’s the current ERP / PO / AP / Concur stack — and what’s off-limits vs open to change?
-5. Where should I spend political capital first — parts, facilities, project/systems vendors, or IT?
+5. Where should I spend political capital first — **fuel**, parts, facilities, project/systems vendors, or IT?
 
 ---
 
 ## Don’t
 
-- Over-index manufacturing BOM / FDA stories — translate to **dealer spend** (parts, service vendors, facilities, IT, contract labor, automation project vendors).
+- Over-index manufacturing BOM / FDA stories — translate to **dealer spend** (**fuel**, parts, service vendors, facilities, IT, contract labor, automation project vendors). For fuel specifically: use **industrial gases (CO₂/O₂)** as the closest Plenty category bridge.
 - Promise Coupa day-one if they don’t have it — sell **operating model**, then tools.
 - Badmouth Comcast. Don’t invent Comp numbers — ask for the band.
 - Sound like a pure cost-cutter — VP Finance hears **control, forecastability, audit**.

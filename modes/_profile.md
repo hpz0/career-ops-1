@@ -84,7 +84,7 @@ When generating PDF/cover for AE/AM roles:
 
 | Company | Role | Track | Notes |
 |---------|------|-------|-------|
-| **Pengate Handling Systems** | Procurement Manager / Strategic Procurement Lead (Chalfont) | A | VP Finance round — stand up procurement from scratch. Use `interview-prep/pengate-cheatsheet.md` + `pengate-procurement-manager.md`. Lead with Plenty builder stories. |
+| **Pengate Handling Systems** | Procurement Manager / Strategic Procurement Lead (Chalfont) | A | VP Finance round — stand up procurement from scratch. Use `pengate-cheatsheet.md` + `pengate-procurement-manager.md`. Lead Plenty builder stories; for **fuel** use **S8** (industrial gases CO₂/O₂). |
 | **Ramp** | Senior Manager, Procurement Product Activation | A-adjacent | **Active recruiter screen** — CS founding playbook seat. Use `interview-prep/ramp-senior-manager-procurement-product-activation.md` + cheatsheet. Confirm remote + 70/30 base. |
 | **Ramp** | Account Executive (remote) | B | Exploratory with Max (SVP Sales). Use `interview-prep/ramp.md`. Deprioritize vs Activation. |
 

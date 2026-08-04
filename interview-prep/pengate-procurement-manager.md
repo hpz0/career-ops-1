@@ -19,7 +19,7 @@
 | Sourcing + ERP + controls | Coupa P2P, NetSuite MRP, Ironclad/DocuSign CLM | strong |
 | Reports into / partners with Finance | VP Finance interview; Plenty Finance/Legal/IT alignment; e-invoice → AP | strong for this audience |
 | Multi-site / post-M&A spend discipline | Plenty multi-site ops + Comcast multi-brand portfolio | solid — frame dealer/network |
-| Category depth (parts, facilities, IT, vendors) | Plenty multimillion indirect (IT, facilities, travel, marketing, contract labor) | strong |
+| Category depth (parts, facilities, IT, vendors) | Plenty multimillion indirect (IT, facilities, travel, marketing, contract labor) + **industrial gases (CO₂, oxygen)** → fuel bridge | strong — use S8 for fuel |
 | Pure manufacturing BOM hero | 30% BOM / FDA-SQF | use sparingly — translate |
 
 **Verdict:** This is a **builder under Finance** seat, not a Coupa GPO at a software co. Plenty is the primary chapter; Comcast is scale proof. VP Finance cares about controls, visibility, AP quality, and a phased org plan — not only unit-cost war stories.
@@ -134,11 +134,12 @@ All questions `[inferred from JD]` / first-procurement-hire under Finance archet
 
 **Framing for Pengate:** Assess what’s live (ERP PO module, Concur adjacency from Finance hiring). Optimize controls in current tools first; sequence any P2P/CLM investment after requirements from Finance — don’t lead with “buy Coupa.”
 
-### 9. Give me a savings / negotiation example.
+### 9. Give me a savings / negotiation example — or “do you know our spend?”
 
-**Story:** S5 — **30% BOM cost reduction in six months** via value engineering + supplier negotiations.
+**Prefer for Pengate (dealer operating spend):** **S8 — industrial gases (CO₂ / oxygen)**  
+> At Plenty I managed and negotiated industrial gas supply — CO₂ and oxygen — contracted supply, commercial terms, delivery continuity. That’s the same category logic as **fuel** for a multi-site dealer: bulk commodity, sites that can’t stock out, invoice discipline, and not accepting soft vendor terms. I’d put fuel on the early category map with parts and facilities.
 
-**Bridge to dealer world:** Same commercial muscle applies to parts, facilities, contract labor, and project vendors — TCO and supplier performance, not only unit price. For this VP, pair with compliance metrics so you don’t read as “sourcing only.”
+**Backup savings proof:** S5 — **30% BOM cost reduction in six months** via value engineering + supplier negotiations. Bridge: TCO muscle for parts/vendors — pair with compliance metrics so you don’t read as “sourcing only.” Don’t lead with BOM/FDA in the open.
 
 ### 10. Why this role / why leave Comcast after promotion?
 
@@ -165,8 +166,9 @@ All questions `[inferred from JD]` / first-procurement-hire under Finance archet
 | 3 | hiring-manager | Systems / T&E adjacency | S3 TripActions | partial | Concur ≠ TripActions — say “same control tower” |
 | 4 | hiring-manager | ERP change | S4 NetSuite MRP | strong | — |
 | 5 | hiring-manager | Savings | S5 30% BOM | partial | Reframe to TCO / dealer categories |
-| 6 | hiring-manager | Stakeholder conflict with Finance | — | none | Draft if probed (gap already in story-bank) |
-| 7 | hiring-manager | Team coaching / underperformance | — | none | Gap — 3 buyers managed but no STAR yet |
+| 6 | hiring-manager | Fuel / energy / bulk commodity | **S8** industrial gases (CO₂/O₂) | strong | Bridge explicitly to Pengate fuel |
+| 7 | hiring-manager | Stakeholder conflict with Finance | — | none | Draft if probed |
+| 8 | hiring-manager | Team coaching | **S6** junior buyer → IT owner | strong | — |
 
 ---
 
@@ -176,7 +178,7 @@ All questions `[inferred from JD]` / first-procurement-hire under Finance archet
 - [ ] How procurement metrics feed close / audit / working capital
 - [ ] Concur expense/invoice adjacency (Pengate Finance hiring for this) — partner language, don’t claim Concur implementation (not in cv.md)
 - [ ] Multi-entity / post-acquisition vendor master consolidation approach
-- [ ] Category plan for dealer economics: OEM/parts, facilities, IT/SaaS, contract labor, systems-project vendors
+- [ ] Category plan for dealer economics: **fuel/energy**, OEM/parts, facilities, IT/SaaS, contract labor, systems-project vendors — lead **S8** (gases→fuel) when fuel comes up
 - [ ] Coupa / NetSuite / CLM vocabulary refresh — implementation ownership at Plenty only
 
 ---
@@ -185,6 +187,7 @@ All questions `[inferred from JD]` / first-procurement-hire under Finance archet
 
 ### What to lead with
 - Plenty **builder** story in Finance vocabulary: on-contract %, cycle time, AP labor, policy.
+- Category credibility on **fuel**: industrial gases (CO₂/oxygen) negotiated at Plenty — same commodity/continuity muscle.
 - Excitement about **M&A integration** of spend (Arbor/Hooper) without claiming insider details.
 - Player-coach pragmatism — controls before headcount.
 
@@ -207,7 +210,7 @@ All questions `[inferred from JD]` / first-procurement-hire under Finance archet
 2. How fragmented are POs, vendor masters, and approvals across acquired entities?
 3. What’s the 12-month definition of success for this seat?
 4. Current ERP / PO / AP / Concur landscape — what’s sacred vs open?
-5. Where should early political capital go — parts, facilities, IT, or systems/project vendors?
+5. Where should early political capital go — **fuel**, parts, facilities, IT, or systems/project vendors?
 
 ---
 
