@@ -59,7 +59,7 @@
 | Name | Role | Read |
 |------|------|------|
 | **Michael Bock, CPA** | VP of Finance (WV SOS: “MICHAEL BOCK, V P OF FINANCE”; corporate Vice-President, York HQ). Tagged “Michael Bock, CPA” on Pengate LinkedIn. | **Day-to-day hiring partner.** Already interviewed you once — likely primary process owner for the seat. Will test consistency, AP/controls depth, and whether you’ll actually report/partner into Finance. Weight: high on *working relationship*. Audience tag: `hiring-manager`. |
-| **John Leshinski** | EVP of Administration — Finance, HR, IT/IS and Systems ([LinkedIn](https://www.linkedin.com/in/john-leshinski-667b0a9)). Appears with Bock on internal leadership posts. | **Likely skip-level / offer-weight decision-maker** — owns the tower that includes Bock’s Finance org plus HR and IT. Will ask whether you can land change across Admin, sequence systems with IT, and build a people plan without empire-building. Audience tag: `hiring-manager` (skip-level). |
+| **John Leshinski** | EVP of Administration — Finance, HR, IT/IS and Systems ([LinkedIn](https://www.linkedin.com/in/john-leshinski-667b0a9)). Appears with Bock on internal leadership posts. | **Likely skip-level / offer-weight decision-maker** — owns the tower that includes Bock’s Finance org plus HR and IT. Will ask whether you can land change across Admin, sequence systems with IT, build a people plan without empire-building, **and handle contracting/commercial risk with Legal** (NDA/MSA/PSA discipline — high likelihood even though Legal isn’t in his title). Audience tag: `hiring-manager` (skip-level). |
 
 **Decision weighting:** Leshinski’s scope (Finance + HR + IT) makes him the probable final yes/no above Bock; Bock is still who you’d work with weekly — never pitch around him.
 
@@ -79,7 +79,7 @@
 
 ### Hand-off discipline
 - **To Bock:** controls, AP, close, exceptions, 90-day KPI proof.
-- **To Leshinski:** operating model, IT partnership, hire timing, change management.
+- **To Leshinski:** operating model, **contracting/Legal partnership**, IT partnership, hire timing, change management.
 - **Do not** repeat the full Coupa monologue twice — headline for one, implementation detail for the other.
 
 ---
@@ -223,7 +223,20 @@ He owns Finance + HR + IT/IS + Systems. Weight answers toward **org design, chan
 
 ### L6. Consistency check (Bock already heard you)
 
-If John asks something Michael asked: same facts, shorter headline, then *new* angle (systems/people). If numbers drift, you lose both.
+If John asks something Michael asked: same facts, shorter headline, then *new* angle (systems/people/contracts). If numbers drift, you lose both.
+
+### L7. What’s your experience with Legal and contracting? `[inferred — high likelihood for EVP Admin]`
+
+**Headline:** Commercial owner + Legal partner — not outside counsel. Paper ladder + CLM + enterprise/spin complexity.
+
+**Talk track (use this):**
+1. **Role clarity:** I structure deals, negotiate commercial terms (price, payment, SLAs, liability tradeoffs, termination), and pull Legal in on risk thresholds — I don’t pretend to be counsel.
+2. **Paper ladder:** NDA → MSA → PSA/SOW → PO/amendment. Kill one-off contracts when an MSA exists.
+3. **Plenty (S7):** Stood up Ironclad + DocuSign SpringCM; policy drove **99% spend on contract** with Finance/Legal.
+4. **Comcast / Versant (S8, user):** Executive negotiations on tech/infra; through the **Versant spin**, worked vendor agreements so entities had clean assignment/payment/liability — same class of problem as multi-entity dealer growth (Arbor/Hooper).
+5. **Pengate ask-back:** Who owns templates today, and what’s the Legal review threshold?
+
+**Do not:** Claim attorney work product; invent Versant savings figures; say you’ll bypass Legal.
 
 ---
 
@@ -235,10 +248,11 @@ If John asks something Michael asked: same facts, shorter headline, then *new* a
 | 2 | hiring-manager (Bock) | AP / Finance partnership | S2 e-invoice +50% | strong | Lead this for return visit |
 | 3 | panel (Leshinski) | Systems / change mgmt | S1 + S4 NetSuite | strong | Emphasize IT partnership |
 | 4 | panel (Leshinski) | Org / hire timing | S1 team of 3 + policy | strong | — |
-| 5 | hiring-manager | Systems / T&E adjacency | S3 TripActions | partial | Concur ≠ TripActions — say “same control tower” |
-| 6 | hiring-manager | Savings | S5 30% BOM | partial | Reframe to TCO / dealer categories |
-| 7 | hiring-manager | Stakeholder conflict with Finance | — | none | Draft if probed |
-| 8 | panel (Leshinski) | Team coaching / underperformance | — | none | Gap — 3 buyers managed but no STAR yet |
+| 5 | panel (Leshinski) | **Legal / contracting** | **S7 CLM + S8 Versant** | **strong** | Confirm Versant metrics if asked for numbers |
+| 6 | hiring-manager | Systems / T&E adjacency | S3 TripActions | partial | Concur ≠ TripActions — say “same control tower” |
+| 7 | hiring-manager | Savings | S5 30% BOM | partial | Reframe to TCO / dealer categories |
+| 8 | hiring-manager | Stakeholder conflict with Finance | — | none | Draft if probed |
+| 9 | panel (Leshinski) | Team coaching / underperformance | S6 | strong | — |
 
 ---
 
@@ -262,10 +276,10 @@ If John asks something Michael asked: same facts, shorter headline, then *new* a
 - **Avoid:** replaying the full Plenty overview verbatim.
 
 ### To Leshinski
-- **Lead with:** operating model + systems change you owned + lean org design.
-- **Vocabulary:** Admin tower, IT partnership, RACI, adoption, multi-site standards.
-- **Ask:** 12-month success definition; ERP/Concur open vs off-limits.
-- **Avoid:** pitching around Bock; empire-building headcount.
+- **Lead with:** operating model + **contract discipline (NDA/MSA/PSA + CLM)** + systems change + lean org design.
+- **Vocabulary:** Admin tower, commercial risk, assignment/novation (post-M&A), IT partnership, RACI, adoption.
+- **Ask:** contract template ownership / Legal thresholds; 12-month success; ERP/Concur open vs off-limits.
+- **Avoid:** pitching around Bock; empire-building headcount; pretending to be counsel.
 
 ### Shared — what NOT to do
 - Lead with agtech BOM / FDA as the hero (translate or demote).
@@ -277,8 +291,9 @@ If John asks something Michael asked: same facts, shorter headline, then *new* a
 1. **Bock:** From last time — top 90-day proof you want?
 2. **Leshinski:** 12-month success — controls vs savings vs headcount vs systems?
 3. **Leshinski:** How should procurement partner with IT near-term?
-4. **Either:** Post-Arbor/Hooper fragmentation (vendor master / POs / approvals)?
-5. **Bock:** Where does AP hurt most — no-PO invoices, vendor master, or exceptions?
+4. **Leshinski:** Who owns contract templates / Legal review thresholds — what’s broken in vendor paper post-Arbor/Hooper?
+5. **Either:** Post-Arbor/Hooper fragmentation (vendor master / POs / approvals)?
+6. **Bock:** Where does AP hurt most — no-PO invoices, vendor master, or exceptions?
 
 ---
 
