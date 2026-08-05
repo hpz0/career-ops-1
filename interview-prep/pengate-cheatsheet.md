@@ -24,6 +24,24 @@
 
 ---
 
+## Why Pengate / why this role
+
+> I’m excited about Pengate because of the scale you’re building through the mergers and the strength of the Raymond/Toyota platform. Procurement sits right in the middle of keeping technicians productive, controlling costs, and supporting growth — and that’s exactly the kind of operational impact I want to own.
+
+Pair with: Plenty builder + want Finance/Admin ownership (not orphaned buying) + Comcast scale after.
+
+---
+
+## Competitive pressure / market dynamics
+
+Use when they ask about competition, challenges, or how procurement helps the business win:
+
+> In this industry the competition is pretty clear — other strong regional dealers like ToyotaLift Northeast and Eastern Lift Truck, plus Crown and Hyster-Yale networks. The real pressure points are service response times, parts availability, and the ability to support both local customers and larger national or multi-site accounts that negotiate more centrally. For procurement, that means we have to be excellent at keeping critical parts flowing for our own technicians while also supporting competitive pricing and consistent processes that help the sales and service teams win and keep those bigger accounts.
+
+**What this signals:** You get the external landscape *and* how procurement hits competitiveness (parts for techs + pricing/process for big accounts) — not just “I’ll cut costs.”
+
+---
+
 ## Proof split (don’t duplicate)
 
 | Proof | Tell **Bock** | Tell **Leshinski** |
