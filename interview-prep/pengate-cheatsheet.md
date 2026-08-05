@@ -98,7 +98,8 @@ Versant/spinco = complexity (two entities, continuity of service, who pays, who 
 - *Systems day one?* → Assess stack (ERP/Concur); optimize controls before buying tools.
 
 **Leshinski — skip-level**  
-- *Why this role / why you?* → Builder ownership (Plenty) + Finance/Admin home (not orphaned buying).  
+- *Why this role / why you?* → **Why Pengate line above** + Plenty builder + Finance/Admin home.  
+- *Competition / market challenges?* → **Competitive pressure block above** — tie parts flow + process consistency to winning accounts.  
 - *How would you fold Hooper into central procurement?* → Full talk track above — control/visibility first, execution in phases, don’t piss off the branches.  
 - *Contracts / Legal?* → Commercial owner + Legal partner; NDA→MSA→PSA→PO; Plenty CLM + Versant spinco paper.  
 - *How do you land change with ops who “always bought this way”?* → Easy compliant path + be useful; escalate on risk/thresholds only.  
