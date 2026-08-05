@@ -131,12 +131,29 @@ Accumulated stories for interviews. Only facts backed by `cv.md` / user statemen
 
 ---
 
+## S9 — Post-M&A procurement consolidation approach (Pengate / Hooper–Arbor)
+
+**Use for:** “How would you fold Hooper into centralized procurement?” / vendor master / multi-entity spend  
+**Audience:** hiring-manager · panel-mixed (Bock + Leshinski)  
+**Status:** Approach talk track authorized 2026-08-05 — not a claim that candidate already ran Pengate PMI.
+
+- **Situation:** Pengate growing via acquisitions (Arbor Apr 2024, Hooper Dec 2024 — public). Buying, vendors, and contracts likely fragmented across entities.
+- **Task:** Stand up centralized procurement discipline without breaking site ops or AP.
+- **Action (plain English):** Don’t announce “everything through me” day one. Sit with Finance/AP/site buyers — map who buys what, where POs live, duplicate vendors, on-contract vs email buys. Put basic shared rules in place (PO thresholds, vendor add lock-down, Legal triggers). Clean vendor master with AP off close calendar so branches still get parts. Leave critical Hooper contracts alone until understood; rationalize overlapping vendors onto one agreement. Centralize control/visibility first; keep small local buys under thresholds; make the compliant path useful or people route around you.
+- **Result to promise:** Near-term = visibility + less free-for-all. Real centralization = duplicates cleaned + top shared suppliers on one deal. Don’t promise full org centralization in 90 days.
+- **Reflection / proof bridge:** Plenty = built function from scratch (policy, CLM, on-contract). Comcast = multi-entity portfolio + Versant paper (who pays, liability, continuity). Same problem class — clean entities, continuous supply, one set of rules. Haven’t seen Pengate’s books yet — say that.
+
+**Proof source:** User-authorized talk track 2026-08-05; cv.md Plenty builder + Comcast multi-brand/exec negotiation; S8 Versant. Public acquisition dates for framing only.
+
+---
+
 ## Gaps (draft when ready)
 
 - [ ] Conflict / influence with Finance or Controller-type stakeholder
 - [ ] Failed automation or adoption miss + recovery
 - [x] **S6 — Team coaching (junior buyer → IT category owner)** — drafted; verify soft details before HM
 - [x] **S7 / S8 — Contracting + Versant** — drafted from user; confirm Versant metrics before claiming numbers
+- [x] **S9 — M&A / Hooper consolidation talk track** — plain-English approach on cheat sheet
 - [ ] Comcast enterprise portfolio negotiation metrics (user can confirm $ / cycle)
 
 ### Ramp Activation note (2026-07-29)

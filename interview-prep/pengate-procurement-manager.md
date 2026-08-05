@@ -78,9 +78,10 @@
 - **How to prepare:** Print updated cheat sheet; vary story angles (don’t clone last Bock meeting); rehearse 40s joint open.
 
 ### Hand-off discipline
-- **To Bock:** controls, AP, close, exceptions, 90-day KPI proof.
-- **To Leshinski:** operating model, **contracting/Legal partnership**, IT partnership, hire timing, change management.
+- **To Bock:** controls, AP, close, exceptions, 90-day KPI proof, **vendor master / M&A cleanup timing**.
+- **To Leshinski:** operating model, **contracting/Legal partnership**, **Hooper–Arbor consolidation change path**, IT partnership, hire timing.
 - **Do not** repeat the full Coupa monologue twice — headline for one, implementation detail for the other.
+- **M&A answers:** use the plain-English talk track (cheat sheet + L8) — not PMI jargon.
 
 ---
 
@@ -238,6 +239,32 @@ If John asks something Michael asked: same facts, shorter headline, then *new* a
 
 **Do not:** Claim attorney work product; invent Versant savings figures; say you’ll bypass Legal.
 
+### L8. How would you consolidate Hooper / Arbor into centralized procurement? `[inferred — high likelihood]`
+
+**Speak plain — do not sound like a PMI deck.** Full talk track also on the cheat sheet.
+
+**Talk track:**
+> Day one I’m not announcing everyone’s buying goes through me. That just pisses people off and they buy around you.
+>
+> First I sit with Finance, AP, and whoever’s been buying at Hooper and the other sites — who’s buying what, where POs live, how many versions of the same vendor are in the system, what’s on contract vs email-and-hope. Notes, not a redesign that week.
+>
+> Then basic rules across entities: above X needs a PO, new vendors can’t get created by whoever feels like it, here’s when Legal looks. Same playbook so we’re not running two companies by accident.
+>
+> Vendor list is the ugly part — same supplier five times, different terms, that’s how you double-pay or miss discounts. Clean it with AP carefully, not mid-close, not in a way that stops a branch from getting parts. Lock down who can add vendors.
+>
+> Contracts: I’m not ripping up every Hooper deal on week two if it keeps trucks running. Where both companies buy the same stuff from the same people — get under one agreement so we’re not negotiating against ourselves.
+>
+> Centralized doesn’t mean every $40 order through Chalfont. It means important spend has rules, we can see it, and big overlapping vendors get handled once. Local keeps small buys under a threshold. If the right way is slower than the old way, they’ll ignore me — so I’ve got to be useful.
+>
+> Plenty was build-from-nothing. Comcast/Versant was multi-entity paper — who pays, who holds liability, service keeps going. I haven’t seen Pengate’s books yet. That’s how I’d start.
+
+**“When are we centralized?”**  
+> First couple months you feel visibility and the free-for-all slowing down. For real when duplicates are gone and top shared suppliers are on one deal. Full everything-through-one-team takes longer — I’d rather it stick.
+
+**Ask back:** How many ERP/AP instances across Pengate, Arbor, Hooper — shared vendor master or separate?
+
+**Proof bridges (don’t overclaim M&A PMI title):** Plenty build-from-scratch (S1/S7) · Comcast multi-brand portfolio · Versant entity paper (S8).
+
 ---
 
 ## Story Bank Mapping
@@ -249,10 +276,11 @@ If John asks something Michael asked: same facts, shorter headline, then *new* a
 | 3 | panel (Leshinski) | Systems / change mgmt | S1 + S4 NetSuite | strong | Emphasize IT partnership |
 | 4 | panel (Leshinski) | Org / hire timing | S1 team of 3 + policy | strong | — |
 | 5 | panel (Leshinski) | **Legal / contracting** | **S7 CLM + S8 Versant** | **strong** | Confirm Versant metrics if asked for numbers |
-| 6 | hiring-manager | Systems / T&E adjacency | S3 TripActions | partial | Concur ≠ TripActions — say “same control tower” |
-| 7 | hiring-manager | Savings | S5 30% BOM | partial | Reframe to TCO / dealer categories |
-| 8 | hiring-manager | Stakeholder conflict with Finance | — | none | Draft if probed |
-| 9 | panel (Leshinski) | Team coaching / underperformance | S6 | strong | — |
+| 6 | panel (both) | **M&A / vendor master / Hooper** | **S9 approach + S1/S8 bridge** | **strong** | Approach talk track — not “I ran Pengate PMI” |
+| 7 | hiring-manager | Systems / T&E adjacency | S3 TripActions | partial | Concur ≠ TripActions — say “same control tower” |
+| 8 | hiring-manager | Savings | S5 30% BOM | partial | Reframe to TCO / dealer categories |
+| 9 | hiring-manager | Stakeholder conflict with Finance | — | none | Draft if probed |
+| 10 | panel (Leshinski) | Team coaching / underperformance | S6 | strong | — |
 
 ---
 
@@ -276,16 +304,18 @@ If John asks something Michael asked: same facts, shorter headline, then *new* a
 - **Avoid:** replaying the full Plenty overview verbatim.
 
 ### To Leshinski
-- **Lead with:** operating model + **contract discipline (NDA/MSA/PSA + CLM)** + systems change + lean org design.
-- **Vocabulary:** Admin tower, commercial risk, assignment/novation (post-M&A), IT partnership, RACI, adoption.
-- **Ask:** contract template ownership / Legal thresholds; 12-month success; ERP/Concur open vs off-limits.
-- **Avoid:** pitching around Bock; empire-building headcount; pretending to be counsel.
+- **Lead with:** operating model + **contract discipline (NDA/MSA/PSA + CLM)** + **Hooper/Arbor consolidation in plain English** + systems change + lean org design.
+- **Vocabulary:** Admin tower, commercial risk, multi-entity (not “synergies”), IT partnership, RACI, adoption.
+- **Ask:** contract template ownership / Legal thresholds; ERP/AP instances across entities; 12-month success; ERP/Concur open vs off-limits.
+- **Avoid:** pitching around Bock; empire-building headcount; pretending to be counsel; PMI-deck jargon.
 
 ### Shared — what NOT to do
 - Lead with agtech BOM / FDA as the hero (translate or demote).
 - Promise a specific platform purchase without IT.
 - Trash Comcast or sound desperate to escape.
 - Contradict yourself across the two of them on comp, timeline, or why Pengate.
+- Promise full M&A centralization in 90 days or claim you’ve audited Hooper’s file.
+- Answer M&A with framework jargon — use the plain-English talk track (L8 / cheat sheet).
 
 ### Sharp questions (tagged)
 1. **Bock:** From last time — top 90-day proof you want?
