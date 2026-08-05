@@ -304,10 +304,10 @@ If John asks something Michael asked: same facts, shorter headline, then *new* a
 - **Avoid:** replaying the full Plenty overview verbatim.
 
 ### To Leshinski
-- **Lead with:** operating model + **contract discipline (NDA/MSA/PSA + CLM)** + systems change + lean org design.
-- **Vocabulary:** Admin tower, commercial risk, assignment/novation (post-M&A), IT partnership, RACI, adoption.
-- **Ask:** contract template ownership / Legal thresholds; 12-month success; ERP/Concur open vs off-limits.
-- **Avoid:** pitching around Bock; empire-building headcount; pretending to be counsel.
+- **Lead with:** operating model + **contract discipline (NDA/MSA/PSA + CLM)** + **Hooper/Arbor consolidation in plain English** + systems change + lean org design.
+- **Vocabulary:** Admin tower, commercial risk, multi-entity (not “synergies”), IT partnership, RACI, adoption.
+- **Ask:** contract template ownership / Legal thresholds; ERP/AP instances across entities; 12-month success; ERP/Concur open vs off-limits.
+- **Avoid:** pitching around Bock; empire-building headcount; pretending to be counsel; PMI-deck jargon.
 
 ### Shared — what NOT to do
 - Lead with agtech BOM / FDA as the hero (translate or demote).
