@@ -1,83 +1,96 @@
-# Pengate — VP Finance Cheat Sheet (1 page)
+# Pengate — Bock + Leshinski Panel Cheat Sheet (1 page)
 
-**Role:** Procurement Manager / Strategic Procurement Lead (Sourcing, ERP & Controls) · Chalfont, PA  
-**Audience:** VP of Finance · **Mandate:** stand up procurement from scratch under Finance  
-**Print this page only.**
-
----
-
-## Open (45–60s)
-
-> I’ve built procurement once already. At Plenty I stood up the function — policy, a team of three buyers, Coupa P2P, CLM, and travel — got to **99% spend on contract**, cut requisition cycle **3 days → 1.5**, and raised supplier e-invoicing **+50%**, which took load off AP. Comcast gave me enterprise scale after that. Pengate’s moment — multi-site dealer, recent acquisitions, Finance wanting control and visibility — is the same builder problem I already solved.
+**Role:** Procurement Manager / Strategic Procurement Lead · Chalfont  
+**Panel:** Michael Bock, CPA (VP Finance) — **again** · John Leshinski (EVP Administration: Finance, HR, IT/IS, Systems)  
+**Print this page.** Full intel: `pengate-procurement-manager.md`
 
 ---
 
-## Proof lines (Finance language)
+## Panel read
 
-| Metric | Story |
-|--------|--------|
-| **99% on contract** | Policy + Coupa + enforcement — not “install and hope” |
-| **PR 3 → 1.5 days** | Approvals + process; working capital / ops speed |
-| **E-invoice +50%** | Upstream vendor enablement → less AP labor |
-| **Team of 3 + policy** | Org design, not just personal buying |
-| **Coupa · Ironclad · DocuSign · TripActions · NetSuite** | Systems + change management |
+| Name | Role | What they optimize for | Your angle |
+|------|------|------------------------|------------|
+| **Michael Bock, CPA** | VP Finance (corp filing: V.P. of Finance, York) | Controls, close, AP quality, spend visibility, audit | Deeper than last time — metrics, AP partnership, 90-day deliverables. Don’t replay the same monologue. |
+| **John Leshinski** | EVP Admin — Finance, HR, IT/IS & Systems | Org design, change mgmt, **contracting / commercial risk**, systems with IT, people plan | Builder + CLM (Ironclad/DocuSign) + NDA→MSA→PSA discipline + Versant-scale negotiation. Likely **offer decision weight**. |
 
-Lead with **controls / visibility / AP partnership**. Use **30% BOM** only if they ask about savings depth.
+**Hand-off rule:** Bock hears *control & AP*. Leshinski hears *operating model + contracts + IT/HR*. Same Plenty facts — different cut. Never identical wording twice.
+
 
 ---
 
-## How I’d stand it up (framework)
+## Open (40s — both in room)
 
-1. **Diagnose (weeks 1–4):** Spend map by category/site/entity; who buys today; vendor master & PO→AP path; maverick spend; post-acquisition gaps (Arbor/Hooper).
-2. **Govern (weeks 3–8):** Procurement policy, approval matrix, vendor onboarding, contract thresholds — co-authored with Finance/Legal.
-3. **Control the flow (days 30–90):** PR→PO→receipt→invoice discipline in ERP; partner on Concur/expense adjacency; top-category sourcing (parts, facilities, IT, contract labor, project/systems vendors).
-4. **Scale:** Hire plan only after volume and controls prove the need — start as player-coach.
-
-**Year-1 scoreboard with VP Finance:** % spend on contract · PR/PO cycle time · e-invoice / exception rate · savings vs budget · audit findings closed.
+> Last time with Michael I covered standing the function up. Short version: at Plenty I built procurement — policy, three buyers, Coupa P2P, CLM, travel — **99% on contract**, PR **3→1.5 days**, e-invoice **+50%** for AP. Comcast = enterprise scale after. I’m here because Pengate needs that builder under Finance/Admin as you grow and integrate — and I want to go deeper on how I’d partner with Michael’s team and with IT/HR under John’s tower.
 
 ---
 
-## Likely Q → A bullets
+## Proof split (don’t duplicate)
 
-**How would you build procurement from scratch?**  
-Diagnose → policy/approvals → system hygiene → category quick wins → hire plan. Plenty = proof I did it end-to-end.
-
-**What does Finance get from procurement?**  
-Spend visibility, on-contract compliance, cleaner AP intake, faster close support, fewer surprises on vendors/contracts.
-
-**First 90 days?**  
-Baseline KPIs; publish policy + approval matrix; fix top 3 process leaks; source 2–3 high-impact categories; recommend ERP/P2P roadmap (don’t boil the ocean day one).
-
-**How do you partner with AP?**  
-I own upstream: vendor master quality, PO accuracy, e-invoicing. Plenty: +50% e-invoice → less AP labor.
-
-**Maverick spend / stakeholder pushback?**  
-Make the easy path the compliant path (catalogs, SLAs, clear thresholds). Escalate on risk/thresholds; coach on speed — cycle time proof builds trust.
-
-**Team — hire when?**  
-Player-coach first. Hire when volume/complexity exceeds control quality — not vanity headcount.
-
-**Why leave Comcast / why Pengate?**  
-Want builder ownership again — full function, Finance partnership, growth via acquisitions. Enterprise buyer experience stays; mandate matches Plenty chapter.
-
-**Systems / ERP?**  
-Led Coupa P2P + NetSuite MRP migration. Assess current stack before recommending; optimize controls in what you have, then sequence tooling.
+| Proof | Tell **Bock** | Tell **Leshinski** |
+|-------|---------------|---------------------|
+| Coupa + policy | On-contract % / cycle time / close support | Change management + IT partnership to make it stick |
+| E-invoice +50% | AP labor relief, cleaner intake | Cross-function ownership (procurement owns upstream) |
+| Team of 3 | Headcount only after volume proves need | Org design / when to hire / coaching buyers |
+| NetSuite MRP | ERP discipline adjacent to P2P | Program leadership with ops + systems |
+| 30% BOM | Only if savings asked | Skip unless he goes commercial |
+| **Contracts / Legal** | Thresholds, liability/payment terms that hit close | **Lead for Leshinski** — paper ladder, CLM, Versant/spinco |
 
 ---
 
-## Ask them (pick 3)
+## Contracting pack — Leshinski will press this `[inferred]`
 
-1. What broken today made procurement a **Finance** priority vs ops owning buying?
-2. Post-Arbor/Hooper — how fragmented are vendor masters, POs, and approvals across entities?
-3. What does **success look like at 12 months** for you (compliance, savings, headcount, systems)?
-4. What’s the current ERP / PO / AP / Concur stack — and what’s off-limits vs open to change?
-5. Where should I spend political capital first — parts, facilities, project/systems vendors, or IT?
+**Positioning line (say this first):**  
+> I’m not outside counsel — I’m the commercial owner who structures the deal, redlines business terms, and partners Legal on risk. At Plenty I stood up CLM (Ironclad + DocuSign SpringCM) and got to **99% on contract**. At Comcast I’ve run executive negotiations including work through the **Versant spin** — assignment, separation, and clean paper between entities.
+
+**Paper ladder (how you’d run Pengate):**
+1. **NDA** — early vendor talks / data / site access (esp. systems projects)
+2. **MSA** — master commercial + legal framework (liability, IP, indemnity, insurance, termination)
+3. **PSA / SOW** — scoped services (rates, SLAs, deliverables, change orders) — IT, contract labor, project vendors
+4. **PO / amendment** — commit spend under the MSA; don’t invent one-off paper for every buy
+
+**Thresholds:** Small/standard → playbook + CLM templates. Material $ / liability / multi-year / exclusivity → Legal + you in the room. Finance (Bock) signs off on spend authority.
+
+**Plenty proof:** Implemented Ironclad + DocuSign SpringCM; policy enforced on-contract buying; Finance/Legal/IT aligned.
+
+**Comcast / Versant proof (user):** Executive negotiations on tech/infra categories; **spinco into Versant** — renegotiate / assign / split vendor agreements so both entities have clean, enforceable paper (payment entity, liability, continuity). *Don’t invent $ or clause wins — lead with process + risk outcomes unless you confirm numbers.*
+
+**If he asks “walk a tough negotiation”:**  
+Versant/spinco = complexity (two entities, continuity of service, who pays, who holds liability) **or** Plenty 30% BOM if he wants a pure commercial savings story.
+
+**Ask Leshinski:** Who owns contract templates today — Legal, Finance, or ad hoc? What’s the $ threshold before Legal must review?
+
+**Bock (again) — go deeper**  
+- *What’s different since we last spoke?* → Reflect 1–2 things he cared about; add concrete 30/60/90 deliverables for *his* KPIs.  
+- *How do you work with AP/accounting?* → Own vendor master, PO quality, e-invoice; share exception dashboard; Plenty +50%.  
+- *Risk if we hire wrong?* → Maverick spend stays; AP exceptions; no visibility post-M&A — that’s why diagnose→govern first.  
+- *Systems day one?* → Assess stack (ERP/Concur); optimize controls before buying tools.
+
+**Leshinski — skip-level**  
+- *Why this role / why you?* → Builder ownership (Plenty) + Finance/Admin home (not orphaned buying).  
+- *Contracts / Legal?* → Commercial owner + Legal partner; NDA→MSA→PSA→PO; Plenty CLM (Ironclad/DocuSign) + 99% on contract; Comcast exec + Versant spinco paper.  
+- *How do you land change with ops who “always bought this way”?* → Easy compliant path + cycle-time credibility; escalate on risk/thresholds only.  
+- *People plan?* → Player-coach; hire when volume/complexity breaks controls — business case to him/Michael.  
+- *IT/systems?* → Led Coupa, Ironclad/DocuSign, TripActions, NetSuite migration with IT — requirements first, tool second.  
+- *Fit with HR?* → Policy, roles, onboarding vendors/people; won’t invent HR process — partner.
+
+
+---
+
+## Ask them (tag who)
+
+1. **Bock:** From our last conversation — what would you want me to prove in the first 90 days above everything else?  
+2. **Leshinski:** Procurement sits under Finance/Admin — what success looks like for *you* at 12 months (controls vs savings vs headcount vs systems)?  
+3. **Leshinski:** How should procurement partner with IT on ERP/Concur vs what stays off-limits near-term?  
+4. **Leshinski:** Who owns contract templates / Legal review thresholds today — and what’s broken in vendor paper post-Arbor/Hooper?  
+5. **Either:** Post-Arbor/Hooper — biggest fragmentation risk (vendor master, POs, approvals)?  
+6. **Bock:** Where does AP hurt most today — invoices without POs, vendor master, or exceptions?
 
 ---
 
 ## Don’t
 
-- Over-index manufacturing BOM / FDA stories — translate to **dealer spend** (parts, service vendors, facilities, IT, contract labor, automation project vendors).
-- Promise Coupa day-one if they don’t have it — sell **operating model**, then tools.
-- Badmouth Comcast. Don’t invent Comp numbers — ask for the band.
-- Sound like a pure cost-cutter — VP Finance hears **control, forecastability, audit**.
+- Recite the full Plenty story twice — Bock already heard it.  
+- Promise Coupa / ignore David Brieck’s IT lane — sell operating model, then sequence tools with IT.  
+- Lead BOM/FDA — translate to parts, facilities, IT, contract labor, project vendors.  
+- Sound like you’ll bypass Michael once John is in the room — **Bock is day-to-day partner**.
+- Claim you’re a lawyer or invent Versant $ / clause wins — process + risk ownership only unless you’ve confirmed numbers.

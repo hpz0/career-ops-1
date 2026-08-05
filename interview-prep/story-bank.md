@@ -101,12 +101,43 @@ Accumulated stories for interviews. Only facts backed by `cv.md` / user statemen
 
 ---
 
+## S7 — CLM + Contract Stack (Plenty)
+
+**Use for:** Legal/contracting questions (Pengate / Leshinski), “how do you work with Legal,” NDA/MSA/PSA discipline  
+**Audience:** hiring-manager · panel-mixed
+
+- **Situation:** Needed company-wide contract discipline, not one-off Word docs.
+- **Task:** Stand up contract lifecycle management alongside P2P.
+- **Action:** Led Ironclad + DocuSign SpringCM (CLM) implementations; published Procurement Policy; partnered Finance and Legal on when paper was required vs PO under existing agreement.
+- **Result:** **99% of spend on contract** (same program as Coupa/policy).
+- **Reflection:** CLM only works with thresholds + templates + buyer behavior — same lesson as P2P.
+
+**Proof source:** cv.md — Global Supply Manager, Plenty
+
+---
+
+## S8 — Comcast executive negotiation + Versant spinco paper (user-stated)
+
+**Use for:** Complex negotiation / Legal partnership / entity change (Pengate Leshinski)  
+**Audience:** hiring-manager · panel-mixed
+
+- **Situation:** Comcast enterprise tech/infra vendor portfolio; corporate separation of Versant Media Group (spin completed Jan 2026 — public fact).
+- **Task:** Drive executive-level contract negotiations; work vendor agreements through the Comcast → Versant spin so entities have clean commercial paper.
+- **Action (user-stated — keep honest):** Negotiated / structured across standard paper types — **NDAs, MSAs, PSAs** — and spin-related assignment/separation of vendor agreements (payment entity, liability, service continuity). Partnered Legal; owned commercial terms.
+- **Result:** Do not invent $ or clause wins unless user confirms. Safe claim: navigated multi-entity complexity and kept vendor relationships operable across the separation.
+- **Reflection:** Spinco work is the same muscle Pengate needs post-Arbor/Hooper — clean paper across entities, not just cheaper unit prices.
+
+**Proof source:** cv.md (executive-level contract negotiations, commercial risk); user statement 2026-08-05 (NDA/MSA/PSA + Versant spin negotiations). **Add metrics to cv.md only if user confirms.**
+
+---
+
 ## Gaps (draft when ready)
 
 - [ ] Conflict / influence with Finance or Controller-type stakeholder
 - [ ] Failed automation or adoption miss + recovery
 - [x] **S6 — Team coaching (junior buyer → IT category owner)** — drafted; verify soft details before HM
-- [ ] Comcast enterprise portfolio negotiation (need metrics user can confirm)
+- [x] **S7 / S8 — Contracting + Versant** — drafted from user; confirm Versant metrics before claiming numbers
+- [ ] Comcast enterprise portfolio negotiation metrics (user can confirm $ / cycle)
 
 ### Ramp Activation note (2026-07-29)
 
