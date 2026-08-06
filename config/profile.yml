@@ -166,6 +166,11 @@ cover_letter:
 
 # ── Active interviews (operational — not CV claims) ───────────────────────
 active_interviews:
+  - company: "The Nuclear Company"
+    role: "Sr. Category Manager (Indirect/Corporate)"
+    track: "A"
+    status: "Interviewing — recruiter screen (Juli Hile)"
+    notes: "Screen tomorrow. Greenhouse 5170106008. Comp $151–176K base. Candidate told them OK relocating (DC or Columbia SC hybrid) — do not reopen. Prep: interview-prep/the-nuclear-company-cheatsheet.md + the-nuclear-company-sr-category-manager.md. Indirect fit strong (Plenty)."
   - company: "Pengate Handling Systems"
     role: "Procurement Manager / Strategic Procurement Lead (Chalfont)"
     track: "A"
@@ -300,6 +305,10 @@ re_apply_windows:
     same_role_days: 90
     last_apply_date: "2026-06-30"
     notes: "Applied Procurement Manager"
+  "The Nuclear Company":
+    same_role_days: 180
+    last_apply_date: "2026-07-24"
+    notes: "Active Interview — Sr. Category Manager Indirect/Corporate (Juli Hile). Candidate OK relocating DC/Columbia SC. Do not re-apply; focus on prep."
   Ramp:
     same_role_days: 180
     last_apply_date: "2026-07-01"

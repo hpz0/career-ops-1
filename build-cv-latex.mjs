@@ -5,50 +5,13 @@ import { existsSync } from 'fs';
 import { resolve, dirname, basename, join } from 'path';
 import { fileURLToPath } from 'url';
 import { tmpdir } from 'os';
+import { escapeLatex, sanitizeUrl } from './lib/latex-escape.mjs';
+import { resolveTemplate } from './cv-templates.mjs';
+import { stripEmptySections } from './cv-sections-core.mjs';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const TEMPLATE_PATH = resolve(__dirname, 'templates', 'cv-template.tex');
 const PLACEHOLDER_RE = /\{\{[A-Z_]+\}\}/g;
-
-function escapeLatex(text, mode = 'text') {
-  if (typeof text !== 'string') return '';
-  if (mode === 'url') return text;
-  const out = [];
-  for (const ch of text) {
-    switch (ch) {
-      case '\\': out.push('\\textbackslash{}'); break;
-      case '{': case '}': out.push('\\' + ch); break;
-      case '^': out.push('\\textasciicircum{}'); break;
-      case '~': out.push('\\textasciitilde{}'); break;
-      case '_': out.push('\\_'); break;
-      case '&': out.push('\\&'); break;
-      case '%': out.push('\\%'); break;
-      case '$': out.push('\\$'); break;
-      case '#': out.push('\\#'); break;
-      case '\u00B1': out.push('$\\pm$'); break;
-      case '\u2192': out.push('$\\rightarrow$'); break;
-      default: out.push(ch);
-    }
-  }
-  return out.join('');
-}
-
-function sanitizeUrl(url) {
-  if (typeof url !== 'string') return '';
-  url = url.trim();
-  if (!url) return '';
-  const allowedSchemes = ['mailto:', 'http:', 'https:'];
-  const hasScheme = allowedSchemes.some(s => url.toLowerCase().startsWith(s));
-  if (!hasScheme) {
-    if (url.includes('@') && !url.includes('/')) {
-      url = 'mailto:' + url;
-    } else {
-      url = 'https://' + url;
-    }
-  }
-  url = url.replace(/[{}%$#\\~^]/g, '');
-  return url;
-}
 
 function buildEducation(entries) {
   if (!Array.isArray(entries) || entries.length === 0) return '';
@@ -84,6 +47,21 @@ function buildProjects(entries) {
     const context = e.context ? ` \\emph{$|$ ${escapeLatex(e.context)}}` : '';
     const bullets = Array.isArray(e.bullets) ? e.bullets.map(b => `            \\resumeItem{${escapeLatex(b)}}`).join('\n') : '';
     blocks.push(`    \\resumeProjectHeading\n      {\\textbf{${escapeLatex(e.name)}}${context}}{${escapeLatex(e.dates)}}\n      \\resumeItemListStart\n${bullets}\n      \\resumeItemListEnd`);
+  }
+  return blocks.join('\n\n');
+}
+
+// Awards are one line each — no bullet list — so they reuse
+// \resumeProjectHeading (bold left column, year right) rather than
+// \resumeSubheading, which would leave an empty second row. The issuing body
+// follows the title in the same $|$ style buildProjects() uses for context.
+function buildAwards(entries) {
+  if (!Array.isArray(entries) || entries.length === 0) return '';
+  const blocks = [];
+  for (const e of entries) {
+    if (!e) continue;
+    const org = e.org ? ` \\emph{$|$ ${escapeLatex(e.org)}}` : '';
+    blocks.push(`    \\resumeProjectHeading\n      {\\textbf{${escapeLatex(e.title)}}${org}}{${escapeLatex(e.year)}}`);
   }
   return blocks.join('\n\n');
 }
@@ -137,12 +115,26 @@ async function main() {
     process.exit(1);
   }
 
-  if (!existsSync(TEMPLATE_PATH)) {
-    console.error(`Template not found: ${TEMPLATE_PATH}`);
+  // Honor a selected .tex template variant (cv.template default or --template=<name>),
+  // falling back to the base cv-template.tex when no variant exists.
+  const texName = (process.argv.find((a) => a.startsWith('--template=')) || '').split('=')[1];
+  let TEMPLATE_PATH_RESOLVED;
+  try {
+    TEMPLATE_PATH_RESOLVED = resolveTemplate('cv', texName, { format: 'tex', fallback: true });
+  } catch {
+    TEMPLATE_PATH_RESOLVED = TEMPLATE_PATH;
+  }
+
+  if (!existsSync(TEMPLATE_PATH_RESOLVED)) {
+    console.error(`Template not found: ${TEMPLATE_PATH_RESOLVED}`);
     process.exit(1);
   }
 
-  let template = await readFile(TEMPLATE_PATH, 'utf-8');
+  let template = await readFile(TEMPLATE_PATH_RESOLVED, 'utf-8');
+
+  // Drop the optional sections (projects, education) that have no entries, so
+  // an absent one leaves no bare header behind. See cv-sections-core.mjs.
+  template = stripEmptySections(template, payload, 'tex');
 
   const emailUrl = sanitizeUrl(payload.email?.url || '');
   const emailDisplay = payload.email?.display || emailUrl;
@@ -163,6 +155,7 @@ async function main() {
     EDUCATION: buildEducation(payload.education),
     EXPERIENCE: buildExperience(payload.experience),
     PROJECTS: buildProjects(payload.projects),
+    AWARDS: buildAwards(payload.awards),
     SKILLS: buildSkills(payload.skills),
   };
 
@@ -194,6 +187,7 @@ async function main() {
       educationEntries: (payload.education || []).length,
       experienceEntries: (payload.experience || []).length,
       projectEntries: (payload.projects || []).length,
+      awardEntries: (payload.awards || []).length,
       skillCategories: (payload.skills || []).length,
       totalBullets: (() => {
         const ex = Array.isArray(payload.experience) ? payload.experience.flatMap(e => Array.isArray(e?.bullets) ? e.bullets : []) : [];
@@ -240,6 +234,10 @@ async function runSelfTest() {
         'Built a REST API with automated test coverage exceeding 90%',
       ],
     }],
+    awards: [
+      { title: 'Gold Medal, International Olympiad in Informatics', org: 'IOI', year: '2023' },
+      { title: "Dean's List", org: 'Test University', year: '2022' },
+    ],
     skills: [
       { category: 'Languages', items: 'Python, JavaScript, TypeScript' },
       { category: 'Frameworks', items: 'FastAPI, React, PyTorch' },
@@ -280,6 +278,7 @@ async function runSelfTest() {
     EDUCATION: buildEducation(sample.education),
     EXPERIENCE: buildExperience(sample.experience),
     PROJECTS: buildProjects(sample.projects),
+    AWARDS: buildAwards(sample.awards),
     SKILLS: buildSkills(sample.skills),
   };
 
@@ -313,6 +312,7 @@ async function runSelfTest() {
       educationEntries: sample.education.length,
       experienceEntries: sample.experience.length,
       projectEntries: sample.projects.length,
+      awardEntries: sample.awards.length,
       skillCategories: sample.skills.length,
       totalBullets: (() => {
         const ex = Array.isArray(sample.experience) ? sample.experience.flatMap(e => Array.isArray(e?.bullets) ? e.bullets : []) : [];
