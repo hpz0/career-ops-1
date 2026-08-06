@@ -14,6 +14,7 @@ import { join, dirname, resolve } from 'path';
 import { tmpdir } from 'os';
 import { fileURLToPath, pathToFileURL } from 'url';
 import yaml from 'js-yaml';
+import { flagValue, hasFlag } from './lib/cli-flags.mjs';
 
 const ROOT = dirname(fileURLToPath(import.meta.url));
 const PROVIDERS_DIR = join(ROOT, 'providers');
@@ -88,13 +89,29 @@ function validateParser(parser, path, errors) {
 
 async function loadProviderIds() {
   const ids = new Set();
-  if (!existsSync(PROVIDERS_DIR)) return ids;
-  const files = readdirSync(PROVIDERS_DIR)
-    .filter(f => f.endsWith('.mjs') && !f.startsWith('_'))
-    .sort();
-  for (const file of files) {
-    const mod = await import(pathToFileURL(join(PROVIDERS_DIR, file)).href);
-    if (mod.default?.id) ids.add(mod.default.id);
+  if (existsSync(PROVIDERS_DIR)) {
+    const files = readdirSync(PROVIDERS_DIR)
+      .filter(f => f.endsWith('.mjs') && !f.startsWith('_'))
+      .sort();
+    for (const file of files) {
+      const mod = await import(pathToFileURL(join(PROVIDERS_DIR, file)).href);
+      if (mod.default?.id) ids.add(mod.default.id);
+    }
+  }
+
+  // scan.mjs accepts explicit provider-plugin ids even when a plugin is
+  // disabled or missing credentials (the runtime installs an actionable
+  // inactive-provider stub). Keep validation aligned with that contract.
+  try {
+    const { discoverPlugins, pluginRoots, resolveSuccessorIds } = await import('./plugins/_engine.mjs');
+    const manifests = discoverPlugins(pluginRoots(ROOT), resolveSuccessorIds(ROOT));
+    for (const manifest of manifests) {
+      if (manifest.hooks.includes('provider')) ids.add(manifest.id);
+    }
+  } catch (err) {
+    // A stripped-down checkout may not include plugin infrastructure. Core
+    // provider validation should continue to work in that environment.
+    if (err?.code !== 'ERR_MODULE_NOT_FOUND') throw err;
   }
   return ids;
 }
@@ -157,6 +174,21 @@ export async function validatePortalsConfig(config, { providerIds = new Set() } 
           }
         }
       }
+    }
+  }
+
+  if (config.visa_filter !== undefined) {
+    if (!isObject(config.visa_filter)) {
+      add(errors, 'visa_filter', 'visa_filter must be an object');
+    } else {
+      if (config.visa_filter.enabled !== undefined && typeof config.visa_filter.enabled !== 'boolean') {
+        add(errors, 'visa_filter.enabled', 'must be a boolean when set');
+      }
+      if (config.visa_filter.require_mention !== undefined && typeof config.visa_filter.require_mention !== 'boolean') {
+        add(errors, 'visa_filter.require_mention', 'must be a boolean when set');
+      }
+      validateKeywordList(config.visa_filter.positive, 'visa_filter.positive', errors);
+      validateKeywordList(config.visa_filter.negative, 'visa_filter.negative', errors);
     }
   }
 
@@ -250,8 +282,11 @@ async function main() {
     return;
   }
 
-  const fileFlag = args.indexOf('--file');
-  const filePath = resolve(fileFlag === -1 ? DEFAULT_PORTALS_PATH : args[fileFlag + 1] || '');
+  // An explicit but empty `--file=` must reach the usage error below. Passing
+  // '' to resolve() would return the CURRENT DIRECTORY, and the script would
+  // then try to validate a directory and report a filesystem error instead.
+  const fileFlag = hasFlag(args, '--file') ? (flagValue(args, '--file') ?? '') : undefined;
+  const filePath = fileFlag === undefined ? resolve(DEFAULT_PORTALS_PATH) : (fileFlag ? resolve(fileFlag) : '');
   if (!filePath) {
     console.error('Usage: node validate-portals.mjs [--file portals.yml] [--self-test]');
     process.exit(1);
