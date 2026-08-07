@@ -11,6 +11,8 @@
 // "Posted 5 Days Ago", "Posted 30+ Days Ago"); postedAt is derived from it
 // and omitted for the unbounded "30+ Days Ago" form.
 
+import { BROWSER_LIKE_USER_AGENT } from './_http.mjs';
+
 const PAGE_SIZE = 20;
 
 // Safety cap on pagination — applied regardless of what the upstream reports
@@ -107,8 +109,17 @@ async function fetchPageWithRetry(ctx, api, opts) {
   throw lastErr;
 }
 
-/** True once a page's oldest unambiguously-dated posting is past the --since window. */
-function pageIsPastWindow(pageJobs, sinceMs) {
+/**
+ * True once a page's oldest unambiguously-dated posting is past the --since window.
+ *
+ * Undated postings are invisible here. A page of nothing but undated postings
+ * never stops pagination (the `dated.length === 0` guard), but a page that
+ * mixes stale dated postings with undated ones does — and the undated ones on
+ * later pages are then never fetched, even though scan.mjs's date filters
+ * would have accepted them. Exported for test-all.mjs, which pins that
+ * behaviour so it can't drift without the docs drifting too.
+ */
+export function pageIsPastWindow(pageJobs, sinceMs) {
   if (typeof sinceMs !== 'number') return false;
   const dated = pageJobs.map((j) => j.postedAt).filter((v) => typeof v === 'number');
   if (dated.length === 0) return false;
@@ -132,6 +143,7 @@ function resolveEndpoint(entry) {
       // externalPath is relative to the site, not the host root — without the
       // site segment the URL 404s.
       jobBase: `${origin}/${site}`,
+      origin,
     };
   }
   return null;
@@ -184,11 +196,37 @@ export default {
     return ep ? { url: ep.api } : null;
   },
 
+  /**
+   * Fetch all job postings for a Workday-backed entry, paginating through
+   * the tenant's CXS API.
+   *
+   * Some tenants front their CXS API with Cloudflare bot management (seen
+   * live: geico) that 500s requests missing ordinary browser headers — the
+   * default UA/accept-language-less request trips it even over plain HTTPS
+   * with no other red flags. A real Chrome UA + accept-language + matching
+   * origin/referer clears it without needing per-tenant config (same fix
+   * as providers/glints.mjs's firewall).
+   *
+   * @param {{ name?: string, api?: string, careers_url?: string, max_pages?: number }} entry
+   * @param {{ fetchJson: (url: string, opts?: object) => Promise<any>, sinceMs?: number, maxPages?: number }} ctx
+   * @returns {Promise<Array<{title: string, url: string, company: string, location: string, postedAt?: number}>>}
+   */
   async fetch(entry, ctx) {
     const ep = resolveEndpoint(entry);
     if (!ep) throw new Error(`workday: cannot derive CXS endpoint for ${entry.name}`);
 
-    const postOpts = { method: 'POST', redirect: 'error', headers: { 'content-type': 'application/json', accept: 'application/json' } };
+    const postOpts = {
+      method: 'POST',
+      redirect: 'error',
+      headers: {
+        'content-type': 'application/json',
+        accept: 'application/json',
+        'user-agent': BROWSER_LIKE_USER_AGENT,
+        'accept-language': 'en-US,en;q=0.9',
+        origin: ep.origin,
+        referer: `${ep.jobBase}/`,
+      },
+    };
     const makeBody = (offset) => JSON.stringify({ limit: PAGE_SIZE, offset, searchText: '', appliedFacets: {} });
     const sinceMs = typeof ctx?.sinceMs === 'number' ? ctx.sinceMs : null;
 
@@ -276,11 +314,17 @@ export default {
     // (a full-directory scan can hit this on dozens of tenants).
     //
     // "raise max_pages" only applies when `entry` is a real portals.yml
-    // tracked_companies entry (scan.mjs, sinceMs === null). scan-ats-full.mjs's
-    // reverse scan (the only caller that sets ctx.sinceMs) synthesizes entries
-    // from the external dataset — there's no portal entry to edit, and no
-    // fixed cap can guarantee full coverage of an unbounded company
-    // directory anyway, so there's nothing else to suggest.
+    // tracked_companies entry — there is something to edit. scan-ats-full.mjs's
+    // reverse scan synthesizes entries from the external dataset, so there's no
+    // portal entry to point at, and no fixed cap can guarantee full coverage of
+    // an unbounded company directory anyway; nothing else to suggest there.
+    //
+    // The branch below keys on `sinceMs === null` as a proxy for that
+    // distinction. Since #2418 the proxy is no longer exact: `scan.mjs --since`
+    // also sets ctx.sinceMs, so those runs take the else branch and get the
+    // terser message even though they DO have a portals.yml entry to raise.
+    // Harmless (the cap is still surfaced, just without the suggestion) but
+    // worth knowing before trusting the proxy — see #2495.
     if (stopReason === 'cap') {
       const jobsSummary = `${jobs.length}${total !== null ? ` of ${total}` : ''} jobs`;
       if (sinceMs === null) {
@@ -301,6 +345,12 @@ export default {
     // times, so tag the array instead; scan-ats-full.mjs aggregates it into
     // one summary line.
     if (stopReason === 'no-date-skip') jobs.workdayNoDateSkip = true;
+    // 'fetch-error' means retries were exhausted mid-pagination while 19
+    // other tenants were hammering the same uplink. scan-ats-full.mjs
+    // collects tagged tenants and retries them sequentially after the
+    // parallel sweep, when the line is quiet — same array-tag pattern as
+    // workdayNoDateSkip (no extra per-tenant logging here).
+    if (stopReason === 'fetch-error') jobs.workdayTruncated = true;
 
     return jobs;
   },
