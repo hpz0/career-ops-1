@@ -179,13 +179,13 @@ active_interviews:
   - company: "Ramp"
     role: "Senior Manager, Procurement Product Activation (remote/hybrid TBD)"
     track: "A-adjacent"
-    status: "Interviewing — recruiter screen"
-    notes: "Official recruiter outreach 2026-07-29. CS activation leadership (founding playbook), NOT AE. Ashby d238a056. Comp Nationwide OTE $166–227K 70/30. MUST confirm fully remote + base ≥$140K. Prep: interview-prep/ramp-senior-manager-procurement-product-activation.md + ramp-procurement-activation-cheatsheet.md. Prior Max AE chat is exploratory context only."
+    status: "Interviewing — HM with Caroline Novas (Wed Aug 12, 2026)"
+    notes: "Ashby d238a056. Comp Nationwide OTE $166–227K 70/30 — confirm base ≥$140K + fully remote. Prep: ramp-caroline-novas-hm-cheatsheet.md + ramp-caroline-novas-hm.md + playbook plan + HM Q&A. Caroline = Director CS Scaled & Partnerships / ex Self-Service Activations — lead scaled OS + procurement authority."
   - company: "Ramp"
     role: "Account Executive (remote)"
     track: "B"
     status: "Exploratory / deprioritized vs Activation seat"
-    notes: "Informal chat with Max (SVP Sales). Keep warm but prioritize Senior Manager Procurement Product Activation recruiter process."
+    notes: "Informal chat with Max (SVP Sales). Keep warm but prioritize Senior Manager Procurement Product Activation HM process."
 
 # ── Recent application signals (Jul 2026 — informs targeting, not tracker) ─
 recent_apply_patterns:
@@ -312,4 +312,4 @@ re_apply_windows:
   Ramp:
     same_role_days: 180
     last_apply_date: "2026-07-01"
-    notes: "Active Interview — Senior Manager Procurement Product Activation (recruiter). Do not re-apply; focus on prep. AE exploratory with Max is secondary."
+    notes: "Active Interview — HM Caroline Novas Wed Aug 12 2026. Do not re-apply; focus on prep."

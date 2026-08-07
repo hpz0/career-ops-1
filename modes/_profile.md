@@ -57,7 +57,7 @@ When generating PDF/cover for AE/AM roles:
 **Frame:** The buyer who understands what it's like on the other side of the table.
 
 - **Track A (procurement):** Plenty builder → leaving Comcast bureaucracy → remote-first startup
-- **Track A-adjacent (Ramp Activation):** Active **recruiter screen** for Senior Manager, Procurement Product Activation — founding playbook / specialist coaching. Prioritize over AE cold apps.
+- **Track A-adjacent (Ramp Activation):** Active **HM round with Caroline Novas (Wed Aug 12, 2026)** for Senior Manager, Procurement Product Activation. Prep: `ramp-caroline-novas-hm-cheatsheet.md`. Prioritize over AE cold apps.
 - **Track B (AE/AM):** Ramp AE exploratory with Max (SVP Sales) — secondary to Activation seat; still valid for other fintech AE roles where buyer-side fluency is the wedge.
 - **In interviews (activation):** Lead Coupa go-live + policy + coaching; do not lead with quota pivot
 - **In interviews (AE):** Use Plenty supplier negotiation stories as "how I'd handle a skeptical procurement stakeholder today — because I was one"
@@ -86,7 +86,7 @@ When generating PDF/cover for AE/AM roles:
 |---------|------|-------|-------|
 | **The Nuclear Company** | Sr. Category Manager (Indirect/Corporate) | A | **Recruiter screen w/ Juli Hile.** Cheat sheet: `interview-prep/the-nuclear-company-cheatsheet.md`. Comp $151–176K. **OK relocating** (already told them). |
 | **Pengate Handling Systems** | Procurement Manager / Strategic Procurement Lead (Chalfont) | A | Next: **Michael Bock** (VP Finance, again) + **John Leshinski** (EVP Admin). Cheat sheet: `interview-prep/pengate-cheatsheet.md`. |
-| **Ramp** | Senior Manager, Procurement Product Activation | A-adjacent | **Active recruiter screen** — CS founding playbook seat. Use `interview-prep/ramp-senior-manager-procurement-product-activation.md` + cheatsheet. Confirm remote + 70/30 base. |
+| **Ramp** | Senior Manager, Procurement Product Activation | A-adjacent | **HM Caroline Novas — Wed Aug 12, 2026.** Use `ramp-caroline-novas-hm-cheatsheet.md` + `ramp-caroline-novas-hm.md`. Confirm remote + 70/30 base. |
 | **Ramp** | Account Executive (remote) | B | Exploratory with Max (SVP Sales). Use `interview-prep/ramp.md`. Deprioritize vs Activation. |
 
 ## Hunt Priorities (from Jul 2026 applications)
