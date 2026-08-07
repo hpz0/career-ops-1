@@ -3,7 +3,7 @@
 ## House Rules
 
 - **Dual-track search:** Harrison targets both (A) procurement/supply chain builder roles AND (B) enterprise account management / account executive roles. Detect track from the JD title and tailor all output.
-- **Active interview (priority):** Ramp — Senior Manager, Procurement Product Activation (recruiter screen). Prep: `interview-prep/ramp-senior-manager-procurement-product-activation.md` + `ramp-procurement-activation-cheatsheet.md`. Do NOT suggest re-applying to Ramp. Confirm remote vs Hybrid and base under 70/30 OTE before advancing.
+- **Active interview (priority):** Ramp — Senior Manager, Procurement Product Activation — **HM Caroline Novas, Wed Aug 12, 2026**. Prep: `interview-prep/ramp-caroline-novas-hm-cheatsheet.md` + `ramp-caroline-novas-hm.md` + playbook plan. Do NOT suggest re-applying to Ramp. Confirm remote vs Hybrid and base under 70/30 OTE if not locked.
 - **Secondary Ramp thread:** AE exploratory with Max — keep warm; do not confuse with Activation role in outreach or prep.
 - **Hunt refinement (Jul 2026):** Prioritize **Director+** remote procurement/sourcing — especially **data centers, hardware, infrastructure**, and **source-to-pay / spend analytics**. **Remote US only — not relocating** to Boston, SF, NYC, etc. **Not an engineer** — discard engineering/PM/design titles. Deprioritize on-site PA suburbs and 25%+ travel titles.
 - **Scan is two steps (IMPORTANT):**

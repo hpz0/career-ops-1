@@ -101,49 +101,23 @@ Accumulated stories for interviews. Only facts backed by `cv.md` / user statemen
 
 ---
 
-## S7 — CLM + Contract Stack (Plenty)
+## S7 — Controller-signed credit packet (not vendor credit apps)
 
-**Use for:** Legal/contracting questions (Pengate / Leshinski), “how do you work with Legal,” NDA/MSA/PSA discipline  
-**Audience:** hiring-manager · panel-mixed
+**Use for:** Controller partnership · vendor onboarding · protecting the company from one-sided terms · playbook / Product feedback angle for Ramp Activation  
+**Audience:** hiring-manager · peer-tech · (light touch on recruiter if vendor-onboarding comes up)  
+**Status:** User-stated 2026-07-31 — confirm company/context if asked (fits Plenty-era process ownership with Controller; say so only if accurate).
 
-- **Situation:** Needed company-wide contract discipline, not one-off Word docs.
-- **Task:** Stand up contract lifecycle management alongside P2P.
-- **Action:** Led Ironclad + DocuSign SpringCM (CLM) implementations; published Procurement Policy; partnered Finance and Legal on when paper was required vs PO under existing agreement.
-- **Result:** **99% of spend on contract** (same program as Coupa/policy).
-- **Reflection:** CLM only works with thresholds + templates + buyer behavior — same lesson as P2P.
+- **Situation:** Vendors routinely pushed **their** credit applications as the path to open terms / a line of credit. Those packets buried the vendor’s terms — easy to sign away leverage or accept junk conditions while “just setting up credit.”
+- **Task:** Establish credit relationships without executing vendor-paper terms that weren’t negotiated or approved.
+- **Action:** Stopped signing vendor credit apps as the default. Instead worked with the **Controller** on a **company template packet** — Controller-signed — that gave vendors the financial/credit info they needed to extend terms, on **our** paper and posture.
+- **Result:** Vendors could still underwrite/open credit, but we avoided casually agreeing to their boilerplate credit terms. Cleaner control, faster “here’s what you need” motion, Finance stayed in the loop.
+- **Reflection:** Vendor onboarding isn’t clerical — it’s **risk and terms**. Same class of problem Activation sees: customers get stuck in vendor setup / credit / master-data sludge, or they sign whatever the vendor emails. A standard packet is a playbook artifact; “auto-fill the vendor’s form” without term control is a product smell.
+- **Ramp angles (pick one, don’t force):**
+  - **Playbook:** Discovery question — *How do you open vendor credit today? Who signs? Do you execute vendor apps or issue a standard company packet?*
+  - **Product feedback pattern:** Mid-market Controllers may want a **controlled credit/onboarding packet** (exportable, Finance-approved) more than blind “fill the vendor’s credit application” automation.
+  - **Credibility line:** *“I’ve sat with a Controller designing how we share credit info without accepting the vendor’s terms by accident.”*
 
-**Proof source:** cv.md — Global Supply Manager, Plenty
-
----
-
-## S8 — Comcast executive negotiation + Versant spinco paper (user-stated)
-
-**Use for:** Complex negotiation / Legal partnership / entity change (Pengate Leshinski)  
-**Audience:** hiring-manager · panel-mixed
-
-- **Situation:** Comcast enterprise tech/infra vendor portfolio; corporate separation of Versant Media Group (spin completed Jan 2026 — public fact).
-- **Task:** Drive executive-level contract negotiations; work vendor agreements through the Comcast → Versant spin so entities have clean commercial paper.
-- **Action (user-stated — keep honest):** Negotiated / structured across standard paper types — **NDAs, MSAs, PSAs** — and spin-related assignment/separation of vendor agreements (payment entity, liability, service continuity). Partnered Legal; owned commercial terms.
-- **Result:** Do not invent $ or clause wins unless user confirms. Safe claim: navigated multi-entity complexity and kept vendor relationships operable across the separation.
-- **Reflection:** Spinco work is the same muscle Pengate needs post-Arbor/Hooper — clean paper across entities, not just cheaper unit prices.
-
-**Proof source:** cv.md (executive-level contract negotiations, commercial risk); user statement 2026-08-05 (NDA/MSA/PSA + Versant spin negotiations). **Add metrics to cv.md only if user confirms.**
-
----
-
-## S9 — Post-M&A procurement consolidation approach (Pengate / Hooper–Arbor)
-
-**Use for:** “How would you fold Hooper into centralized procurement?” / vendor master / multi-entity spend  
-**Audience:** hiring-manager · panel-mixed (Bock + Leshinski)  
-**Status:** Approach talk track authorized 2026-08-05 — not a claim that candidate already ran Pengate PMI.
-
-- **Situation:** Pengate growing via acquisitions (Arbor Apr 2024, Hooper Dec 2024 — public). Buying, vendors, and contracts likely fragmented across entities.
-- **Task:** Stand up centralized procurement discipline without breaking site ops or AP.
-- **Action (plain English):** Don’t announce “everything through me” day one. Sit with Finance/AP/site buyers — map who buys what, where POs live, duplicate vendors, on-contract vs email buys. Put basic shared rules in place (PO thresholds, vendor add lock-down, Legal triggers). Clean vendor master with AP off close calendar so branches still get parts. Leave critical Hooper contracts alone until understood; rationalize overlapping vendors onto one agreement. Centralize control/visibility first; keep small local buys under thresholds; make the compliant path useful or people route around you.
-- **Result to promise:** Near-term = visibility + less free-for-all. Real centralization = duplicates cleaned + top shared suppliers on one deal. Don’t promise full org centralization in 90 days.
-- **Reflection / proof bridge:** Plenty = built function from scratch (policy, CLM, on-contract). Comcast = multi-entity portfolio + Versant paper (who pays, liability, continuity). Same problem class — clean entities, continuous supply, one set of rules. Haven’t seen Pengate’s books yet — say that.
-
-**Proof source:** User-authorized talk track 2026-08-05; cv.md Plenty builder + Comcast multi-brand/exec negotiation; S8 Versant. Public acquisition dates for framing only.
+**Proof source:** User statement in conversation 2026-07-31 (not yet in cv.md — fine for interview speech; add to cv/article-digest only if you want it on paper applications).
 
 ---
 
@@ -152,9 +126,7 @@ Accumulated stories for interviews. Only facts backed by `cv.md` / user statemen
 - [ ] Conflict / influence with Finance or Controller-type stakeholder
 - [ ] Failed automation or adoption miss + recovery
 - [x] **S6 — Team coaching (junior buyer → IT category owner)** — drafted; verify soft details before HM
-- [x] **S7 / S8 — Contracting + Versant** — drafted from user; confirm Versant metrics before claiming numbers
-- [x] **S9 — M&A / Hooper consolidation talk track** — plain-English approach on cheat sheet
-- [ ] Comcast enterprise portfolio negotiation metrics (user can confirm $ / cycle)
+- [ ] Comcast enterprise portfolio negotiation (need metrics user can confirm)
 
 ### Ramp Activation note (2026-07-29)
 
