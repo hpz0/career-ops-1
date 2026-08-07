@@ -3,11 +3,12 @@
 **URL:** https://www.pengate.com/information/careers (also posted as Procurement Manager / “Strategic Procurement Lead - Sourcing, ERP & Controls,” Chalfont, PA)
 **Legitimacy:** unknown (no evaluation report)
 **Report:** N/A
-**Researched:** 2026-07-27 (updated 2026-08-05 — Bock + Leshinski panel)
-**Sources:** Company site; LinkedIn company page; John Leshinski LinkedIn headline; WV SOS corp filing (Michael Bock, V.P. of Finance); Pengate LinkedIn safety post tagging Bock CPA + Leshinski; Indeed careers/FAQ; Nexxt job listings; Senior Accountant / AP Accountant postings (Concur, PO→AP signals); acquisition announcements (Arbor Apr 2024, Hooper Dec 2024)
-**Audiences covered:** hiring-manager (VP Finance), panel-mixed (Bock + Leshinski), recruiter-screen (light)
+**Researched:** 2026-07-27 (updated 2026-08-07 — Rebecca Leshinski peer interview)
+**Sources:** Company site; LinkedIn (John Leshinski, Rebecca Leshinski CPIM); WV SOS corp filing (Michael Bock, V.P. of Finance); Pengate LinkedIn safety post; Thruway / BorgWarner / Raymond role signals from Rebecca’s public LinkedIn; Indeed/Nexxt; Arbor/Hooper acquisitions
+**Audiences covered:** hiring-manager (VP Finance), panel-mixed (Bock + John), peer-practitioner (Rebecca), recruiter-screen (light)
 
-**Print companion:** [`pengate-cheatsheet.md`](pengate-cheatsheet.md) — 1-page sheet for **Michael Bock + John Leshinski** panel.
+**Print companion:** [`pengate-cheatsheet.md`](pengate-cheatsheet.md) — Bock + John panel · [`pengate-rebecca-leshinski-cheatsheet.md`](pengate-rebecca-leshinski-cheatsheet.md) — Rebecca (practitioner peer, not Pengate employee)
+
 
 ---
 
@@ -49,7 +50,8 @@
 ## Audience Map
 
 - **Prior round** (Michael Bock alone) → `hiring-manager`
-- **This round** (Bock + Leshinski) → `panel-mixed`
+- **Bock + John Leshinski** → `panel-mixed`
+- **Rebecca Leshinski, CPIM** (John’s spouse; not a Pengate employee; procurement peer) → `peer-tech` / practitioner peer
 - Later ops/HR peers → unknown `[inferred]`
 
 ---
@@ -59,13 +61,15 @@
 | Name | Role | Read |
 |------|------|------|
 | **Michael Bock, CPA** | VP of Finance (WV SOS: “MICHAEL BOCK, V P OF FINANCE”; corporate Vice-President, York HQ). Tagged “Michael Bock, CPA” on Pengate LinkedIn. | **Day-to-day hiring partner.** Already interviewed you once — likely primary process owner for the seat. Will test consistency, AP/controls depth, and whether you’ll actually report/partner into Finance. Weight: high on *working relationship*. Audience tag: `hiring-manager`. |
-| **John Leshinski** | EVP of Administration — Finance, HR, IT/IS and Systems ([LinkedIn](https://www.linkedin.com/in/john-leshinski-667b0a9)). Appears with Bock on internal leadership posts. | **Likely skip-level / offer-weight decision-maker** — owns the tower that includes Bock’s Finance org plus HR and IT. Will ask whether you can land change across Admin, sequence systems with IT, build a people plan without empire-building, **and handle contracting/commercial risk with Legal** (NDA/MSA/PSA discipline — high likelihood even though Legal isn’t in his title). Audience tag: `hiring-manager` (skip-level). |
+| **John Leshinski** | EVP of Administration — Finance, HR, IT/IS and Systems ([LinkedIn](https://www.linkedin.com/in/john-leshinski-667b0a9)). Appears with Bock on internal leadership posts. | **Likely skip-level / offer-weight decision-maker** — owns the tower that includes Bock’s Finance org plus HR and IT. Contracting/commercial risk + M&A change path. Audience tag: `hiring-manager` (skip-level). |
+| **Rebecca Leshinski, CPIM** | **Not a Pengate employee.** Corporate Director of Supply Chain at Thruway; prior BorgWarner Senior Supply Chain Manager; prior **Materials Manager / Manager Procurement Planning at The Raymond Corporation**; APICS CPIM. ([LinkedIn](https://www.linkedin.com/in/rebecca-leshinski-cpim-12477315)) | **Practitioner deep-dive / informal bar-raiser.** “Knows procurement” undersells it — she runs enterprise supply chain and has lived Raymond from the OEM side. Expect real questions on standing up procurement, parts/inventory, supplier strategy, M&A consolidation. Likely feeds judgment to John. Weight: high on *credibility as an operator*. Audience tag: `peer-tech`. Do **not** treat as a soft spouse coffee. |
 
-**Decision weighting:** Leshinski’s scope (Finance + HR + IT) makes him the probable final yes/no above Bock; Bock is still who you’d work with weekly — never pitch around him.
+**Decision weighting:** John still probable final yes/no; Bock is weekly partner; Rebecca is a sharp external validator — fail her on substance and John hears it.
 
 **Per-panelist closing questions**
 - **Bock:** “From our last conversation — what would you want me to prove in the first 90 days above everything else?”
-- **Leshinski:** “What does success look like for you at 12 months — controls, savings, headcount, or systems — and how should procurement partner with IT on what’s open vs off-limits?”
+- **John:** “What does success look like for you at 12 months — controls, savings, headcount, or systems — and how should procurement partner with IT on what’s open vs off-limits?”
+- **Rebecca:** “When you’ve seen companies centralize procurement after acquisitions, what usually breaks first — parts flow, vendor master, or adoption — and what does good look like in year one for a dealer?”
 
 ---
 
@@ -82,6 +86,46 @@
 - **To Leshinski:** operating model, **contracting/Legal partnership**, **Hooper–Arbor consolidation change path**, IT partnership, hire timing.
 - **Do not** repeat the full Coupa monologue twice — headline for one, implementation detail for the other.
 - **M&A answers:** use the plain-English talk track (cheat sheet + L8) — not PMI jargon.
+
+---
+
+## Round: Rebecca Leshinski, CPIM — audience: `peer-tech` (practitioner peer)
+
+- **Duration:** unknown
+- **Conducted by:** Rebecca Leshinski — John’s spouse; **not employed by Pengate**; Corporate Director of Supply Chain at Thruway; CPIM; ex-Raymond Materials/Procurement Planning; ex-BorgWarner
+- **What they evaluate:** Are you a real operator or a Finance-process tourist? Can you talk parts, suppliers, standing up a function, and M&A without BS? Will techs still get parts?
+- **Reported questions:** none — all `[inferred from career]`
+- **How to prepare:** Print `pengate-rebecca-leshinski-cheatsheet.md`; rehearse open; lead Plenty ops/MRP/BOM more than Bock-style AP metrics; same M&A story as John (consistency)
+
+### R1. How would you stand up / centralize procurement after the acquisitions? `[inferred]`
+
+Use the **same plain-English Hooper talk track** as for John/Bock (cheat sheet M&A section / L8). Add one beat she cares about: **don’t cut cost in a way that starves technicians of parts.**
+
+### R2. How do you balance cost vs parts availability / service? `[inferred — CPIM + Raymond/dealer]`
+
+**Headline:** Service parts are not the place you “win” with the cheapest bidder if fill rate tanks.
+
+**Talk:** At a dealer, procurement’s job includes keeping techs productive. I’d segment critical parts/OEM-aligned supply from facilities/IT/project spend. Measure fill rate / stockouts alongside savings. Plenty: lived BOM cost *and* supply continuity pressure; NetSuite MRP go-live taught me planning and buying have to talk.
+
+### R3. Walk me through your materials / inventory experience. `[inferred — CPIM]`
+
+**Honest:** You’re not claiming CPIM. Bridge NetSuite MRP migration + BOM 30% + supplier quality (FDA/SQF context at Plenty — light touch). Partner inventory/parts ops at Pengate; own sourcing/contracts/P2P.
+
+### R4. Direct vs indirect — what have you owned? `[inferred]`
+
+Plenty materials/BOM + multimillion indirect (IT, facilities, travel, contract labor). Comcast tech/infra at scale. Pengate will be a mix — one policy, different category strategies.
+
+### R5. How do you develop people / build a small team? `[inferred — she builds sourcing teams]`
+
+S6 — junior buyer → IT category owner. Player-coach; hire when volume breaks controls.
+
+### R6. Raymond / OEM relationship `[inferred — soft; she worked at Raymond Corp]`
+
+If she brings it up: dealers win on availability and program alignment with the OEM, not treating Raymond like a commodity vendor. You’d learn Pengate’s existing Raymond/Toyota commercial structure before “optimizing.” Don’t force the connection.
+
+### R7. Why Pengate / why you?
+
+Why Pengate line (mergers + Raymond/Toyota platform + tech productivity / cost / growth) + Plenty builder.
 
 ---
 
@@ -277,10 +321,14 @@ If John asks something Michael asked: same facts, shorter headline, then *new* a
 | 4 | panel (Leshinski) | Org / hire timing | S1 team of 3 + policy | strong | — |
 | 5 | panel (Leshinski) | **Legal / contracting** | **S7 CLM + S8 Versant** | **strong** | Confirm Versant metrics if asked for numbers |
 | 6 | panel (both) | **M&A / vendor master / Hooper** | **S9 approach + S1/S8 bridge** | **strong** | Approach talk track — not “I ran Pengate PMI” |
-| 7 | hiring-manager | Systems / T&E adjacency | S3 TripActions | partial | Concur ≠ TripActions — say “same control tower” |
-| 8 | hiring-manager | Savings | S5 30% BOM | partial | Reframe to TCO / dealer categories |
-| 9 | hiring-manager | Stakeholder conflict with Finance | — | none | Draft if probed |
-| 10 | panel (Leshinski) | Team coaching / underperformance | S6 | strong | — |
+| 7 | peer (Rebecca) | Stand up / M&A | S9 + S1 | strong | Add parts-for-techs beat |
+| 8 | peer (Rebecca) | Materials / MRP / cost vs availability | S4 NetSuite + S5 BOM | strong | Don’t fake CPIM depth |
+| 9 | peer (Rebecca) | Team coaching | S6 | strong | — |
+| 10 | peer (Rebecca) | OEM / supplier strategy | Competitive pressure line + respect Raymond | partial | Soft — only if she opens door |
+| 11 | hiring-manager | Systems / T&E adjacency | S3 TripActions | partial | Concur ≠ TripActions — say “same control tower” |
+| 12 | hiring-manager | Savings | S5 30% BOM | partial | Reframe to TCO / dealer categories |
+| 13 | hiring-manager | Stakeholder conflict with Finance | — | none | Draft if probed |
+| 14 | panel (John) | Team coaching / underperformance | S6 | strong | — |
 
 ---
 
@@ -309,21 +357,28 @@ If John asks something Michael asked: same facts, shorter headline, then *new* a
 - **Ask:** contract template ownership / Legal thresholds; ERP/AP instances across entities; 12-month success; ERP/Concur open vs off-limits.
 - **Avoid:** pitching around Bock; empire-building headcount; pretending to be counsel; PMI-deck jargon.
 
+### To Rebecca (practitioner peer — not an employee)
+- **Lead with:** Plenty builder + NetSuite/MRP + parts/service continuity + plain-English M&A pack.
+- **Vocabulary:** fill rate, lead time, category segmentation, supplier partnership, OEM respect — not only on-contract %.
+- **Ask:** what breaks first post-acquisition centralization; year-one “good” for a dealer procurement lead.
+- **Avoid:** spouse flattery; CPIM cosplay; contradicting Bock/John; Finance-only framing.
+
 ### Shared — what NOT to do
 - Lead with agtech BOM / FDA as the hero (translate or demote).
 - Promise a specific platform purchase without IT.
 - Trash Comcast or sound desperate to escape.
-- Contradict yourself across the two of them on comp, timeline, or why Pengate.
+- Contradict yourself across interviewers on comp, timeline, or why Pengate.
 - Promise full M&A centralization in 90 days or claim you’ve audited Hooper’s file.
 - Answer M&A with framework jargon — use the plain-English talk track (L8 / cheat sheet).
 
 ### Sharp questions (tagged)
 1. **Bock:** From last time — top 90-day proof you want?
-2. **Leshinski:** 12-month success — controls vs savings vs headcount vs systems?
-3. **Leshinski:** How should procurement partner with IT near-term?
-4. **Leshinski:** Who owns contract templates / Legal review thresholds — what’s broken in vendor paper post-Arbor/Hooper?
-5. **Either:** Post-Arbor/Hooper fragmentation (vendor master / POs / approvals)?
-6. **Bock:** Where does AP hurt most — no-PO invoices, vendor master, or exceptions?
+2. **John:** 12-month success — controls vs savings vs headcount vs systems?
+3. **John:** How should procurement partner with IT near-term?
+4. **John:** Who owns contract templates / Legal review thresholds — what’s broken in vendor paper post-Arbor/Hooper?
+5. **Rebecca:** What usually breaks first when centralizing procurement after acquisitions — parts flow, vendor master, or adoption?
+6. **Either:** Post-Arbor/Hooper fragmentation (vendor master / POs / approvals)?
+7. **Bock:** Where does AP hurt most — no-PO invoices, vendor master, or exceptions?
 
 ---
 

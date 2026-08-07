@@ -2,7 +2,8 @@
 
 **Role:** Procurement Manager / Strategic Procurement Lead · Chalfont  
 **Panel:** Michael Bock, CPA (VP Finance) — **again** · John Leshinski (EVP Administration: Finance, HR, IT/IS, Systems)  
-**Print this page.** Full intel: `pengate-procurement-manager.md`
+**Also prep:** [`pengate-rebecca-leshinski-cheatsheet.md`](pengate-rebecca-leshinski-cheatsheet.md) — Rebecca Leshinski, CPIM (John’s wife; **not Pengate**; real supply-chain operator — Thruway / ex-Raymond / CPIM)  
+**Print this page for Bock/John.** Full intel: `pengate-procurement-manager.md`
 
 ---
 
