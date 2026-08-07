@@ -362,20 +362,23 @@ If John asks something Michael asked: same facts, shorter headline, then *new* a
 - **Vocabulary:** fill rate, lead time, category segmentation, supplier partnership, OEM respect — not only on-contract %.
 - **Ask:** what breaks first post-acquisition centralization; year-one “good” for a dealer procurement lead.
 - **Avoid:** spouse flattery; CPIM cosplay; contradicting Bock/John; Finance-only framing.
+
+### Shared — what NOT to do
 - Lead with agtech BOM / FDA as the hero (translate or demote).
 - Promise a specific platform purchase without IT.
 - Trash Comcast or sound desperate to escape.
-- Contradict yourself across the two of them on comp, timeline, or why Pengate.
+- Contradict yourself across interviewers on comp, timeline, or why Pengate.
 - Promise full M&A centralization in 90 days or claim you’ve audited Hooper’s file.
 - Answer M&A with framework jargon — use the plain-English talk track (L8 / cheat sheet).
 
 ### Sharp questions (tagged)
 1. **Bock:** From last time — top 90-day proof you want?
-2. **Leshinski:** 12-month success — controls vs savings vs headcount vs systems?
-3. **Leshinski:** How should procurement partner with IT near-term?
-4. **Leshinski:** Who owns contract templates / Legal review thresholds — what’s broken in vendor paper post-Arbor/Hooper?
-5. **Either:** Post-Arbor/Hooper fragmentation (vendor master / POs / approvals)?
-6. **Bock:** Where does AP hurt most — no-PO invoices, vendor master, or exceptions?
+2. **John:** 12-month success — controls vs savings vs headcount vs systems?
+3. **John:** How should procurement partner with IT near-term?
+4. **John:** Who owns contract templates / Legal review thresholds — what’s broken in vendor paper post-Arbor/Hooper?
+5. **Rebecca:** What usually breaks first when centralizing procurement after acquisitions — parts flow, vendor master, or adoption?
+6. **Either:** Post-Arbor/Hooper fragmentation (vendor master / POs / approvals)?
+7. **Bock:** Where does AP hurt most — no-PO invoices, vendor master, or exceptions?
 
 ---
 
