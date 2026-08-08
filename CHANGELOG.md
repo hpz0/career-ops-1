@@ -1,5 +1,21 @@
 # Changelog
 
+## [1.19.0](https://github.com/hpz0/career-ops-1/compare/career-ops-v1.18.0...career-ops-v1.19.0) (2026-08-08)
+
+
+### Features
+
+* **invite-match:** fuzzy-match interview-invite emails to tracker entries ([#1495](https://github.com/hpz0/career-ops-1/issues/1495)) ([10de9d4](https://github.com/hpz0/career-ops-1/commit/10de9d4ab48130d7c794028f00604ae8b9f56223))
+* **oferta:** company-type + compensation-reliability tiers in evaluations ([#1587](https://github.com/hpz0/career-ops-1/issues/1587)) ([160093c](https://github.com/hpz0/career-ops-1/commit/160093cbcc4b44cc22af34160a17422bd58a88b5))
+* **providers:** add LaraJobs zero-auth RSS provider ([0f046b5](https://github.com/hpz0/career-ops-1/commit/0f046b5bd7f24a7ec13ba4a027183ca765d869ca))
+* **registry:** split plugins-registry.json into per-plugin files ([#1401](https://github.com/hpz0/career-ops-1/issues/1401)) ([6d08316](https://github.com/hpz0/career-ops-1/commit/6d08316722f96af88f74959992d8bbab8c1d4228))
+
+
+### Bug Fixes
+
+* **tests:** skip web-reader tests when web/ is absent on core-only installs ([#1675](https://github.com/hpz0/career-ops-1/issues/1675)) ([32dde78](https://github.com/hpz0/career-ops-1/commit/32dde7849b117f2c7c37205327af313f31dc7a5c))
+* **update-system:** add .claude/hooks/ to USER_PATHS ([#1676](https://github.com/hpz0/career-ops-1/issues/1676)) ([e9bacc4](https://github.com/hpz0/career-ops-1/commit/e9bacc484185f56cec210ea821bf1774e989acea))
+
 ## [1.25.0](https://github.com/santifer/career-ops/compare/career-ops-v1.24.0...career-ops-v1.25.0) (2026-08-04)
 
 
