@@ -4,24 +4,37 @@
 **LinkedIn:** https://www.linkedin.com/jobs/view/4424732426/  
 **Legitimacy:** unknown (no prior evaluation report; Greenhouse ATS + official careers page)  
 **Report:** N/A  
-**Researched:** 2026-08-06 (updated same day — relocation OK per candidate; expanded nuclear + talking points)  
-**Sources:** Greenhouse JD, thenuclearcompany.com, TechCrunch, TNC Palantir/Nucor press, World Nuclear Association basics, DOE Advanced Nuclear Liftoff (FOAK/Vogtle lessons), Juli Hile LinkedIn, candidate Interview Guide + application ack  
-**Audiences covered:** recruiter-screen (primary — Juli Hile), hiring-manager (light), peer-tech (light)
+**Researched:** 2026-08-06; **updated 2026-08-08** — HM next week w/ **Rebekah O'Hara** (Director, Strategic Sourcing)  
+**Sources:** Greenhouse JD, thenuclearcompany.com, TechCrunch, TNC Palantir/Nucor press, World Nuclear Association basics, DOE Advanced Nuclear Liftoff (FOAK/Vogtle lessons), Juli Hile LinkedIn, **Rebekah O'Hara LinkedIn** (profile + Penn State guest lecture / Purdue summit posts), candidate Interview Guide + application ack  
+**Audiences covered:** recruiter-screen (Juli Hile — done/prep archived), **hiring-manager (primary — Rebekah O'Hara)**, peer-tech (light)
+
+**Print packs:**  
+- Recruiter: `the-nuclear-company-cheatsheet.md`  
+- **HM:** `the-nuclear-company-hm-cheatsheet.md`
 
 ---
 
 ## Process Overview
 
-- **Rounds:** unknown — not enough public Glassdoor/Blind data
-- **Format:** Round 1 = recruiter screen with **Juli Hile** (Senior Recruiter) → likely HM / procurement leadership next `[inferred]`
+- **Rounds:** unknown end-to-end — not enough public Glassdoor/Blind data
+- **Format:** Round 1 = recruiter screen with **Juli Hile** (Senior Recruiter) → **Round 2 = hiring manager with Rebekah O'Hara** (Director, Strategic Sourcing) next week `[user-stated]` → later rounds unknown
+- **Platform:** not stated in the invite, confirm before the call
 - **Difficulty:** unknown
-- **Known quirks:** ~100–160 people, hypergrowth; many corporate roles **Washington, DC or Columbia, SC** hybrid / in-office (Juli May 2026 post). Candidate has **already told them relocation is OK** — treat location as logistics (which office / cadence), not a willingness debate.
-- **Sources:** Greenhouse; Juli Hile LinkedIn; candidate update 2026-08-06
+- **Known quirks:** ~100–160 people, hypergrowth; many corporate roles **Washington, DC or Columbia, SC** hybrid / in-office. Candidate has **already told them relocation is OK** — treat location as logistics (which office / cadence), not a willingness debate. Rebekah is **Columbia, SC**-based.
+- **Comp already discussed:** posted **$151–176K** base; no prior `stated` observation in salary log for tracker #7 — stay aligned to band; ask equity/bonus if Juli didn’t cover
+- **Sources:** Greenhouse; Juli Hile LinkedIn; Rebekah O'Hara LinkedIn; candidate updates 2026-08-06 / 2026-08-08
 
 ## Audience Map
 
 - **Round 1** (recruiter screen w/ Juli Hile) → `recruiter-screen`
-- **Round 2+** → unknown — light `hiring-manager` pack below
+- **Round 2** (HM w/ Rebekah O'Hara, next week) → `hiring-manager`
+- **Round 3+** → unknown — light `peer-tech` / panel prep if scheduled
+
+## Panel Intel (HM round)
+
+| Name | Role | Read |
+|------|------|------|
+| **Rebekah O'Hara, MSME** | Director, Strategic Sourcing @ TNC (Oct 2025–); Columbia SC metro. Prior: ~25 yrs DuPont — Mech Eng → Materials/Reliability → Product Stewardship → Contract Manufacturing Leader Americas ($120M+ CMO spend, KEVLAR/NOMEX/TYVEK) → Global Product Leader Personal Protection ($0.5B portfolio). Six Sigma Black Belt. Founder Irish Fest Camden; Women of Influence 2023. Guest speaker Penn State SCM class on TNC fleet-scale / supply-chain rebuild / NOS. | **Likely primary decision-maker** for this Indirect Category Manager hire `[inferred from Director Strategic Sourcing title]`. Trajectory = **practitioner-turned-director** with deep **Direct / CMO / quality / risk** DNA — will ask concrete sourcing scenarios (negotiation, SRM, stakeholder influence, how you’d build process), not soft culture-only. Weight prep on Indirect ownership + commercial rigor + 90-day plan + clear Direct/Indirect boundary. Do **not** try to out-nuclear her; match her *sourcing* language. |
 
 ---
 
@@ -190,6 +203,7 @@ You’re not the safety case owner. You still manage vendor risk, IT security, N
 
 ## Prep Checklist
 
+### Shared (still warm)
 - [ ] Fleet-scale / design-once-build-many in one sentence
 - [ ] PWR vs BWR in one sentence each
 - [ ] FOAK vs NOAK + Vogtle-as-lesson (respectful)
@@ -198,8 +212,16 @@ You’re not the safety case owner. You still manage vendor risk, IT security, N
 - [ ] Direct vs Indirect boundary
 - [ ] Plenty indirect portfolio list
 - [ ] Coupa / guided buying / catalogs vocabulary
-- [ ] Comp band + equity question
-- [ ] 5 reverse questions for Juli
+
+### HM-specific (Rebekah — priority)
+- [ ] Who she is: Director Strategic Sourcing · DuPont CMO DNA · Columbia · MSME / Six Sigma
+- [ ] 90s open aimed at *her* (ownership + partnership with Strategic Sourcing)
+- [ ] 90-day plan out loud (map → stabilize → category plans → paper → metrics → Direct handshake)
+- [ ] Nuclear gap script (one breath)
+- [ ] S1 + S6 + S7/S8 rehearsed (result-first)
+- [ ] 5–6 reverse questions from HM cheat sheet
+- [ ] Confirm call platform / camera check if video
+- [ ] Comp: stay on $151–176K; equity only if not covered with Juli
 
 ---
 
@@ -228,14 +250,100 @@ You’re not the safety case owner. You still manage vendor risk, IT security, N
 
 ---
 
-## Hiring manager pack (light)
+## Round 2: Hiring Manager — audience: `hiring-manager`
 
-**90 days:** map spend/stakeholders → kill obvious maverick spend with guided buying → category plans for priority books → MSA/templates with Legal → metrics (savings/avoidance, on-contract %, cycle time, adoption)
+- **Duration:** unknown — confirm invite
+- **Conducted by:** **Rebekah O'Hara, MSME**, Director, Strategic Sourcing ([LinkedIn](https://www.linkedin.com/in/rebekah-ohara))
+- **Platform:** not stated in the invite, confirm before the call (if video: check camera/lighting/background)
+- **What they evaluate:** Motivation + scope fit; Indirect category ownership; builder vs bureaucracy; commercial/negotiation rigor; stakeholder influence without authority; comfort in ambiguity; mission fluency without fake Direct expertise; culture (TRUST / Scrappiness / people development)
+- **Reported questions:** none found on Glassdoor/Blind for TNC HM rounds — use `[inferred from JD]` + her background signals below
+- **How to prepare:** Print `the-nuclear-company-hm-cheatsheet.md`; rehearse 90s open + 90-day plan + Nuclear gap script; map S1/S6/S7/S8; 5–6 reverse questions tailored to *her*
 
-**Risks:** no nuclear background → Indirect + homework + builder; Sr. Category Manager title vs Comcast Senior Manager → portfolio + Plenty build scope
+### Rebekah — career signals (sourced)
+
+| Signal | Source | Prep implication |
+|--------|--------|------------------|
+| Director, Strategic Sourcing @ TNC since Oct 2025 | LinkedIn experience | She owns sourcing org design — ask what *this* role owns vs advises |
+| DuPont Contract Manufacturing Americas — $120M+ external manufacturers; RFPs/SOWs/SOPs; quality/EH&S; Should-Cost; SRM; Six Sigma KPIs | LinkedIn DuPont bullets | Speak **negotiation, supplier performance, risk, SOW discipline** — even on Indirect categories |
+| Global Product Leader — $0.5B portfolio, stage-gate PMO | LinkedIn | Comfortable with portfolio thinking and prioritization under constraints |
+| MSME WVU · Six Sigma Black Belt · Spanish | LinkedIn edu/certs | Prefer metrics + continuous improvement framing over buzzwords |
+| Penn State SCM guest lecture: why nuclear now, domestic supply-chain rebuild, FOAK bottlenecks, NOS / economies of scale | LinkedIn post / class write-up | She can go deep on mission — match with 2–3 sharp signals then land Indirect |
+| Purdue Global Nuclear Energy Economic Summit (Nov 2025); met NRC Chair David Wright | LinkedIn post | Industry-networked; respect for safety/regulatory culture without claiming NRC expertise |
+| Irish Fest Camden founder; people-development language in About + recommendations | LinkedIn | S6 coaching story resonates; servant-leadership / mentor energy |
+
+### Likely questions — `hiring-manager` `[inferred from JD]` + her lens
+
+#### Why this role, why now?
+
+> Headline: Fleet-scale only works if the company scales with discipline — Indirect is that operating system.  
+> Effect: Hypergrowth offices + hiring → IT, professional services, workplace, marketing spend explodes; without category strategy you get maverick spend and vendor chaos that slows the mission.  
+> Rationale: Plenty taught me reinventing every buy destroys cost/schedule — same failure mode as FOAK at national scale.  
+> Operations: I’ve owned that Indirect book end-to-end and built Coupa/policy/CLM around it; Comcast adds enterprise commercial muscle. I want the mission *and* the builder seat.
+
+#### What would your first 90 days look like?
+
+1. Map spend + stakeholders + current pathways / maverick hotspots  
+2. Stabilize with guided buying / preferred suppliers / simple intake (speed > theater)  
+3. Category plans for priority books (expect IT + professional services early — Juli’s public framing)  
+4. MSA/templates with Legal; clean onboarding  
+5. Metrics: savings/avoidance, on-contract %, cycle time, adoption  
+6. Explicit handshake with Direct / deployment / NOS users so Indirect doesn’t collide
+
+#### How do you influence without authority? / stakeholder partnership
+
+Lead **S1** (Finance/Legal/IT on Coupa/policy) or **S2** (AP via e-invoice). Frame as trusted advisor + data + making the compliant path the easy path — matches JD “trusted procurement advisor.”
+
+#### Walk me through a tough negotiation / supplier situation
+
+Lead **Comcast executive negotiation + multi-entity paper (S8)** for enterprise commercial depth; or **Plenty indirect IT/SaaS consolidation** if she wants Indirect-specific. Avoid inventing $ wins. If savings asked: S5 30% BOM only after leading Indirect proof.
+
+#### How do you develop people on a small team?
+
+**S6** — junior buyer → IT category owner (ownership scope, weekly decision coaching, shadow → reverse-shadow).
+
+#### Do you know nuclear? / Why should I trust you without domain?
+
+Nuclear gap script (above) + one PWR sentence + FOAK→fleet sentence + “day one = Indirect category strategy.”
+
+#### How would you balance control vs speed in a scrappy growth company?
+
+> Lightweight policy + guided buying beats heavyweight bureaucracy. At Plenty we got 99% on contract and faster cycle time *because* the path was usable — not because we added gates for theater. TRUST / Scrappiness means intellectual honesty and urgency, not zero process.
+
+### Sharp questions to ask Rebekah
+
+1. How is Strategic Sourcing split — Indirect vs Direct/deployment — and what should this role **own** vs **advise** in the first six months?  
+2. First category fire drill — and what does “good” look like in ninety days?  
+3. How should Indirect partner with NOS / construction supply chain without stepping on Direct?  
+4. ERP/P2P/guided-buying maturity — greenfield vs optimize?  
+5. From your DuPont contract-manufacturing experience — which sourcing habits transfer here, and what would be too heavy for this stage?  
+6. DC vs Columbia for this seat + in-office cadence you expect from your team?  
+7. How will *you* know this hire is working?  
+8. Process after this conversation?
+
+### Risk map closure (HM)
+
+| Risk | Close |
+|------|-------|
+| No nuclear background | Indirect seat + homework + won’t fake physics |
+| Title/level perception | Plenty build scope + Comcast Senior Manager portfolio |
+| DuPont-grade Direct rigor expected | Negotiation/SRM/KPI language + metrics; clear you’re not claiming CMO/nuclear materials |
+| Bureaucracy transplant fear | Builder at Plenty; lightweight controls that increase speed |
+| Location | Already OK relocating; logistics only |
+
+### Story Bank Mapping — HM emphasis
+
+| # | Audience | Topic | Story | Fit |
+|---|----------|-------|-------|-----|
+| 1 | hiring-manager | Build scalable pathways | S1 Coupa + policy | strong |
+| 2 | hiring-manager | People development | S6 IT category owner | strong |
+| 3 | hiring-manager | Legal / contracts | S7 + S8 | strong |
+| 4 | hiring-manager | Cross-functional / AP | S2 | strong |
+| 5 | hiring-manager | ERP / systems | S4 NetSuite | strong |
+| 6 | hiring-manager | Savings (if pressed) | S5 30% BOM | partial — lead Indirect first |
+| 7 | hiring-manager | Nuclear domain | Nuclear 101 scripts | none in bank — use scripts |
 
 ---
 
 ## Sources
 
-- Greenhouse JD · thenuclearcompany.com · TechCrunch Series A · [Palantir/NOS press](https://www.thenuclearcompany.com/posts/palantir-and-the-nuclear-company-partner-to-launch-platform-to-rapidly-scale-nuclear-deployment) · Reuters Nucor · [WNA reactors](https://world-nuclear.org/information-library/nuclear-power-reactors/overview/nuclear-power-reactors) · DOE Liftoff / Vogtle lessons · Candidate Interview Guide · user note: relocation OK (2026-08-06)
+- Greenhouse JD · thenuclearcompany.com · TechCrunch Series A · [Palantir/NOS press](https://www.thenuclearcompany.com/posts/palantir-and-the-nuclear-company-partner-to-launch-platform-to-rapidly-scale-nuclear-deployment) · Reuters Nucor · [WNA reactors](https://world-nuclear.org/information-library/nuclear-power-reactors/overview/nuclear-power-reactors) · DOE Liftoff / Vogtle lessons · Candidate Interview Guide · [Rebekah O'Hara LinkedIn](https://www.linkedin.com/in/rebekah-ohara) (profile; Penn State SCM guest lecture post; Purdue summit post) · Juli Hile LinkedIn · user notes: relocation OK (2026-08-06); HM next week w/ Rebekah (2026-08-08)
