@@ -34,7 +34,7 @@ import { readFileSync, writeFileSync, existsSync, mkdirSync, statSync, renameSyn
 import { pathToFileURL } from 'url';
 import { createHash } from 'crypto';
 import path from 'path';
-import yaml from 'js-yaml';
+import * as yaml from 'js-yaml';
 
 import { makeHttpCtx, fetchJson } from './providers/_http.mjs';
 import { isResolverFailure, dnsPacingStats } from './providers/_dns-cache.mjs';
@@ -972,7 +972,7 @@ async function main() {
       writeFileSync(PIPELINE_PATH, '# Pipeline\n\n## Pendientes\n', 'utf-8');
     }
     await appendToPipeline(offers);
-    appendToScanHistory(offers, date);
+    await appendToScanHistory(offers, date);
     saved = true;
     log(`\nResults saved to ${PIPELINE_PATH} and data/scan-history.tsv`);
 

@@ -43,6 +43,7 @@ All scripts live in the project root as `.mjs` modules. Most are exposed via
 | `npm run verify:portals` | `verify-portals.mjs` | Probe ATS endpoints to confirm portals.yml slugs resolve (network) |
 | `node fix-slugs.mjs` | `fix-slugs.mjs` | Write `verify-portals.mjs`'s suggested ATS slug fixes back to portals.yml (dry run by default, `--fix` to write) |
 | `npm run reposts` | `detect-reposts.mjs` | Flag re-listed (ghost) postings from scan history |
+| `node rank-pipeline.mjs` | `rank-pipeline.mjs` | Opt-in LLM relevance re-ranker — annotates pending pipeline rows with a score + reason (off by default) |
 | `npm run gemini:eval` | `gemini-eval.mjs` | Evaluate a JD with Google Gemini (free-tier alternative) |
 | `npm run ollama:eval` | `ollama-eval.mjs` | Evaluate a JD with a local Ollama model |
 | `npm run openai:eval` | `openai-eval.mjs` | Evaluate a JD via any OpenAI-compatible endpoint |
@@ -456,6 +457,22 @@ node check-table-freshness.mjs --self-test
 
 ---
 
+## rejection-latency
+
+Post-interview response-latency signal. Cross-references `data/active-interviews.md` (latest interview date per application — company + role, fuzzy role match via `role-matcher.mjs`) with `data/applications.md` (rows still in `Interview` state — i.e. no `Responded`/`Offer`/`Rejected` transition recorded since) and flags applications whose silence exceeds a soft **courtesy** threshold (30-day default, no legal claim attached) from `rejection_latency.courtesy_days` or `--courtesy-days`. (An earlier revision also shipped a jurisdiction-backed statutory tier; it was removed — the underlying legal threshold could change and the script has no way to re-verify it.) Each flag carries a ready-to-copy `data/blacklist.md` row (same suggestion-only bridge as `modes/interview-redflag.md`, #1854/#1856) — the script never writes to `data/blacklist.md`, `data/applications.md`, or `data/active-interviews.md` (#1742 opt-in guarantee). Surfaced by the `followup` mode.
+
+```bash
+node rejection-latency.mjs             # JSON
+node rejection-latency.mjs --summary   # human-readable table + suggested blacklist rows
+node rejection-latency.mjs --courtesy-days 21
+node rejection-latency.mjs --today 2026-07-17   # deterministic runs/tests
+node rejection-latency.mjs --self-test
+```
+
+**Exit codes:** `0` always (missing data files produce an explanatory empty result), `1` self-test failure.
+
+---
+
 ## update:check
 
 Checks whether a newer version of career-ops is available upstream. Outputs JSON to stdout:
@@ -548,6 +565,26 @@ When the ATS provider's list API returns a description, each new offer is finger
 npm run scan
 node scan.mjs --include-blacklisted   # audit: let blacklisted companies through, annotated
 ```
+
+**Parallel search lanes (#2271):** all four of `scan.mjs`'s files are overridable by environment variable, so a second search with different targeting (a bridge/income track, a career-change track, or a partner sharing the checkout) can be fully self-contained in one clone:
+
+| Variable | Default |
+|---|---|
+| `CAREER_OPS_PORTALS` | `portals.yml` |
+| `CAREER_OPS_PROFILE` | `config/profile.yml` |
+| `CAREER_OPS_PIPELINE` | `data/pipeline.md` |
+| `CAREER_OPS_SCAN_HISTORY` | `data/scan-history.tsv` |
+
+```bash
+CAREER_OPS_PORTALS=portals.bridge.yml \
+CAREER_OPS_PIPELINE=data/pipeline.bridge.md \
+CAREER_OPS_SCAN_HISTORY=data/scan-history.bridge.tsv \
+  node scan.mjs
+```
+
+Give a lane its own `CAREER_OPS_SCAN_HISTORY`, not just its own pipeline. That file is the dedup source, so lanes sharing it silently suppress each other: a posting surfaced in one lane counts as a duplicate in the other and never appears there, with only the `Duplicates: skipped` counter to show for it.
+
+Defaults are unchanged, so a single-lane setup needs none of this. Note that the remaining outputs (`data/scan-runs.tsv`, `data/portal-health.tsv`, `data/applications.md`) are still shared across lanes, so `stats.mjs` and the other analytics scripts pool lanes together.
 
 **Exit codes:** `0` scan completed, `1` configuration error or no portals.yml found.
 
@@ -773,6 +810,47 @@ within a 90-day window — a strong ghost-job / re-listing signal.
 npm run reposts                 # JSON
 node detect-reposts.mjs --summary
 ```
+
+---
+
+## rank-pipeline
+
+Opt-in LLM relevance re-ranker for `data/pipeline.md`. **Off by default and not
+part of any scan** — `scan.mjs` stays 100% zero-token, and this costs nothing
+unless you run it yourself.
+
+It **annotates, it does not filter**: eligible pending rows can gain a labeled
+`rank: {score}/5 — {reason}` segment, riding after `posted:`/`trust:`/`note:`
+like any other labeled segment. No row is removed, reordered, or hidden — the
+reason is there so you can disagree with the score. An entry the model scores
+but cannot explain is left un-annotated rather than reduced to a bare number,
+and a whole batch is left un-annotated if the CLI call fails or returns
+unusable JSON.
+
+Cost is bounded and reported. Only pending (`- [ ]`) rows that are not already
+annotated are eligible, `--limit` caps each run (default 20, hard ceiling 200
+that the flag cannot raise), and a summary prints the entries ranked, the number
+of CLI calls, and elapsed time. Re-runs are idempotent — an already-annotated
+row is skipped, so you can work through a large pipeline in bounded passes.
+
+The ranking is done by whichever agent CLI you already have installed (the
+Headless / Batch Mode table in `AGENTS.md`): `claude`, `opencode`, `codex`,
+`copilot`, `qwen`, `agy`, `grok` — first one found wins. No API key, no new
+dependency, no new network endpoint. Each call sends a `cv.md` excerpt (the
+first ~2000 chars) and the selected postings through that CLI's own auth and
+provider handling — review your chosen CLI's data-retention/provider settings
+before running this on sensitive CV content.
+
+```bash
+node rank-pipeline.mjs                  # rank up to 20 pending entries
+node rank-pipeline.mjs --limit 10
+node rank-pipeline.mjs --cli codex      # override auto-detection
+node rank-pipeline.mjs --dry-run        # print annotations, write nothing
+```
+
+Writes go through `pipeline-lock.mjs`, the same lock `scan.mjs` and
+`scan-ats-full.mjs` use, and the file is re-read inside the lock — so a
+concurrent scan cannot lose rows to this script.
 
 ---
 
