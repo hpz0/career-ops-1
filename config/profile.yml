@@ -57,8 +57,8 @@ target_roles:
 
 narrative:
   # Your professional headline (1 line)
-  headline: "Procurement & partnership leader | 9+ years on the buyer side — now selling to the teams I used to be"
-  exit_story: "Spent 9+ years as the procurement buyer that account executives sell to — at Plenty (startup/hardware manufacturing) and Comcast (enterprise). Active recruiter process for Ramp Senior Manager, Procurement Product Activation (founding CS playbook seat — buyer-side Coupa/P2P fit). Also hunting Director+ procurement and global sourcing roles — especially data centers, hardware, and infrastructure — plus B2B SaaS AE roles where buyer-side fluency is the wedge. Remote-first."
+  headline: "Procurement & P2P platform leader | 9+ years buyer-side — partnerships, TAM, or solutions at spend SaaS"
+  exit_story: "Spent 9+ years as the procurement buyer that sales teams sell to — at Plenty (startup) and Comcast (enterprise). Active Ramp process (Jul 2026): Gabriel fit chat — open to Partnerships, TAM, or Solutions Architect on procurement/P2P. Also hunting Director+ procurement and global sourcing — especially data centers, hardware, and infrastructure. Remote-first where possible."
   target_industries:
     - "health"
     - "food"
@@ -85,7 +85,7 @@ narrative:
     - "SDR / BDR / entry-level inside sales (quota-only, no strategic account scope)"
     - "On-site only roles in Greater Philadelphia suburbs (e.g. Chalfont PA) — remote-first"
   superpowers:
-    - "Buyer-side fluency — knows procurement, P2P, and CLM from the customer seat (ideal for Ramp-style AE)"
+    - "Coupa certified admin — implementation, catalogs, punchout, supplier programs, adoption"
     - "Source-to-pay and spend systems — Coupa, NetSuite, Ironclad, DocuSign CLM implementations"
     - "Strategic sourcing and value engineering (30% BOM cost reduction in 6 months)"
     - "Hardware / manufacturing procurement — BOM, NPI, multi-site supply, regulated suppliers"
@@ -101,8 +101,6 @@ narrative:
       hero_metric: "99% of spend on contract; requisition cycle time cut from 3 days to 1.5 days"
     - name: "Electronic Invoice Adoption"
       hero_metric: "Increased supplier electronic invoice rate by 50%, reducing AP labor"
-    - name: "R&D / lab services sourcing"
-      hero_metric: "Plant Science & R&D supplies, equipment, and third-party lab testing services"
 
 compensation:
   target_range: "$150K-200K"     # Procurement track: total comp
@@ -167,25 +165,29 @@ cover_letter:
 # ── Active interviews (operational — not CV claims) ───────────────────────
 active_interviews:
   - company: "The Nuclear Company"
-    role: "Sr. Category Manager (Indirect/Corporate)"
-    track: "A"
-    status: "Interviewing — HM next week (Rebekah O'Hara)"
-    notes: "HM w/ Rebekah O'Hara (Director, Strategic Sourcing). Greenhouse 5170106008. Comp $151–176K base. Relocation OK (DC or Columbia SC) — do not reopen. Prep: interview-prep/the-nuclear-company-hm-cheatsheet.md + the-nuclear-company-sr-category-manager.md. Indirect fit strong (Plenty)."
-  - company: "Pengate Handling Systems"
-    role: "Procurement Manager / Strategic Procurement Lead (Chalfont)"
+    role: "Procurement — corporate indirect (under Becky Sr Dir Proc)"
     track: "A"
     status: "Interviewing"
-    notes: "Next: Michael Bock (VP Finance, return) + John Leshinski (EVP Admin: Finance/HR/IT). Prep: interview-prep/pengate-cheatsheet.md. Vary angles — don’t replay Bock round verbatim."
+    contact: "Juli (recruiter); Becky (Sr Dir Proc, next); Kevin (Sr Dir Proc Projects)"
+    notes: "Aug 7 Juli screen. <200 emp, SMRs, tech/AI+nuclear. IT/HR/Facilities focus; change mgmt, cyber compliance. RTO 2-3d DC or Columbia SC (remote eliminated). Bonus 11%, 1800 options $5 strike Series B eval. Next Becky then loop. Target start Sep."
+  - company: "Pengate Handling Systems"
+    role: "Procurement Manager (greenfield — hire #1)"
+    track: "A"
+    status: "Interviewing"
+    contact: "Michael Bock (VP Finance, HM); Taylor Cubbler (TA); lawyer round next"
+    notes: "Jul 28 HM Michael Bock — group programs (consolidate spend e.g. batteries), Toyota-owned strict controls, ~60% spend Toyota/Raymond non-negotiable. Custom Raymond ERP + JIRA. Next: lawyer (negotiation) + onsite EVP Admin. $140-160K+10-20% bonus; onsite Chalfont."
   - company: "Ramp"
     role: "Senior Manager, Procurement Product Activation (remote/hybrid TBD)"
     track: "A-adjacent"
     status: "Interviewing — HM with Caroline Novas (Wed Aug 12, 2026)"
-    notes: "Ashby d238a056. Comp Nationwide OTE $166–227K 70/30 — confirm base ≥$140K + fully remote. Prep: ramp-caroline-novas-hm-cheatsheet.md + ramp-caroline-novas-hm.md + playbook plan + HM Q&A. Caroline = Director CS Scaled & Partnerships / ex Self-Service Activations — lead scaled OS + procurement authority."
+    contact: "Abigail Lovegrove (GTM recruiter); Caroline Novas (Dir CS Scaled & Partnerships, HM)"
+    notes: "Ashby d238a056. Abigail screen Aug 3. Comp Nationwide OTE $166–227K 70/30 — confirm base ≥$140K + fully remote. Prep: interview-prep/ramp/caroline.md + caroline-prep.md. Caroline = scaled OS + procurement authority (Bill Pay specialist analogy)."
   - company: "Ramp"
-    role: "Account Executive (remote)"
+    role: "Account Executive / SA-TAM-Partnerships (exploratory)"
     track: "B"
     status: "Exploratory / deprioritized vs Activation seat"
-    notes: "Informal chat with Max (SVP Sales). Keep warm but prioritize Senior Manager Procurement Product Activation HM process."
+    contact: "Max (SVP Sales); Gabriel Ragoff"
+    notes: "Informal with Max + Gabriel Jul 10. Keep warm; prioritize Activation HM. See interview-prep/ramp/gabriel.md if present."
 
 # ── Recent application signals (Jul 2026 — informs targeting, not tracker) ─
 recent_apply_patterns:
@@ -305,10 +307,6 @@ re_apply_windows:
     same_role_days: 90
     last_apply_date: "2026-06-30"
     notes: "Applied Procurement Manager"
-  "The Nuclear Company":
-    same_role_days: 180
-    last_apply_date: "2026-07-24"
-    notes: "Active Interview — HM next week w/ Rebekah O'Hara (Director, Strategic Sourcing). Candidate OK relocating DC/Columbia SC. Do not re-apply; focus on prep."
   Ramp:
     same_role_days: 180
     last_apply_date: "2026-07-01"

@@ -1,30 +1,104 @@
-# Ramp — Informal Chat with Max (SVP Sales) · Jul 2026
+# Ramp — Active process · Aug 2026
 
-**You:** Harrison Pizzi · Richboro, PA · Procurement → AE pivot · Need **$150k+** · No quota on résumé (honest)
-
----
-
-## 30-second intro
-
-Procurement 9+ years — Plenty (startup, team of 3) → Comcast (enterprise). Implemented **Coupa, Ironclad, NetSuite**; ran multimillion-dollar indirect spend. Been the buyer AEs pitch to — mega corp and startup, lots of leverage vs none. Exploring sales; Ramp fits because I know that seat cold.
+**Status:** Two parallel threads — **(B) Formal activation** recruiter screen Aug 3 · **(A) Informal pre-sales** Gabriel review Jul 10  
+**You:** Harrison Pizzi · Richboro, PA · Need **$150k+**  
+**Detail:** Activation → `interview-prep/ramp-activation.md` · Pre-sales → `interview-prep/ramp-gabriel.md`
 
 ---
 
-## Why procurement → AE (talking points)
+## Track B — Procurement Product Activation (formal · Abigail)
 
-**Challenge:** Impact capped inside one company — you're the evaluator, not the closer. Great at killing bad vendor deals; want to help good ones win. Procurement is reactive (tickets, approvals, compliance); sales is proactive (pipeline, relationships, revenue).
+| Item | Detail |
+|------|--------|
+| **Recruiter** | Abigail Lovegrove · GTM · Aug 3, 2026 |
+| **Role interviewing** | **Senior Manager, Procurement Product Activation** |
+| **Abi pivot suggestion** | [IC — Procurement Product Activation Manager](https://jobs.ashbyhq.com/ramp/f0e3a8bb-5f86-4ce1-b345-80d8912f9ddc) — you said **yes, open to pivot** |
+| **Product context** | Procurement facelift **May 2026** (well received); mirrors successful **Bill Pay** experimental team |
+| **Comp** | **70% base / 30% variable** of listed range; variable paid **monthly** on team goals |
+| **Next** | **Caroline Novus (?)** · Director, Customer Success · **cheatsheet:** `ramp-activation-cheatsheet.md` |
 
-**Accomplishments to drop naturally:**
-- Led **Coupa P2P** rollout — **99% spend on contract**, requisition cycle **3 days → 1.5 days**
-- **Ironclad + DocuSign** CLM implementation — know where legal kills deals
-- **NetSuite ERP** migration — cross-functional "selling" to Finance, IT, Legal
-- **30% BOM cost reduction** in 6 months (Plenty) — negotiation + value engineering
-- **Team of 3 buyers** — published procurement policy, ran the function at a startup
-- Comcast: **multimillion-dollar enterprise portfolios** — Fortune 50 buying complexity
+---
 
-**Why now:** I've seen what great AEs do vs what procurement ignores. I want to be on the solution side — help finance/procurement teams like the ones I led. Ramp's buyer is literally my old job.
+## Track A — Pre-sales (informal · Max / Gabriel)
 
-**Don't claim:** Quota, closed-won revenue, SDR experience.
+**Status:** Interviewing — Gabriel fit chat done Jul 10; **pivot to TAM or Partnerships** (not SE)  
+**Contacts:** Max (SVP Sales) · Gabriel Ragoff (Founding SA) · Katrina Gin  
+**Primary target:** **Open to SA/SE, TAM, Partnerships** — Gabriel reviewing internally  
+**Detail:** `interview-prep/ramp-gabriel.md`
+
+---
+
+## Gabriel chat — debrief (Jul 10)
+
+**Outcome:** Good conversation. Gabriel had hesitation about **lack of formal sales/pre-sales experience** for SE/SA track.
+
+**Gabriel's recommendation:** TAM and new **Partnerships** role flagged as strong fits; SA/SE still on table pending internal review.
+
+**Your read:** Open to all three. Partnerships is especially interesting — broader than punchout (supplier programs, pre-negotiated rates like Coupa Advantage, catalog ecosystem). SA/SE still a credible path given buyer-side discovery depth.
+
+| Track | Notes |
+|-------|-------|
+| **Solutions Architect / SE** | Original path via Max — still interested; address pre-sales gap with buyer-side eval credibility |
+| **Partnerships** | Supplier ecosystem — punchout, catalogs, pre-negotiated programs, commercial terms |
+| **TAM** | Post-sales adoption/implementation — Coupa platform-owner story |
+
+**Next:** Thank Gabriel · wait for internal review **~late next week**
+
+---
+
+**Outcome:** Great conversation. Max proposed a **Solutions Engineer** role in his org, focused on Ramp's **procurement / P2P** product (fastest-growing platform area). Role is **opening soon** — not posted yet. This may be a **better fit than AE** given your Coupa depth and product-champion experience.
+
+### Role snapshot (from notes)
+
+| Topic | Intel |
+|-------|-------|
+| **Product** | Procurement / P2P — Ramp's fastest-growing product line; Fortune 2000 ICP |
+| **Function** | Solutions Engineer — **inside Sales** (pre-sales, not post-sales CS) |
+| **Team today** | ~3 SEs; backgrounds include **Oracle** and **consultants** |
+| **Two motions** | (1) **Net-new business** (2) **Existing base** expansion |
+| **Day-to-day mix** | ~**50% demos** · ~**20% architecture / system design** · rest discovery, RFPs, internal alignment |
+| **Technical depth** | Architecture diagrams, **chart of accounts**, integration/workflow design |
+| **Competitive context** | **Coupa**, **Zip** — you'll know Coupa cold; understand Zip from buyer side |
+| **Workforce** | ~**70% of company in-office / 30% remote** (company-wide split — not your personal schedule) |
+| **Org** | **Katrina Gin** (+ Donna); **Gabriel Rogoff** (key contact — circled in notes). Team **rolls up to Max** as of **7/1** |
+
+### Why this fits you (your words → interview language)
+
+- **Coupa power user & champion** — obsessed with making Coupa the best it could be at Plenty; drove feature requests, kept platform competitive, lived in workflows daily
+- **Implementation + integration fluency** — Coupa P2P, Ironclad CLM, NetSuite ERP, chart-of-accounts thinking — same conversations SEs have in enterprise deals
+- **Buyer credibility** — evaluated and bought what you're now demoing; know what procurement, finance, and legal care about in a technical eval
+- **Comfort with demos** — sales-support motion suits you; not chasing quota, but helping AEs win technical validation
+
+### Follow-ups for Max (when role opens)
+
+- Formal interview process + timeline
+- Comp band for SE (base vs AE OTE?)
+- Remote from **PA** for this role — realistic, or NYC-based expectation?
+- Reporting line: Gabriel? Katrina?
+- What does "good" look like in first 90 days for someone from buyer side (not Oracle/consultant pedigree)?
+
+**Honest framing:** P2P/Coupa depth is **Plenty** (2018–2021). **Comcast** = enterprise sourcing, infrastructure categories, contract negotiation at scale — don't claim P2P implementation there.
+
+**Send Max:** `output/cv-harrison-pizzi-ramp-se-2026-07-08.pdf` (1 page, letter)
+
+---
+
+## Why procurement → Solutions Engineer / sales *(reusable)*
+
+**One-liner for Max:** I spent years making Coupa work at a high-growth agtech startup — feature requests, workflows, integrations. I want to do that on the sell side for Ramp's procurement product.
+
+### What transfers to SE
+
+| From procurement | → To Solutions Engineer |
+|------------------|-------------------------|
+| **P2P platform depth** | Coupa admin, workflows, approvals, catalog — demo and design customer implementations |
+| **Integration & architecture** | Coupa + Ironclad + NetSuite; chart of accounts, ERP touchpoints — discovery diagrams, scoping |
+| **Product champion** | Feature requests, vendor roadmap feedback, adoption — help Ramp product win competitive evals vs Coupa/Zip |
+| **Buyer-side eval fluency** | RFPs, security/legal review, ROI cases — guide AEs through enterprise deal cycles |
+
+### Proof to drop
+
+Coupa P2P (**99% on contract**, 3d→1.5d requisitions) · Ironclad CLM · NetSuite ERP · **30% BOM cut** · team of 3 · Comcast Fortune 50 scale
 
 ---
 
@@ -54,14 +128,12 @@ Procurement 9+ years — Plenty (startup, team of 3) → Comcast (enterprise). I
 
 ---
 
-## Questions for Max (pick 5–6)
+## Questions for Max *(asked Jul 8 — archive)*
 
-- Remote from **PA** — realistic, or NYC HQ required for some teams? **Travel** expectations?
-- Does this AE role roll up to **you**?
-- Comp for new AE — base, OTE, ramp? **$150k floor** — realistic year one?
-- Interview process + smart way to get a **referral** vs cold apply?
-- **Do I have a shot** — procurement background, no quota?
-- What helps most in interviews? What do good AEs do that procurement doesn't eye-roll at?
+- ~~Remote from PA? Travel?~~ → company is ~70% in-office / 30% remote overall; **your** location/travel TBD
+- ~~Roll up to Max?~~ → **Yes, as of 7/1**
+- ~~Do I have a shot?~~ → **Yes — SE path proposed**
+- Comp / interview process / referral → **pending when role opens**
 
 ---
 
