@@ -17,6 +17,9 @@ permissions:
 
 jobs:
   guard:
+    # Personal job-search forks intentionally commit user-layer files (cv, prep,
+    # tracker). This guard is for PRs into santifer/career-ops only.
+    if: ${{ !github.event.repository.fork }}
     runs-on: ubuntu-latest
     steps:
       - uses: actions/github-script@v9
