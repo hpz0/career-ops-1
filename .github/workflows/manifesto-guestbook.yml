@@ -14,6 +14,8 @@ permissions:
 
 jobs:
   post:
+    # Upstream-only Discord guestbook — skip on personal forks (no webhook / not relevant).
+    if: ${{ !github.event.repository.fork }}
     runs-on: ubuntu-latest
     steps:
       - uses: actions/github-script@v9

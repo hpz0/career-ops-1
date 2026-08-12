@@ -14,6 +14,9 @@ permissions:
 
 jobs:
   release-please:
+    # Personal forks (job-search installs) don't cut upstream releases.
+    # Otherwise every push to main fails: "GitHub Actions is not permitted to create or approve pull requests."
+    if: ${{ !github.event.repository.fork }}
     runs-on: ubuntu-latest
     steps:
       - uses: googleapis/release-please-action@v5
