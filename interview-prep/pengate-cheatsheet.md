@@ -1,7 +1,24 @@
-# Pengate — VP Finance Cheat Sheet
+# Pengate — Interview Cheat Sheet
 
-**Role:** Procurement Manager · Chalfont, PA · **Audience:** VP Finance  
-**Mandate:** Stand up procurement from scratch under Finance · **Print this page.**
+**Role:** Procurement Manager · Chalfont, PA  
+**HM:** Michael Bock · VP Finance ✓ Jul 28 · **Next:** lawyer (negotiation) + onsite  
+**Print relevant sections.**
+
+---
+
+## Post–Michael Bock (use for next rounds)
+
+**Mandate in his words:** **Group programs** — consolidate decentralized spend (e.g., techs buying batteries at many stores → one Pep Boys program). Know departments → build processes → enforce → vendor mgmt + PO processing.
+
+**Spend map:**
+- **~60% Toyota + Raymond** (parent channels) — **not negotiable**
+- **Your scope:** vehicle maintenance · fuel · freight · Wex cards · Enterprise (not benefits) · IT (Microsoft/Adobe) · facility maintenance
+
+**Context:** Toyota-owned · dealership consolidation · strict compliance · **custom Raymond ERP** + JIRA bolt-on
+
+**They will test:** vendor **negotiation** + ability to **implement** consolidated purchase plans (lawyer round coming)
+
+**Pep Boys story frame:** "Same playbook as Plenty catalogs and pre-negotiated programs — pick the category, size the spend, one contract, make it the easy path for the field."
 
 ---
 
@@ -33,9 +50,9 @@ Use these as **evidence**, not a checklist. Pick **one or two** per answer.
 
 ## Stand-it-up framework (90-day story)
 
-1. **Diagnose (weeks 1–4):** Spend map by category / site / entity; who buys today; vendor master & PO→AP path; maverick spend; post-acquisition gaps (Arbor/Hooper).
+1. **Diagnose (weeks 1–4):** Spend map by category / site / dealership; who buys today (batteries, fuel, freight…); vendor master & PO→AP path; maverick spend; Toyota/Raymond 60% vs in-scope 40%.
 2. **Govern (weeks 3–8):** Policy, approval matrix, vendor onboarding, contract thresholds — **co-authored with Finance/Legal**.
-3. **Control the flow (days 30–90):** PR→PO→receipt→invoice discipline in ERP; Concur/expense adjacency; quick wins in top categories (parts, facilities, IT, contract labor, project/systems vendors).
+3. **Control the flow (days 30–90):** PR→PO→receipt→invoice in custom ERP; group programs in top categories (maintenance, fuel, freight, IT, facilities); Wex/Enterprise card policy adjacency.
 4. **Scale:** Player-coach first; hire only when volume/complexity exceeds control quality.
 
 **Year-1 scoreboard:** % spend on contract · PR/PO cycle time · e-invoice / exception rate · savings vs budget · audit findings closed.
@@ -151,7 +168,13 @@ Player-coach until volume breaks control quality — not vanity headcount.
 Builder ownership again — full function, Finance partnership, multi-site growth. Enterprise experience stays; mandate matches Plenty chapter.
 
 **Systems / ERP?**  
-Led Coupa P2P + NetSuite. Assess current stack first; optimize controls in what you have, then sequence tooling. Don't promise Coupa day-one.
+Custom Raymond ERP + JIRA — assess before changing. Plenty: Coupa + NetSuite in a non-standard stack; optimize controls in-place, then sequence tooling.
+
+**Group programs / consolidation?**  
+Plenty: catalogs + preferred suppliers + 99% on contract. Pep Boys battery example = same motion: size spend, negotiate once, make compliant path easiest for techs in the field.
+
+**Lawyer / negotiation round?**  
+Lead with outcomes: payment terms, renewal/auto-renew, liability, sole-source docs. Plenty policy + Ironclad CLM; Comcast enterprise agreements. Implementation = adoption metrics, not just signed paper.
 
 ---
 

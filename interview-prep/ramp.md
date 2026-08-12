@@ -1,9 +1,29 @@
-# Ramp — Active process · Jul 2026
+# Ramp — Active process · Aug 2026
+
+**Status:** Two parallel threads — **(B) Formal activation** recruiter screen Aug 3 · **(A) Informal pre-sales** Gabriel review Jul 10  
+**You:** Harrison Pizzi · Richboro, PA · Need **$150k+**  
+**Detail:** Activation → `interview-prep/ramp-activation.md` · Pre-sales → `interview-prep/ramp-gabriel.md`
+
+---
+
+## Track B — Procurement Product Activation (formal · Abigail)
+
+| Item | Detail |
+|------|--------|
+| **Recruiter** | Abigail Lovegrove · GTM · Aug 3, 2026 |
+| **Role interviewing** | **Senior Manager, Procurement Product Activation** |
+| **Abi pivot suggestion** | [IC — Procurement Product Activation Manager](https://jobs.ashbyhq.com/ramp/f0e3a8bb-5f86-4ce1-b345-80d8912f9ddc) — you said **yes, open to pivot** |
+| **Product context** | Procurement facelift **May 2026** (well received); mirrors successful **Bill Pay** experimental team |
+| **Comp** | **70% base / 30% variable** of listed range; variable paid **monthly** on team goals |
+| **Next** | **Caroline Novus (?)** · Director, Customer Success · **cheatsheet:** `ramp-activation-cheatsheet.md` |
+
+---
+
+## Track A — Pre-sales (informal · Max / Gabriel)
 
 **Status:** Interviewing — Gabriel fit chat done Jul 10; **pivot to TAM or Partnerships** (not SE)  
-**You:** Harrison Pizzi · Richboro, PA · Need **$150k+**  
 **Contacts:** Max (SVP Sales) · Gabriel Ragoff (Founding SA) · Katrina Gin  
-**Primary target:** **Open to SA/SE, TAM, Partnerships** — Gabriel reviewing internally (~late next week)  
+**Primary target:** **Open to SA/SE, TAM, Partnerships** — Gabriel reviewing internally  
 **Detail:** `interview-prep/ramp-gabriel.md`
 
 ---

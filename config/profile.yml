@@ -164,18 +164,24 @@ cover_letter:
 
 # ── Active interviews (operational — not CV claims) ───────────────────────
 active_interviews:
+  - company: "The Nuclear Company"
+    role: "Procurement — corporate indirect (under Becky Sr Dir Proc)"
+    track: "A"
+    status: "Interviewing"
+    contact: "Juli (recruiter); Becky (Sr Dir Proc, next); Kevin (Sr Dir Proc Projects)"
+    notes: "Aug 7 Juli screen. <200 emp, SMRs, tech/AI+nuclear. IT/HR/Facilities focus; change mgmt, cyber compliance. RTO 2-3d DC or Columbia SC (remote eliminated). Bonus 11%, 1800 options $5 strike Series B eval. Next Becky then loop. Target start Sep."
   - company: "Pengate Handling Systems"
     role: "Procurement Manager (greenfield — hire #1)"
     track: "A"
     status: "Interviewing"
-    contact: "Taylor Cubbler (TA); VP Finance (HM, next)"
-    notes: "Jul 23 recruiter screen w/ Taylor. $140-160K + 10-20% bonus; fully onsite Chalfont. First procurement hire; dept self-buy today; VP Finance mandate. Next: virtual w/ VP Finance, then onsite EVP Admin + dept leaders. Thank-you sent."
+    contact: "Michael Bock (VP Finance, HM); Taylor Cubbler (TA); lawyer round next"
+    notes: "Jul 28 HM Michael Bock — group programs (consolidate spend e.g. batteries), Toyota-owned strict controls, ~60% spend Toyota/Raymond non-negotiable. Custom Raymond ERP + JIRA. Next: lawyer (negotiation) + onsite EVP Admin. $140-160K+10-20% bonus; onsite Chalfont."
   - company: "Ramp"
-    role: "SA/SE · TAM · Partnerships — open; Gabriel reviewing"
+    role: "Procurement Product Activation — Manager (open to IC pivot) + SA/TAM/Partnerships informal"
     track: "B"
     status: "Interviewing"
-    contact: "Max (SVP Sales); Gabriel Ragoff (Founding SA); Katrina Gin"
-    notes: "Jul 8 Max chat — SE/SA path. Jul 10 Gabriel fit chat — good; open to SA/SE, TAM, Partnerships. Gabriel reviewing internally; follow-up ~late next week."
+    contact: "Abigail Lovegrove (GTM recruiter); Caroline Novus? (Dir CS, next); Max; Gabriel Ragoff"
+    notes: "Aug 3 Abigail screen — procurement facelift May, Bill Pay model. Manager track proceeding; Abi suggested IC fit; user open to pivot. Comp 70% base/30% var monthly on team goals. Next Caroline Dir CS. Parallel: Gabriel Jul 10 SA/TAM/Partnerships informal."
 
 # ── Recent application signals (Jul 2026 — informs targeting, not tracker) ─
 recent_apply_patterns:

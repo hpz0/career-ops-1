@@ -1,10 +1,11 @@
 # Pengate Handling Systems — Procurement Manager
 
 **JD:** [Procurement Manager — Chalfont, PA](https://www.linkedin.com/jobs/view/procurement-manager-at-pengate-handling-systems-inc-4434152220/)  
-**Status:** Recruiter screen complete · awaiting VP Finance (HM) virtual  
+**Status:** VP Finance interview complete (Jul 28) · next: lawyer + onsite  
 **Track:** A (procurement builder)  
 **Comp (Taylor):** $140K–$160K base + 10–20% bonus  
-**Location:** Fully onsite — Chalfont, PA (~45 min from Richboro)
+**Location:** Fully onsite — Chalfont, PA (~45 min from Richboro)  
+**HM:** Michael Bock · VP Finance (joined ~18 mo ago)
 
 ---
 
@@ -12,12 +13,14 @@
 
 | Item | Detail |
 |------|--------|
-| **Business** | Full-service material handling — conveyors, automation, custom storage; design/build/install |
+| **Business** | Material handling / **material movement** — sales, service, rentals, warehouse automation |
+| **Ownership** | **Toyota-owned** now — strict guidelines and controls (parent co compliance) |
 | **Scale** | ~650 employees · **17 locations** in Northeast |
-| **Structure** | **Two separate entities** today (Pengate + Toyota-something — confirm name); **merging next year** with rebrand |
+| **Structure** | Small **dealerships merging into one**; rebrand/ consolidation in flight |
 | **Procurement today** | **No dedicated procurement function** — departments manage own buying |
 | **This role** | **First / only procurement hire** to start; build team over time if justified |
-| **Why now** | New **VP Finance** hired ~2025; identified need for centralized procurement |
+| **Why now** | **Michael Bock** (VP Finance) ~18 mo in seat; Finance mandate for control + visibility |
+| **Systems** | **Custom ERP** built for Raymond network + **JIRA bolt-on** instance |
 
 ---
 
@@ -58,62 +61,93 @@
 ### Process
 
 1. ~~Recruiter screen (Taylor)~~ ✓ Jul 23
-2. **Virtual — VP Finance** (hiring manager)
-3. **Onsite — EVP of Admin** + 1–2 department leaders
+2. ~~VP Finance (Michael Bock)~~ ✓ Jul 28
+3. **Lawyer interview** — contract/negotiation depth (Michael flagged this)
+4. **Onsite — EVP of Admin** + 1–2 department leaders
 
 ### Thank-you
 
 - [x] Brief thank-you email to Taylor (sent Jul 23)
+- [ ] Brief thank-you email to Michael Bock (draft below)
 
 ---
 
-## Questions for VP Finance (HM round)
+## VP Finance interview — Michael Bock
 
-**Scope & mandate**
-- Does this role own **all** company spend (direct materials, project/CapEx, indirect/MRO)? Any categories staying with departments?
-- What spend volume / supplier count are we starting from? Any baseline spend analysis done?
-- What does success look like at **6 / 12 / 18 months**?
+**Date:** Jul 28, 2026  
+**Contact:** Michael Bock · VP Finance (joined ~18 mo ago; focus on Finance)
 
-**Systems & process**
-- Which **ERP** is primary today? Any e-procurement tool in place or planned?
-- Current PO / approval workflow — where are the biggest control gaps Finance wants closed first?
-- How decentralized is buying today — maverick spend, duplicate suppliers, no contracts?
+### Michael's context
 
-**Org & politics**
-- Who are the **1–2 dept leaders** I'd partner with first? Where is pain worst?
-- Reporting line — solid line to VP Finance? Dotted lines to operations?
-- Merger/rebrand timeline — does procurement need to unify processes across both entities now or post-merge?
+- Joined Pengate **~18 months ago**; building Finance function and control environment
+- Pengate = **material movement** business: sales, service, rentals, warehouse automation
+- **Toyota-owned** — strict parent-company guidelines and compliance requirements
+- Small **dealerships consolidating** into one entity → procedures, enforcement, vendor management, PO processing all need to scale
 
-**Role level & comp**
-- Title says Procurement Manager but LinkedIn seniority shows Director — intended level?
-- Bonus tied to what metrics (savings, compliance, process adoption)?
+### Spend landscape
 
-**Your fit flags (internal)**
-- **On-site Chalfont** — confirm commute/working expectations vs profile (deprioritized on-site-only historically; this is local)
-- **Step scope** — greenfield + strategic + PO execution = strong Plenty/Coupa/NetSuite story
-- **Level** — you're Senior Manager at Comcast; this is build-from-zero PM role — comp floor OK, scope may feel below title ambition unless team-build path is real
+| Bucket | Notes |
+|--------|--------|
+| **Toyota + Raymond (parent)** | **~60% of purchasing** — parent-company channels; **no negotiating this area** (Michael) |
+| **In-scope for this role** | Everything else — where **group programs** and consolidation win |
+
+**Categories Michael named (negotiable / in scope):**
+
+- Vehicle maintenance
+- Fuel
+- Freight (trucks, parts)
+- Wex cards
+- Enterprise (rental cars — **not** benefits)
+- IT (Microsoft, Adobe)
+- Facility maintenance
+
+### What Michael wants (mandate)
+
+- **Group programs** — leverage volume across sites/dealerships
+- **Example:** Techs buy batteries from many different stores → consolidate to **one preferred supplier** (e.g., Pep Boys) for volume pricing
+- **Procedures** — develop, manage, enforce
+- **Vendor management** + **PO processing**
+- Know the **departments** first; then build **processes**
+
+### Success definition (Michael)
+
+> Know departments · develop processes · enforce compliance · consolidate spend through group programs
+
+### Systems
+
+- **Custom ERP** built for the **Raymond network**
+- **JIRA bolt-on** instance (workflow/ticketing adjacency — confirm how POs/approvals flow)
+
+### What Michael flagged for next rounds
+
+- **Vendor negotiation skills** — expect this to be tested (incl. **lawyer interview**)
+- **Ability to implement consolidated purchase plans** — not just strategy decks; execution + change management
+
+### Your angles for lawyer / onsite rounds
+
+| They'll probe | Your proof |
+|---------------|------------|
+| Negotiation | Comcast multi-billion categories; Plenty 30% BOM; contract thresholds at Plenty |
+| Consolidated programs | Coupa catalogs, pre-negotiated supplier programs, 99% on contract |
+| Implementation | Coupa P2P end-to-end; policy with Finance/Legal; change management + adoption |
+| Controls / compliance | Toyota parent strictures = speak audit-ready P2P, enforcement, vendor master |
+| Custom ERP (not Coupa) | NetSuite + Coupa — assess and optimize in-place; don't rip-and-replace day one |
 
 ---
 
-## Your angles (HM prep)
+## Questions still open (lawyer / onsite)
 
-| They need | You have |
-|-----------|----------|
-| Build procurement from zero | Coupa P2P rollout + Procurement Policy at Plenty; former Coupa certified admin |
-| Strategic + hands-on POs | Owned direct + indirect; cut req cycle 50%; 99% on contract |
-| ERP / spend visibility | NetSuite BOMs/MRP/inventory; Coupa implementation |
-| Finance partnership | Co-authored policy with Finance/Legal/IT |
-| Cost reduction | 30% BOM reduction Plenty; enterprise negotiations Comcast |
-| Team build later | Supervised 3 buyers at Plenty |
-
-### 30-second intro
-
-> "Most recently Senior Manager Enterprise Procurement at Comcast on multi-billion infrastructure categories. Before that I built procurement at Plenty from the ground up — Coupa P2P, policy with Finance and Legal, NetSuite for materials planning, and a small buying team. I'm drawn to Pengate because this is a true greenfield: stand up controls, consolidate decentralized spend, and prove value before scaling the team."
+- Who owns **Toyota/Raymond 60%** administratively — separate team or same function, different rules?
+- **JIRA + ERP** — where do POs live today? Approval gaps?
+- **Group program quick wins** — has Finance sized battery/fuel/freight spend across sites?
+- **Lawyer interview** — format (scenario, contract review, negotiation role-play)?
+- **Bonus metrics** — savings vs compliance vs process adoption?
 
 ---
 
 ## Next actions
 
-- [ ] Await Taylor scheduling for **VP Finance virtual**
-- [ ] Confirm second entity name + merger details before HM call
-- [ ] Optional: tailor CV emphasizing greenfield P2P/policy/ERP (Plenty story)
+- [ ] Send thank-you to Michael Bock
+- [ ] Prep **negotiation stories** (2–3): Plenty supplier consolidation, Comcast contract win, group program / catalog adoption
+- [ ] Prep **lawyer round**: contract terms, indemnity, payment terms, auto-renew, sole-source justification, policy enforcement
+- [ ] Refresh cheatsheet with Michael-specific spend categories (drop manufacturing BOM angle)
