@@ -3,11 +3,11 @@
 **URL:** https://www.pengate.com/information/careers (also posted as Procurement Manager / “Strategic Procurement Lead - Sourcing, ERP & Controls,” Chalfont, PA)
 **Legitimacy:** unknown (no evaluation report)
 **Report:** N/A
-**Researched:** 2026-07-27
-**Sources:** Company site; LinkedIn company page; Indeed careers/FAQ; Nexxt job listings; Senior Accountant / AP Accountant postings (Concur, PO→AP signals); acquisition announcements (Arbor Apr 2024, Hooper Dec 2024)
-**Audiences covered:** hiring-manager (VP Finance), recruiter-screen (light)
+**Researched:** 2026-07-27 (updated 2026-08-05 — Bock + Leshinski panel)
+**Sources:** Company site; LinkedIn company page; John Leshinski LinkedIn headline; WV SOS corp filing (Michael Bock, V.P. of Finance); Pengate LinkedIn safety post tagging Bock CPA + Leshinski; Indeed careers/FAQ; Nexxt job listings; Senior Accountant / AP Accountant postings (Concur, PO→AP signals); acquisition announcements (Arbor Apr 2024, Hooper Dec 2024)
+**Audiences covered:** hiring-manager (VP Finance), panel-mixed (Bock + Leshinski), recruiter-screen (light)
 
-**Print companion:** [`pengate-cheatsheet.md`](pengate-cheatsheet.md) — 1-page Q&A sheet for the interview.
+**Print companion:** [`pengate-cheatsheet.md`](pengate-cheatsheet.md) — 1-page sheet for **Michael Bock + John Leshinski** panel.
 
 ---
 
@@ -39,27 +39,59 @@
 
 ## Process Overview
 
-- **Rounds:** unknown — not enough public Glassdoor/Blind detail for Pengate procurement loops
-- **This round:** VP of Finance → audience: `hiring-manager` (Finance owner of the mandate)
-- **Format:** unknown — expect conversation on approach + past build experience; likely in-person or hybrid given Chalfont posting
-- **Difficulty:** unknown — not enough data
-- **Known quirks:** Indeed FAQ page exists for “interview process” (4 answers) but full text not reliably extractable in research; treat process as **company-specific / opaque**
-- **Sources:** [Indeed company FAQ](https://www.indeed.com/cmp/Pengate-Handling-Systems,-Inc./faq/what-is-the-work-environment-and-culture-like-at-the-company); [pengate.com careers](https://www.pengate.com/information/careers)
+- **Rounds:** at least 2 known — (1) Michael Bock, VP Finance alone; (2) Bock **again** + John Leshinski, EVP Administration (this prep)
+- **This round:** panel with VP Finance + EVP Admin → audience: `panel-mixed`
+- **Format:** unknown — assume joint conversation; Chalfont / company site likely
+- **Difficulty:** unknown — not enough Glassdoor/Blind data
+- **Known quirks:** Second pass with Bock = expect depth / consistency checks, not a first-meet overview
+- **Sources:** [WV SOS — Pengate / Michael Bock V.P. of Finance](https://apps.sos.wv.gov/business/corporations/organization.aspx?org=166957); [John Leshinski LinkedIn](https://www.linkedin.com/in/john-leshinski-667b0a9); [pengate.com careers](https://www.pengate.com/information/careers)
 
 ## Audience Map
 
-- **This interview** (VP Finance) → `hiring-manager`
-- Prior / next screens (HR / ops) → `recruiter-screen` or ops peer `[inferred]` if scheduled
+- **Prior round** (Michael Bock alone) → `hiring-manager`
+- **This round** (Bock + Leshinski) → `panel-mixed`
+- Later ops/HR peers → unknown `[inferred]`
 
 ---
 
-## Round: VP of Finance — audience: `hiring-manager`
+## Panel Intel
+
+| Name | Role | Read |
+|------|------|------|
+| **Michael Bock, CPA** | VP of Finance (WV SOS: “MICHAEL BOCK, V P OF FINANCE”; corporate Vice-President, York HQ). Tagged “Michael Bock, CPA” on Pengate LinkedIn. | **Day-to-day hiring partner.** Already interviewed you once — likely primary process owner for the seat. Will test consistency, AP/controls depth, and whether you’ll actually report/partner into Finance. Weight: high on *working relationship*. Audience tag: `hiring-manager`. |
+| **John Leshinski** | EVP of Administration — Finance, HR, IT/IS and Systems ([LinkedIn](https://www.linkedin.com/in/john-leshinski-667b0a9)). Appears with Bock on internal leadership posts. | **Likely skip-level / offer-weight decision-maker** — owns the tower that includes Bock’s Finance org plus HR and IT. Will ask whether you can land change across Admin, sequence systems with IT, build a people plan without empire-building, **and handle contracting/commercial risk with Legal** (NDA/MSA/PSA discipline — high likelihood even though Legal isn’t in his title). Audience tag: `hiring-manager` (skip-level). |
+
+**Decision weighting:** Leshinski’s scope (Finance + HR + IT) makes him the probable final yes/no above Bock; Bock is still who you’d work with weekly — never pitch around him.
+
+**Per-panelist closing questions**
+- **Bock:** “From our last conversation — what would you want me to prove in the first 90 days above everything else?”
+- **Leshinski:** “What does success look like for you at 12 months — controls, savings, headcount, or systems — and how should procurement partner with IT on what’s open vs off-limits?”
+
+---
+
+## Round: Bock + Leshinski panel — audience: `panel-mixed`
 
 - **Duration:** unknown
-- **Conducted by:** VP of Finance
+- **Conducted by:** Michael Bock (VP Finance, return) + John Leshinski (EVP Administration)
+- **What they evaluate:** Consistency with prior Bock round; Finance partnership credibility; Admin-tower fit (systems + people + change); builder pragmatism post-M&A.
+- **Reported questions:** none Pengate-specific found — Qs below `[inferred from JD]` / panelist roles.
+- **How to prepare:** Print updated cheat sheet; vary story angles (don’t clone last Bock meeting); rehearse 40s joint open.
+
+### Hand-off discipline
+- **To Bock:** controls, AP, close, exceptions, 90-day KPI proof, **vendor master / M&A cleanup timing**.
+- **To Leshinski:** operating model, **contracting/Legal partnership**, **Hooper–Arbor consolidation change path**, IT partnership, hire timing.
+- **Do not** repeat the full Coupa monologue twice — headline for one, implementation detail for the other.
+- **M&A answers:** use the plain-English talk track (cheat sheet + L8) — not PMI jargon.
+
+---
+
+## Round (prior): VP of Finance alone — audience: `hiring-manager`
+
+- **Duration:** unknown
+- **Conducted by:** Michael Bock, VP Finance
 - **What they evaluate:** Can you build a controlled procurement function without boiling the ocean; will you partner with Controllership/AP; do you speak risk, compliance, working capital — not only “I negotiate hard”; can you sequence people/process/systems after M&A growth.
 - **Reported questions:** none found specific to Pengate + this role — all Qs below tagged `[inferred from JD]` / role archetype.
-- **How to prepare:** Memorize the cheat sheet open + 90-day framework; rehearse S1–S3 from story-bank aloud in Finance vocabulary.
+- **How to prepare (for return visit):** Assume he remembers your overview — bring *deeper* AP/controls and concrete deliverables.
 
 ---
 
@@ -156,17 +188,99 @@ All questions `[inferred from JD]` / first-procurement-hire under Finance archet
 
 ---
 
+## Likely Questions — Leshinski (EVP Admin) pack `[inferred from JD]` / role
+
+He owns Finance + HR + IT/IS + Systems. Weight answers toward **org design, change management, and systems partnership** — not a second copy of the AP deep-dive.
+
+### L1. Why should procurement sit under Admin / Finance rather than Ops?
+
+**Headline:** Spend control, vendor risk, and working capital are Finance problems; Ops is a stakeholder, not the control owner.
+
+**Ops:** At Plenty I partnered Finance/Legal/IT while serving ops demand. Under your tower I’d give Michael a clean control environment and give ops a faster compliant path — not a gate that slows the business.
+
+### L2. How do you drive adoption when branches/sites have always bought their own way?
+
+**Headline:** Make compliant the easy path; prove speed; escalate only on risk.
+
+**Plenty bridge:** Cutting PR cycle 3→1.5 days was how policy stuck — people use what doesn’t punish them. Post-Arbor/Hooper, start with visibility and shared vendor standards before heavy central mandates.
+
+### L3. Walk me through a systems implementation you owned end-to-end.
+
+**Story:** S1 Coupa (+ mention Ironclad/DocuSign, TripActions, NetSuite S4).
+
+**Angle for him:** Requirements with Finance + IT; policy and training with the business; measurable outcomes (99% on contract, cycle time). Explicit: I don’t buy tools without IT partnership — and I won’t claim Concur ownership (not in cv.md); I’d partner with Finance’s Concur work.
+
+### L4. What’s your people plan for year one?
+
+**Headline:** Player-coach → business case for the next hire.
+
+**Detail:** Publish roles/RACI with HR; manage capacity; hire when volume or multi-site complexity breaks control quality — bring John and Michael a case (transactions, cycle time, risk), not a org chart wish.
+
+### L5. How will you work with IT (e.g. David Brieck’s lane)?
+
+**Headline:** Procurement owns process/requirements; IT owns architecture/security/integrations.
+
+**Proof:** Coupa/NetSuite/CLM rollouts required IT partnership. Sequence: stabilize PO/AP controls in current ERP → then evaluate P2P/CLM if gaps remain.
+
+### L6. Consistency check (Bock already heard you)
+
+If John asks something Michael asked: same facts, shorter headline, then *new* angle (systems/people/contracts). If numbers drift, you lose both.
+
+### L7. What’s your experience with Legal and contracting? `[inferred — high likelihood for EVP Admin]`
+
+**Headline:** Commercial owner + Legal partner — not outside counsel. Paper ladder + CLM + enterprise/spin complexity.
+
+**Talk track (use this):**
+1. **Role clarity:** I structure deals, negotiate commercial terms (price, payment, SLAs, liability tradeoffs, termination), and pull Legal in on risk thresholds — I don’t pretend to be counsel.
+2. **Paper ladder:** NDA → MSA → PSA/SOW → PO/amendment. Kill one-off contracts when an MSA exists.
+3. **Plenty (S7):** Stood up Ironclad + DocuSign SpringCM; policy drove **99% spend on contract** with Finance/Legal.
+4. **Comcast / Versant (S8, user):** Executive negotiations on tech/infra; through the **Versant spin**, worked vendor agreements so entities had clean assignment/payment/liability — same class of problem as multi-entity dealer growth (Arbor/Hooper).
+5. **Pengate ask-back:** Who owns templates today, and what’s the Legal review threshold?
+
+**Do not:** Claim attorney work product; invent Versant savings figures; say you’ll bypass Legal.
+
+### L8. How would you consolidate Hooper / Arbor into centralized procurement? `[inferred — high likelihood]`
+
+**Speak plain — do not sound like a PMI deck.** Full talk track also on the cheat sheet.
+
+**Talk track:**
+> Day one I’m not announcing everyone’s buying goes through me. That just pisses people off and they buy around you.
+>
+> First I sit with Finance, AP, and whoever’s been buying at Hooper and the other sites — who’s buying what, where POs live, how many versions of the same vendor are in the system, what’s on contract vs email-and-hope. Notes, not a redesign that week.
+>
+> Then basic rules across entities: above X needs a PO, new vendors can’t get created by whoever feels like it, here’s when Legal looks. Same playbook so we’re not running two companies by accident.
+>
+> Vendor list is the ugly part — same supplier five times, different terms, that’s how you double-pay or miss discounts. Clean it with AP carefully, not mid-close, not in a way that stops a branch from getting parts. Lock down who can add vendors.
+>
+> Contracts: I’m not ripping up every Hooper deal on week two if it keeps trucks running. Where both companies buy the same stuff from the same people — get under one agreement so we’re not negotiating against ourselves.
+>
+> Centralized doesn’t mean every $40 order through Chalfont. It means important spend has rules, we can see it, and big overlapping vendors get handled once. Local keeps small buys under a threshold. If the right way is slower than the old way, they’ll ignore me — so I’ve got to be useful.
+>
+> Plenty was build-from-nothing. Comcast/Versant was multi-entity paper — who pays, who holds liability, service keeps going. I haven’t seen Pengate’s books yet. That’s how I’d start.
+
+**“When are we centralized?”**  
+> First couple months you feel visibility and the free-for-all slowing down. For real when duplicates are gone and top shared suppliers are on one deal. Full everything-through-one-team takes longer — I’d rather it stick.
+
+**Ask back:** How many ERP/AP instances across Pengate, Arbor, Hooper — shared vendor master or separate?
+
+**Proof bridges (don’t overclaim M&A PMI title):** Plenty build-from-scratch (S1/S7) · Comcast multi-brand portfolio · Versant entity paper (S8).
+
+---
+
 ## Story Bank Mapping
 
 | # | Audience | Topic | Story | Fit | Gap? |
 |---|----------|-------|-------|-----|------|
-| 1 | hiring-manager | Build from scratch / P2P | S1 Coupa + policy + team of 3 | strong | — |
-| 2 | hiring-manager | AP / Finance partnership | S2 e-invoice +50% | strong | — |
-| 3 | hiring-manager | Systems / T&E adjacency | S3 TripActions | partial | Concur ≠ TripActions — say “same control tower” |
-| 4 | hiring-manager | ERP change | S4 NetSuite MRP | strong | — |
-| 5 | hiring-manager | Savings | S5 30% BOM | partial | Reframe to TCO / dealer categories |
-| 6 | hiring-manager | Stakeholder conflict with Finance | — | none | Draft if probed (gap already in story-bank) |
-| 7 | hiring-manager | Team coaching / underperformance | — | none | Gap — 3 buyers managed but no STAR yet |
+| 1 | hiring-manager (Bock) | Build from scratch / P2P | S1 Coupa + policy + team of 3 | strong | Vary angle vs prior round |
+| 2 | hiring-manager (Bock) | AP / Finance partnership | S2 e-invoice +50% | strong | Lead this for return visit |
+| 3 | panel (Leshinski) | Systems / change mgmt | S1 + S4 NetSuite | strong | Emphasize IT partnership |
+| 4 | panel (Leshinski) | Org / hire timing | S1 team of 3 + policy | strong | — |
+| 5 | panel (Leshinski) | **Legal / contracting** | **S7 CLM + S8 Versant** | **strong** | Confirm Versant metrics if asked for numbers |
+| 6 | panel (both) | **M&A / vendor master / Hooper** | **S9 approach + S1/S8 bridge** | **strong** | Approach talk track — not “I ran Pengate PMI” |
+| 7 | hiring-manager | Systems / T&E adjacency | S3 TripActions | partial | Concur ≠ TripActions — say “same control tower” |
+| 8 | hiring-manager | Savings | S5 30% BOM | partial | Reframe to TCO / dealer categories |
+| 9 | hiring-manager | Stakeholder conflict with Finance | — | none | Draft if probed |
+| 10 | panel (Leshinski) | Team coaching / underperformance | S6 | strong | — |
 
 ---
 
@@ -178,42 +292,44 @@ All questions `[inferred from JD]` / first-procurement-hire under Finance archet
 - [ ] Multi-entity / post-acquisition vendor master consolidation approach
 - [ ] Category plan for dealer economics: OEM/parts, facilities, IT/SaaS, contract labor, systems-project vendors
 - [ ] Coupa / NetSuite / CLM vocabulary refresh — implementation ownership at Plenty only
+- [ ] Recall 1–2 themes from prior Bock conversation — open by acknowledging them
 
 ---
 
-## Company Signals — to the VP Finance
+## Company Signals — panel-mixed (Bock + Leshinski)
 
-### What to lead with
-- Plenty **builder** story in Finance vocabulary: on-contract %, cycle time, AP labor, policy.
-- Excitement about **M&A integration** of spend (Arbor/Hooper) without claiming insider details.
-- Player-coach pragmatism — controls before headcount.
+### To Bock (return)
+- **Lead with:** AP partnership depth, exception rates, concrete 90-day proofs for *his* KPIs.
+- **Ask:** what he wants proven first after your last talk.
+- **Avoid:** replaying the full Plenty overview verbatim.
 
-### Vocabulary that lands
-- Spend under management / on-contract %
-- Approval matrix / segregation of duties
-- Vendor master / three-way match
-- Exception rate / touchless invoice
-- Category strategy / TCO
-- Working capital / cycle time
+### To Leshinski
+- **Lead with:** operating model + **contract discipline (NDA/MSA/PSA + CLM)** + **Hooper/Arbor consolidation in plain English** + systems change + lean org design.
+- **Vocabulary:** Admin tower, commercial risk, multi-entity (not “synergies”), IT partnership, RACI, adoption.
+- **Ask:** contract template ownership / Legal thresholds; ERP/AP instances across entities; 12-month success; ERP/Concur open vs off-limits.
+- **Avoid:** pitching around Bock; empire-building headcount; pretending to be counsel; PMI-deck jargon.
 
-### What NOT to do
+### Shared — what NOT to do
 - Lead with agtech BOM / FDA as the hero (translate or demote).
-- Promise a specific platform purchase.
-- Sound anti-process (“I’ll just negotiate everything myself”).
+- Promise a specific platform purchase without IT.
 - Trash Comcast or sound desperate to escape.
+- Contradict yourself across the two of them on comp, timeline, or why Pengate.
+- Promise full M&A centralization in 90 days or claim you’ve audited Hooper’s file.
+- Answer M&A with framework jargon — use the plain-English talk track (L8 / cheat sheet).
 
-### Sharp questions to ask back
-1. What made procurement a **Finance** priority now vs leaving buying in ops/parts?
-2. How fragmented are POs, vendor masters, and approvals across acquired entities?
-3. What’s the 12-month definition of success for this seat?
-4. Current ERP / PO / AP / Concur landscape — what’s sacred vs open?
-5. Where should early political capital go — parts, facilities, IT, or systems/project vendors?
+### Sharp questions (tagged)
+1. **Bock:** From last time — top 90-day proof you want?
+2. **Leshinski:** 12-month success — controls vs savings vs headcount vs systems?
+3. **Leshinski:** How should procurement partner with IT near-term?
+4. **Leshinski:** Who owns contract templates / Legal review thresholds — what’s broken in vendor paper post-Arbor/Hooper?
+5. **Either:** Post-Arbor/Hooper fragmentation (vendor master / POs / approvals)?
+6. **Bock:** Where does AP hurt most — no-PO invoices, vendor master, or exceptions?
 
 ---
 
 ## Recruiter / logistics pack (if needed again)
 
-- **Why Pengate:** Builder mandate + Finance partnership + local Chalfont/Richboro geography.
+- **Why Pengate:** Builder mandate + Finance/Admin partnership + local Chalfont/Richboro geography.
 - **Timeline:** ~30-day notice.
 - **Comp:** Ask for band; don’t lead with Director remote script until you hear scope/band.
 - **Other processes:** You may have Ramp AE + confidential P2P in flight — be honest if asked; don’t overshare strategy.

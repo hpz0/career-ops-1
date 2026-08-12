@@ -3,7 +3,9 @@
 ## House Rules
 
 - **Dual-track search:** Harrison targets both (A) procurement/supply chain builder roles AND (B) enterprise account management / account executive roles. Detect track from the JD title and tailor all output.
-- **Active interview:** Ramp — remote AE. Do NOT suggest re-applying to Ramp. Prioritize interview prep (`interview-prep/ramp.md`) over new AE cold apps at lower fit.
+- **Active interview (priority):** The Nuclear Company — Sr. Category Manager Indirect/Corporate — **HM next week w/ Rebekah O'Hara** (Director, Strategic Sourcing). Prep: `interview-prep/the-nuclear-company-hm-cheatsheet.md` + `the-nuclear-company-sr-category-manager.md`. Relocation already OK — do not reopen.
+- **Also active:** Ramp — Senior Manager, Procurement Product Activation (recruiter). Prep: `interview-prep/ramp-senior-manager-procurement-product-activation.md` + `ramp-procurement-activation-cheatsheet.md`. Do NOT suggest re-applying to Ramp. Confirm remote vs Hybrid and base under 70/30 OTE before advancing.
+- **Secondary Ramp thread:** AE exploratory with Max — keep warm; do not confuse with Activation role in outreach or prep.
 - **Hunt refinement (Jul 2026):** Prioritize **Director+** remote procurement/sourcing — especially **data centers, hardware, infrastructure**, and **source-to-pay / spend analytics**. **Remote US only — not relocating** to Boston, SF, NYC, etc. **Not an engineer** — discard engineering/PM/design titles. Deprioritize on-site PA suburbs and 25%+ travel titles.
 - **Scan is two steps (IMPORTANT):**
   1. `node scan.mjs` — zero-token scan of tracked companies + job boards. Does NOT run `search_queries` in portals.yml.
@@ -19,6 +21,14 @@
 - Evaluation reports: state which track (A or B) the role belongs to in Block A.
 - Flag agency postings (Boden Talent, Spencer Rigby, Zazu, etc.) — note end employer if known.
 - If score >= 4.0 on Track B fintech/spend AE, note account-management CV variant.
+
+## Resume / CV Formatting (persistent)
+
+- **One page every time** — letter format for US roles; tighten spacing, drop weak early roles / non-relevant certs / empty Projects section when needed to fit.
+- **Short professional summary** — 2–3 lines max (not 4+).
+- **Always include a Skills section** — JD-keyworded, truthful reformulation only.
+- Prefer Core Competencies + Skills + Experience + Education; omit Projects/Certifications unless they strengthen the specific JD.
+- Ask clarifying questions when JD skills are adjacent but not explicit in `cv.md` (e.g. Power BI, spend analytics, domain-specific categories).
 
 ## Off-Limits
 

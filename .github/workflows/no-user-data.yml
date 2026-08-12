@@ -24,16 +24,36 @@ jobs:
           script: |
             const { owner, repo } = context.repo;
             const pull_number = context.payload.pull_request.number;
+            const baseRef = context.payload.pull_request.base.ref;
+
+            // Personal forks may intentionally version-control user-layer files
+            // for backup/sync (see .gitignore "Personal fork" section). Upstream
+            // and contributor PRs still get the hard block.
+            try {
+              const { data } = await github.rest.repos.getContent({
+                owner, repo, path: '.gitignore', ref: baseRef,
+              });
+              const gitignore = Buffer.from(data.content, 'base64').toString('utf8');
+              if (/Personal fork \(hpz0\): track user-layer/.test(gitignore)) {
+                core.info('OK — personal-fork mode: user-layer tracking is intentional.');
+                return;
+              }
+            } catch (err) {
+              core.warning(`Could not read .gitignore for personal-fork check: ${err.message}`);
+            }
+
             const files = await github.paginate(github.rest.pulls.listFiles, {
               owner, repo, pull_number, per_page: 100,
             });
 
-            // USER_PATHS (update-system.mjs). voice-dna.md is omitted on purpose:
-            // it ships as a populated system default, so edits to it are legit.
+            // User-layer paths from DATA_CONTRACT.md and update-system.mjs.
+            // voice-dna.md is omitted on purpose: it ships as a populated
+            // system default, so edits to it are legit.
             const USER_PATHS = [
               /^cv\.md$/,
               /^config\/profile\.yml$/,
               /^modes\/_profile\.md$/,
+              /^modes\/_custom\.md$/,
               /^portals\.yml$/,
               /^article-digest\.md$/,
               /^interview-prep\//,
