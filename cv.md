@@ -41,7 +41,7 @@ Mar 2021 – Jan 2024
 **Global Supply Manager**
 Jan 2018 – Mar 2021
 
-- Led major company-wide system implementations: Coupa (P2P), Ironclad and DocuSign SpringCM (CLM), TripActions (travel)
+- Led major company-wide system implementations: Coupa (P2P — including approval workflows, catalogs, and punchouts; implemented No-PO-No-Pay policy), Ironclad and DocuSign SpringCM (CLM), TripActions (travel)
 - Used Power BI and ERP spend analytics to inform category decisions and cost-driver analysis
 - Oversaw multimillion-dollar **indirect procurement** budget including **IT/technology**, facilities, travel, marketing, contract labor, and office supplies — category planning, sourcing, and supplier performance
 - Managed team of 3 buyers; published and enforced Procurement Policy

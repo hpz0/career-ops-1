@@ -147,7 +147,9 @@ ChatGPT nailed the positioning: you're not a traditional SaaS implementation lea
 | **S4 Ironclad** | Cross-functional systems impl | "Technology was easy. Agreeing on process was hard." | Good for cross-functional Q |
 | **S6 IT buyer coaching** | People development | Scoped ownership → 1:1s → shadow/reverse-shadow | Only story for people-dev Q |
 
-**Story you should confirm before using:** the No-PO-No-Pay story (was this a formal policy at Plenty?). If yes — excellent story. If not exactly how it happened, drop it.
+**Both confirmed 2026-08-12:**
+- **No-PO-No-Pay:** Real, explicit policy at Plenty — with threshold/emergency exceptions built in by design. Use freely.
+- **Punchouts/catalogs:** Configured at scale in Coupa; Coupa corporate specifically noted the number as impressive. Use freely — and drop the line naturally: *"Coupa corporate was surprised at the number of punchouts I got live for a company our size."*
 
 ---
 
