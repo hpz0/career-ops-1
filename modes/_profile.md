@@ -84,7 +84,7 @@ When generating PDF/cover for AE/AM roles:
 |---------|------|-------|-------|
 | **The Nuclear Company** | Sr. Category Manager (Indirect/Corporate) | A | **HM w/ Rebekah O'Hara** (Director, Strategic Sourcing). Prep: `interview-prep/the-nuclear-company/`. Comp $151–176K. **OK relocating**. |
 | **Pengate Handling Systems** | Procurement Manager / Strategic Procurement Lead (Chalfont) | A | Next: lawyer + onsite EVP Admin. Prep: `interview-prep/pengate/`. |
-| **Ramp** | Senior Manager, Procurement Product Activation | A-adjacent | **HM Caroline Novas — Wed Aug 12, 2026.** Only open: `interview-prep/ramp/caroline.md` + `caroline-prep.md`. Confirm remote + 70/30 base. |
+| **Ramp** | Procurement Product Activation (mgr vs IC TBD) | A-adjacent | **Post-HM 2026-08-12.** Caroline deciding path. Debrief: `interview-prep/ramp/caroline-debrief-2026-08-12.md`. Confirm remote + 70/30 base when clear. |
 | **Ramp** | SA/SE · TAM · Partnerships / AE exploratory | B | Max + Gabriel. Deprioritize vs Activation. `interview-prep/ramp/gabriel.md` if present. |
 
 ## Hunt Priorities (from Jul 2026 applications)
