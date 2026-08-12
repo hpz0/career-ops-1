@@ -130,6 +130,7 @@ plan/
 !data/scan-runs.tsv
 !data/salary-observations.tsv
 !interview-prep/*.md
+!interview-prep/**/*.md
 !reports/*.md
 reports/*-RESERVED.md
 !jds/*
