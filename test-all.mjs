@@ -1197,16 +1197,19 @@ for (const f of skillEntrypoints) {
   }
 }
 
-// Check user files are NOT tracked (gitignored)
+// Check user files are NOT tracked (gitignored). Personal forks may
+// intentionally track them for backup/sync — see .gitignore marker.
+const personalForkTrackedOk = existsSync(join(ROOT, '.gitignore'))
+  && /Personal fork \(hpz0\): track user-layer/.test(readFileSync(join(ROOT, '.gitignore'), 'utf-8'));
 const userFiles = [
   'config/profile.yml', 'modes/_profile.md', 'portals.yml',
 ];
 for (const f of userFiles) {
   const tracked = run('git', ['ls-files', f]);
-  if (tracked === '') {
+  if (tracked === '' || tracked === null) {
     pass(`User file gitignored: ${f}`);
-  } else if (tracked === null) {
-    pass(`User file gitignored: ${f}`);
+  } else if (personalForkTrackedOk) {
+    pass(`User file tracked (personal-fork mode): ${f}`);
   } else {
     fail(`User file IS tracked (should be gitignored): ${f}`);
   }

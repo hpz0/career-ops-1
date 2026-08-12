@@ -105,6 +105,9 @@ package-lock.json
 # Playwright MCP server run artifacts (ephemeral, machine-local)
 .playwright-mcp/
 
+# Web dashboard local logo cache (runtime artifact — never ship)
+.career-ops-web/
+
 # Planning (local scratchpad)
 plan/
 
