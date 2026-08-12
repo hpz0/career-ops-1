@@ -177,11 +177,17 @@ active_interviews:
     contact: "Michael Bock (VP Finance, HM); Taylor Cubbler (TA); lawyer round next"
     notes: "Jul 28 HM Michael Bock — group programs (consolidate spend e.g. batteries), Toyota-owned strict controls, ~60% spend Toyota/Raymond non-negotiable. Custom Raymond ERP + JIRA. Next: lawyer (negotiation) + onsite EVP Admin. $140-160K+10-20% bonus; onsite Chalfont."
   - company: "Ramp"
-    role: "Procurement Product Activation — Manager (open to IC pivot) + SA/TAM/Partnerships informal"
+    role: "Senior Manager, Procurement Product Activation (remote/hybrid TBD)"
+    track: "A-adjacent"
+    status: "Interviewing — HM with Caroline Novas (Wed Aug 12, 2026)"
+    contact: "Abigail Lovegrove (GTM recruiter); Caroline Novas (Dir CS Scaled & Partnerships, HM)"
+    notes: "Ashby d238a056. Abigail screen Aug 3. Comp Nationwide OTE $166–227K 70/30 — confirm base ≥$140K + fully remote. Prep: interview-prep/ramp/caroline.md + caroline-prep.md. Caroline = scaled OS + procurement authority (Bill Pay specialist analogy)."
+  - company: "Ramp"
+    role: "Account Executive / SA-TAM-Partnerships (exploratory)"
     track: "B"
-    status: "Interviewing"
-    contact: "Abigail Lovegrove (GTM recruiter); Caroline Novus? (Dir CS, next); Max; Gabriel Ragoff"
-    notes: "Aug 3 Abigail screen — procurement facelift May, Bill Pay model. Manager track proceeding; Abi suggested IC fit; user open to pivot. Comp 70% base/30% var monthly on team goals. Next Caroline Dir CS. Parallel: Gabriel Jul 10 SA/TAM/Partnerships informal."
+    status: "Exploratory / deprioritized vs Activation seat"
+    contact: "Max (SVP Sales); Gabriel Ragoff"
+    notes: "Informal with Max + Gabriel Jul 10. Keep warm; prioritize Activation HM. See interview-prep/ramp/gabriel.md if present."
 
 # ── Recent application signals (Jul 2026 — informs targeting, not tracker) ─
 recent_apply_patterns:
@@ -304,4 +310,4 @@ re_apply_windows:
   Ramp:
     same_role_days: 180
     last_apply_date: "2026-07-01"
-    notes: "Active interview process — do not re-apply; focus on prep"
+    notes: "Active Interview — HM Caroline Novas Wed Aug 12 2026. Do not re-apply; focus on prep."

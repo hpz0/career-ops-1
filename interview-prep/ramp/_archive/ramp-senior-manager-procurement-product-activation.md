@@ -65,8 +65,8 @@
 ## Audience Map
 
 - **Round 0** (async AI video, if used) → `recruiter-screen` [inferred from Activation/Implementation Glassdoor]  
-- **Round 1** (recruiter / TA, ~25–30 min) → `recruiter-screen` — **YOU ARE HERE**  
-- **Round 2** (HM / CS leadership, ~45–60 min) → `hiring-manager` [inferred]  
+- **Round 1** (recruiter / TA) → `recruiter-screen` — done / in progress  
+- **Round 2** (HM — **Caroline Novas**, Wed Aug 12, 2026) → `hiring-manager` — **YOU ARE HERE** · prep: `ramp-caroline-novas-hm-cheatsheet.md`  
 - **Round 3** (peer activation / senior IC or sibling managers) → `peer-tech` [inferred]  
 - **Round 4+** (cross-functional Sales/AM/Product) → `panel-mixed` [inferred]
 
@@ -176,7 +176,13 @@ Connect Plenty “stand up procurement + systems” → Ramp “founding activat
 
 ### Audience: `panel-mixed`
 
-No named panelists yet. When schedule arrives, build Panel Intel table. Hand-off discipline: recruiter gets headline metrics; HM gets playbook/90-day; peers get workflow/ERP detail — don’t repeat the same Coupa story verbatim.
+## Panel Intel
+
+| Name | Role | Read |
+|------|------|------|
+| **Caroline Novas** | Director, CS Scaled & Partnerships; ex BizOps Self-Service Activations | HM for Wed Aug 12 — scaled OS / Bill Pay specialist analogy / metrics. Full: `ramp-caroline-novas-hm.md` |
+
+Hand-off discipline: recruiter got headline fit; Caroline gets **scaled playbook + coaching + metrics**; peers later get ERP/workflow detail — don’t repeat Coupa identically.
 
 ---
 

@@ -56,8 +56,9 @@ When generating PDF/cover for AE/AM roles:
 **Frame:** The buyer who understands what it's like on the other side of the table.
 
 - **Track A (procurement):** Plenty builder → leaving Comcast bureaucracy → remote-first startup
-- **Track B (AE/AM/SE):** Active **Ramp** process — open to SA/SE, TAM, Partnerships; Gabriel reviewing ~late next week. See `interview-prep/ramp-gabriel.md`.
-- **In interviews (AE):** Use Plenty supplier negotiation stories as "how I'd handle a skeptical procurement stakeholder today — because I was one"
+- **Track A-adjacent (Ramp Activation):** Active **HM round with Caroline Novas (Wed Aug 12, 2026)** for Senior Manager, Procurement Product Activation. Prep: `interview-prep/ramp/caroline.md` + `caroline-prep.md`. Prioritize over AE cold apps.
+- **Track B (AE/AM/SE):** Ramp exploratory with Max + Gabriel — secondary to Activation seat; still valid for other fintech AE/SA/TAM roles. See `interview-prep/ramp/gabriel.md` if present.
+- **In interviews (activation):** Lead Coupa go-live + policy + coaching; do not lead with quota pivot
 
 ## Your Cross-cutting Advantage
 
@@ -81,7 +82,10 @@ When generating PDF/cover for AE/AM roles:
 
 | Company | Role | Track | Notes |
 |---------|------|-------|-------|
-| **Ramp** | SA/SE · TAM · Partnerships — open | B | Gabriel Jul 10: reviewing internally ~late next week. `interview-prep/ramp-gabriel.md`. Highest priority.
+| **The Nuclear Company** | Sr. Category Manager (Indirect/Corporate) | A | **HM w/ Rebekah O'Hara** (Director, Strategic Sourcing). Prep: `interview-prep/the-nuclear-company/`. Comp $151–176K. **OK relocating**. |
+| **Pengate Handling Systems** | Procurement Manager / Strategic Procurement Lead (Chalfont) | A | Next: lawyer + onsite EVP Admin. Prep: `interview-prep/pengate/`. |
+| **Ramp** | Senior Manager, Procurement Product Activation | A-adjacent | **HM Caroline Novas — Wed Aug 12, 2026.** Only open: `interview-prep/ramp/caroline.md` + `caroline-prep.md`. Confirm remote + 70/30 base. |
+| **Ramp** | SA/SE · TAM · Partnerships / AE exploratory | B | Max + Gabriel. Deprioritize vs Activation. `interview-prep/ramp/gabriel.md` if present. |
 
 ## Hunt Priorities (from Jul 2026 applications)
 

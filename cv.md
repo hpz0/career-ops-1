@@ -51,10 +51,14 @@ Mar 2021 – Jan 2024
 **Global Supply Manager**
 Jan 2018 – Mar 2021
 
-- Led end-to-end implementation of enterprise procurement systems, including **Coupa (P2P)**, **Ironclad**, **DocuSign SpringCM**, and **TripActions**, modernizing procurement operations company-wide
+- Led major company-wide system implementations: Coupa (P2P — including approval workflows, catalogs, and punchouts; implemented No-PO-No-Pay policy), Ironclad and DocuSign SpringCM (CLM), TripActions (travel)
 - Former **Coupa certified admin** (~5 years at Plenty); platform owner partnering with vendor on feature requests, onsite product sessions, and local user group; nominated for Coupa procurement award
-- Managed multimillion-dollar indirect procurement budget (IT, facilities, marketing, travel); improved purchasing efficiency and reduced cycle times by **50%** (3 days → 1.5 days); **99% spend on contract**
-- Supervised team of **3 buyers**; boosted supplier e-invoicing adoption by **50%**; co-authored corporate Procurement Policy with Finance/Legal/IT to embed governance and scalable workflows
+- Used Power BI and ERP spend analytics to inform category decisions and cost-driver analysis
+- Oversaw multimillion-dollar **indirect procurement** budget including **IT/technology**, facilities, travel, marketing, contract labor, and office supplies — category planning, sourcing, and supplier performance
+- Managed team of 3 buyers; published and enforced Procurement Policy
+- Achieved 99% of spend on contract; reduced purchase requisition cycle time from 3 days to 1.5 days
+- Increased supplier electronic invoice rate by 50%, reducing Accounts Payable labor
+- Collaborated with Finance, Legal, and IT to align procurement strategies with corporate goals
 
 ### Earlier Experience
 
