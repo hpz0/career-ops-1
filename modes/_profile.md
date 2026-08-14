@@ -85,7 +85,7 @@ When generating PDF/cover for AE/AM roles:
 | Company | Role | Track | Notes |
 |---------|------|-------|-------|
 | **The Nuclear Company** | Sr. Category Manager (Indirect/Corporate) | A | **Recruiter screen w/ Juli Hile.** Cheat sheet: `interview-prep/the-nuclear-company-cheatsheet.md`. Comp $151–176K. **OK relocating** (already told them). |
-| **Pengate Handling Systems** | Procurement Manager / Strategic Procurement Lead (Chalfont) | A | **Offer (2026-08-13 letter).** $140k base, Chalfont in-office, start 9/7, yr1 MIP 15% with strings. Prep: `data/offers/pengate-handling-systems/prep-2026-08-14.md`. |
+| **Pengate Handling Systems** | Procurement Manager / Strategic Procurement Lead (Chalfont) | A | **Declining offer.** Letter $140k (Taylor said 140–160 + 10–20% bonus); in-office; ~15d PTO. Draft: `data/offers/pengate-handling-systems/reply-draft-2026-08-14.md`. |
 | **Ramp** | Senior Manager, Procurement Product Activation | A-adjacent | **Active recruiter screen** — CS founding playbook seat. Use `interview-prep/ramp-senior-manager-procurement-product-activation.md` + cheatsheet. Confirm remote + 70/30 base. |
 | **Ramp** | Account Executive (remote) | B | Exploratory with Max (SVP Sales). Use `interview-prep/ramp.md`. Deprioritize vs Activation. |
 
