@@ -4,37 +4,63 @@
 **LinkedIn:** https://www.linkedin.com/jobs/view/4424732426/  
 **Legitimacy:** unknown (no prior evaluation report; Greenhouse ATS + official careers page)  
 **Report:** N/A  
-**Researched:** 2026-08-06; **updated 2026-08-08** — HM next week w/ **Rebekah O'Hara** (Director, Strategic Sourcing)  
-**Sources:** Greenhouse JD, thenuclearcompany.com, TechCrunch, TNC Palantir/Nucor press, World Nuclear Association basics, DOE Advanced Nuclear Liftoff (FOAK/Vogtle lessons), Juli Hile LinkedIn, **Rebekah O'Hara LinkedIn** (profile + Penn State guest lecture / Purdue summit posts), candidate Interview Guide + application ack  
-**Audiences covered:** recruiter-screen (Juli Hile — done/prep archived), **hiring-manager (primary — Rebekah O'Hara)**, peer-tech (light)
+**Researched:** 2026-08-06; HM prep 2026-08-08; **debrief 2026-08-17** — Round 2 HM w/ **Rebekah O'Hara** (Becki) complete  
+**Sources:** Greenhouse JD, thenuclearcompany.com, TechCrunch, TNC Palantir/Nucor press, World Nuclear Association basics, DOE Advanced Nuclear Liftoff (FOAK/Vogtle lessons), Juli Hile LinkedIn, **Rebekah O'Hara LinkedIn**, candidate Interview Guide + application ack, **HM notes 2026-08 (candidate recall)**  
+**Audiences covered:** recruiter-screen (Juli Hile), hiring-manager (**Rebekah — done**), next: loop `[inferred from Juli archive]` IT / Finance / Legal / Kevin
 
 **Print packs:**  
-- Recruiter: `the-nuclear-company-cheatsheet.md`  
-- **HM:** `the-nuclear-company-hm-cheatsheet.md`
+- Recruiter: `cheatsheet.md`  
+- HM (pre-call archive): `hm-cheatsheet.md`  
+- **Next loop:** `loop-cheatsheet.md`
 
 ---
 
 ## Process Overview
 
 - **Rounds:** unknown end-to-end — not enough public Glassdoor/Blind data
-- **Format:** Round 1 = recruiter screen with **Juli Hile** (Senior Recruiter) → **Round 2 = hiring manager with Rebekah O'Hara** (Director, Strategic Sourcing) next week `[user-stated]` → later rounds unknown
+- **Format:** Round 1 = recruiter screen **Juli Hile** (Aug 7) → Round 2 = HM **Rebekah O'Hara / Becki** (complete) → ~~later rounds unknown~~ **loop: IT · Finance · Legal · Kevin** (Juli archive; not re-confirmed on HM notes)
 - **Platform:** not stated in the invite, confirm before the call
 - **Difficulty:** unknown
-- **Known quirks:** ~100–160 people, hypergrowth; many corporate roles **Washington, DC or Columbia, SC** hybrid / in-office. Candidate has **already told them relocation is OK** — treat location as logistics (which office / cadence), not a willingness debate. Rebekah is **Columbia, SC**-based.
-- **Comp already discussed:** posted **$151–176K** base; no prior `stated` observation in salary log for tracker #7 — stay aligned to band; ask equity/bonus if Juli didn’t cover
-- **Sources:** Greenhouse; Juli Hile LinkedIn; Rebekah O'Hara LinkedIn; candidate updates 2026-08-06 / 2026-08-08
+- **Known quirks:** ~100–160 / **<200** (Juli). Hybrid **DC or Columbia, SC**. Relocation already OK. Rebekah is **Columbia, SC**-based. **Corp procurement is thin** after JV staffing (see org map).
+- **Comp already discussed:** posted **$151–176K** base; Juli archive: **11% bonus**, **1,800 options @ $5**, Series B eval. No `stated` observation this HM round — stay aligned to band.
+- **Sources:** Greenhouse; Juli Hile screen (archive); Rebekah HM notes 2026-08 (candidate recall)
 
 ## Audience Map
 
-- **Round 1** (recruiter screen w/ Juli Hile) → `recruiter-screen`
-- **Round 2** (HM w/ Rebekah O'Hara, next week) → `hiring-manager`
-- **Round 3+** → unknown — light `peer-tech` / panel prep if scheduled
+- **Round 1** (recruiter screen w/ Juli Hile) → `recruiter-screen` — done
+- **Round 2** (HM w/ Rebekah O'Hara) → `hiring-manager` — **done 2026-08**
+- **Round 3** (loop) → `panel-mixed` `[inferred from Juli]` — IT / Finance / Legal / **Kevin** (project procurement)
 
-## Panel Intel (HM round)
+## Panel Intel (HM round — confirmed)
 
 | Name | Role | Read |
 |------|------|------|
-| **Rebekah O'Hara, MSME** | Director, Strategic Sourcing @ TNC (Oct 2025–); Columbia SC metro. Prior: ~25 yrs DuPont — Mech Eng → Materials/Reliability → Product Stewardship → Contract Manufacturing Leader Americas ($120M+ CMO spend, KEVLAR/NOMEX/TYVEK) → Global Product Leader Personal Protection ($0.5B portfolio). Six Sigma Black Belt. Founder Irish Fest Camden; Women of Influence 2023. Guest speaker Penn State SCM class on TNC fleet-scale / supply-chain rebuild / NOS. | **Likely primary decision-maker** for this Indirect Category Manager hire `[inferred from Director Strategic Sourcing title]`. Trajectory = **practitioner-turned-director** with deep **Direct / CMO / quality / risk** DNA — will ask concrete sourcing scenarios (negotiation, SRM, stakeholder influence, how you’d build process), not soft culture-only. Weight prep on Indirect ownership + commercial rigor + 90-day plan + clear Direct/Indirect boundary. Do **not** try to out-nuclear her; match her *sourcing* language. |
+| **Rebekah O'Hara, MSME** (Becki) | Director, Strategic Sourcing @ TNC (Oct 2025–). **Corporate-focused** while the rest of a 4-person procurement team went to the Brookfield JV. | **Confirmed HM / corp procurement owner** (HM 2026-08). She stayed on the **company** side; this hire reports into **corporate Indirect**, not project/JV execution. Next loop may still include **Kevin** (Juli: Sr Dir Procurement — Projects). Do **not** try to out-nuclear her; match **tools + governance** language now, not a blank-slate policy pitch. |
+
+## Org map (confirmed HM 2026-08 — candidate recall)
+
+~~Two procurement leaders, split TBD~~ **Split is confirmed: corporate vs project.**
+
+| Seat | What it is |
+|------|------------|
+| **Procurement team was 4** | **3/4 went to support the Brookfield JV.** They were **project-focused**. **Becki stayed corporate-focused.** |
+| **This role** | **Corporate** Sr. Category Manager (Indirect/Corporate) — her lane |
+| **New hire** | **Strategic category manager on the project side** |
+| **Also hiring** | **Project procurement** role **embedded in the project team** to support **procurement execution** |
+| **Public corroboration (not from Rebekah’s mouth):** | Brookfield + TNC announced a JV (2026-05-04) as a nuclear **project execution** company (Westinghouse AP1000/AP300; first mandate often described as V.C. Summer 2/3 project manager). Use only if they go there — don’t volunteer site names she didn’t use. ([TNC press](https://www.thenuclearcompany.com/posts/brookfield-and-the-nuclear-company-form-new-company) · [Reuters](https://www.reuters.com/business/energy/brookfield-nuclear-company-form-joint-venture-nuclear-power-2026-05-04/)) |
+
+**Implication:** You are not filling a Direct/nuclear materials seat and you are not the JV execution buyer. You rebuild **corporate** Indirect while project work has its own cat manager + embedded execution. Handshake, don’t collide.
+
+## Systems (confirmed HM 2026-08 — candidate recall)
+
+~~ERP/P2P maturity unknown — ask greenfield vs optimize~~
+
+- **Have:** a **corporate procurement governance procedure** (policy exists)
+- **Need:** **the tools** — **ERP** and **SaaS management**
+- **ERP:** **NetSuite**
+- First-attack framing she used: **lots of low-hanging fruit** — do not pitch a 90-day policy rewrite
+
+**Your proof (cv.md / story bank only):** S4 NetSuite (Plenty ERP/MRP migration) + S1 Coupa (P2P, catalogs, punchouts — closest SaaS-management muscle). **Do not claim SuiteProcurement or Zylo/Productiv.** Honest script in the debrief + `loop-cheatsheet.md`.
 
 ---
 
@@ -282,12 +308,20 @@ You’re not the safety case owner. You still manage vendor risk, IT security, N
 
 #### What would your first 90 days look like?
 
-1. Map spend + stakeholders + current pathways / maverick hotspots  
-2. Stabilize with guided buying / preferred suppliers / simple intake (speed > theater)  
-3. Category plans for priority books (expect IT + professional services early — Juli’s public framing)  
-4. MSA/templates with Legal; clean onboarding  
-5. Metrics: savings/avoidance, on-contract %, cycle time, adoption  
-6. Explicit handshake with Direct / deployment / NOS users so Indirect doesn’t collide
+~~1. Map spend + stakeholders + current pathways / maverick hotspots~~  
+~~2. Stabilize with guided buying / preferred suppliers / simple intake~~  
+~~3. Category plans for priority books~~  
+~~4. MSA/templates with Legal~~  
+~~5. Metrics: savings/avoidance, on-contract %, cycle time, adoption~~  
+~~6. Handshake with Direct / NOS~~  
+**Rewritten after HM (2026-08):** governance procedure **already exists**. First 90 days = **tools + low-hanging fruit**, not a new policy binder.
+
+1. **Read the existing corp procurement governance** — don’t rewrite it; implement it  
+2. **Low-hanging fruit** — duplicate SaaS, off-contract buys, obvious maverick (she said there’s a lot)  
+3. **NetSuite** — stand up / embed procurement in the ERP they’re using (requirements + Finance/IT; S4)  
+4. **SaaS management** — visibility + preferred path for IT software (S1 catalogs/punchouts / IT category — not a named SaaS-mgmt product)  
+5. **Metrics** — adoption of the *tools* (on-contract %, cycle time, SaaS inventory), not “we published another SOP”  
+6. **Lane** — corporate Indirect; handshake with **project strategic cat manager** + **embedded project procurement** / JV — don’t bid on their execution work
 
 #### How do you influence without authority? / stakeholder partnership
 
@@ -314,7 +348,7 @@ Nuclear gap script (above) + one PWR sentence + FOAK→fleet sentence + “day o
 1. How is Strategic Sourcing split — Indirect vs Direct/deployment — and what should this role **own** vs **advise** in the first six months?  
 2. First category fire drill — and what does “good” look like in ninety days?  
 3. How should Indirect partner with NOS / construction supply chain without stepping on Direct?  
-4. ERP/P2P/guided-buying maturity — greenfield vs optimize?  
+4. ~~ERP/P2P/guided-buying maturity — greenfield vs optimize?~~ **Answered HM 2026-08:** governance exists; need NetSuite + SaaS management tools  
 5. From your DuPont contract-manufacturing experience — which sourcing habits transfer here, and what would be too heavy for this stage?  
 6. DC vs Columbia for this seat + in-office cadence you expect from your team?  
 7. How will *you* know this hire is working?  
@@ -344,6 +378,63 @@ Nuclear gap script (above) + one PWR sentence + FOAK→fleet sentence + “day o
 
 ---
 
+## Round 2 Debrief — 2026-08-17
+
+**Interviewer:** Rebekah O'Hara (Becki), Director, Strategic Sourcing  
+**Round type:** hiring-manager  
+**Outcome:** pending (next-step wording not in notes)  
+**input_source:** recall (process intel; candidate did not list Q/A or their spoken answers)
+
+### Questions / topics covered (as recalled)
+
+Notes are **what she told you**, not a scored transcript of your answers.
+
+| Topic | What she said |
+|-------|----------------|
+| Team | Procurement was a **team of 4**; **3/4 went to support the Brookfield JV** |
+| Split | Those three were **project-focused**; **Becki was corporate-focused** |
+| This seat | **Corporate** side (not project execution) |
+| Parallel hiring | **Strategic cat manager on the project side** (new hire); **project procurement embedded in the project team** for **procurement execution** |
+| First attack | **Lots of low-hanging fruit** |
+| Maturity | **Corp procurement governance procedure exists**; **now need the tools** (ERP, SaaS management) |
+| ERP | **NetSuite** |
+
+### Assessment
+
+Could not score 🟢/🟡/🔴 on *your* delivery — answers weren’t in the notes. Signal from **her** side is strong: she dumped org design, JV impact, and a concrete 90-day mandate. That is a real HM conversation, not a polite screen.
+
+**Q: How is procurement structured / who is this role for?**  
+- What was said: (her) team of 4 → 3 to JV; she stayed corporate; this hire is corporate Indirect  
+- What landed: you now have a clean lane — do not wander into JV/project execution  
+- What was missing: reporting line vs Kevin not restated in these notes (Juli archive still has Kevin on project/JV)  
+- Status: 🟡 intel captured / your answer unknown
+
+**Q: What should this person attack first?**  
+- What was said: (her) low-hanging fruit; governance is done; tools next  
+- Correct/complete answer for *next* round: see rewritten 90-day plan — **NetSuite + SaaS management on top of existing procedure**  
+- Status: 🔴 if you still pitch “I’ll write the policy”; 🟢 if you pitch tools + fruit
+
+### Gaps to Close Before Round 3
+
+1. **NetSuite talk track (honest).** Plenty = ERP/MRP migration (S4), not “I ran TNC’s SuiteProcurement.” Pair with Coupa P2P (S1) as the *buying* layer.  
+2. **SaaS management without a product name.** IT category + catalogs/punchouts + on-contract % — don’t invent Zylo/Productiv.  
+3. **JV/project handshake.** One sentence: corporate Indirect vs project cat manager vs embedded project procurement. If **Kevin** is in the loop, he is the project-side counterpart `[inferred from Juli archive]`.
+
+### Next Round
+
+**Format:** loop `[inferred from Juli archive]` — IT · Finance · Legal · Kevin  
+**Interviewers:** not re-confirmed on HM notes — ask Juli/Becki if silent  
+**Priority prep:** (1) NetSuite + SaaS tools 90-day, (2) corporate vs project lane, (3) change-mgmt / make-the-compliant-path-easy (Plenty) for Finance/IT
+
+**Comp discussed this round:** no (not in notes)  
+**Timeline:** not in these notes (Juli: target start September — treat as prior, not re-confirmed)  
+**Other candidates:** not disclosed  
+**Next steps:** not in notes — pending
+
+Print: `loop-cheatsheet.md`
+
+---
+
 ## Sources
 
-- Greenhouse JD · thenuclearcompany.com · TechCrunch Series A · [Palantir/NOS press](https://www.thenuclearcompany.com/posts/palantir-and-the-nuclear-company-partner-to-launch-platform-to-rapidly-scale-nuclear-deployment) · Reuters Nucor · [WNA reactors](https://world-nuclear.org/information-library/nuclear-power-reactors/overview/nuclear-power-reactors) · DOE Liftoff / Vogtle lessons · Candidate Interview Guide · [Rebekah O'Hara LinkedIn](https://www.linkedin.com/in/rebekah-ohara) (profile; Penn State SCM guest lecture post; Purdue summit post) · Juli Hile LinkedIn · user notes: relocation OK (2026-08-06); HM next week w/ Rebekah (2026-08-08)
+- Greenhouse JD · thenuclearcompany.com · TechCrunch Series A · Palantir/NOS press · Reuters Nucor · WNA reactors · DOE Liftoff · Candidate Interview Guide · Rebekah O'Hara LinkedIn · Juli Hile screen (`_archive/flat.md`) · **HM recall 2026-08** · Brookfield JV public: TNC press 2026-05-04 + Reuters

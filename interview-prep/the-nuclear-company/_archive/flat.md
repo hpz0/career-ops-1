@@ -1,5 +1,8 @@
 # The Nuclear Company — Recruiter screen
 
+> **Superseded on org/systems by HM debrief 2026-08-17** (`prep.md` + `loop-cheatsheet.md`). Keep this file as the **Juli Aug 7** snapshot. Confirmed later: Brookfield JV (not “DC Summer” from her mouth); corp vs project split; governance exists; **NetSuite + SaaS tools**.
+
+
 **JD:** *(confirm title/link with Juli)*  
 **Date:** Aug 7, 2026  
 **Recruiter:** Juli  
@@ -27,7 +30,7 @@
 | Person | Scope |
 |--------|--------|
 | **Becky** · Sr Director Procurement | **Corporate indirect** — likely your HM / primary loop |
-| **Kevin** · Sr Director Procurement (Projects) | **Joint venture** for **DC Summer (?)** — *confirm project name*; new hire on **indirect for capital** |
+| **Kevin** · Sr Director Procurement (Projects) | ~~Joint venture for **DC Summer (?)**~~ **Project / JV lane** (Juli). HM 2026-08: **Brookfield JV** took 3/4 of a 4-person team; new project strategic cat manager + embedded project procurement. |
 
 *Two procurement leaders — clarify reporting line and split (corp indirect vs project/capital JV) on Becky call.*
 

@@ -1,5 +1,7 @@
 # TNC — HM Cheat Sheet · Rebekah O'Hara · Sr. Category Manager (Indirect/Corporate)
 
+> **HM round complete (debrief 2026-08-17).** Do not use the 90-day plan below for the next loop — it assumed greenfield policy. Confirmed: **governance exists; tools next (NetSuite + SaaS); this seat is corporate; 3/4 of a 4-person team went to the Brookfield JV.** Print **`loop-cheatsheet.md`**.
+
 **You:** Harrison Pizzi · Richboro, PA · EST · No visa · ~30-day notice · **OK relocating** (already told them)  
 **With:** **Rebekah O'Hara, MSME** — Director, Strategic Sourcing · Columbia, SC metro  
 **LinkedIn:** https://www.linkedin.com/in/rebekah-ohara  
