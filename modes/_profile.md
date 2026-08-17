@@ -88,7 +88,7 @@ When generating PDF/cover for AE/AM roles:
 | **Ramp** | Senior Manager, Procurement Product Activation | A-adjacent | **Active recruiter screen** — CS founding playbook seat. Use `interview-prep/ramp-senior-manager-procurement-product-activation.md` + cheatsheet. Confirm remote + 70/30 base. |
 | **Ramp** | Account Executive (remote) | B | Exploratory with Max (SVP Sales). Use `interview-prep/ramp.md`. Deprioritize vs Activation. |
 
-**Closed — do not reopen:** Pengate Handling Systems Procurement Manager. Offer declined 2026-08-14. Letter sat at Taylor’s $140–160k floor, in-office Chalfont, ~15 days PTO, no remote. Decline draft: `data/offers/pengate-handling-systems/reply-draft-2026-08-14.md`.
+**Closed — do not reopen:** Pengate Handling Systems Procurement Manager. Offer declined. Candidate told Taylor on first call he needed the top of her $140–160k range; letter was $140k. Taylor last-look 2026-08-17 asked what TC would work — do not counter, do not take a call. Draft: `data/offers/pengate-handling-systems/reply-draft-2026-08-17.md`.
 
 ## Hunt Priorities (from Jul 2026 applications)
 
