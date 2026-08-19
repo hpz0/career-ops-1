@@ -2,6 +2,7 @@
 
 | # | Date | Company | Via | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|-----|------|-------|--------|-----|--------|-------|
+| 8 | 2026-08-19 | Anduril Industries | — | Buyer/Planner | 3.8/5 | Evaluated | ✅ | [008](../reports/008-anduril-2026-08-19.md) | Track A — defense tech AUV; HM connection; base $99-130K below floor but equity upside; clearance eligible; Quincy MA on-site override |
 | 7 | 2026-08-19 | CoreWeave | — | Strategic Sourcing - DC Infrastructure Equipment | 4.1/5 | Evaluated | ✅ | [007](../reports/007-coreweave-2026-08-19.md) | Track A North Star — AI infra/DC, hyper-growth, Philly local; $122-179K base + equity; gap: direct M&E equipment sourcing — confirm before applying |
 | 6 | 2026-07-29 | Meta | — | Infrastructure Materials Manager | 3.9/5 | Evaluated | ✅ | [006](../reports/006-meta-2026-07-29.md) | Track A — remote US; infra/DC domain boost; TC ~$190-280K w/ equity; confirm VBA/SQL depth before applying |
 | 5 | 2026-07-28 | NMS Labs | — | Category Manager | 3.3/5 | Evaluated | ✅ | [005](../reports/005-nms-labs-2026-07-28.md) | Re-eval 2026-07-28 (2.8→3.3). v2 CV: Power BI + Plant Science/R&D + 3rd-party lab testing; soft hybrid/comp override — apply if local lab seat intentional |
