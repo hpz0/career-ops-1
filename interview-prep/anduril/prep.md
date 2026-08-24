@@ -7,7 +7,7 @@
 **Researched:** 2026-08-24  
 **Sources:** Greenhouse job JSON; Anduril Ghost Shark program-of-record news; Defense News Dive acquisition (2022); Quonset Development Corp / PBN / WJAR on Quonset factory; Exponent Anduril interview process; interviewing.io Anduril process; Glassdoor Anduril interviews hub (252 interviews, 3/5 difficulty, ~47% positive — page updated Jul 3, 2025); Blind offer threads (equity = private RSUs); Zero G Talent Quincy maritime workforce note (Jul 2026); user statements 2026-08-24  
 **Audiences covered:** recruiter-screen, hiring-manager, peer-tech, panel-mixed  
-**Day-of print:** [`cheatsheet.md`](cheatsheet.md) · Hardware study: [`hardware-primer.md`](hardware-primer.md)
+**Day-of print:** [`cheatsheet.md`](cheatsheet.md) · Hardware study: [`hardware-primer.md`](hardware-primer.md) · Decisions: [`decision-playbook.md`](decision-playbook.md)
 
 Write all human-facing prep in English. Market terms (Secret, ITAR, S&OP, MRP, CAPA) kept and explained in place. Acronym expansions also live in [`cheatsheet.md`](cheatsheet.md) and [`hardware-primer.md`](hardware-primer.md).
 
@@ -157,7 +157,7 @@ All tagged **[inferred from JD]** unless noted.
 - **Shortage to parts on the dock.** NetSuite MRP + call the supplier + loop in ops. Oracle: "Same job, different screens. I lived MRP in NetSuite. I'll learn yours in week one."
 - **Safety stock vs expedite.** Demand is lumpy (AUV + RaaS). No Blue Yonder models: say so. Trade service level, cash, and lot constraints.
 - **Supplier fails spec.** Tub story. Quarantine → good material in → vendor 100% → process review.
-- **Make/buy.** Cost, lead time, quality system, export, second source. No fake Anduril example.
+- **Make/buy.** Walk `decision-playbook.md`: process-dependent (COTS buy, printed hybrid, housings usually buy). Close with lead time, yield, volume, revision churn. No fake Anduril example.
 - **BOM pushback to sales.** Plenty NPI + BOM ownership. "Can we actually promise that date?"
 - **KPIs.** OTIF, shortage aging, inventory $, quality escapes, MRP exceptions. Power BI is in cv.md.
 - **Lean/Six Sigma?** No belt. CAPA and process review is how you do the work.
@@ -194,7 +194,7 @@ No names yet. Recruiter: fit + logistics. HM: you'll own shortages. Peers: conta
 - [ ] MRP exceptions, item master, safety stock — why: JD “MRP and associated master data”
 - [ ] CAPA sequence cold (quarantine / new lot / 100% / process) — why: your best manufacturing proof; JD quality + shortages
 - [ ] BOM common vs unique across LD/XL family — why: JD BOM literacy; public “large to extra-large” architecture
-- [ ] Power BI KPI mock in your head (shortage aging, OTIF) — why: preferred quals
+- [ ] Make vs buy / change order / delay sequence (`decision-playbook.md`) — why: peer-tech will ask how you decide, not just what a thruster is
 - [ ] Secret / ITAR / export questions on the Greenhouse form — why: application + eligibility
 - [ ] Comp: $99–130 vs $140 vs Senior $129–171 — why: recruiter screen
 - [ ] One location story with the HM — why: otherwise the loop is theater

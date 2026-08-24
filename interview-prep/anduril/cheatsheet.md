@@ -9,7 +9,7 @@
 **Travel:** up to 25% · **Clearance:** eligible for Secret (don't claim you have one)  
 **Posting:** https://job-boards.greenhouse.io/andurilindustries/jobs/5169966007?gh_jid=5169966007
 
-**Print this.** Longer notes: `prep.md` · Hardware study: `hardware-primer.md`
+**Print this.** Longer notes: `prep.md` · Hardware study: `hardware-primer.md` · Decisions: `decision-playbook.md`
 
 ---
 
@@ -67,7 +67,8 @@ They ask this more than once. Don't give a geopolitics speech. Don't say "drones
 **Say:** materials, lead time, quarantine, bill of materials, material requirements planning, on-time-in-full.  
 **Don't claim:** you build autonomous underwater vehicles, you have clearance already, Blue Yonder, Lean/Six Sigma belts, deep Oracle admin.
 
-**Hardware study:** `hardware-primer.md` (what the vehicle is made of, what you'd likely buy, smart questions when you're not an engineer).
+**Hardware study:** `hardware-primer.md` (what the vehicle is made of, what you'd likely buy, smart questions when you're not an engineer).  
+**How you'd run the seat:** `decision-playbook.md` (make vs buy, change orders, long lead, delays).
 
 ---
 
@@ -158,6 +159,8 @@ Keep it plain.
 | NPI | New product introduction |
 | OTIF | On time, in full |
 | CAPA | Corrective and preventive action (fix the failure so it doesn't repeat) |
+| ECO | Engineering change order (a design/revision change that hits materials) |
+| WIP | Work in process (on the floor, not finished yet) |
 | RaaS | Robot-as-a-Service (they operate vehicles as a service, not only sell them) |
 | FG | Finished goods |
 | IC | Individual contributor (not a people manager) |
