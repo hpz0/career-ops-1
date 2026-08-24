@@ -1,15 +1,15 @@
 # Interview Intel: Anduril Industries — Buyer/Planner (Maritime / Quincy)
 
 **URL:** https://job-boards.greenhouse.io/andurilindustries/jobs/5169966007?gh_jid=5169966007  
-**JD source:** Greenhouse boards API (`/v1/boards/andurilindustries/jobs/5169966007`) + job-board page. ATS `updated_at`: 2026-08-22. Req **11321**. Posting first published 2026-06-23.  
+**Job posting (JD) source:** Greenhouse boards API (`/v1/boards/andurilindustries/jobs/5169966007`) + job-board page. ATS `updated_at`: 2026-08-22. Req **11321**. Posting first published 2026-06-23.  
 **Legitimacy:** official first-party Greenhouse ATS (no evaluation report)  
 **Report:** N/A (URL-entry prep; no `reports/` match)  
 **Researched:** 2026-08-24  
-**Sources:** Greenhouse job JSON; Anduril Ghost Shark POR news; Defense News Dive acquisition (2022); Quonset Development Corp / PBN / WJAR on Quonset factory; Exponent Anduril interview process; interviewing.io Anduril process; Glassdoor Anduril interviews hub (252 interviews, 3/5 difficulty, ~47% positive — page updated Jul 3, 2025); Blind offer threads (equity = private RSUs); Zero G Talent Quincy maritime workforce note (Jul 2026); user statements 2026-08-24  
+**Sources:** Greenhouse job JSON; Anduril Ghost Shark program-of-record news; Defense News Dive acquisition (2022); Quonset Development Corp / PBN / WJAR on Quonset factory; Exponent Anduril interview process; interviewing.io Anduril process; Glassdoor Anduril interviews hub (252 interviews, 3/5 difficulty, ~47% positive — page updated Jul 3, 2025); Blind offer threads (equity = private RSUs); Zero G Talent Quincy maritime workforce note (Jul 2026); user statements 2026-08-24  
 **Audiences covered:** recruiter-screen, hiring-manager, peer-tech, panel-mixed  
-**Day-of print:** [`cheatsheet.md`](cheatsheet.md)
+**Day-of print:** [`cheatsheet.md`](cheatsheet.md) · Hardware study: [`hardware-primer.md`](hardware-primer.md)
 
-Write all human-facing prep in English. Market terms (Secret, ITAR, S&OP, MRP, CAPA) kept and explained in place.
+Write all human-facing prep in English. Market terms (Secret, ITAR, S&OP, MRP, CAPA) kept and explained in place. Acronym expansions also live in [`cheatsheet.md`](cheatsheet.md) and [`hardware-primer.md`](hardware-primer.md).
 
 ---
 
@@ -17,7 +17,7 @@ Write all human-facing prep in English. Market terms (Secret, ITAR, S&OP, MRP, C
 
 | Potential doubt | Evidence | Fix in the room |
 |-----------------|----------|-----------------|
-| Can they do manufacturing buying/planning? | Plenty Senior Global Supply Manager: direct materials, CapEx, NetSuite BOM/MRP, S&OP, NPI, Supplier Quality | Lead Plenty. CAPA tub story. Comcast is supporting cast. |
+| Can they do manufacturing buying/planning? | Plenty Senior Global Supply Manager: direct materials, CapEx, NetSuite bill of materials (BOM) / material requirements planning (MRP), sales and operations planning (S&OP), new product introduction (NPI), Supplier Quality | Lead Plenty. CAPA tub story. Comcast is supporting cast. |
 | Overqualified / will bounce | Current title Senior Manager, Enterprise Procurement; hunt is Director+ | Say it: IC value-chain ownership on a line is the job you want; title inflation at Comcast is not the goal |
 | Defense / maritime domain | None in cv.md | Transfer: spec, quality, lead time, containment. Do not fake hull design. |
 | Logistics | Quincy on-site; you sit Richboro, PA; 25% travel; Secret eligibility | One location story, aligned with the HM you know |
@@ -38,8 +38,8 @@ Write all human-facing prep in English. Market terms (Secret, ITAR, S&OP, MRP, C
 
 ### Maritime division (this job)
 
-- **Origin:** Anduril acquired **Dive Technologies** (Quincy, MA) in **February 2022** and made it the maritime division. Dive’s DIVE-LD: large-displacement UUV, COTS internals, additive/composite hull story at founding. [Defense News 2022-02-02; CompositesWorld]
-- **JD team blurb:** next-gen **AUVs**; ultra-long-range, full-ocean-depth; manufacturing architecture that scales **large → extra-large**; executing multi-million-dollar contracts **and** **Robot-as-a-Service (RaaS)** AUV operations. [Greenhouse JD]
+- **Origin:** Anduril acquired **Dive Technologies** (Quincy, MA) in **February 2022** and made it the maritime division. Dive’s DIVE-LD: large-displacement unmanned underwater vehicle (UUV / AUV), commercial off-the-shelf (COTS) internals, additive/composite hull story at founding. [Defense News 2022-02-02; CompositesWorld]
+- **Job posting team blurb:** next-gen autonomous underwater vehicles (**AUVs**); ultra-long-range, full-ocean-depth; manufacturing architecture that scales **large → extra-large**; executing multi-million-dollar contracts **and** **Robot-as-a-Service (RaaS)** AUV operations. [Greenhouse JD]
 - **This req’s org:** Greenhouse department **Manufacturing : Undersea Reconnaissance & Strike — Production**. Office **Quincy, MA (QCY-01)**. [Greenhouse API]
 - **Dive-LD (public product facts):** ~5.8 m / 19 ft length, ~1.2 m / 4 ft diameter, depth on the order of **6,000 m**, modular payload (ISR, mine warfare, survey, cable/pipeline, etc.). [Anduril Dive-LD product page via secondary writeups; cite as public product sheet, not a spec you memorized from classified material]
 - **Ghost Shark / Dive-XL:** Royal Australian Navy **A$1.7B (US$1.12B)** five-year program of record **10 Sep 2025** after ~A$140M co-development; LRIP then high-rate in 2026; Anduril Australia factory (Sydney). First production Ghost Shark rolled off in **Nov 2025**, RAN delivery targeted **Jan 2026**. Anduril says it self-funded Dive acquisition ahead of government paper and invested in AU manufacturing. [Australian Defence Ministers 2025-09-10; Anduril news “Ghost Shark Enters Program of Record”; Breaking Defense 2025-11-03]
@@ -50,9 +50,9 @@ Write all human-facing prep in English. Market terms (Secret, ITAR, S&OP, MRP, C
 
 ### What this Buyer/Planner actually does [JD]
 
-Own the value chain **raw materials → assembly line → finished goods to customer**: demand forecast, inventory, POs (production **and** R&D), MRP + item master, shortage firefighting, make/buy, S&OP, demand-planning KPIs, **BOM literacy** so you can challenge a sales promise.
+Own the value chain **raw materials → assembly line → finished goods to customer**: demand forecast, inventory, purchase orders (**POs**) for production **and** R&D, material requirements planning (**MRP**) + item master, shortage firefighting, make/buy, sales and operations planning (**S&OP**), demand-planning KPIs, **bill of materials (BOM) literacy** so you can challenge a sales promise.
 
-**Required:** 3+ years technical procurement in **manufacturing**; negotiation; cross-functional; read design spec; full value-chain ownership under quality constraints; **Oracle or similar ERP**; travel ≤25%; **Secret eligibility**.
+**Required:** 3+ years technical procurement in **manufacturing**; negotiation; cross-functional; read design spec; full value-chain ownership under quality constraints; **Oracle or similar enterprise resource planning (ERP)**; travel ≤25%; **Secret clearance eligibility**.
 
 **Preferred (honest gaps):** engineering/supply-chain degree (you: **B.S. Agribusiness Management** — business/ag manufacturing, not ME); Lean/Six Sigma (**don’t claim**); Blue Yonder / statistical demand models (**don’t claim**); SQL (**don’t claim**); Tableau/Power BI/Qlik — **Power BI is in cv.md**.
 
