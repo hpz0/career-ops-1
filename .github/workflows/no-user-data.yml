@@ -17,9 +17,16 @@ permissions:
 
 jobs:
   guard:
+    # Personal job-search forks intentionally commit user-layer files (cv, prep,
+    # tracker). This guard is for PRs into santifer/career-ops only.
     runs-on: ubuntu-latest
     steps:
+      - name: Skip user-data guard on personal forks
+        if: ${{ github.event.repository.fork }}
+        run: |
+          echo "Skipping — ${{ github.repository }} is a fork and tracks user-layer files by design."
       - uses: actions/github-script@v9
+        if: ${{ !github.event.repository.fork }}
         with:
           script: |
             const { owner, repo } = context.repo;
