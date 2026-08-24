@@ -7,6 +7,7 @@ Session transcripts: [`sessions/`](sessions/)
 
 | Company | Open |
 |---------|------|
+| **Anduril** (Maritime Buyer/Planner, Quincy) | [`anduril/`](anduril/) |
 | **Ramp** (Caroline HM) | [`ramp/caroline.md`](ramp/caroline.md) + [`ramp/caroline-prep.md`](ramp/caroline-prep.md) |
 | Pengate | [`pengate/`](pengate/) |
 | The Nuclear Company | [`the-nuclear-company/`](the-nuclear-company/) |
