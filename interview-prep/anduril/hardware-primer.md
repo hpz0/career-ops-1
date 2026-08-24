@@ -5,7 +5,7 @@
 **Sources (public):** Anduril Dive-LD / Seabed Sentry pages; CompositesWorld + Popular Mechanics on Dive's 3D-printed hull; Defense News / Naval News on Dive acquisition, Ghost Shark, Copperhead, Seabed Sentry; ORNL write-ups on Dive additive manufacturing.  
 **Not sources:** Classified configs, actual Anduril BOM, exact vendor list. If something below is labeled **[public]** it's reported. If **[typical AUV / inferred]**, it's industry-normal and you should verify on the floor.
 
-**Pair with:** `cheatsheet.md` (day of) · `prep.md` (process)
+**Pair with:** `cheatsheet.md` (day of) · `prep.md` (process) · `decision-playbook.md` (make vs buy, change orders, delays)
 
 ---
 
