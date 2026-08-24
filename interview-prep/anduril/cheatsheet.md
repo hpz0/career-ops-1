@@ -2,164 +2,166 @@
 
 **You:** Harrison Pizzi · Richboro, PA · EST · No visa · ~30-day notice  
 **HM:** You know them — **write the name here:** ________________  
-**Role:** Buyer/Planner · **Track A** (manufacturing / direct materials — not Comcast category theater)  
-**Site:** Quincy, MA **QCY-01** · Greenhouse dept: *Manufacturing : Undersea Reconnaissance & Strike — Production*  
-**Req:** 11321 · **Posted:** 2026-06-23 · **ATS updated:** 2026-08-22 (still live)  
+**Role:** Buyer/Planner · Track A (manufacturing / direct materials)  
+**Site:** Quincy, MA **QCY-01** · Undersea Reconnaissance & Strike — Production  
+**Req:** 11321 · Still live as of 2026-08-22  
 **Comp (posted):** **$99K–$130K** base + equity · **Your number: $140K base**  
-**Travel:** up to 25% · **Clearance:** eligible to obtain/maintain **Secret**  
+**Travel:** up to 25% · **Clearance:** eligible for Secret (don't claim you have one)  
 **Posting:** https://job-boards.greenhouse.io/andurilindustries/jobs/5169966007?gh_jid=5169966007
 
-**Print this.** Full intel: `prep.md`
+**Print this.** Longer notes: `prep.md`
 
 ---
 
-## Before you walk in — three things to lock
+## Lock these before any call
 
-1. **HM name + how you know them.** Recruiter will ask. One sentence, no overshare.
-2. **Quincy on-site.** This is not a remote seat. Richboro → Quincy is not a commute. Confirm with the HM *before* the recruiter screen: relocate / hybrid / travel cadence. Do not improvise two different answers.
-3. **Level vs band.** This req is IC Buyer/Planner ($99–130K). **Senior Buyer/Planner** on Anduril’s board has posted **$129K–$171K**. $140K is above *this* band and inside Senior. If the work is senior-scope, that’s the close — don’t pick a title fight on round one.
+1. **HM name + how you know them.** One sentence. Recruiter will ask.
+2. **Quincy.** This is on-site. Richboro is not a commute. Align with the HM first (relocate / hybrid / whatever you agreed). Don't give the recruiter a different story.
+3. **$140K vs the band.** This req tops out at $130K. Senior Buyer/Planner postings at Anduril have gone **$129–171K**. $140K is a stretch on *this* title and normal for Senior. Don't start a title fight in round one.
 
 ---
 
-## Open (~75 sec) — lead Plenty manufacturing, not Comcast
+## Open (~60–75 sec)
 
-> I’m Harrison Pizzi. Most of my career is buyer-side procurement — and the chapter that maps to this seat is Plenty, a high-growth manufacturer. I was Senior Global Supply Manager: I owned **direct materials, equipment, and CapEx** end-to-end — raw materials onto the line, BOMs in NetSuite, MRP, inventory, S&OP with ops, and the supplier quality problems that stop a plant.
+> I'm Harrison. Most of my buying career was at Plenty, a manufacturing company. I was Senior Global Supply Manager. I owned **direct materials** (and equipment and CapEx): raw materials onto the line, BOMs and MRP in NetSuite, inventory, S&OP with ops, and the supplier quality messes that stop production.
 >
-> The proof isn’t a slide. We cut **BOM cost 30% in six months**. We also had a packaging failure — brittle tub plastic that chipped into product and turned into a **recall**. I ran it with the supplier: quarantine, new material now, 100% vendor inspection, process review until the line was fed with good parts again.
+> Two proof points people remember: we took **BOM cost down 30% in about six months**. And we had a packaging failure: brittle tub plastic that started chipping into product and became a **recall**. I ran that with the supplier: quarantine the bad stuff, get good material in, put them on 100% inspection, then dig into what went wrong so it didn't happen again.
 >
-> I’m talking to you because Quincy is building AUVs at rate — Dive-LD through extra-large — and this role owns the value chain from raw materials to finished vehicles. That’s the work I actually did. I know [HM]. I want to understand which product lines this Buyer/Planner owns and where the shortages live today.
+> That's the work this role is asking for. Quincy is building AUVs, and this Buyer/Planner owns materials and planning for those lines. I know [HM]. I'm here to learn which vehicles I'd own and where the shortages actually are.
 
-*If they ask “what about Comcast?” — one sentence, then come back:*  
-> Comcast is enterprise category work at scale — wireless and fixed network. Useful for negotiation and vendor ecosystems. This seat is the factory version. That’s the one I want.
-
----
-
-## Company profile (say this, don’t lecture)
-
-| Fact | Line you can use |
-|------|------------------|
-| What | Defense tech. Hardware + **Lattice OS** (AI C2 that fuses sensors/vehicles). Not a services prime. |
-| Founded | **2017** · Costa Mesa, CA · Palmer Luckey, Trae Stephens, Matt Grimm, Joe Chen, **Brian Schimpf (CEO)** |
-| Maritime origin | **Feb 2022:** acquired **Dive Technologies** (Quincy). That *is* the maritime division. |
-| This site | **QCY-01** — maritime engineering / low-rate AUV build + test. Water access. Not the volume factory. |
-| Volume factory | **Quonset Point, RI** — ~150k sq ft, opened **late 2025**. Target: scale Dive-LD / XL hulls (public figures: 200 hulls/yr class). ~1 hour from Quincy. |
-| Product — LD | **Dive-LD**: large-diameter AUV · ~19 ft / ~4 ft diameter · **~6,000 m** depth · modular payload · ISR, mine warfare, survey, infrastructure inspection |
-| Product — XL | **Dive-XL / Ghost Shark**: extra-large AUV. RAN **A$1.7B (~US$1.12B)** program of record **Sep 2025**; first production vehicle off Sydney line **Nov 2025**, RAN delivery targeted **Jan 2026**. Built in Australia; US maritime still scales LD/family here. |
-| How they build | Modular family **large → extra-large**. Heavy **COTS** + production-intent design. JD: *flexible manufacturing architecture* + **RaaS** AUV ops alongside production contracts. |
-| This req | Own **planning + buying** for assigned AUV lines: forecast, inventory, POs, MRP master data, shortages, make/buy, S&OP, BOM literacy so you can challenge a sales/ops promise. |
-
-**Do not:** claim you built AUVs, hold a clearance already, or know Oracle Blue Yonder.  
-**Do:** speak materials, lead time, containment, BOM, MRP, supplier quality.
-
-**Mission filter (they will probe this more than once):**  
-> I’m not here because drones are cool. Undersea is where hardware either works or a crew and a billion-dollar hull take the risk. I know what a bad raw-material lot does to a production line and a customer. I want that problem on vehicles that have to hold pressure at depth.
-
-*If that sentence isn’t true in your mouth, rewrite it tonight. Vague “I want a challenge” dies here.* [source: Exponent Anduril process — “Why Anduril?” is a values filter, asked in multiple rounds]
+*If they ask about Comcast:*  
+> I'm there now: wireless and fixed network categories, big contracts, enterprise vendors. Useful experience. But this seat is the factory job. That's what I want.
 
 ---
 
-## Hero story — CAPA / tub packaging (use this)
+## Why Anduril (say this out loud until it sounds like you)
 
-**Headline:** Brittle packaging → chips in product → recall. Contained with the supplier; line got good material again.
+They ask this more than once. Don't give a geopolitics speech. Don't say "drones are cool." Don't recite Lattice like a fan site.
 
-| STAR+R | What you say (no extra metrics) |
-|--------|----------------------------------|
-| **S** | Plenty manufacturing. Direct-materials tub packaging. Plastic went **brittle**, **chipped**, product in the field / on the line — **recall**. |
-| **T** | Stop bad material, protect the customer, feed the line, close CAPA with Supplier Quality — not “send an angry email.” |
-| **A** | **1. Quarantine** suspect lots / WIP / FG. **2. New material ASAP** (expedite / clean lot). **3. 100% inspection at the vendor** as containment. **4. Process review** with the supplier so it doesn’t recur. |
-| **R** | Conforming material back on the line; recall contained with the vendor in the room. *(No $ or unit count in the record — don’t invent one.)* |
-| **R** | Buyer/Planner isn’t PO clerk. You own the material until it is **good parts, on time, at spec**. Same motion when an AUV hull resin, fastener, or battery lot fails.
+**Short version (recruiter):**  
+> I want to buy and plan for real manufacturing again. Plenty was that. Comcast isn't, not in the same way. Anduril's maritime team is building AUVs in Quincy and scaling production (Quonset is the volume factory). Hard parts, real lead times, quality that matters. I know [HM], I looked at the seat, and it fits. I'm fine working in defense.
 
-**Bridge to Anduril:** pressure hulls, seals, composites, COTS electronics — salt water does not forgive a “use as is.” Ask *their* current containment path.
+**If they push "why defense / are you comfortable?":**  
+> Yeah. I'm not looking for a soft consumer brand. These vehicles either work or they don't. I've already lived what a bad material lot does to a product and a customer. That problem is interesting to me. I'm not ambivalent about the mission.
 
-**Proof:** you stated this 2026-08-24; cv.md has Plenty direct materials + Supplier Quality / FDA/SQF. Not on the CV yet — say it, don’t put a fake number on a resume.
+**If they push "why *this* company?":**  
+> Because they're actually building here. Dive came out of Quincy. The team is shipping AUVs and standing up more capacity. I'm not trying to join a PowerPoint defense contractor. I want the materials job behind the hardware.
 
-### Backup stories (one each, don’t dump)
-
-| Need | Story | One line |
-|------|-------|----------|
-| Cost / value engineering | **S5** BOM −30% in 6 months | Negotiation + VE + S&OP, not a one-time auction |
-| Planning system | **S4** NetSuite BOM / MRP | Killed manual inventory; MRP + master data is the job |
-| Process / scale | **S1** Coupa / 99% on contract / 3d→1.5d | Only if they drift to “can you implement a process” — this seat is *materials*, not P2P admin |
-| Coaching | **S6** buyer → IT category owner | Only if they ask about leading without title |
+**Don't:** invent a family military story, China talking points, or "I want to transform national security."  
+**Do:** Plenty → manufacturing itch → Quincy/Quonset is real → HM relationship → comfortable with defense.
 
 ---
 
-## Comp — $140K without lighting the band on fire
+## Company flash cards (facts, not a monologue)
 
-**Posted this req:** $99–130K **base only**. Equity is part of TC (illiquid until IPO/liquidity). [JD]
+| Thing | What it is |
+|-------|------------|
+| Anduril | Defense products + **Lattice** (their C2 / AI software). Costa Mesa. Founded 2017. |
+| Maritime | Started when they bought **Dive Technologies** (Quincy) in **2022**. |
+| This site | **QCY-01**: engineering + low-rate build/test. Water access. Not the big factory. |
+| Quonset, RI | Volume plant, ~150k sq ft, opened late 2025. ~1 hour south. Public talk of scaling hulls hard. |
+| Dive-LD | Large AUV: ~19 ft, ~4 ft diameter, deep (~6,000 m), modular payload. |
+| Ghost Shark | Extra-large / Dive-XL family. Australia **A$1.7B** program (Sep 2025). Built in Sydney. Don't mix AU factory with Quincy. |
+| This job | Buy + plan for assigned lines: forecast, inventory, POs, MRP, shortages, make/buy, S&OP, know the BOM well enough to push back on a bad promise. |
 
-**Comparable:** Anduril **Senior Buyer/Planner** postings have listed **$129–171K** (incl. Quincy-tagged Senior Buyer/Planner). [Aplyr / Talent.com listings]
-
-**Walk-away (your profile):** $140K.
-
-**Recruiter (if they ask first):**  
-> I’ve seen the posted range. I’m targeting **$140K base** for this scope — manufacturing ownership, on-site Quincy, Secret eligibility. I know that’s a stretch on this requisition and in-range for Senior Buyer/Planner. Happy to look at equity so **total** works, but I don’t want to pretend $115K base is a close.
-
-**HM (you know them — more direct):**  
-> Band max is $130K. I can do this job. **$140K** is the number that makes leaving Comcast Sr Manager make sense. If the work is already senior-scope, let’s call it that in the offer even if the req title stays Buyer/Planner.
-
-**Don’t:** open with $140K in the first 90 seconds unless they ask. **Don’t** say walk-away out loud. **Do** ask share price / grant size / 4-year vest if an offer appears (Blind: private RSUs, vest at preferred price — treat as paper until liquidity).
-
----
-
-## Location / clearance / travel — crisp answers
-
-**On-site Quincy:** Confirm with HM. If you will relocate, say so once and stop. If you will not, this req dies — don’t waste their loop.
-
-**25% travel:** Likely **Quonset** (volume factory, ~1 hr), suppliers, maybe Narragansett Bay / NUWC-adjacent test. Ask: “Is travel Quonset + vendors, or at-sea/global like field test?” Field-test roles go much higher; this JD is 25%.
-
-**Secret:** “Eligible to obtain and maintain.” You have **no sponsorship need**. Do **not** claim an existing clearance. US citizenship is the usual bar — if that’s you, say yes; if not, this req is blocked.
-
-**Why leave Comcast:** High-agency manufacturing seat, hardware that ships, HM relationship — not “I hate cable.”
-
-**Notice:** ~30 days.
-
-**Other processes:** Ramp / TNC are live. Don’t volunteer a tour. If asked: you have other conversations; this one is specific because of maritime manufacturing + the HM.
+**Say:** materials, lead time, quarantine, BOM, MRP, OTIF.  
+**Don't claim:** you build AUVs, you have clearance already, Blue Yonder, Lean/Six Sigma belts, deep Oracle admin.
 
 ---
 
-## 90 days (if they ask)
+## Hero story — tub packaging / recall
 
-1. **Weeks 1–3:** Assigned AUV line(s). Walk the Quincy floor. BOM + MRP item masters. Open POs, shortages, safety stock, lead times. Who is the planner vs the buyer today (this job is both).
-2. **Weeks 3–6:** Shortage war room with manufacturing + quality + engineering. Containment rules (quarantine / use-as-is / vendor 100%). Forecast vs actual — especially **RaaS vs production-contract** mix.
-3. **Days 60–90:** S&OP cadence for your lines. KPI views you can actually run (you have **Power BI** — JD prefers Tableau/Power BI/Qlik). Make/buy notes. Clean master data so Oracle/MRP isn’t a second job of tribal knowledge.
+Tell it like a story, not a CAPA form.
 
-**Year-1 scoreboard:** on-time to the line · on-time FG to customer · shortage aging · inventory $ vs stockout · vendor OTIF / quality escapes · MRP exception count.
+> At Plenty I owned direct materials. We had tub packaging where the plastic went brittle. It started chipping. That became a recall.
+>
+> I didn't just fire off an email. We quarantined the bad material, got new material in so the line wasn't dead, put the vendor on 100% inspection as containment, and did a process review with them so the next lots didn't repeat it.
+>
+> That's what I mean by owning materials. Good parts, on time, at spec. Same motion if a resin, seal, fastener, or battery lot fails here.
 
----
+**Vary by audience:**  
+- Recruiter: short. Problem → what you did → line got good material again.  
+- HM: stress partnering with Supplier Quality and the vendor, not theater.  
+- Peer: quarantine / expedite / 100% / process review sequence.
 
-## Questions to ask (pick 3)
-
-1. Which vehicle family does this Buyer/Planner own — Dive-LD, XL, Seabed Sentry payloads, RaaS spares — and what’s common vs unique on the BOM?
-2. What still builds in **Quincy** vs **Quonset**, and how does material flow between them?
-3. How dirty is MRP master data post-Dive? Oracle live here, or still a mash of spreadsheets + “similar ERP”?
-4. When a lot fails spec (resin, seal, battery, fastener) — who owns quarantine: Quality, you, or the vendor?
-5. You know [HM]. What does *this* seat still fail at that they hired for?
-
----
-
-## Watch-outs
-
-| Trap | Move |
-|------|------|
-| Lead with Comcast / Director narrative | Plenty direct materials. This is IC factory work. |
-| Claim Lean / Six Sigma / SQL / Blue Yonder | Not in cv.md. “Power BI + ERP analytics; I’d learn BY. CAPA is how I do CI.” |
-| Over-claim Oracle | CV lists Oracle among systems; **depth is NetSuite MRP**. “Oracle or similar — I lived MRP in NetSuite.” |
-| Fake defense pedigree | None. Honesty + manufacturing transfer. |
-| Comp rant | $140K as a calm number + Senior band comparable. |
-| Two location stories | One story, aligned with the HM. |
-| Repeat the CAPA story identically in every round | Recruiter: recall + containment headline. HM: vendor process review. Peer: quarantine / 100% / MRP exception. |
+**Backup (one only if needed):**  
+- Cost: **30% BOM** in 6 months (negotiation + value engineering + S&OP).  
+- Planning: NetSuite BOM/MRP replaced manual inventory.  
+- Process: Coupa / 99% on contract only if they wander into "can you build process." This seat is materials.  
+- People: junior buyer → IT category owner only if they ask about coaching.
 
 ---
 
-## Numbers (drop 1–2 per answer)
+## Comp
 
-- **30% BOM** in 6 months — Plenty direct materials  
-- **NetSuite BOMs + MRP** — replaced manual inventory  
-- **NPI** with engineering — sourcing in the design cycle  
-- **FDA/SQF** partnership with Supplier Quality  
-- **99% on contract / 3d→1.5d / +50% e-invoice** — only if they go process/systems  
-- **Team of 3 buyers** — only if they ask leadership  
+Posted: **$99–130K** base. Equity is part of the package (private company: treat equity as real but illiquid).
 
-**Not yours:** Ghost Shark unit price, hull counts as a personal metric, Anduril valuation rumors, clearance you don’t have.
+Your number: **$140K** base. Walk-away in your profile is $140K. Senior Buyer/Planner postings have listed **$129–171K**.
+
+**Recruiter (if they ask):**  
+> I've seen the range. For this scope I'm looking at about **$140K base**. I know that's above this posting and inside what Senior Buyer/Planner has been listed at. Happy to talk equity for total, but I'm not going to pretend $115K base works for me.
+
+**HM (you know them):**  
+> Band tops out at $130K. I can do the job. **$140K** is what makes leaving Comcast make sense. If the work is already senior-level, we can name it that way even if the req stays Buyer/Planner.
+
+Don't lead with money in the first minute. Don't say "walk-away" out loud. If you get an offer, ask grant size, share price, and vest.
+
+---
+
+## Location / clearance / travel / logistics
+
+**Quincy:** One story, same as the HM.  
+**Travel (25%):** Probably Quonset + suppliers. Ask: "Is it Quonset and vendors, or more like field-test travel?"  
+**Secret:** Eligible to get and keep it. No sponsorship needed. Don't claim an existing clearance.  
+**Why leave Comcast:** Manufacturing ownership again + this team / HM. Not "I hate cable."  
+**Notice:** ~30 days.  
+**Other processes:** You have some. Don't give a tour. If asked: other conversations are open; this one is specific because of the manufacturing seat and [HM].
+
+---
+
+## First 90 days (if asked)
+
+Keep it plain.
+
+1. **First few weeks:** Own my lines. Walk the floor. Learn the BOM and MRP. See open POs, shortages, lead times. Figure out who buys vs who plans today (this job is both).
+2. **Next:** Shortage rhythm with manufacturing, quality, and engineering. Clear containment rules when something fails. Forecast vs reality, including RaaS vs contract demand if that's in the mix.
+3. **By 90 days:** A real S&OP cadence for my book. Simple KPIs I can run (I use Power BI). Cleaner master data so the system isn't folklore. Make/buy notes where they matter.
+
+**Scoreboard that matters:** parts on time to the line, FG on time to the customer, shortage aging, inventory vs stockouts, vendor delivery/quality, MRP exception pile.
+
+---
+
+## Questions (pick 3)
+
+1. Which vehicles would I own: Dive-LD, XL, payloads, RaaS spares? What's shared on the BOM vs unique?
+2. What still builds in Quincy vs Quonset, and who owns material between them?
+3. How healthy is MRP master data? Is Oracle the daily system, or are people still living in spreadsheets?
+4. When a lot fails, who calls quarantine: Quality, the Buyer/Planner, or the vendor?
+5. You know what [HM] cares about. What is this seat still dropping that they hired for?
+
+---
+
+## Don't
+
+| Trap | Do this instead |
+|------|-----------------|
+| Lead with Comcast / Director story | Lead Plenty. This is IC factory work. |
+| Claim Lean / Six Sigma / SQL / Blue Yonder | Say Power BI + ERP. CAPA is how you do continuous improvement. |
+| Sound like an Oracle expert | "Oracle or similar. I lived MRP in NetSuite. I'll learn the screens." |
+| Fake defense pedigree | Transfer manufacturing judgment. Be honest. |
+| Two different location answers | One story with the HM. |
+| Same CAPA speech three times | Shorten / change the angle each round. |
+| "Mission-critical / cutting-edge / transform" | Talk shortages, BOMs, and good parts. |
+
+---
+
+## Numbers (1–2 per answer, not a dump)
+
+- 30% BOM in ~6 months  
+- NetSuite BOMs + MRP  
+- NPI with engineering  
+- Worked with Supplier Quality (FDA/SQF context at Plenty)  
+- 99% on contract / 3 days → 1.5 / +50% e-invoice: only if they go process  
+- Team of 3 buyers: only if they ask people
+
+Not yours to claim: Ghost Shark pricing, hull counts as personal metrics, Anduril valuation gossip, a clearance you don't have.
