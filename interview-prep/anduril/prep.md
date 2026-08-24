@@ -239,7 +239,7 @@ No coffee-chat note provided. HM relationship is **not** a coffee-chat file — 
 
 ## Post-research
 
-1. **Story gaps:** defense motivation (personal); optional CAPA metrics if you remember them; Oracle vs NetSuite depth. I drafted S8 into `interview-prep/story-bank.md` from your 2026-08-24 detail — no dollars invented.
+1. **Story gaps:** optional CAPA metrics if you remember them; Oracle vs NetSuite depth. Why Anduril / defense is drafted on the cheatsheet (manufacturing itch + real Quincy build + HM). Swap in personal details if you have them; don't invent a military bio.
 2. **Interview date:** none given. When you have one, say so and we time-box a plan.
 3. **`deep` mode:** optional if you want strategy/competitors (HII, GD Bluefin/Quincy neighbors, Navy Replicator). This pack is enough to interview the **seat**.
 4. **career-ops:** system update available **v1.26.0 → v1.28.0**. Your CV/profile/tracker are not touched by that. Say if you want it applied.
