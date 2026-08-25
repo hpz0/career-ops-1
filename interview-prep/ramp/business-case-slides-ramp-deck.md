@@ -1,115 +1,95 @@
-# Paste into Ramp branded deck — 6 slides max
+# Paste into Ramp deck — 6 slides (final)
 
-Controller audience. Sparse text. You talk; slides support.
+Sparse. You talk.
 
-**Verbal glossary (slide 3 or spoken once):**  
-Buying channel = Ramp “Spend Program” (form + approvals). Three-way match = invoice + purchase order + receipt before pay.
-
----
-
-## Slide 1 — Outcome
-
-**Title:** NorthStar × Ramp Procurement  
-**Subtitle:** First 60 days — a controlled parts buying path
-
-- Approvals that protect **need-by dates**  
-- **Quantity × unit price** on every request (matchable orders)  
-- One trail: request → order → receipt → payment  
-
-Monica · Controller · Harrison · Procurement Activation
+**Once verbally:** Buying channel = Spend Program. Three-way = order + receipt + invoice before pay.
 
 ---
 
-## Slide 2 — Today vs. designed future
+## 1 — Outcome
+**NorthStar × Ramp Procurement**  
+First 60 days — controlled parts buying path
 
-| Today | Designed future (pilot) |
-|-------|-------------------------|
-| Email / Slack requests | One **parts buying channel** |
+- Need-by dates protected in approvals  
+- Qty × unit price (matchable orders)  
+- Trail: request → order → receipt → payment  
+- NetSuite stays books + receiving  
+
+Monica · Controller · Harrison · Activation
+
+---
+
+## 2 — Today → future (pilot)
+
+| Today | Future |
+|-------|--------|
+| Email / Slack | One parts buying channel |
 | Need-by in spreadsheets | Need-by on every approval |
-| Dollar thresholds ad hoc | Same thresholds — **in system** |
-| PO timing unclear / after-the-fact risk | Purchase order on approval → NetSuite |
-| Manual invoice match | **Three-way** before pay |
-| Audit = scavenger hunt | One pullable packet |
-
-**Footnote:** NetSuite stays system of record for orders and (recommended) receiving. Ramp owns intake, approvals, and match visibility.
+| Thresholds ad hoc | Same bands — in system |
+| Weak / late PO discipline | PO on approval → NetSuite |
+| Manual match | Three-way before pay |
+| Audit scavenger hunt | One pullable packet |
 
 ---
 
-## Slide 3 — The path (flow)
+## 3 — Path
 
-**Title:** Aircraft parts — how money should move
+1. **Request** — qty · unit price · need-by · vendor · ship-to · **required NetSuite coding** · quote when required  
+2. **Approve** — inventory confirms need → manager / finance / C-level (**her** bands)  
+3. **Purchase order** — sync to NetSuite  
+4. **Receive** — NetSuite item receipt · not requester alone  
+5. **Pay** — Bill Pay · three-way · pay  
 
-**Boxes:**
-1. **Request** — qty · unit price · need-by · vendor · ship-to · quote when required  
-2. **Approve** — inventory confirms need → manager / finance / C-level by **your** bands  
-3. **Purchase order** — created on approval · sync to NetSuite  
-4. **Receive** — warehouse item receipt (prefer NetSuite) · not the requester alone  
-5. **Pay** — Bill Pay · three-way match · then pay  
-
-**Callouts:**
-- *Buying channel = Spend Program*  
-- *Parts = three-way. Services = separate channel later (two-way). Not mixed.*
+Parts = three-way. Services = later, separate, two-way.
 
 ---
 
-## Slide 4 — Approval swimlane (your expertise)
+## 4 — Swimlane
 
-**Title:** Authority that matches how you already buy
-
-| Role | Band A (your manager limit) | Band B | Band C (your C-level+) |
-|------|----------------------------|--------|-------------------------|
+| Role | Band A | Band B | Band C (C-level+) |
+|------|--------|--------|-------------------|
 | Requester | Submits | Submits | Submits |
 | Inventory / Ops | Confirms need | Confirms need | Confirms need |
 | Manager | Approves | Approves | Approves |
-| Controller / Finance | Notify or approve | Approves | Approves |
+| Controller / Finance | Notify/approve | Approves | Approves |
 | C-level | — | — | Approves |
 
-**Bands labeled:** *Fill with Monica’s real cutoffs — do not invent.*
+*Bands = Monica’s real cutoffs.*
 
-**Hygiene (side rail):**
-1. Need-by required  
-2. Qty + unit price required  
-3. Quote for new / non-preferred above **her** threshold  
-4. After pilot: no purchase order → no pay for in-scope parts  
+**Also:** need-by · qty×price · GL/dims required · quote above her threshold · post-pilot: no PO → no pay · emergency path · change orders
 
 ---
 
-## Slide 5 — Match + NetSuite (integrations)
+## 5 — Match + systems
 
-**Title:** Don’t pay for parts you didn’t receive
-
-**Left**
 ```
-Purchase order  +  Receipt  +  Invoice  →  Three-way  →  Pay
+PO + Receipt + Invoice → Three-way → Pay
 ```
-Receiving status matters: not received / partial / full.
 
-**Right — recommended systems split**
 | Step | System |
 |------|--------|
 | Request + approvals | Ramp |
-| Purchase order record | Ramp → **NetSuite** |
-| Item receipt | **NetSuite** (default) |
-| Invoice match + pay | Ramp Bill Pay |
+| Purchase order | Ramp → NetSuite |
+| Item receipt | NetSuite |
+| Invoice match + pay | Bill Pay |
 
-**Note:** Two-way (order + invoice only) is for a **future services channel** — not this parts pilot.
+Coding: NetSuite fields available in Ramp after connect — **required/defaulted on the channel**, not magical.
 
 ---
 
-## Slide 6 — 60 days + this week
+## 6 — 60 days + ask
 
-| Window | Outcome |
-|--------|---------|
-| **This week** | Approval bands written · NetSuite owner session · named pilot · draft channel review |
-| **Weeks 2–3** | Publish parts channel · first live requests · tune from exceptions |
-| **Weeks 3–4** | PO sync + three-way live on pilot |
-| **Weeks 5–8** | Expand users · new-vendor intake · optional AI research agents |
+| When | What |
+|------|------|
+| This week | Bands · NetSuite owner · pilot · draft channel review |
+| Weeks 2–3 | Publish · live requests · tune |
+| Weeks 3–4 | Sync + three-way on pilot |
+| Weeks 5–8 | Expand · vendor intake · optional AI research agents |
 
-**Ask (large):**
-1. Confirm dollar bands and roles  
-2. Introduce NetSuite admin (POs + item receipts)  
-3. Pick pilot site or parts family  
-4. Hold working session on the draft channel **before we leave**
+**Lock before leaving:**
+1. Dollar bands  
+2. NetSuite admin (POs + receipts)  
+3. Pilot site or parts family  
+4. Working session on the calendar  
 
-**Close line:**  
-60-day success = one trusted parts path from request to paid invoice — not every edge case rebuilt on day one.
+60-day win = one trusted parts path — not every edge case day one.
