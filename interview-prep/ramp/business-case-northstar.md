@@ -1,238 +1,209 @@
-# NorthStar business case — expert pack
+# NorthStar business case — closed pack (use this)
 
-**You are not demoing Ramp.** You are a procurement operator designing a control environment for a Controller who already lives in NetSuite.
+Nothing optional below is “nice to have.” This is the full design + delivery kit for the role play + triage.
 
-**Role play:** First design/activation call · Monica, Controller · ~600-person aircraft OEM/refurb · Ramp Expense live · purchasing today = email/Slack + spreadsheets + NetSuite + manual match  
-
-**Success in their brief:** rapport · discovery · commit a **first step** · expand Bill Pay + AI policies thoughtfully · optional ≤6 slides  
-
-**Day-of:** [`business-case-cheatsheet.md`](business-case-cheatsheet.md) · **Deck paste:** [`business-case-slides-ramp-deck.md`](business-case-slides-ramp-deck.md)
+**Day-of one screen:** [`business-case-cheatsheet.md`](business-case-cheatsheet.md)  
+**Deck paste:** [`business-case-slides-ramp-deck.md`](business-case-slides-ramp-deck.md)
 
 ---
 
-## How Controllers score you
+## What they score
 
-| They hear | They think |
-|-----------|------------|
-| Feature tour / “Spend Program” unexplained | Vendor |
-| “Estimated amount” on a PO path | Amateur |
-| Invented $5k FP&A rule | Don’t know our org |
-| Three-way + two-way mixed in one channel | Don’t understand matching |
-| Promise full company go-live in 60 days | Untrustworthy |
-| **Encode our thresholds, qty×price, receive before pay, NetSuite stays books, pilot one site, need-by on every approval** | Peer |
-
-**Your job:** Design the **procure-to-pay path** — request → approve → purchase order → receive → match → pay — so Monica gets **faster approvals** and an **audit packet she can pull**, without breaking NetSuite.
+| Must land | How you land it |
+|-----------|-----------------|
+| Rapport + clear agenda | Open in 90s as a P2P peer |
+| Discovery | 10 questions below — steal answers that change the design |
+| Prescriptive design | Locked stances — adapt numbers, don’t abandon the spine |
+| First-step commitment | Calendar hold before hang-up |
+| Bill Pay + AI (brief) | 90 seconds max, after the path is clear |
+| Part 2 triage | Rubric + 4 drills memorized |
 
 ---
 
-## Plain language (say once, then use freely)
+## Locked design (complete)
 
-| Word | Meaning |
-|------|---------|
-| **Buying channel** (Ramp: Spend Program) | The published request form + approval path for one type of buy |
-| **Purchase order** | Binding record of what was approved to buy (qty, price, vendor, terms) |
-| **Receipt / item receipt** | Proof goods arrived (qty received against the order) |
-| **Two-way match** | Invoice must agree with the purchase order before pay |
-| **Three-way match** | Invoice + purchase order + **receipt** must agree before pay |
-| **Bill Pay** | Where invoices are captured, matched, approved, and paid in Ramp |
+### Buying channel (Ramp: Spend Program)
+**Aircraft parts / MRO only** for v1.
 
----
+### Intake fields (complete set)
+| Field | Required? | Notes |
+|-------|-----------|--------|
+| Description / what & why | Yes | Part / aircraft context |
+| Vendor or new-vendor flag | Yes | |
+| **Quantity + UOM** | Yes | |
+| **Unit price** | Yes | From quote/catalog/contract — **not estimate** |
+| Extended | Calc | qty × unit |
+| **Need-by date** | Yes | Visible on every approval |
+| Ship-to / site | Yes | |
+| **NetSuite coding** | Yes* | Account (GL) + whatever she requires today (dept / class / location). Default what you can on the channel; requester completes the rest. *Ask discovery Q10.* |
+| Quote attachment | Conditional | New / non-preferred above **her** threshold |
+| Commodity / UNSPSC | No | Unless she already uses it — don’t invent |
 
-## Non-negotiable design decisions (take a stance)
+Ramp imports NetSuite accounts/dimensions when connected. It does **not** invent coding. Defaults + required fields = your job.
 
-### 1. Intake is line-level commercial truth — not estimates
-Aircraft parts → purchase order → match. The request must carry:
-- **Quantity** + unit of measure  
-- **Unit price** (quote / catalog / contract price — not a gut “estimate”)  
-- Extended = qty × unit price  
-- Need-by date  
-- Vendor (or new-vendor flag)  
-- Ship-to / site  
-- Charge coding Monica needs for NetSuite  
-- Quote attachment when policy requires  
+### Approvals
+1. Inventory/ops confirms need  
+2. Manager → Finance/Controller → C-level using **her** dollar bands  
+3. Need-by on every notification  
+4. Requester ≠ sole receiver (SoD)
 
-If they only have a rough number: **get a quote before the request**, or use a thin emergency path that still converts to a real order with qty/price before payment.
+### After approval
+- Purchase order created in Ramp → **sync to NetSuite**  
+- **Receive in NetSuite** (item receipt) — default; confirm who receives today  
+- Invoice → Bill Pay → **three-way match** → pay  
 
-### 2. Matching: three-way on the parts channel — not both rules in one channel
-Ramp sets matching **per buying channel** (procurement controls).  
-- **Parts channel = three-way.** You do not pay for parts that never showed up.  
-- **Services later = separate channel, two-way.** No warehouse receipt for a retainer.  
-- Mixing parts + services under one three-way rule makes services stall. Mixing under two-way makes parts leak.
+### Matching
+| Channel | Rule |
+|---------|------|
+| Parts (this pilot) | **Three-way** (order + receipt + invoice) |
+| Services (later) | **Separate channel, two-way** |
+| Same channel, both rules | **No** — Ramp sets matching per channel |
 
-### 3. Where receiving happens (NetSuite customer — ask, then recommend)
-They already buy through NetSuite. Controllers usually want **one receiving system of record**.
+### Exceptions (one sentence each — closed)
+**Emergency / AOG-style:** Documented exception path — buy to protect the need-by, convert to a real order with qty/unit price within X business days (agree X with Monica; propose 2). Still no silent email forever.  
+**Change order:** After approval, qty / unit price / need-by / vendor change → change order with re-approval (same bands or lighter band she chooses for small variances).  
+**Match variance:** Use **her** AP tolerance; don’t invent %. Ask discovery Q5.  
+**New vendor:** Vendor intake (W-9 / payment details) before or gated with approval — don’t pay a ghost vendor.
 
-**Recommend (default hypothesis):**  
-Purchase order created in Ramp after approval → **sync to NetSuite** → **receive in NetSuite** (item receipts) → invoice in Bill Pay **three-way matches** using NetSuite receipts.  
+### Out of v1
+Company-wide every requester · services channel · AI agents as dependency · commodity taxonomy · rebuilding NetSuite custom workflows
 
-**Fallback:** Receive in Ramp if NetSuite receiving is broken/unusable — still three-way, but Monica may fight you on dual systems.
-
-**Ask before locking:** *“Today, when a parts order hits NetSuite, who does the item receipt — warehouse, inventory, or AP?”*
-
-### 4. Segregation of duties
-Requester **must not** be the only receiver on their own order. Inventory/warehouse receives. AP matches and pays. Monica will respect you naming this.
-
-### 5. Approvals: encode theirs + add hygiene — don’t invent org charts
-Bring a **skeleton**, fill **their** dollar bands live:
-1. Inventory / ops **confirms demand** (they already do this informally)  
-2. Manager (their band)  
-3. Controller / Finance (their band — often Monica)  
-4. C-level (their existing exec threshold)  
-
-**Always on:** need-by date visible to every approver.  
-**Propose, don’t dictate:** supporting quote for non-preferred / new vendors above a threshold *she* sets.  
-**After pilot:** no purchase order → no pay for in-scope parts.
-
-### 6. Scope discipline (60 days)
-Win = **one trusted path for parts at one pilot site (or one commodity)** — not every category, not AI agents as a dependency, not rewriting NetSuite.
+### 60-day success definition (say it)
+> One trusted parts path at the pilot: request → approve → order in NetSuite → receipt → matched pay — with an audit trail Monica can pull without hunting Slack.
 
 ---
 
-## Recommended v1 (what you put on the table)
+## Discovery (complete — 10 questions)
 
-**Buying channel:** Aircraft parts / MRO  
-**Matching:** Three-way  
-**Receiving:** NetSuite item receipts (confirm with Monica)  
-**Pilot:** One site **or** one parts family (e.g. consumables / AOG-adjacent — pick with her)  
-**Out of v1:** Services channel, full vendor marketplace, AI agents as must-have, company-wide every requester day one  
+**Steal and write down:** PO birthplace · receiver · SoD · bands · quote rule · match tolerance · required NS fields · NS owner · pilot
 
-**Policy skeleton (numbers = hers):**
+1. Last missed need-by — where did time die (person, thread, ownership)?  
+2. Audit pull request→payment — how long, what’s painful?  
+3. NetSuite PO **before** the buy or **after** the invoice?  
+4. Who enters the **item receipt**? Same as requester?  
+5. Price/qty mismatch — what’s tolerance before AP stops?  
+6. Dollar bands + who sits in each today?  
+7. Preferred vs spot — quote required above any amount today?  
+8. On a NetSuite parts PO line today, which fields are **required** (account, dept, location, class, custom)?  
+9. Who owns NetSuite admin for POs + item receipts?  
+10. Pilot: one site or one parts family — which proves value without catastrophe?
 
-| Control | Stance |
-|---------|--------|
-| Qty + unit price required | Yes — always for this channel |
-| Need-by date required | Yes — always |
-| Inventory confirms need | Yes — before dollar escalation |
-| Quote | Required for new / non-preferred vendors above her threshold |
-| Competitive quotes | Phase 2 unless she already requires them |
-| Match | Three-way; discuss **price/qty tolerance** with AP (e.g. small variance auto-pass — get their current practice) |
-| Emergency buy | Documented exception + convert to order within X days — don’t pretend emergencies don’t exist |
-| Change orders | Price/qty/date change after approval = re-approval path |
+**Mirror before prescribe:**  
+> “So today the order is often [before/after], receiving sits with [role], coding needs [fields], and the break is [speed / trail / both].”
 
 ---
 
-## Discovery (Controller-grade) — order matters
+## Full call script (timed)
 
-You have ~10–12 minutes. **Diagnose before you prescribe.** Write answers on a notepad; your design changes with them.
-
-### Block A — Prove you understand the pain (2 questions)
-1. **Missed need-by:** “Walk me through the last parts buy that missed a need-by date. Was time lost waiting on a person, hunting the thread, or unclear who owned the approval?”  
-2. **Audit pull:** “If internal audit said ‘show me request → approval → order → receipt → payment for this vendor last quarter,’ how long does that take today, and what’s the painful part?”
-
-### Block B — Map the real control environment (these are the money questions)
-3. **Where is the purchase order born today?** “Is the NetSuite purchase order created **before** the buy, or after the fact when AP gets an invoice?”  
-   - *Before* → you’re formalizing. *After* → you’re fixing a control gap (big win for Monica).  
-4. **Receiving:** “Who enters the item receipt in NetSuite — warehouse, inventory, or the person who requested?”  
-   - Listen for SoD breaks.  
-5. **Match practice:** “When invoice price or qty doesn’t match the order, what’s your tolerance before AP stops payment?”  
-6. **Authority:** “Besides you, who must approve parts spend — and what are the dollar cutoffs today? I want Ramp to match reality, not invent a new org chart.”  
-7. **Vendor / quote:** “How much of parts spend is preferred/contract vendors vs spot buys? Do you require a quote today above any amount?”
-
-### Block C — Integration reality (1–2 questions)
-8. **NetSuite owner:** “Who owns the NetSuite admin relationship for purchase orders and item receipts on your side?”  
-9. **Pilot:** “If we started with one site or one parts category for 30 days, which would be real enough to prove value but contained enough that a miss isn’t catastrophic?”
-
-**Stop discovery when you can fill:** PO born where · who receives · dollar bands · quote rule · pilot slice · NetSuite owner.
-
----
-
-## Live call script (use this spine)
-
-### Open (~90 seconds)
-> Monica, thanks for the time. I’m Harrison — I help customers stand up Ramp for purchasing. I know you’re already on Ramp for expense, so the goal today isn’t to re-sell you on Ramp.
+### 0:00–1:30 — Open
+> Monica, thanks for the time. I’m Harrison — I help customers stand up Ramp for purchasing. You’re already on Ramp for expense, so I’m not here to re-sell Ramp.
 >
-> You’ve got growing parts and vendor complexity, requests living in email and Slack, need-by dates in spreadsheets, and you’re matching invoices by hand. That usually means two problems for a Controller: **approvals are slow when a part is hot**, and **audit can’t see one clean thread from request to payment**.
+> You’ve got growing parts complexity, requests in email and Slack, need-by dates in spreadsheets, and manual invoice matching. For a Controller that usually means two problems: **approvals slow down hot parts**, and **audit can’t pull one clean thread from request to payment**.
 >
-> I’ve lived that from the buy side — I stood up procure-to-pay and policy at a manufacturing company on NetSuite — so I’m going to treat this like a control design conversation, not a software tour.
+> I’ve stood up procure-to-pay and policy from the buy side at a manufacturing company on NetSuite, so I’m going to treat this as control design — not a product tour.
 >
-> End of this call I want three things: (1) a clear picture of how you buy parts today, (2) a recommended first version of the buying path, and (3) a concrete next step with owners. Fair?
+> By the end I want: how you buy parts today, a recommended first version of the path, and a concrete next step with owners. Fair?
 
-### Discovery (~10–12 min)
-Run Block A → B → C. Mirror back what you heard in one sentence before prescribing:
-> “So today the purchase order is often [before/after], receiving sits with [role], and the break is [approvals / trail / both].”
+### 1:30–12:00 — Discovery
+Run Q1–Q10. Don’t lecture. Write answers.
 
-### Prescribe (~10–12 min)
+### 12:00–22:00 — Prescribe
 > Here’s the design I’d put in front of a Controller in your seat.
 >
-> **One buying channel for aircraft parts** — Ramp calls that a Spend Program. Requesters enter **quantity and unit price**, not a ballpark total, plus need-by date, vendor, and ship-to. Inventory confirms the need the way you already do — but on the record. Approvals follow **your** dollar bands. Every approver sees the need-by date, not just the dollars.
+> **One parts buying channel** — Ramp calls that a Spend Program. Requesters enter **quantity and unit price**, not a ballpark, plus need-by, vendor, ship-to, and the **NetSuite coding fields you already require on a PO line** — we default what we can so people aren’t doing accounting homework. Inventory confirms need on the record. Approvals follow **your** dollar bands. Every approver sees the need-by date.
 >
-> When it’s approved, Ramp creates the purchase order and we sync it to **NetSuite** so your books stay authoritative. Warehouse receives **in NetSuite**. When the vendor invoices, Bill Pay does a **three-way match** — invoice, order, and receipt — before you pay. That directly attacks paying for parts you never got, and it gives you the audit trail you’re missing.
+> On approval, Ramp creates the purchase order and syncs it to **NetSuite**. Warehouse receives **in NetSuite**. Invoice hits **Bill Pay** and we **three-way match** — order, receipt, invoice — before pay. That stops paying for parts you never got and gives you the trail you’re missing.
 >
-> I’m **not** putting services in that same channel. Services don’t need a warehouse receipt; parts do. Mixing them under one matching rule creates either fake receipts or unpaid services. Parts first. Services later if you want them.
+> Services stay out of this channel. They don’t need a warehouse receipt; parts do. Mixing under one matching rule creates fake receipts or stuck services. Parts first.
 >
-> For the first 60 days I’m not boiling the ocean. One pilot site or commodity, prove the path, then expand.
-
-**If she asks about two-way:**  
-> “Two-way is invoice against order only — fine for services. For parts I’d be doing you a disservice recommending two-way as the default.”
-
-**If she pushes full customization first:**  
-> “Edge cases get a parking lot. Controllers who wait for perfect policy never get a clean trail. We encode your real thresholds, go live on a pilot, and tighten from exceptions.”
-
-### Policy / numbers (~3 min)
-> I won’t invent your dollar limits or pretend FP&A sits in a seat they don’t. Tell me today’s bands and I’ll build the swimlane to match. Separately, I’d add a quote rule for new or non-preferred vendors above a number you choose — that’s standard hygiene, not a Ramp feature.
-
-### Expand lightly — Bill Pay + AI (~2–3 min)
-> Bill Pay is where the invoice lands and matching happens — that’s the AP half of the control story, not a side quest.  
-> AI procurement agents — later. They’re research assistants for vendor packets (docs, risk summaries). **They don’t approve.** Useful for audit consistency after the path is live. Not a week-one dependency.
-
-### Commit first step (~5 min) — do not leave without this
-> This week I need four things:  
-> (1) your approval bands written down,  
-> (2) 30 minutes with whoever owns NetSuite purchase orders and item receipts,  
-> (3) a named pilot — site or parts family,  
-> (4) a working session to review the draft parts channel before we publish.  
+> Emergencies exist in aviation. We’ll document an exception path that still converts to a real order with qty and price within a couple of days — not permanent Slack. If price or qty changes after approve, that’s a change order with re-approval — we don’t hope AP cleans up fiction.
 >
-> Can we lock that working session before we hang up?
+> First 60 days: one pilot site or parts family. Prove the path. Then expand.
 
-**Fallback if she’s cautious:** approval-matrix workshop only this week — still a win if dated.
+### 22:00–24:00 — Bill Pay + AI (assignment requirement — keep short)
+> **Bill Pay** is the AP half of this story — where the invoice is captured, matched, and paid. Without it, you only fixed the front half.
+>
+> **AI procurement agents** — phase two. They research vendor packets and summarize risk. **They don’t approve.** Useful for audit consistency after the path is live. Not a week-one dependency.
 
-### Close (~60 sec)
-> Recap: parts channel with qty and unit price, your approval bands, NetSuite for the order and receipt, three-way before pay, pilot contained. I’ll send a one-pager. What would make you say this failed in 60 days — so I design against that?
+### 24:00–28:00 — Commit
+> This week I need: (1) your approval bands written down, (2) 30 minutes with NetSuite PO/receipts owner, (3) named pilot, (4) a working session to review the draft parts channel before we publish. Can we lock that session before we hang up?
+
+### 28:00–30:00 — Close
+> Recap: parts channel, qty×price, your bands, your required NetSuite fields, receive in NetSuite, three-way before pay, pilot contained. I’ll send a one-pager. What would make you call this a failure in 60 days — so I design against it?
 
 ---
 
-## Objection handling (short)
+## Objections (closed)
 
 | Pushback | Answer |
 |----------|--------|
-| “We already have NetSuite.” | “Keep it. Ramp fixes intake, approvals, and match visibility. NetSuite stays the books.” |
-| “Our process is unique.” | “Critical controls stay. Habits and exceptions get challenged. Unique ≠ undocumented Slack.” |
-| “Everyone must be live day one.” | “That’s how you get shadow process. Pilot proves the control, then expand.” |
-| “Estimates are fine — prices change.” | “Then we use change orders. We don’t approve fiction and hope AP sorts it out.” |
-| “Receiving in two systems?” | “I don’t want that either. Default: receive where you already receive — NetSuite.” |
+| We have NetSuite | Keep it. Ramp = intake, approvals, match visibility. NetSuite = books + receiving. |
+| Process is unique | Critical controls stay. Undocumented Slack isn’t a control. |
+| Everyone day one | Shadow process. Pilot, then expand. |
+| Estimates are fine | Change orders exist. Don’t approve fiction. |
+| Receive in two systems? | No. Default NetSuite. |
+| Need commodity codes | Only if you use them today. I care about required GL/dimensions first. |
+| Can’t we 2-way and 3-way in one program? | Not as a per-request mix. Matching is per channel. Parts = three-way. |
 
 ---
 
-## Part 2 — Triage (10 min)
+## Part 2 — Triage (complete drills)
 
-**Rubric (say it):**  
-> “I rank against the 60-day commitment: first controlled parts path live, Monica’s speed and audit pains, and whether waiting creates rework.”
+**Say first:**  
+> “I rank against the 60-day commitment: first controlled parts path live, Monica’s speed and audit pains, and rework risk.”
 
-| Priority | Pattern |
-|----------|---------|
-| **1** | Blocks publishing the parts channel or first approved order (no sponsor, wrong approvers, can’t get NetSuite admin) |
-| **2** | Active speed/audit fire (missed need-by, AP paying without receipt, audit request) |
-| **3** | Foundation work that must start early (Bill Pay permissions, PO sync, receiving permissions) even if quiet |
-| **4** | Expansion (second channel, AI agents, nice-to-have fields) |
+**Form:** *“#N because __. Next I’d __ with __.”*
 
-**Answer form:** *“#N because ___. Next I’d ___ with ___.”*
+### Drill set (memorize patterns)
+
+**A — “Customize every edge case before go-live.”**  
+**#1** — stalls first path.  
+Next: park edge cases; encode real bands; publish pilot channel this week; revisit exceptions from live traffic.
+
+**B — “NetSuite admin unavailable / PO sync blocked.”**  
+**#1 or #2** — blocks order-in-books story.  
+Next: same-day escalate with Monica to name owner + 30-min session; don’t fake dual books; slip expand dates, don’t skip sync plan.
+
+**C — “Execs ignore Ramp approvals; need-bys still missed.”**  
+**#2** — direct speed pain after go-live.  
+Next: pull 5 requests; need-by vs approve timestamps; cut approver bloat / delegates / escalation SLA; Monica reinforces “Slack isn’t approval.”
+
+**D — “AP paying invoices with no receipt.”**  
+**#2** — audit + three-way failure.  
+Next: stop-gap hold payments without receipt on pilot vendors; confirm receiving owner + permissions; verify three-way on for parts channel.
+
+**E — “Bill Pay not configured; invoices piling up.”**  
+**#3 early / #2 if POs already flowing.**  
+Next: 30-min Bill Pay setup (AP role, invoice approvals, PO match); train one AP clerk.
+
+**F — “Legal stuck on new vendor; hot part waiting.”**  
+**#2** for the live order; agent/onboarding = #4 for system.  
+Next: unblock this buy with manual review Monica owns; add vendor intake (+ later AI research packet) on the channel for next time.
+
+**G — “Inventory won’t leave Slack; won’t confirm in Ramp.”**  
+**#2** — breaks audit + need confirm.  
+Next: Monica message — no confirm in Ramp, no approve; 15-min enablement for inventory lead; make step required.
+
+**H — “Can we turn on AI agents week one?”**  
+**#4**  
+Next: after first 10 live requests; agents research, humans approve.
 
 ---
 
-## Credibility beats (use once each, max)
+## Credibility (max one each)
 
-- Stood up Coupa P2P + procurement policy; cut req cycle 3 days → 1.5; 99% on contract (Plenty).  
-- NetSuite migration experience — you speak Monica’s system.  
-- “I’ve been the customer. Controlled path has to be the easy path or people route around it.”
-
-No Coupa click-path flex. No fake Ramp admin tenure.
+- Coupa P2P + policy; req cycle 3→1.5 days; 99% on contract  
+- NetSuite migration — you speak her system  
+- “I’ve been the customer. Controlled path has to be the easy path.”
 
 ---
 
-## 15-minute prep checklist
+## Pre-call checklist (all closed)
 
-- [ ] Open + prescribe + commit out loud once  
-- [ ] Memorize 9 discovery questions (order)  
-- [ ] Stance locked: qty×price · parts=3-way · receive in NetSuite · separate services later · their dollar bands  
-- [ ] Slides pasted into Ramp deck (or go slide-light — conversation wins)  
-- [ ] Notepad ready for: PO birthplace · receiver · bands · pilot · NetSuite owner  
+- [ ] Open + prescribe + Bill Pay/AI + commit spoken once cold  
+- [ ] Q1–Q10 order memorized  
+- [ ] Stances locked (table above)  
+- [ ] Emergency + change-order sentences ready  
+- [ ] Triage drills A–H once out loud  
+- [ ] Six slides pasted into Ramp deck  
+- [ ] Notepad columns: PO birth · receiver · bands · NS fields · tolerance · quote · pilot · NS owner  
