@@ -43,17 +43,17 @@ Copy slide-by-slide into their template. Keep Ramp branding. Prefer simple shape
 
 **Horizontal flow (5 boxes):**
 
-1. **Request** — employee picks the parts buying channel, fills form  
+1. **Request** — qty × unit cost, need-by, vendor, ship-to (+ quote when required)  
 2. **Approve** — inventory confirms need → manager / finance / C-level by dollar band  
 3. **Purchase order** — created when approved  
 4. **Receive** — warehouse / ops confirms parts arrived  
-5. **Pay** — invoice matched, then paid in Bill Pay  
+5. **Pay** — three-way match (PO + receipt + invoice), then pay  
 
 **Callout under box 1:**  
-*Ramp calls this buying channel a **Spend Program** — form + approvals published for your team.*
+*Ramp calls this buying channel a **Spend Program**. Capture **quantity and unit cost** — not a ballpark estimate — so the purchase order is matchable.*
 
 **Callout under box 5:**  
-*NetSuite stays your system of record for the purchase order.*
+*NetSuite stays system of record for the purchase order. Matching rule is set **on this channel** (three-way for parts).*
 
 ---
 
@@ -87,24 +87,23 @@ Copy slide-by-slide into their template. Keep Ramp branding. Prefer simple shape
 
 **Title:** Pay only for what you ordered and received
 
-**Left — Matching (simple diagram)**
+**Left — Matching**
 
-**Parts (this pilot):**  
-Purchase order ↔ Receipt ↔ Invoice = **three-way match** → then pay  
+**This pilot (parts channel):**  
+Purchase order + Receipt + Invoice → **three-way** → pay  
 
-**Services later (optional second channel):**  
-Purchase order ↔ Invoice = **two-way match**  
+**Later (separate services channel, if needed):**  
+Purchase order + Invoice → **two-way** → pay  
+
+*Not both rules inside one channel — Ramp sets matching per buying channel.*
 
 **Right — Systems**
 
 ```
-Ramp: request + approvals + match
-         ↓ purchase order sync
-NetSuite: books / inventory world you already use
+Ramp: request (qty × unit cost) + approvals + match
+              ↓ purchase order sync
+NetSuite: books / inventory you already use
 ```
-
-**One sentence:**  
-> Three-way for parts is a program setting — not a second project. Two-way stays available when you add services.
 
 ---
 

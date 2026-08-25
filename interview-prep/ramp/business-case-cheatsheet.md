@@ -18,11 +18,18 @@
 
 ---
 
-## Matching — both, correctly
+## Matching — one rule per buying channel
 
-- **Parts pilot → three-way** (simple program setting)  
-- **Services later → two-way**  
-- Not “three-way only forever.” Not “turn on every control on day one.”
+- **Two-way** = invoice ↔ purchase order  
+- **Three-way** = invoice ↔ purchase order ↔ **receipt**  
+- Ramp sets this **per Spend Program** (not mix-and-match on one request)  
+- **Parts pilot = three-way.** Services later = separate channel with two-way  
+- Don’t put parts + services in one program with one matching rule  
+
+## Intake — commercial facts, not estimates
+
+On the request: **qty + unit cost** (+ need-by, vendor, ship-to, quote when required).  
+Extended = qty × unit. **Not** a vague “estimated total” as the main field — that breaks matching.
 
 ---
 

@@ -9,21 +9,51 @@
 
 ## Direct answers (Harrison’s questions)
 
-### 1. Two-way vs three-way matching — both?
+### 1. Two-way vs three-way — and can both live in one program?
 
-**Configure both, but by type of buy — not both on every request.**
+**Plain English:**
+- **Two-way match:** Before you pay, the **invoice** has to agree with the **purchase order** (vendor + amount/lines).
+- **Three-way match:** Those two **plus** a **receipt** — someone confirms the parts actually arrived.
 
-| Buy type | Matching | Why |
-|----------|----------|-----|
-| **Aircraft parts / physical goods** | **Three-way** | Invoice must match the purchase order **and** someone confirms the parts were received. Stops paying for parts that never showed up. |
-| **Services / software / professional fees** (later program) | **Two-way** | Invoice ↔ purchase order is enough. No warehouse receipt. |
+**Can both be in the same Spend Program?**  
+**No — not as “pick 2-way or 3-way per request.”** In Ramp, invoice matching is set in that program’s **procurement controls**. You choose the rule **for that program**. Docs: enable three-way *for a specific Spend Program*. If you flip a program from two-way to three-way, it applies to POs from that program (including existing ones — you can then add receipts).
 
-This is a **simple control on the program**, not a second project. Ramp turns three-way on in the program’s procurement controls. You’re not overcomplicating — you’re matching control to risk.
+So:
+| Design | When |
+|--------|------|
+| **One program: Aircraft parts → three-way** | NorthStar v1 (this case) |
+| **Second program later: Services → two-way** | When they buy services through Ramp |
+| **Mixed parts+services in one program with three-way ON** | Bad — services get stuck waiting for a fake “receipt” |
+| **Mixed in one program with three-way OFF** | Bad for parts — can pay without proof of receipt |
 
-**How to say it on the call:**  
-> “For parts, I’d turn on three-way matching — invoice has to match what you ordered and what you received. For services later, two-way is enough. Same platform, different rule by what you’re buying.”
+**v1 proposal:** one parts program, three-way on. Don’t build a services program on day one unless Monica asks.
 
-Don’t propose “three-way only forever.” Don’t propose “turn on everything.” **Parts program = three-way. Optional services program = two-way.**
+**How to say it:**  
+> “Matching is a rule on the buying channel, not a per-line toggle. For parts I’ll set **three-way** — invoice must match the purchase order and a receipt. If you later add a services channel, that one can be **two-way**. Mixing both buy types in one channel with one matching rule usually creates pain.”
+
+---
+
+### 1b. Intake: quantity + unit cost — not “estimated” amount
+
+**You’re right.** For a purchase-order path that will be matched, the request should capture **commercial facts**, not a vague estimate.
+
+**Required on the parts request (line level):**
+- **Quantity** (and unit of measure if they use ones — each, kit, etc.)
+- **Unit cost** (from quote, catalog, or agreed price list)
+- **Extended amount** = qty × unit cost (system-calculated if possible)
+- **Need-by date**
+- **Vendor** (or new-vendor flag)
+- **What / why** (part description / aircraft context)
+- **Ship-to / site**
+- **Quote attached** when required by policy (new vendor / over threshold)
+
+**Why not “estimated cost” as the main field:**  
+Finance and AP match invoices to **ordered qty and price**. An estimate that becomes a purchase order creates exceptions, change orders, and audit noise — exactly what Monica doesn’t want.
+
+**When people only have a rough number:** That’s a **pre-request** problem (get a quote first), not a reason to weaken intake. Policy: *no parts request without quantity + unit price from a quote/catalog* (with a thin exception path for true emergencies that still converts to a real PO after).
+
+**How to say it:**  
+> “I’d capture **quantity and unit cost** on the request — not a ballpark total — so the purchase order is matchable when the invoice lands.”
 
 ---
 
@@ -106,15 +136,19 @@ You’re not demoing Ramp. You’re the **buyer-side operator** who designs how 
 
 ### Buying channel (Spend Program)
 **Name:** Aircraft parts / MRO request  
+**Matching:** Three-way (this program only)
 
-**Required questions (minimum):**
+**Required on the request (line level):**
 - What / why (description)  
 - Vendor (or “new vendor”)  
-- Estimated amount  
+- **Quantity** + unit of measure  
+- **Unit cost** (from quote / catalog / price list — not a ballpark)  
+- Extended amount = qty × unit cost  
 - **Need-by date** (required)  
 - Ship-to / site  
-- Inventory confirmation (or requester attests + inventory step)  
-- Attachment: quote if above quote threshold / always for new vendor  
+- Inventory confirmation step  
+- Quote attached when policy requires (new vendor / over threshold)  
+- GL / coding dimensions as Monica needs for NetSuite  
 
 ### Approval path (encode theirs + add hygiene)
 1. Requester submits  
