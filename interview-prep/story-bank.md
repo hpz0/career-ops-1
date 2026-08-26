@@ -53,7 +53,7 @@ Accumulated stories for interviews. Only facts backed by `cv.md` / user statemen
 
 ## S4 — NetSuite ERP / MRP Migration (Plenty)
 
-**Use for:** “modernize beyond day-to-day,” cross-functional program leadership  
+**Use for:** “modernize beyond day-to-day,” cross-functional program leadership, **TNC loop (they use NetSuite)**  
 **Audience:** hiring-manager · peer-tech
 
 - **Situation:** Manual inventory management across manufacturing context.
@@ -61,6 +61,7 @@ Accumulated stories for interviews. Only facts backed by `cv.md` / user statemen
 - **Action:** Orchestrated migration; collaborated across ops/quality/procurement.
 - **Result:** Dynamic MRP across sites (qualitative — exact site count not in cv.md).
 - **Reflection:** Same muscle as P2P modernization — requirements, change management, cross-functional alignment.
+- **TNC framing (HM 2026-08):** They already have a corp procurement **governance procedure**; they need **NetSuite as the ERP** plus **SaaS management**. Lead S4 for ERP cutover credibility. **Do not claim SuiteProcurement or that Plenty NetSuite was the P2P layer** — that was **Coupa (S1)**. Pair the two.
 
 **Proof source:** cv.md — Senior Global Supply Manager, Plenty
 
