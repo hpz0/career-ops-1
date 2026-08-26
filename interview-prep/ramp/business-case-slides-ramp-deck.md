@@ -2,65 +2,71 @@
 
 Sparse. You talk.
 
+**Grok updater prompt (full):** `business-case-slides-grok-prompt.md`  
 **Once verbally:** Buying channel = Spend Program. Three-way = order + receipt + invoice before pay.
 
 ---
 
-## 1 — Outcome
-**NorthStar × Ramp Procurement**  
-First 60 days — controlled parts buying path
+## 1 — Title / outcome
 
-- Need-by dates protected in approvals  
-- Qty × unit price (matchable orders)  
-- Trail: request → order → receipt → payment  
-- NetSuite stays books + receiving  
+**PROCUREMENT DESIGN SESSION**  
+How purchasing will run on Ramp  
+Align on design. Lock the first step.
 
-Monica · Controller · Harrison · Activation
+NorthStar Aviation · Monica · Controller · Harrison · Activation
+
+*(Optional strip)* First 60 days: controlled parts path · need-by protected · qty × unit price · trail request → pay · NetSuite stays books + receiving
 
 ---
 
-## 2 — Today → future (pilot)
+## 2 — Today → pilot future
 
-| Today | Future |
-|-------|--------|
-| Email / Slack | One parts buying channel |
+| Today | Pilot future |
+|-------|----------------|
+| Email / Slack buys | One parts buying channel |
 | Need-by in spreadsheets | Need-by on every approval |
-| Thresholds ad hoc | Same bands — in system |
+| Thresholds ad hoc | Your bands — in the system |
 | Weak / late PO discipline | PO on approval → NetSuite |
-| Manual match | Three-way before pay |
+| Manual / late match | Three-way before pay |
 | Audit scavenger hunt | One pullable packet |
 
----
-
-## 3 — Path
-
-1. **Request** — qty · unit price · need-by · vendor · ship-to · **required NetSuite coding** · quote when required  
-2. **Approve** — inventory confirms need → manager / finance / C-level (**her** bands)  
-3. **Purchase order** — sync to NetSuite  
-4. **Receive** — NetSuite item receipt · not requester alone  
-5. **Pay** — Bill Pay · three-way · pay  
-
-Parts = three-way. Services = later, separate, two-way.
+Parts first. Services and edge cases later.
 
 ---
 
-## 4 — Swimlane
+## 3 — Priorities & starting design
 
-| Role | Band A | Band B | Band C (C-level+) |
-|------|--------|--------|-------------------|
-| Requester | Submits | Submits | Submits |
-| Inventory / Ops | Confirms need | Confirms need | Confirms need |
-| Manager | Approves | Approves | Approves |
-| Controller / Finance | Notify/approve | Approves | Approves |
-| C-level | — | — | Approves |
+**Speed:** Slow approvals delay parts / miss need-by.  
+**Audit:** One trail request → approval → receipt → invoice → pay.
 
-*Bands = Monica’s real cutoffs.*
+**Starting design**
 
-**Also:** need-by · qty×price · GL/dims required · quote above her threshold · post-pilot: no PO → no pay · emergency path · change orders
+- One parts buying channel  
+- Qty × unit price (not estimates) + need-by + vendor + ship-to  
+- Required NetSuite coding (her GL/dims); default what you can  
+- Inventory confirms need on the record  
+- Approvals on **her** bands; need-by on every approval  
+- PO on approval → NetSuite  
+- Receive in NetSuite · three-way before pay  
+- Quote only when **her** policy requires  
+
+Out of scope day one: services channel, every exception, AI-led buying.
 
 ---
 
-## 5 — Match + systems
+## 4 — Path
+
+**Intake** — parts channel · qty×price · need-by · vendor · ship-to · required NS fields · inventory confirms need · quote when policy says  
+
+**Approvals** — inventory → manager / finance / C-level by **her** bands · need-by visible · SLAs · optional AI summary (AI does not approve)  
+
+**Receive / match / pay** — PO → NetSuite · item receipt in NetSuite · requester ≠ sole receiver · Bill Pay · three-way = order + receipt + invoice before pay  
+
+Parts = three-way. Services later = separate, two-way.
+
+---
+
+## 5 — Close the loop
 
 ```
 PO + Receipt + Invoice → Three-way → Pay
@@ -73,23 +79,21 @@ PO + Receipt + Invoice → Three-way → Pay
 | Item receipt | NetSuite |
 | Invoice match + pay | Bill Pay |
 
-Coding: NetSuite fields available in Ramp after connect — **required/defaulted on the channel**, not magical.
+Coding: required/defaulted on the channel — not magical.  
+AI: footnote only — not week-one scope.
 
 ---
 
-## 6 — 60 days + ask
+## 6 — This week + lock
 
-| When | What |
-|------|------|
-| This week | Bands · NetSuite owner · pilot · draft channel review |
-| Weeks 2–3 | Publish · live requests · tune |
-| Weeks 3–4 | Sync + three-way on pilot |
-| Weeks 5–8 | Expand · vendor intake · optional AI research agents |
+**THIS WEEK:** Stand up Aircraft Parts & Materials channel · small pilot · one real request end-to-end.
 
-**Lock before leaving:**
-1. Dollar bands  
-2. NetSuite admin (POs + receipts)  
-3. Pilot site or parts family  
-4. Working session on the calendar  
+1. Confirm scope + pilot owners  
+2. Build/publish in a short working session  
+3. Run first request and review together  
+
+**Lock before leaving:** (1) dollar bands A/B/C (2) NetSuite owner POs+receipts (3) pilot site/parts family (4) working session on calendar  
+
+Guardrails: emergency = document + convert qty/price ~2 days · post-approve changes = change order  
 
 60-day win = one trusted parts path — not every edge case day one.
