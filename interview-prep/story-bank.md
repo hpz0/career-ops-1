@@ -6,18 +6,19 @@ Accumulated stories for interviews. Only facts backed by `cv.md` / user statemen
 
 ## S1 — Coupa P2P Implementation (Plenty)
 
-**Use for:** Coupa depth, P2P ownership, transformation, first-100-days credibility, **standing up procurement from scratch** (Pengate VP Finance)  
+**Use for:** Coupa depth, P2P ownership, transformation, first-100-days credibility, standing up procurement from scratch (Pengate / Ramp HM)  
 **Audience:** recruiter-screen · hiring-manager · peer-tech
 
-- **Situation:** Plenty needed company-wide procure-to-pay discipline; manual / fragmented process.
-- **Task:** Lead major system implementation — Coupa (P2P) — and stand up operating policy with a small team.
-- **Action:** Led Coupa rollout; published and enforced Procurement Policy; managed 3 buyers; partnered with Finance, Legal, IT.
-- **Result:** 99% of spend on contract; purchase requisition cycle time cut from 3 days to 1.5 days.
-- **Reflection:** Platform only works when policy, approvals, and buyer behavior move with it — ownership of process + system beats “install and hope.”
-- **Finance framing (Pengate):** Lead with on-contract %, cycle time, and Finance/Legal partnership — not “I installed Coupa.”
+- **Situation:** Plenty needed company-wide procure-to-pay discipline; buying was manual, fragmented, and not scaling.
+- **Task:** Own the full P2P implementation end-to-end — system, policy, and adoption.
+- **Action:** Led Coupa rollout; configured **approval workflows, catalogs, and punchouts** (scale noted impressive by Coupa corporate); implemented **No-PO-No-Pay policy** (explicit, with threshold/emergency exceptions designed in); published and enforced Procurement Policy; managed 3 buyers; partnered with Finance, Legal, IT.
+- **Result:** 99% of spend on contract; requisition cycle time 3 days → 1.5 days; e-invoice rate +50%; Coupa corporate acknowledged the punchout build.
+- **Reflection:** Platform only works when policy, approvals, and buyer behavior move with it — process design + system beats "install and hope."
+- **Ramp framing (Caroline):** Tell as customer journey — discovery → design (routing, catalogs, punchouts, No-PO-No-Pay as change mgmt not a blunt gate) → config → adoption. Lead with outcome, not features.
+- **Finance framing (Pengate):** On-contract %, cycle time, AP labor — not "I installed Coupa."
+- **Drop naturally:** *"Coupa corporate was surprised at the number of punchouts I got live for a company our size."*
 
-**Proof source:** cv.md — Global Supply Manager, Plenty (Jan 2018 – Mar 2021)
-
+**Proof source:** cv.md (Global Supply Manager, Plenty Jan 2018–Mar 2021) + user confirmed 2026-08-12: No-PO-No-Pay explicit policy with threshold exceptions; punchouts at scale; Coupa corporate noted the build.
 ---
 
 ## S2 — Electronic Invoicing → AP Labor (Plenty)
@@ -121,12 +122,35 @@ Accumulated stories for interviews. Only facts backed by `cv.md` / user statemen
 
 ---
 
+## S8 — Tub packaging CAPA / recall (Plenty direct materials)
+
+**Use for:** manufacturing buyer-planner, supplier quality, shortage/containment, Anduril maritime Quincy, any “tell me about a quality escape”  
+**Audience:** recruiter-screen · hiring-manager · peer-tech  
+**Status:** User-stated 2026-08-24 — interview speech OK. Not in `cv.md` (no $ / unit counts — don’t invent).
+
+- **Situation:** At Plenty I owned **direct materials**. A **tub packaging** material went **brittle**. Plastic **chipped**; product was affected and it became a **recall**.
+- **Task:** Stop bad material, protect the customer, get the line conforming material, close it with Supplier Quality — not a PO complaint.
+- **Action:**
+  1. **Quarantine** suspect material / affected product.
+  2. **New material ASAP** so production wasn’t starved.
+  3. **100% inspection by the vendor** as containment.
+  4. **Process review** with the supplier so the next lots didn’t repeat it.
+- **Result:** Conforming supply restored; recall worked as a supplier-and-quality event, not a finger-pointing thread. *(No separate metric in cv.md or the 2026-08-24 note.)*
+- **Reflection:** Direct materials failures are line-down and customer-safety events. Buyer/Planner owns the material until it is **good parts, on time, at spec**.
+- **Anduril one-liner:** *“I’ve run a packaging failure through quarantine, emergency material, vendor 100% inspect, and a process review with the supplier. That’s the job when a lot fails.”*
+
+**Proof source:** User statement 2026-08-24 + cv.md Senior Global Supply Manager (direct materials; Supplier Quality / FDA/SQF).
+
+---
+
 ## Gaps (draft when ready)
 
 - [ ] Conflict / influence with Finance or Controller-type stakeholder
 - [ ] Failed automation or adoption miss + recovery
 - [x] **S6 — Team coaching (junior buyer → IT category owner)** — drafted; verify soft details before HM
 - [ ] Comcast enterprise portfolio negotiation (need metrics user can confirm)
+- [x] **S8 — Plenty tub packaging CAPA / recall** — drafted 2026-08-24; add metrics only if you remember them
+- [ ] Anduril / defense: one personal “why this mission” sentence (don’t invent)
 
 ### Ramp Activation note (2026-07-29)
 
