@@ -2,14 +2,7 @@
 
 ## NorthStar business case (Activation round)
 
-**→ [`northstar-business-case/`](northstar-business-case/)** — deck, study guide, script, triage, day-of cheatsheet
-
-| File | When |
-|------|------|
-| [`northstar-business-case/study-guide.md`](northstar-business-case/study-guide.md) | Night before |
-| [`northstar-business-case/script.md`](northstar-business-case/script.md) | Rehearse Part 1 |
-| [`northstar-business-case/cheatsheet.md`](northstar-business-case/cheatsheet.md) | **Day of** |
-| [`northstar-business-case/NorthStar-Aviation-Procurement-Design-Activation.pptx`](northstar-business-case/NorthStar-Aviation-Procurement-Design-Activation.pptx) | Present |
+**NorthStar business case:** [`northstar-business-case/prep.md`](northstar-business-case/prep.md) — one plain-English prep file + deck
 
 ---
 
