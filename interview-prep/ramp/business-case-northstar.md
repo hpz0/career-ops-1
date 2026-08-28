@@ -3,7 +3,8 @@
 Nothing optional below is “nice to have.” This is the full design + delivery kit for the role play + triage.
 
 **Day-of one screen:** [`business-case-cheatsheet.md`](business-case-cheatsheet.md)  
-**Deck paste:** [`business-case-slides-ramp-deck.md`](business-case-slides-ramp-deck.md)
+**Deck paste:** [`business-case-slides-ramp-deck.md`](business-case-slides-ramp-deck.md)  
+**Designed deck (5 slides):** [`NorthStar-Aviation-Procurement-Design-Session.pptx`](NorthStar-Aviation-Procurement-Design-Session.pptx) — regenerate with `python3 scripts/build-northstar-deck.py`
 
 ---
 
