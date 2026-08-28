@@ -1,58 +1,19 @@
-# DAY OF — NorthStar business case
+# Day of — NorthStar
 
-**Full script:** [`script.md`](script.md) · **Terms:** [`reference.md`](reference.md)
+**Full prep:** [`prep.md`](prep.md)
 
-Monica · Controller · NetSuite · Expense live · pains = **speed** + **audit**
+**Deck:** `NorthStar-Aviation-Procurement-Design-Activation.pptx`
 
----
-
-## Part 1 flow (15 min)
-
-Open → Slide 2 pains → Slide 3 path + **Inventory question** → Slide 4 extensions (90s) → Slide 5 lock
+Monica · Controller · pains = **speed** + **audit**
 
 ---
 
-## Prescribe (adapt her answers)
+**Flow:** Open → Slide 2 → Slide 3 (**Inventory: visibility or accountability?**) → Slide 4 (90s) → Slide 5 (**calendar**)
 
-Parts Program · **qty × unit price** · need-by · vendor · part # · **her** NS fields · **her** bands · PO→NetSuite · receive where **she** receives today · **three-way** before pay · pilot first
+**Prescribe:** parts program · qty×price · need-by · her bands · PO→NetSuite · receive where she does · three-way · pilot
 
-**Inventory wow:** visibility vs accountability vs both — don’t keep the step out of habit.
+**Part 2:** *“Who hits day 60 with zero live usage if I wait a week?”* → rank → one line each
 
-**Three-way:** order + receipt + invoice before pay.
+**Lock:** Inventory · thresholds · receiving · pilot · **session on calendar**
 
----
-
-## Steal on notepad
-
-PO before/after · Inventory why · bands · receiver + system · NS required fields · tolerance · quote rule · NS owner · pilot
-
----
-
-## Slide 4 (90s max)
-
-**Bill Pay** — match + pay; trail closes.
-
-**Procurement agents** — workflow step: research (web + docs), structured report, risk routing. **Does not approve.** Later: new vendors, legal/security, duplicate detection. Not week-one for parts pilot.
-
----
-
-## Lock before leave
-
-☐ Inventory decision · ☐ thresholds/owner · ☐ receiving · ☐ pilot + **session on calendar**
-
----
-
-## Part 2 triage
-
-> “I rank by activation risk — who hits day 60 with zero live usage if I wait a week?”
-
-**Top:** no usage late in window · broken/abandoned live request · hard blocker to first request  
-**Lower:** healthy expansion (Bill Pay, AI, services)
-
-Form: *“#N because __. Next I’d __.”*
-
----
-
-## Don’t
-
-Read slides · invent $ bands · Coupa tour · AI as week-one dependency · skip calendar · estimates not qty×price
+**Don’t:** read slides · invent $ · Coupa tour · skip calendar
