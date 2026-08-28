@@ -32,6 +32,30 @@ You’re not graded on memorizing Ramp buzzwords. You’re graded on **procureme
 | **Procurement agents** | AI step in the workflow that **researches** (web, contracts) and **summarizes** for humans. Can **route** by risk. **Does not approve.** Add after the basic path works. |
 | **60-day window** | Time to get the customer **actually submitting requests** — not just “configured.” Part 2 is about protecting that. |
 
+### SoD and receiving — what it actually means
+
+**Not:** two people must both receive the same shipment (that’s a rare, extra-tight control for high-value stuff).
+
+**Yes:** someone **other than the requester** should confirm receipt — usually **one** designated receiver (warehouse, central receiving, inventory ops).
+
+**Why:** If the same person can order and say “we got it,” they can approve payment for goods that never arrived. Three-way match only works if receipt is honest.
+
+**How systems enforce it (not honor system):**
+
+| Layer | What happens |
+|-------|----------------|
+| **Permissions** | Requester can submit reqs; only users with **receiving** rights post an item receipt (NetSuite) or complete a receive step (Ramp, if receive lives there). |
+| **Workflow** | Receipt/confirm step assigned to **ops/warehouse role**, not the person who submitted the request. |
+| **Match** | AP / Bill Pay matches PO ↔ **receipt record** ↔ invoice. No receipt qty → match fails or flags (when three-way is on). |
+
+**NorthStar default:** PO in Ramp → sync NetSuite → **item receipt in NetSuite** by whoever receives today — discover **who** that is; don’t let the requester be the **only** receiver if you can avoid it.
+
+**Small team reality (fine to say in the interview):**  
+> “Ideal is requester isn’t the receiver. If one person wears both hats today, we document it, keep match on, and add a compensating control — manager review or central receive when volume justifies it.”
+
+**One line for Monica:**  
+> “Who receives today — and can we keep the requester from being the **only** person who confirms receipt in the system? That’s what protects three-way match.”
+
 ---
 
 ## 3. The story (30 seconds)
