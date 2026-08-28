@@ -11,6 +11,8 @@
 
 **Product / reverse questions for Ramp:** [`questions-for-ramp.md`](questions-for-ramp.md)
 
+**Business case deck:** [`NorthStar-Aviation-Procurement-Design-Session.pptx`](NorthStar-Aviation-Procurement-Design-Session.pptx) (`python3 scripts/build-northstar-deck.py` to rebuild)
+
 Stories live in [`../story-bank.md`](../story-bank.md).
 
 Older drafts → [`_archive/`](_archive/). Don’t open unless you need something specific.
