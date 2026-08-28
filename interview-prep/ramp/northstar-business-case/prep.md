@@ -23,7 +23,7 @@ You’re not graded on memorizing Ramp buzzwords. You’re graded on **procureme
 | Term | Plain English |
 |------|----------------|
 | **AOG** | **Aircraft on ground** — the plane is stuck and needs a part **urgently**. Aviation shops sometimes allow a faster “emergency” buy. You still write it down and turn it into a proper PO soon — not forever in Slack. You don’t need to say “AOG” to Monica unless she does. Say **“emergency buy when a plane is down.”** |
-| **SoD** | **Segregation of duties** — the person who **requested** the part shouldn’t be the **only** person who confirms it was received. Basic fraud/control rule. Say: *“The requester shouldn’t be the sole person confirming receipt.”* |
+| **SoD** | **Segregation of duties** — see **below** (not “two people must receive”). |
 | **Three-way match** | Before paying: **order + receipt + invoice** must line up. Proves you ordered it, got it, and were billed correctly. |
 | **Spend Program** | Ramp’s term for a **buying channel** (rules for one type of spend). With Monica, say **“parts program.”** |
 | **Need-by date** | Date the part must arrive — should show on every approval. |
