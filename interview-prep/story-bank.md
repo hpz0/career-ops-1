@@ -122,12 +122,35 @@ Accumulated stories for interviews. Only facts backed by `cv.md` / user statemen
 
 ---
 
+## S8 — Tub packaging CAPA / recall (Plenty direct materials)
+
+**Use for:** manufacturing buyer-planner, supplier quality, shortage/containment, Anduril maritime Quincy, any “tell me about a quality escape”  
+**Audience:** recruiter-screen · hiring-manager · peer-tech  
+**Status:** User-stated 2026-08-24 — interview speech OK. Not in `cv.md` (no $ / unit counts — don’t invent).
+
+- **Situation:** At Plenty I owned **direct materials**. A **tub packaging** material went **brittle**. Plastic **chipped**; product was affected and it became a **recall**.
+- **Task:** Stop bad material, protect the customer, get the line conforming material, close it with Supplier Quality — not a PO complaint.
+- **Action:**
+  1. **Quarantine** suspect material / affected product.
+  2. **New material ASAP** so production wasn’t starved.
+  3. **100% inspection by the vendor** as containment.
+  4. **Process review** with the supplier so the next lots didn’t repeat it.
+- **Result:** Conforming supply restored; recall worked as a supplier-and-quality event, not a finger-pointing thread. *(No separate metric in cv.md or the 2026-08-24 note.)*
+- **Reflection:** Direct materials failures are line-down and customer-safety events. Buyer/Planner owns the material until it is **good parts, on time, at spec**.
+- **Anduril one-liner:** *“I’ve run a packaging failure through quarantine, emergency material, vendor 100% inspect, and a process review with the supplier. That’s the job when a lot fails.”*
+
+**Proof source:** User statement 2026-08-24 + cv.md Senior Global Supply Manager (direct materials; Supplier Quality / FDA/SQF).
+
+---
+
 ## Gaps (draft when ready)
 
 - [ ] Conflict / influence with Finance or Controller-type stakeholder
 - [ ] Failed automation or adoption miss + recovery
 - [x] **S6 — Team coaching (junior buyer → IT category owner)** — drafted; verify soft details before HM
 - [ ] Comcast enterprise portfolio negotiation (need metrics user can confirm)
+- [x] **S8 — Plenty tub packaging CAPA / recall** — drafted 2026-08-24; add metrics only if you remember them
+- [ ] Anduril / defense: one personal “why this mission” sentence (don’t invent)
 
 ### Ramp Activation note (2026-07-29)
 

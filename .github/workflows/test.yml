@@ -23,6 +23,8 @@ jobs:
       # Personal job-search forks intentionally track user-layer files (cv, prep,
       # tracker). Upstream's test-all.mjs assumes those paths are gitignored, so
       # the matrix cannot pass here — and isn't meaningful for private installs.
+      # This fork's scan.mjs is also behind scan-ats-full.mjs (missing
+      # loadBlacklist), which is the crash CI was reporting.
       - name: Skip upstream test matrix on personal forks
         if: ${{ github.event.repository.fork }}
         run: |
