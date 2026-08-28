@@ -1,6 +1,6 @@
 # DAY OF — NorthStar business case
 
-**Deck:** `NorthStar-Aviation-Procurement-Design-Activation.pptx` · **Script:** `script.md`
+**Full script:** [`script.md`](script.md) · **Terms:** [`reference.md`](reference.md)
 
 Monica · Controller · NetSuite · Expense live · pains = **speed** + **audit**
 
