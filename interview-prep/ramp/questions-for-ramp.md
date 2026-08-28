@@ -1,63 +1,74 @@
-# Questions for Ramp
+# Questions & trench topics for Ramp
 
-Reverse / product questions to ask interviewers, Activation peers, or Product — **not** Monica discovery.
+**Purpose:** Prove you’ve been in the **P2P trenches** — not Monica/NorthStar role-play. Use in Activation interviews, Product partnership conversations, or “how would you contribute to the roadmap?” moments.
 
-Steal answers that change how you’d design go-lives or coach specialists.
+**How to use:**
+- **Don’t** dump all of this in one answer.
+- **Do** pick one topic when they ask about ERP pain, match failures, NetSuite, or “what would you feed back to Product?”
+- Frame as: *“I’ve lived this on the buyer side — curious how Ramp handles it today and where you want customer voice.”*
 
----
-
-## Vendor master / duplicates
-
-**Duplicate vendor submissions**  
-How does Ramp handle near-duplicate vendors on intake or PO — e.g. requester submits **Amazon Inc** but the master is **Amazon**?
-
-- Soft / fuzzy match on legal name?  
-- Match on email, EIN / tax ID, payment details, or ERP vendor ID?  
-- Suggest merge / pick-from-existing, or create a second vendor and clean up later?  
-- Who owns resolution — requester, AP, Activation, or auto-merge?  
-- What happens when NetSuite already has the “right” vendor and Ramp creates a twin?
-
-*Why ask:* Duplicate vendors break preferred lists, three-way match, and audit. Controllers care. Buyer-side you’ve lived this; you want Ramp’s real behavior before you promise “clean master” on a design call.
+NorthStar design session → [`northstar-business-case/`](northstar-business-case/) only.
 
 ---
 
-## Blanket POs + NetSuite qty/rate workaround
+## Blanket POs + NetSuite partial-bill / qty×$1 workaround
 
-**Blanket / release POs**  
-How does Ramp handle **blanket purchase orders** (approved ceiling, multiple releases or bills over time)?
+### What you’ve lived (credibility — say in your words)
 
-- Native blanket PO in Ramp, or standard PO only?  
-- **Releases** against a blanket — created in Ramp, NetSuite, or both?  
-- Three-way match on **releases** vs header — what’s the unit of match?  
-- When Ramp syncs to NetSuite, does it preserve blanket PO type / remaining balance, or flatten to a standard PO?  
-- Pilot design: parts-only channel first — when do you introduce blankets (MRO services, standing suppliers, site contracts)?
+Mid-market and manufacturing teams use **blanket POs** when the **dollar ceiling is known** but **invoice count and timing aren’t** — standing MRO, services, site contracts, “approved $50k with this vendor this quarter.”
 
-**NetSuite dollar-swap pattern (validate with Product)**  
-On NetSuite, for **amount-known / invoice-count-unknown** spend (services, expense lines, many blanket scenarios), teams often work around partial billing limits by **swapping qty and dollars**:
+On **NetSuite**, standard PO lines often break down for that pattern:
 
-- PO line: **quantity = approved dollar ceiling** (e.g. 50,000) · **rate = $1.00** · extended = $50,000  
-- Partial bill for $5,000: bill **qty 5,000 @ $1** — consumes “dollars” via quantity decrements  
-- **Why:** If you instead use qty = 1 @ $50,000, NetSuite can treat the line as fully billed when qty is exhausted, even if dollar value isn’t — and you can’t bill arbitrary partial **dollar** amounts cleanly on item/expense lines the way ops expects.
+- If you raise **qty 1 @ $50,000**, the line can behave like it’s **fully billed when quantity is exhausted**, even when you still have dollar room — or you can’t cleanly post **arbitrary partial dollar** bills the way AP expects.
+- A common **buyer-side workaround** (widely discussed in NetSuite practitioner communities): **swap qty and dollars** — PO line **qty = 50,000 · rate = $1.00**; bill $5,000 as **qty 5,000 @ $1**. Partial spend = partial qty decrement.
+- **When that’s wrong:** Real unit economics (50 hours @ $200/hr) — keep honest qty × rate; don’t force the $1 trick.
+- **Downstream pain:** Vendor PO PDF looks absurd; invoice must **match PO structure** (5,000 × $1, not 1 × $5,000) or match/variance fails; expense vs item sublists differ; some shops use **native Blanket PO + releases** instead.
 
-*Check me:* Is that still the right mental model for NetSuite item/expense PO lines in 2026, or do you see customers using native blanket PO + release workflows instead?
+That’s not textbook — that’s **implementation scar tissue**. It’s the kind of thing Activation hears after go-live when match “mysteriously” breaks.
 
-**Questions for Ramp specifically**
+### What to ask Ramp (learn + show product sense)
 
-- Does Ramp **intake** support blanket POs (ceiling amount, release against balance)?  
-- On sync **Ramp → NetSuite**, can specialists configure qty = dollars / rate = $1, or does Ramp force “real” qty × unit price from the request?  
-- **Partial release / partial bill:** If NetSuite bills qty 5,000 of 50,000 @ $1, does Ramp match and show **remaining blanket balance**?  
-- **Vendor-facing PO PDF:** If the ERP shows “50,000 units @ $1,” does Ramp generate a saner display, or is that an NS form problem?  
-- **When NOT to use $1 trick:** Real unit-based buys (e.g. 50 hours @ $200/hr) should stay qty × rate — does Activation have a decision tree for blanket vs standard vs dollar-swap?  
-- **Mismatch risk:** Vendor invoices 1 × $5,000 but PO is 5,000 × $1 — does match tolerate that, or fail AP?
+- Does Ramp support **blanket POs / releases** natively, or is it “standard PO + sync to NetSuite”?
+- On **Ramp → NetSuite sync**, can customers encode the qty/$1 pattern, or does Ramp force “real” qty × unit price from intake?
+- **Partial release / partial bill:** Does Ramp show **remaining blanket balance** and match at release level or header?
+- **Invoice mismatch:** Vendor sends 1 × $5,000 against PO 5,000 × $1 — tolerance, transformation, or hard fail?
+- Does Activation have a **decision tree**: blanket vs standard vs dollar-swap vs native NS blanket type?
 
-*Why ask:* Blanket POs are everywhere in mid-market MRO/services. You’ve seen NetSuite partial-bill pain from the buyer side; you need to know whether Ramp is a first-class blanket story or “handle it in NetSuite and match what comes back.” Don’t promise Monica a blanket path on the NorthStar parts pilot unless Product confirms.
+### Product contribution angle (if they ask “what would you bring?”)
 
-**Buyer-side note (for you, not Monica on day one)**  
-Common NetSuite community pattern (e.g. NetSuite Professionals “swap dollars and quantity”): dollar ceiling → qty = dollars, rate = $1; partial bills decrement qty. Caveats: vendor PDF looks odd; wrong pattern if true UOM exists; expense vs item sublists behave differently; native **Blanket Purchase Order** type may be preferable when licensed/configured — ask customers which they use today before encoding the workaround in Ramp.
+> “I’d bring the NetSuite partial-bill patterns customers actually use — including the unglamorous workarounds — so Product doesn’t design match and intake only for clean qty×price parts POs. Blankets and services are where mid-market implementations stall; I’ve debugged that from the buyer seat.”
 
 ---
 
-## Also ask (parked from prep)
+## Vendor master / duplicate submissions
 
-See [`caroline.md`](caroline.md) — Ask her (role / motion).  
-See business-case discovery — those are **customer** questions, not Ramp product questions.
+### What you’ve lived
+
+Duplicate vendors (**Amazon Inc** vs **Amazon**, DBA vs legal name, acquired supplier still on old master) break **preferred vendor lists**, **three-way match**, and **audit**. Buyers spend cycles merging masters in NetSuite/Coupa while requesters keep creating twins at intake.
+
+### What to ask Ramp
+
+- Fuzzy match on name, email, EIN, payment details, ERP vendor ID?  
+- Suggest merge / pick-existing vs create-and-clean-up-later?  
+- Who resolves — requester, AP, Activation?  
+- NetSuite already has canonical vendor — does Ramp create a twin on sync?
+
+### Product contribution angle
+
+> “Vendor master hygiene is a go-live week-2 fire. I’d pressure-test intake and agent duplicate-detection against how messy real masters are — not demo-vendor clean.”
+
+---
+
+## How to drop one trench topic (30–60 sec)
+
+**Template:**  
+> “One thing I’ve hit standing up P2P in NetSuite: [problem]. Customers often [workaround]. I’m curious whether Ramp [handles / plans / matches] that today — because that’s where I’ve seen implementations stall after the happy-path demo.”
+
+**Blanket example:**  
+> “Blanket spend where you know the dollar ceiling but not how many invoices — on NetSuite we sometimes swap qty and dollars so partial bills work. I’m curious if Ramp supports blankets and releases natively, or if specialists still architect that in the ERP and match what comes back.”
+
+---
+
+## Also ask (role / motion — not product trenches)
+
+See [`caroline.md`](caroline.md) — Ask her (Bill Pay playbook, activation assumptions, etc.).
