@@ -1,9 +1,6 @@
-# Paste into Ramp deck — 6 slides (final)
+# Paste into Ramp deck — slide text reference
 
-Sparse. You talk.
-
-**Grok updater prompt (full):** `business-case-slides-grok-prompt.md`  
-**Once verbally:** Buying channel = Spend Program. Three-way = order + receipt + invoice before pay.
+Canonical deck: [`NorthStar-Aviation-Procurement-Design-Activation.pptx`](NorthStar-Aviation-Procurement-Design-Activation.pptx)
 
 ---
 

@@ -1,18 +1,29 @@
 # Ramp interview prep
 
-**For Caroline Novas (HM) — only open these two:**
+## NorthStar business case (Activation round)
+
+**→ [`northstar-business-case/`](northstar-business-case/)** — deck, study guide, script, triage, day-of cheatsheet
 
 | File | When |
 |------|------|
-| [`caroline.md`](caroline.md) | **Day of** — print / one screen |
-| [`caroline-prep.md`](caroline-prep.md) | Night before — scripts + Q bank |
+| [`northstar-business-case/study-guide.md`](northstar-business-case/study-guide.md) | Night before |
+| [`northstar-business-case/script.md`](northstar-business-case/script.md) | Rehearse Part 1 |
+| [`northstar-business-case/cheatsheet.md`](northstar-business-case/cheatsheet.md) | **Day of** |
+| [`northstar-business-case/NorthStar-Aviation-Procurement-Design-Activation.pptx`](northstar-business-case/NorthStar-Aviation-Procurement-Design-Activation.pptx) | Present |
 
-**Secondary (AE / Gabriel exploratory):** [`gabriel.md`](gabriel.md)
+---
+
+## Caroline Novas (HM) — earlier round
+
+| File | When |
+|------|------|
+| [`caroline.md`](caroline.md) | Day of |
+| [`caroline-prep.md`](caroline-prep.md) | Night before |
+
+**Secondary (AE / Gabriel):** [`gabriel.md`](gabriel.md)
 
 **Product / reverse questions for Ramp:** [`questions-for-ramp.md`](questions-for-ramp.md)
 
-**Business case deck:** [`NorthStar-Aviation-Procurement-Design-Session.pptx`](NorthStar-Aviation-Procurement-Design-Session.pptx) (`python3 scripts/build-northstar-deck.py` to rebuild)
+Stories: [`../story-bank.md`](../story-bank.md)
 
-Stories live in [`../story-bank.md`](../story-bank.md).
-
-Older drafts → [`_archive/`](_archive/). Don’t open unless you need something specific.
+Older drafts → [`_archive/`](_archive/)

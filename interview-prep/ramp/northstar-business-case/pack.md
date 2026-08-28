@@ -1,10 +1,9 @@
-# NorthStar business case — closed pack (use this)
+# NorthStar business case — reference pack
 
-Nothing optional below is “nice to have.” This is the full design + delivery kit for the role play + triage.
+Full discovery, objections, drills. **Start with:** [`study-guide.md`](study-guide.md) + [`script.md`](script.md)
 
-**Day-of one screen:** [`business-case-cheatsheet.md`](business-case-cheatsheet.md)  
-**Deck paste:** [`business-case-slides-ramp-deck.md`](business-case-slides-ramp-deck.md)  
-**Designed deck (5 slides):** [`NorthStar-Aviation-Procurement-Design-Session.pptx`](NorthStar-Aviation-Procurement-Design-Session.pptx) — regenerate with `python3 scripts/build-northstar-deck.py`
+**Day-of:** [`cheatsheet.md`](cheatsheet.md)  
+**Deck:** [`NorthStar-Aviation-Procurement-Design-Activation.pptx`](NorthStar-Aviation-Procurement-Design-Activation.pptx)
 
 ---
 
@@ -124,7 +123,7 @@ Run Q1–Q10. Don’t lecture. Write answers.
 ### 22:00–24:00 — Bill Pay + AI (assignment requirement — keep short)
 > **Bill Pay** is the AP half of this story — where the invoice is captured, matched, and paid. Without it, you only fixed the front half.
 >
-> **AI procurement agents** — phase two. They research vendor packets and summarize risk. **They don’t approve.** Useful for audit consistency after the path is live. Not a week-one dependency.
+> **AI procurement agents** — phase two. Embedded in workflow: web + document research, structured reports, conditional routing. **They don’t approve.** Best after path is live (new vendors, legal/security, duplicate detection). Not a week-one dependency.
 
 ### 24:00–28:00 — Commit
 > This week I need: (1) your approval bands written down, (2) 30 minutes with NetSuite PO/receipts owner, (3) named pilot, (4) a working session to review the draft parts channel before we publish. Can we lock that session before we hang up?
