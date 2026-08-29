@@ -1,1 +1,1 @@
-Moved to [`prep.md`](prep.md) — section 5 (script) and sections 1–4 (study content).
+Moved to [`prep.md`](prep.md) §4–5 — talk track, not a teleprompter script.
