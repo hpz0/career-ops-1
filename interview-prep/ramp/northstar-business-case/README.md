@@ -1,8 +1,7 @@
 # NorthStar business case
 
-**Recommended deck (2 slides):** [`NorthStar-Reduced-2-Slides.pptx`](NorthStar-Reduced-2-Slides.pptx) — preview in [`reduced-deck.md`](reduced-deck.md)
+**Final deck (submit this):** [`NorthStar-Aviation-Procurement-Design-Activation-Final.pdf`](NorthStar-Aviation-Procurement-Design-Activation-Final.pdf) — 3 slides: title · parts path + Confirm with me · This week + Lock
 
-**Prep:** [`prep.md`](prep.md) · **Day of:** [`cheatsheet.md`](cheatsheet.md)
+**Prep:** [`prep.md`](prep.md) · **Day-of live walkthrough:** [`cheatsheet.md`](cheatsheet.md)
 
-**Full 5-slide (optional):** [`NorthStar-Aviation-Procurement-Design-Activation.pptx`](NorthStar-Aviation-Procurement-Design-Activation.pptx)
-
+**Alternates (archived):** [`NorthStar-Reduced-2-Slides.pptx`](NorthStar-Reduced-2-Slides.pptx) · [`NorthStar-Aviation-Procurement-Design-Activation.pptx`](NorthStar-Aviation-Procurement-Design-Activation.pptx)

@@ -1,6 +1,6 @@
 # NorthStar business case — prep
 
-**Deck:** `NorthStar-Aviation-Procurement-Design-Activation.pptx` · **Day-of:** [`cheatsheet.md`](cheatsheet.md)
+**Deck (final):** [`NorthStar-Aviation-Procurement-Design-Activation-Final.pdf`](NorthStar-Aviation-Procurement-Design-Activation-Final.pdf) · **Day-of:** [`cheatsheet.md`](cheatsheet.md)
 
 They are **not** primarily testing whether you know how to click around Ramp. They are testing whether you can take an ambiguous customer, form a strong hypothesis, lead a consultative conversation, make good implementation tradeoffs, and create **customer momentum quickly — at scale**.
 
@@ -24,7 +24,7 @@ Arrive with a future-state hypothesis. Adapt it based on what Monica says.
 
 That’s the difference between average and someone who looks like a Procurement Activation Specialist.
 
-**Your deck is the tool for that** — point at it, don’t read it. The path on Slide 3 *is* the hypothesis. The “Confirm with me” blanks *are* the pressure-test.
+**Your deck is the tool for that** — point at it, don’t read it. The path on **Slide 2** *is* the hypothesis. The “Confirm with me” blanks *are* the pressure-test.
 
 ---
 
@@ -59,7 +59,7 @@ That’s the difference between average and someone who looks like a Procurement
 
 > My initial recommendation: simplify purchasing into a single intake-to-payment path in Ramp while keeping the controls you need. Employees request through a **parts program**; routing follows type and amount; approved requests become POs in NetSuite; invoices match those POs and pay in **Bill Pay**. For **aircraft parts**, lean **three-way match** — physical goods, receiving matters. Services later can be a separate path with two-way where it fits. NetSuite stays the books.
 
-That’s the story your **five path boxes** already show. Say it once in your words while pointing at Slide 3 — then validate.
+That’s the story your **five path boxes** on Slide 2 already show. Say it once in your words while pointing at the deck — then validate.
 
 **Design judgment (say if asked):** Don’t replicate every exception day one. Start highest-volume / highest-pain (**parts**). Don’t invent ten programs because they have ten tribal paths.
 
@@ -69,13 +69,17 @@ That’s the story your **five path boxes** already show. Say it once in your wo
 
 | Time | Job | Deck |
 |------|-----|------|
-| 0:00–1:30 | Credibility + agenda | Slide 1 → 2 |
-| 1:30–4:00 | Align on pains + parts-first | Slide 2 |
-| 4:00–11:00 | **Recommend path + pressure-test** (bulk) | **Slide 3** |
-| 11:00–12:30 | Bill Pay reinforce + AI interest | Slide 4 |
-| 12:30–15:00 | Commit: first program + first request + calendar | Slide 5 |
+| 0:00–1:30 | Credibility + agenda | None |
+| 1:30–3:00 | Align on pains + parts-first | None |
+| 3:00–11:00 | **Recommend path + pressure-test** (bulk) | **Slide 2** |
+| 11:00–12:30 | Bill Pay reinforce + AI interest | Slide 2 or blank |
+| 12:30–15:00 | Commit: first program + first request + calendar | **Slide 3** |
+
+**Slide 1** = title only (flash or skip). Pains, Bill Pay detail, and AI are **spoken** — not on slides.
 
 **Rules:** Point → ask → write. Don’t read. Don’t interrogate. Don’t end without a commitment.
+
+**Live reference:** [`cheatsheet.md`](cheatsheet.md) — full step-by-step with discovery questions per path box.
 
 ---
 
@@ -97,7 +101,9 @@ You’ve shown: prep · point of view · collaboration · outcome · urgency —
 
 ## 7. Slide-by-slide talk track
 
-### Slide 2 — What we’re solving (~2 min)
+**Final deck (3 slides):** Title · Recommended Aircraft Parts Program (path + Confirm with me) · This week + Lock before we leave.
+
+### Before Slide 2 — Pains spoken (~2 min, no slide)
 
 Point: speed (need-by misses) · audit (email/Slack/sheets).
 
@@ -105,7 +111,7 @@ Recommend: **one controlled parts program first** — request through payment.
 
 Ask: *Does that match what hurts most?*
 
-### Slide 3 — Path + confirm (~7 min) — **the interview**
+### Slide 2 — Path + confirm (~7 min) — **the interview**
 
 **Walk once (60–90 sec), pointing:**
 
@@ -136,17 +142,17 @@ Inventory in the path — **visibility** (can’t see stock), **accountability**
 
 **Exit:** Enough for a first build — rest in a working session.
 
-### Slide 4 — Extensions (~45–60 sec)
+**Bill Pay + AI (spoken on Slide 2 walk — no separate slide):**
 
-**Bill Pay (reinforce, not first introduce):**
+**Bill Pay (reinforce at Match & pay):**
 
 > Pay at the end of the path is Bill Pay — once POs flow, match and pay in the same system so the trail you want actually closes. Don’t stop at the PO.
 
-**AI (interest, not oversell):**
+**AI (interest, not oversell — if room):**
 
 > Once the core path runs, AI-assisted review — not replacing you or approvers. Research and prep that slows people down: docs, vendor diligence, risk context. **Humans still approve.** Example: new vendor needing legal/security — agent gathers packet before the approver.
 
-### Slide 5 — This week (~2–3 min) — **most important**
+### Slide 3 — This week (~2–3 min) — **most important**
 
 > Best first step: **one path live**, not the whole company day one. Start with **aircraft parts** — that’s the pain.
 >
@@ -296,6 +302,8 @@ Don’t bluff. Clarify the outcome, pull the right Ramp resource or docs. Trust 
 
 ## 16. Day-of one-pager
 
+Use **[`cheatsheet.md`](cheatsheet.md)** on the call — full live walkthrough with discovery questions per step.
+
 **NORTHSTAR** — speed + audit trail · thesis: friction down, control stays  
 
 **PATH** — Request → Approve → PO → Receive → Match → **Bill Pay** · parts = 3-way · NetSuite = books  
@@ -325,9 +333,10 @@ Don’t bluff. Clarify the outcome, pull the right Ramp resource or docs. Trust 
 ## 18. Practice until automatic
 
 1. 90-second opening (§6)  
-2. Slide 3 path + Inventory question + fill blanks  
-3. Bill Pay one-breath + AI one-breath  
-4. Close: first program + first request + calendar  
-5. Part 2: rank any four without freezing  
+2. Pains spoken → parts first (no slide)  
+3. Slide 2 path + Inventory question + fill Confirm blanks  
+4. Bill Pay one-breath + AI one-breath (spoken)  
+5. Slide 3 close: first program + first request + calendar  
+6. Part 2: rank any four without freezing  
 
 Walk in sounding like you’ve done this for 50 customers — not like you’re proving you read the Help Center.
