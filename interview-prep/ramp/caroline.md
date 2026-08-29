@@ -64,6 +64,8 @@ She’s heard “I’ve done CS implementations.” She hasn’t heard many peop
 4. What does exceptional look like for this manager at **6 months** on *your* scoreboard?
 5. How should this seat sit vs Scaled CS / Partnerships — shared DNA or distinct pod?
 
+**Product (any Ramp panel):** duplicate vendors — Amazon Inc vs Amazon — fuzzy name / EIN / email / merge? Full wording in [`questions-for-ramp.md`](questions-for-ramp.md).
+
 ---
 
 ## Don’t
