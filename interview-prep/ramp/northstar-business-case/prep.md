@@ -165,7 +165,9 @@ Thanks · Harrison · want to lock how **aircraft parts** purchasing should run 
 2. Approve — **your** dollar thresholds; Inventory TBD  
 3. PO — on approval → NetSuite  
 4. Receive — NetSuite or Ramp (we’ll confirm)  
-5. Match & pay — order + receipt + invoice before pay  
+5. Match & pay — order + receipt + invoice agree, then pay — **Bill Pay** is that last mile (due dates out of the spreadsheet)
+
+*(One breath on Bill Pay — don’t expand. Slide 4 only reinforces.)*
 
 **Then stop. Don’t keep talking.** Go to **Confirm with me**.
 
@@ -181,10 +183,12 @@ Inventory in the path — **visibility** (can’t see stock), **accountability**
 
 **Exit Slide 3:** Enough for a first build — we’ll finish the rest in a working session.
 
-### Slide 4 (~1 min)
+### Slide 4 (~30–45 sec)
 
-**Bill Pay** — once POs are flowing: match + pay; trail closes.  
-**Agents** — later: research + report in the workflow; humans still approve; good for new vendors / reviews — not week-one for known parts suppliers.
+**Reinforce, don’t introduce for the first time:**
+
+> Pay at the end of the path is **Bill Pay** — turn it on once POs are flowing so the trail actually closes.  
+> **Agents** later: research + report in the workflow; humans still approve — new vendors / reviews, not week-one for known parts suppliers.
 
 ### Slide 5 (~2–3 min)
 

@@ -8,8 +8,8 @@ Monica · speed + audit · **point / ask / write — don’t read**
 |-------|------|-----|
 | 1 | 20s | Hello → go |
 | 2 | 2m | Speed + audit → parts first → *match your priority?* |
-| 3 | **7–8m** | Walk path once → **Inventory: visibility / accountability / both?** → fill blanks |
-| 4 | 1m | Bill Pay + agents later → go |
+| 3 | **7–8m** | Walk path once · tease Bill Pay on match & pay → **Inventory: visibility / accountability / both?** → fill blanks |
+| 4 | ~45s | Reinforce Bill Pay + agents later |
 | 5 | 2–3m | Build + one request · **Lock: Inventory · thresholds · receiving · pilot · calendar** |
 
 **Part 2:** *Who hits day 60 with zero live usage if I wait a week?* → rank → one line each
