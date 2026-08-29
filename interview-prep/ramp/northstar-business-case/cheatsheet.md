@@ -1,18 +1,17 @@
 # Day of — NorthStar (~15 min)
 
-**Full:** [`prep.md`](prep.md) · **Deck:** `NorthStar-Aviation-Procurement-Design-Activation.pptx`
+**Prep:** [`prep.md`](prep.md) · **Deck (recommended):** [`NorthStar-Reduced-2-Slides.pptx`](NorthStar-Reduced-2-Slides.pptx)
 
-**Posture:** I’ve done homework → here’s how you should operate → pressure-test with you.  
-**Thesis:** Remove friction without removing control. Parts first.
+**Posture:** Homework → hypothesis → pressure-test. Thesis: friction down, control stays. Parts first.
 
-| Time | Do |
+| When | Do |
 |------|-----|
-| 0–1:30 | Opening (§6) → Slide 2 |
-| 1:30–4 | Speed + audit → parts first → *match?* |
-| 4–11 | **Slide 3:** walk path · tease Bill Pay · Inventory wow · fill blanks |
-| 11–12:30 | Slide 4: reinforce Bill Pay + AI (humans approve) |
-| 12:30–15 | Slide 5: parts program + **first request** + **calendar** |
+| 0–1:30 | Opening — **no slide** |
+| 1:30–3 | Pains spoken → parts first → *agree?* — **no slide** |
+| 3–11 | **Slide 1:** walk path · Bill Pay one breath · Inventory wow · fill blanks |
+| 11–12:30 | Bill Pay reinforce + AI — still Slide 1 or blank |
+| 12:30–15 | **Slide 2:** first request + **lock calendar** |
 
-**Part 2:** Activation risk — zero live usage at day 60? Rank → one line each. *Blocker or async optimization?*
+**Part 2:** Activation risk — zero usage at day 60? Rank → one line each.
 
-**Don’t:** interrogate · stay passive · upsell AI/Bill Pay · fight NetSuite · end without commitment · read slides
+**Don’t:** pain-point slides · read glass · end without commitment
