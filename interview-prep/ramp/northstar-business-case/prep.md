@@ -56,6 +56,38 @@ You’re not graded on memorizing Ramp buzzwords. You’re graded on **procureme
 **One line for Monica:**  
 > “Who receives today — and can we keep the requester from being the **only** person who confirms receipt in the system? That’s what protects three-way match.”
 
+### Emergency / AOG — what you’re actually proposing
+
+**Not proposing:** “Just buy with no PO and hope AP figures it out.” Slack forever is the failure mode.
+
+**Two clean patterns (pick with Monica; both are real):**
+
+| Pattern | When | What happens |
+|---------|------|----------------|
+| **A. Fast PO first** | You can open a PO in minutes | Expedited request → short approval (or pre-approved emergency band) → PO → buy → receive → match → pay. Same path, faster SLA. Prefer this when the system can keep up. |
+| **B. After-the-fact PO** | Part must ship *now*; waiting for full approval loses the plane | Buy to protect need-by → **same day / within X business days** (propose **2**) create the PO with real qty × unit price → receive → match → pay. Documented exception, not an open hole. |
+
+**Pattern B is still a PO** — just **late**. The invoice should still match a PO + receipt. You’re not inventing “pay with no PO.”
+
+**Flag on the request — yes, that’s wise.** If you use after-the-fact:
+
+- Field or tag: **Emergency / after-the-fact PO** (or “PO after buy”)
+- Why it helps:
+  - Approvers see *why* controls were compressed  
+  - Receiving / AP know this isn’t a normal open order — **confirm receipt and pay against this PO**, don’t treat it as maverick  
+  - Audit can pull “emergency” volume later  
+  - Activation can report how often the exception fires (if it’s constant, fix the main path)
+
+Also capture: who authorized the emergency, need-by, vendor, qty × price, when the formal PO will be created.
+
+**Receiving / match on after-the-fact:**  
+Once the PO exists, treat it like a normal three-way: **receive against that PO**, then match invoice. The flag doesn’t mean “skip receive” — it means “this PO was born late; don’t lose the receipt and don’t pay as non-PO.”
+
+**What to say if Monica asks:**  
+> “Emergencies happen. Prefer a fast PO when we can. If the part has to move first, we still convert to a real PO with qty and price within a couple of days — tagged as after-the-fact so receiving and AP know to close it cleanly. Not permanent Slack.”
+
+**Pilot note:** Don’t build the whole exception engine day one. Agree the rule verbally; encode the flag + SLA in the working session if emergencies are common.
+
 ---
 
 ## 3. The story (30 seconds)
