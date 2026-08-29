@@ -1,7 +1,5 @@
-# NorthStar business case — start here
+# NorthStar business case
 
-**Open one file:** [`prep.md`](prep.md) — everything is in there (plain English).
-
-**Day of:** [`cheatsheet.md`](cheatsheet.md) — one screen from prep §6.
-
+**Open:** [`prep.md`](prep.md) — lead playbook (edited)  
+**Day of:** [`cheatsheet.md`](cheatsheet.md)  
 **Deck:** [`NorthStar-Aviation-Procurement-Design-Activation.pptx`](NorthStar-Aviation-Procurement-Design-Activation.pptx)

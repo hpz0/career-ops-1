@@ -127,8 +127,8 @@ Part 1 is **~12–15 minutes total** — not 30. Most of that is **Slide 3** (ta
 |-------|------|-------------|
 | 1 Title | ~20 sec | Hello → advance |
 | 2 Problems | ~2 min | Point at the two cards + “parts first” bar → **ask if that matches** |
-| 3 Path | **~7–8 min** | Walk the five boxes once → **stop** → Inventory question → **write her answers** on the blanks |
-| 4 Extensions | ~1 min | Name Bill Pay + agents, path first → advance |
+| 3 Path | **~7–8 min** | Walk the five boxes once (tease **Bill Pay** on match & pay) → **stop** → Inventory question → **write her answers** on the blanks |
+| 4 Extensions | ~30–45 sec | Reinforce Bill Pay + agents later — don’t first-introduce pay here |
 | 5 This week | ~2–3 min | Point at build steps + **Lock** list → get names + calendar time |
 
 **Rules**
