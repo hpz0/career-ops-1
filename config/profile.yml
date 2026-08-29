@@ -179,9 +179,9 @@ active_interviews:
   - company: "Ramp"
     role: "Senior Manager, Procurement Product Activation (remote/hybrid TBD)"
     track: "A-adjacent"
-    status: "Interviewing — HM with Caroline Novas (Wed Aug 12, 2026)"
+    status: "Interviewing — post-HM; Caroline deciding manager vs IC"
     contact: "Abigail Lovegrove (GTM recruiter); Caroline Novas (Dir CS Scaled & Partnerships, HM)"
-    notes: "Ashby d238a056. Abigail screen Aug 3. Comp Nationwide OTE $166–227K 70/30 — confirm base ≥$140K + fully remote. Prep: interview-prep/ramp/caroline.md + caroline-prep.md. Caroline = scaled OS + procurement authority (Bill Pay specialist analogy)."
+    notes: "HM 2026-08-12 went fine. Intel: Bill Pay ≠ Procurement; CSMs maxed; 3–4 procurement hires not started; need standardization; sequencing Bill Pay→Procurement (4→6mo); customer stakeholder chaos. Await path + next steps. Debrief: interview-prep/ramp/caroline-debrief-2026-08-12.md. Comp Nationwide OTE $166–227K 70/30 — confirm base ≥$140K + remote."
   - company: "Ramp"
     role: "Account Executive / SA-TAM-Partnerships (exploratory)"
     track: "B"
@@ -310,4 +310,4 @@ re_apply_windows:
   Ramp:
     same_role_days: 180
     last_apply_date: "2026-07-01"
-    notes: "Active Interview — HM Caroline Novas Wed Aug 12 2026. Do not re-apply; focus on prep."
+    notes: "Active Interview — post Caroline HM 2026-08-12; awaiting manager vs IC + next steps. Do not re-apply."

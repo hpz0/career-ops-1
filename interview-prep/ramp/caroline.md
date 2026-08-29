@@ -1,4 +1,7 @@
-# Caroline Novas — Day of (Wed Aug 12, 2026)
+# Caroline Novas — Day of (Wed Aug 12, 2026) · ARCHIVE
+
+**Status after call:** Went fine. She will decide **manager vs IC**, then next steps.  
+**Live file:** [`caroline-debrief-2026-08-12.md`](caroline-debrief-2026-08-12.md)
 
 **Role:** Senior Manager, Procurement Product Activation  
 **Her:** Director, CS Scaled & Partnerships · ex BizOps Self-Service Activations · grew Scaled CS 6→20+ · launched Bill Pay product specialist  
