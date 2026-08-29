@@ -69,7 +69,26 @@ You’re not graded on memorizing Ramp buzzwords. You’re graded on **procureme
 
 **Pattern B is still a PO** — just **late**. The invoice should still match a PO + receipt. You’re not inventing “pay with no PO.”
 
-**Flag on the request — yes, that’s wise.** If you use after-the-fact:
+### How does “fast PO” actually work? (Pattern A)
+
+You’re not inventing a mystery path. You’re **compressing the same parts channel**. Common ways:
+
+| Design | How it works | Pros / cons |
+|--------|----------------|-------------|
+| **1. Same program, emergency branch** | One Parts Program. Field/flag: **Emergency**. Approval policy **splits**: if Emergency = yes → short chain (e.g. Inventory notify + Controller or Ops lead only); if no → normal thresholds. | Usually best. One channel, one matching rule, audit can filter on the flag. |
+| **2. Same program, higher parallel / SLA** | Same approvers as normal, but **parallel** where safe + hard SLA (e.g. 30–60 min) + backup if silent. | Less “short”; good when legal still wants the same people. |
+| **3. Separate Emergency Parts Program** | Second Spend Program with fewer approvers, same three-way / NetSuite sync. | Clearer for ops; **two** programs to maintain. Only if emergencies are frequent and the main path is too heavy. |
+
+**Default recommendation for Monica:** **#1 — same Parts Program + Emergency flag + shorter approval branch.**  
+Not a different product. Not “skip PO.” Same request → PO → receive → match; fewer people in the way when the flag is on.
+
+**Who’s on the short chain?** Discover with her — often Controller (or Ops) + maybe Inventory notify, **not** full C-level ladder for every AOG. Pre-approve a dollar band for emergencies if she has one.
+
+**Pattern B (buy first)** still uses the **same program**: after-the-fact request tagged Emergency / after-the-fact → short or retrospective approval → PO with qty×price → receive → match. The flag tells AP/receiving this PO was late.
+
+**Don’t:** build a third “services + emergency + AI” maze on day one. Encode flag + short branch in the working session if AOG is real for them.
+
+**Flag on the request — yes, that’s wise.** If you use after-the-fact *or* the short branch:
 
 - Field or tag: **Emergency / after-the-fact PO** (or “PO after buy”)
 - Why it helps:
