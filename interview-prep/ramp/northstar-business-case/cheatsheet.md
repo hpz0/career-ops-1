@@ -1,17 +1,18 @@
-# Day of — NorthStar (~15 min Part 1)
+# Day of — NorthStar (~15 min)
 
-**Full:** [`prep.md`](prep.md) §4–5 · **Deck:** `NorthStar-Aviation-Procurement-Design-Activation.pptx`
+**Full:** [`prep.md`](prep.md) · **Deck:** `NorthStar-Aviation-Procurement-Design-Activation.pptx`
 
-Monica · speed + audit · **point / ask / write — don’t read**
+**Posture:** I’ve done homework → here’s how you should operate → pressure-test with you.  
+**Thesis:** Remove friction without removing control. Parts first.
 
-| Slide | Time | Do |
-|-------|------|-----|
-| 1 | 20s | Hello → go |
-| 2 | 2m | Speed + audit → parts first → *match your priority?* |
-| 3 | **7–8m** | Walk path once · tease Bill Pay on match & pay → **Inventory: visibility / accountability / both?** → fill blanks |
-| 4 | ~45s | Reinforce Bill Pay + agents later |
-| 5 | 2–3m | Build + one request · **Lock: Inventory · thresholds · receiving · pilot · calendar** |
+| Time | Do |
+|------|-----|
+| 0–1:30 | Opening (§6) → Slide 2 |
+| 1:30–4 | Speed + audit → parts first → *match?* |
+| 4–11 | **Slide 3:** walk path · tease Bill Pay · Inventory wow · fill blanks |
+| 11–12:30 | Slide 4: reinforce Bill Pay + AI (humans approve) |
+| 12:30–15 | Slide 5: parts program + **first request** + **calendar** |
 
-**Part 2:** *Who hits day 60 with zero live usage if I wait a week?* → rank → one line each
+**Part 2:** Activation risk — zero live usage at day 60? Rank → one line each. *Blocker or async optimization?*
 
-**Don’t:** read slides · invent $ · Coupa tour · skip calendar · “I’m not selling” theater
+**Don’t:** interrogate · stay passive · upsell AI/Bill Pay · fight NetSuite · end without commitment · read slides
