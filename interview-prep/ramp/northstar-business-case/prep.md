@@ -68,81 +68,96 @@ NorthStar buys **aircraft parts**. Approvals are **slow** → parts miss **need-
 
 ---
 
-## 4. Part 1 — slide-by-slide
+## 4. How to use the deck (tool, not teleprompter)
 
-| Slide | Your job |
-|-------|----------|
-| 1 Title | 10 sec — design session, not sales pitch |
-| 2 Problems | Speed + audit → **one parts program first**. Ask: priority match? |
-| 3 Path | Walk 5 steps in 60 sec → **Inventory question** → fill blanks |
-| 4 Extensions | Bill Pay + agents — **90 seconds max** |
-| 5 This week | Build → first request together → **lock calendar + owners** |
+Part 1 is **~12–15 minutes total** — not 30. Most of that is **Slide 3** (talk + listen).
+
+| Slide | Time | What you do |
+|-------|------|-------------|
+| 1 Title | ~20 sec | Hello → advance |
+| 2 Problems | ~2 min | Point at the two cards + “parts first” bar → **ask if that matches** |
+| 3 Path | **~7–8 min** | Walk the five boxes once → **stop** → Inventory question → **write her answers** on the blanks |
+| 4 Extensions | ~1 min | Name Bill Pay + agents, path first → advance |
+| 5 This week | ~2–3 min | Point at build steps + **Lock** list → get names + calendar time |
+
+**Rules**
+- Don’t read the slide. Point at it and talk.
+- Don’t recite stage directions (“Run Q1–Q10”). Those are for *you*.
+- Don’t pitch meta-lines about “not selling Ramp” / “not a product tour” — just *do* the design session.
+- Need-by visible to approvers is already on the path; you don’t need a special line about it unless she asks.
 
 ---
 
-## 5. Part 1 — script (rehearse out loud, ~12–14 min)
+## 5. Part 1 — talk track (rehearse once, then leave it)
 
-### Open (Slide 1)
+Prompts only. Say it in your own words. Times assume **~15 min**.
 
-> Monica — thanks for the time. You’re already on Ramp for expense. I’m here to **design how purchasing should run**, not re-sell Ramp.
->
-> Approvals are slow enough that **parts miss need-by dates**, and there’s **no clean trail** from request to payment — email, Slack, spreadsheets.
->
-> I’ve stood up purchasing systems from the **buy side** — workflows, policy, NetSuite — so this is control design, not a product tour.
->
-> In ~15 minutes: align on a **parts path**, confirm a few choices **with you**, leave with a **concrete next step**. Fair?
+### Slide 1 (~20 sec)
 
-### Problems (Slide 2)
+Thanks · Harrison · want to lock how **aircraft parts** purchasing should run and leave with a next step.
 
-> Two problems: **approval speed** (parts miss need-by) and **audit** (no single trail request → payment).
->
-> I’d stand up **one aircraft parts program first** — not every category. Prove it, then expand.
->
-> **Does that match your priority?**
+### Slide 2 (~2 min)
 
-### Path (Slide 3) — **core**
+**Point:** approval speed / need-by misses · audit trail mess (email, Slack, sheets).
 
-> Five steps:
-> 1. **Request** — qty × price, need-by, vendor, part #, NetSuite fields you require  
-> 2. **Approve** — your dollar thresholds; Inventory is TBD  
-> 3. **PO** — on approval → NetSuite  
-> 4. **Receive** — where you receive today  
-> 5. **Match & pay** — order + receipt + invoice before pay  
+**Recommend:** one **parts program** first — request through payment — then expand.
 
-**Inventory question:**
+**Ask:** Does that match what hurts most, or is something else first?
 
-> I don’t want Inventory in the path just because it’s always been there. Is it for **visibility** (requesters can’t see stock) or **accountability** (named owner so people don’t over-order)?  
-> **Which is closer for NorthStar?**
+*(If she redirects, follow her — don’t force the slide.)*
 
-Then ask 3–4 of: thresholds · who receives · required NetSuite fields · pilot group.
+### Slide 3 (~7–8 min) — this is the interview
 
-> Enough to build — rest in a short working session.
+**Walk once (60–90 sec), pointing at each box:**
 
-### Extensions (Slide 4) — 90 sec
+1. Request — qty × price, need-by, vendor, part #  
+2. Approve — **your** dollar thresholds; Inventory TBD  
+3. PO — on approval → NetSuite  
+4. Receive — NetSuite or Ramp (we’ll confirm)  
+5. Match & pay — order + receipt + invoice before pay  
 
-> **Bill Pay** — pay matched invoices in Ramp; full trail.  
-> **Procurement agents** — research + structured report in the workflow; can route by risk; **humans approve**. After the parts path works — new vendors, legal/security. Not week one for known suppliers.
+**Then stop. Don’t keep talking.** Go to **Confirm with me**.
 
-### Close (Slide 5)
+**Must ask (the wow):**  
+Inventory in the path — **visibility** (can’t see stock), **accountability** (named owner), or **both**? Which is it for you?
 
-> This week: stand up parts program, pilot group, **one real request end-to-end**.
->
-> **Before we drop:** Inventory decision · thresholds or owner · receiving owner · pilot · **45–60 min on the calendar**
->
-> Can we lock that now?
+*(Adapt the path from her answer. Write on the blank.)*
 
-### Wrap
+**Then fill the other blanks with her — pick what she hasn’t already answered:**
+- Thresholds: who / at what $?  
+- Receiving: where + who? (Requester shouldn’t be the only person who confirms receipt if you can avoid it.)  
+- Anything else required on the request beyond qty / price / need-by?
 
-> **What would make you call this a failure in 60 days?**
+**Exit Slide 3:** Enough for a first build — we’ll finish the rest in a working session.
+
+### Slide 4 (~1 min)
+
+**Bill Pay** — once POs are flowing: match + pay; trail closes.  
+**Agents** — later: research + report in the workflow; humans still approve; good for new vendors / reviews — not week-one for known parts suppliers.
+
+### Slide 5 (~2–3 min)
+
+**This week:** stand up the Aircraft Parts Program → small pilot → **one real request** end-to-end → review what broke.
+
+**Point at Lock before we leave — get concrete answers:**
+- Inventory decision for the pilot  
+- Thresholds (or who has them)  
+- Receiving owner  
+- Pilot group + **working session on the calendar** (45–60 min)
+
+If she won’t lock time: *What’s blocking a pilot request in the next two weeks?*
+
+**Optional close (10 sec):** *What would make this a failure in 60 days?* — only if you have time.
 
 ---
 
 ## 6. Part 1 — day-of cheat sheet
 
-- Flow: Open → Slide 2 → Slide 3 (**Inventory question**) → Slide 4 (90s) → Slide 5 (**calendar**)
-- Prescribe: parts program · qty×price · need-by · her bands · PO→NetSuite · receive where she does · three-way · pilot
-- Part 2 open line: *“Who hits day 60 with zero live usage if I wait a week?”*
-- Don’t: read slides · invent $ thresholds · Coupa tour · skip calendar
+- **~15 min.** Deck = whiteboard. Point → ask → write.
+- Bulk of time = **Slide 3** (Inventory + blanks).
+- Slide 4 = ~60 seconds. Slide 5 = get **calendar**.
+- Part 2: *“Who hits day 60 with zero live usage if I wait a week?”*
+- Don’t: read slides · invent $ · Coupa tour · skip calendar · perform “I’m not selling”
 
 ---
 
@@ -211,17 +226,19 @@ They give **4 situations**. You:
 ## 10. Checklist
 
 **Night before**
-- [ ] Read sections 1–4 once  
-- [ ] Rehearse section 5 out loud with deck  
-- [ ] Rank one practice set in section 9  
+- [ ] Read §1–3 once  
+- [ ] Walk §4–5 with the deck open once (~15 min clock) — point, don’t read  
+- [ ] Rank one practice set in §9  
 
 **Day of**
-- [ ] Section 6 + deck only  
-- [ ] Notepad: Inventory decision · bands · receiver · pilot · **session time**
+- [ ] [`cheatsheet.md`](cheatsheet.md) + deck only  
+- [ ] Notepad: Inventory · bands · receiver · pilot · **session time**
 
 ---
 
-## 11. Questions to ask Monica (write answers down)
+## 11. Questions to ask Monica (if time / she opens the door)
+
+These are **optional** — Slide 3 blanks already cover the must-haves. Don’t run a 10-question interrogation.
 
 1. Last missed need-by — where did time get stuck?  
 2. Audit request→payment pull — how painful today?  

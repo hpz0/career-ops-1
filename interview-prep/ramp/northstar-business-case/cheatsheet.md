@@ -1,19 +1,17 @@
-# Day of — NorthStar
+# Day of — NorthStar (~15 min Part 1)
 
-**Full prep:** [`prep.md`](prep.md)
+**Full:** [`prep.md`](prep.md) §4–5 · **Deck:** `NorthStar-Aviation-Procurement-Design-Activation.pptx`
 
-**Deck:** `NorthStar-Aviation-Procurement-Design-Activation.pptx`
+Monica · speed + audit · **point / ask / write — don’t read**
 
-Monica · Controller · pains = **speed** + **audit**
+| Slide | Time | Do |
+|-------|------|-----|
+| 1 | 20s | Hello → go |
+| 2 | 2m | Speed + audit → parts first → *match your priority?* |
+| 3 | **7–8m** | Walk path once → **Inventory: visibility / accountability / both?** → fill blanks |
+| 4 | 1m | Bill Pay + agents later → go |
+| 5 | 2–3m | Build + one request · **Lock: Inventory · thresholds · receiving · pilot · calendar** |
 
----
+**Part 2:** *Who hits day 60 with zero live usage if I wait a week?* → rank → one line each
 
-**Flow:** Open → Slide 2 → Slide 3 (**Inventory: visibility or accountability?**) → Slide 4 (90s) → Slide 5 (**calendar**)
-
-**Prescribe:** parts program · qty×price · need-by · her bands · PO→NetSuite · receive where she does · three-way · pilot
-
-**Part 2:** *“Who hits day 60 with zero live usage if I wait a week?”* → rank → one line each
-
-**Lock:** Inventory · thresholds · receiving · pilot · **session on calendar**
-
-**Don’t:** read slides · invent $ · Coupa tour · skip calendar
+**Don’t:** read slides · invent $ · Coupa tour · skip calendar · “I’m not selling” theater
