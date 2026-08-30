@@ -55,9 +55,9 @@
 1. **Speed** — approvals slow → parts miss need-by
 2. **Control / visibility** — no clean trail: request → approval → PO → receipt → invoice → payment
 
-**Recommend:**
+**Recommend (short nod — full line when you show Slide 2):**
 
-- **One controlled parts program first** — request through payment — prove it, expand later.
+- Parts-first — don't redesign all purchasing at once.
 
 **Ask:** *Does that match what hurts most?*
 
@@ -71,9 +71,13 @@
 
 ## 3. Slide 2 — Path walkthrough (~8 min)
 
-**Transition:** *Here’s how I’d wire it — tell me where I’m wrong.*
+**Show Slide 2. Say:**
 
-Walk boxes **once** (~60–90 sec), then **pressure-test step by step**.
+> Monica, based on what we heard during kickoff, my initial recommendation is to start with **aircraft parts** rather than trying to redesign all purchasing at once. Here’s the workflow I’d recommend, but there are **four decisions** I want to validate with you before we configure it.
+
+*(Point at path — walk boxes once ~60–90 sec — then validate step by step. The four decisions = **Confirm with me** blanks on the slide.)*
+
+Walk boxes **once**, then **pressure-test step by step**.
 
 ### Step 1 — Request
 
@@ -162,14 +166,14 @@ Walk boxes **once** (~60–90 sec), then **pressure-test step by step**.
 
 ---
 
-### Confirm with me (slide blanks — fill live)
+### Confirm with me — **the four decisions** (fill live)
 
-| Blank on slide | Discovery if not answered yet |
-|----------------|-------------------------------|
-| **Inventory — why in path?** | Visibility vs accountability vs both (see Step 2) |
-| **Thresholds** | $ bands · who at each · parts vs other |
-| **Receiving** | Who · NetSuite vs Ramp · partials |
-| **Required fields** | part # · tail · WO · vendor · new vs existing |
+| # | Blank on slide | Discovery if not answered yet |
+|---|----------------|-------------------------------|
+| 1 | **Inventory — why in path?** | Visibility vs accountability vs both (see Step 2) |
+| 2 | **Thresholds** | $ bands · who at each · parts vs other |
+| 3 | **Receiving** | Who · NetSuite vs Ramp · partials |
+| 4 | **Required fields** | part # · tail · WO · vendor · new vs existing |
 
 **Transition out:** *That’s enough for a first build — rest in a working session.*
 

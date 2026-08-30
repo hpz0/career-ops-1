@@ -103,17 +103,21 @@ You’ve shown: prep · point of view · collaboration · outcome · urgency —
 
 **Final deck (3 slides):** Title · Recommended Aircraft Parts Program (path + Confirm with me) · This week + Lock before we leave.
 
-### Before Slide 2 — Pains spoken (~2 min, no slide)
+### Before Slide 2 — Pains spoken (~90 sec, no slide)
 
 Point: speed (need-by misses) · audit (email/Slack/sheets).
 
-Recommend: **one controlled parts program first** — request through payment.
+Get her nod — **parts-first** lands on Slide 2 (don't repeat the full recommendation here).
 
 Ask: *Does that match what hurts most?*
 
 ### Slide 2 — Path + confirm (~7 min) — **the interview**
 
-**Walk once (60–90 sec), pointing:**
+**Show the slide. Open with:**
+
+> Monica, based on what we heard during kickoff, my initial recommendation is to start with **aircraft parts** rather than trying to redesign all purchasing at once. Here's the workflow I'd recommend, but there are **four decisions** I want to validate with you before we configure it.
+
+**Walk once (60–90 sec), pointing at the path:**
 
 1. Request — qty × price · need-by · vendor · part #  
 2. Approve — **your** thresholds · Inventory TBD  
@@ -122,6 +126,8 @@ Ask: *Does that match what hurts most?*
 5. Match & pay — order + receipt + invoice → pay — **Bill Pay** is that last mile  
 
 *(One breath on Bill Pay. Don’t expand.)*
+
+**The four decisions** = Confirm with me blanks (Inventory · Thresholds · Receiving · Required fields). Fill as you walk or after the quick path read.
 
 **Transition into validate:**
 
