@@ -2,7 +2,7 @@
 
 ## NorthStar business case (Activation round)
 
-**NorthStar business case:** [`northstar-business-case/prep.md`](northstar-business-case/prep.md) — one plain-English prep file + deck
+**NorthStar business case:** [`northstar-business-case/prep.md`](northstar-business-case/prep.md) · deck + [`cheatsheet.md`](northstar-business-case/cheatsheet.md) · [`Ramp-Procurement-Activation-Case.pdf`](northstar-business-case/Ramp-Procurement-Activation-Case.pdf) (ChatGPT study guide)
 
 ---
 

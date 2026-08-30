@@ -1,6 +1,6 @@
 # NorthStar business case — prep
 
-**Deck (final):** [`NorthStar-Aviation-Procurement-Design-Activation-Final.pdf`](NorthStar-Aviation-Procurement-Design-Activation-Final.pdf) · **Day-of:** [`cheatsheet.md`](cheatsheet.md)
+**Deck (final):** [`NorthStar-Aviation-Procurement-Design-Activation-Final.pdf`](NorthStar-Aviation-Procurement-Design-Activation-Final.pdf) · **Day-of:** [`cheatsheet.md`](cheatsheet.md) · **Study guide (ChatGPT):** [`Ramp-Procurement-Activation-Case.pdf`](Ramp-Procurement-Activation-Case.pdf)
 
 They are **not** primarily testing whether you know how to click around Ramp. They are testing whether you can take an ambiguous customer, form a strong hypothesis, lead a consultative conversation, make good implementation tradeoffs, and create **customer momentum quickly — at scale**.
 
