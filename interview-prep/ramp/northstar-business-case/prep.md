@@ -109,9 +109,11 @@ Point: speed (need-by misses) · audit (email/Slack/sheets).
 
 Get her nod — **parts-first** lands on Slide 2 (don't repeat the full recommendation here).
 
-Ask: *Does that match what hurts most?*
+Ask: *Does that sound right, or am I missing something bigger?*
 
 ### Slide 2 — Path + confirm (~7 min) — **the interview**
+
+**Discovery model:** The four Confirm blanks are **must-lock decisions**, not a literal four-question script. Walk the path once, then one primary question per blank (+ one follow-up if fuzzy). Extra depth only if she opens a door. Full human wording: [`cheatsheet.md`](cheatsheet.md).
 
 **Show the slide. Open with:**
 
@@ -133,18 +135,14 @@ Ask: *Does that match what hurts most?*
 
 > Let me pressure-test this — tell me where I’m wrong.
 
-**Must ask (wow):**  
-Inventory in the path — **visibility** (can’t see stock), **accountability** (named owner), or **both**?
+**Four primary questions** (fill Confirm blanks — see cheatsheet for full wording):
 
-**Then fill blanks she hasn’t covered** (don’t run a 25-question list):
+1. **Inventory** — Are they actually approving, or confirming need before finance?
+2. **Thresholds** — Walk me through dollar thresholds and who at each level.
+3. **Receiving** — Where is receipt recorded today, and who owns it? NetSuite or Ramp?
+4. **Required fields** — Beyond qty/price/need-by/vendor/part #, what else before someone will approve?
 
-| Bucket | Strong questions |
-|--------|------------------|
-| Approvals | Thresholds consistent across categories or not? Who can change the rules? Biggest bottleneck today? |
-| Receiving | Who confirms receipt today, where recorded? Inventory vs services — different? |
-| Vendors | Existing vs new — what’s different? Who owns onboarding? Where does it live (NetSuite / email)? |
-| Matching | How does AP know which PO? What happens when invoice ≠ PO? |
-| Killer (if time) | If I fix **one** thing in 60 days, what has the biggest impact on you? — then shut up |
+Vendors / mismatch / AOG = only if she opens that door. Don’t interrogate every path box.
 
 **Exit:** Enough for a first build — rest in a working session.
 

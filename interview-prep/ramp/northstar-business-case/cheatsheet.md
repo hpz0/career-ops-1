@@ -5,7 +5,29 @@
 
 **Posture:** Homework → hypothesis → pressure-test. **Thesis:** friction down, control stays. **Parts first.** **Goal:** purchasing live in Ramp within 60 days.
 
-**Rules:** Point at deck · don’t read · ask → listen → fill blanks · **end with calendar lock**
+**Rules:** Point at deck · don’t read · ask → listen · fill the four blanks · **leave with a calendar hold**
+
+---
+
+## How discovery works (read once)
+
+**Slide 2’s four blanks are decisions you must lock — not a script of only four questions.**
+
+| On the slide | What you’re really deciding |
+|--------------|-----------------------------|
+| Inventory | Approve gate, or visibility/accountability before finance? |
+| Thresholds | $ bands + who at each level for parts |
+| Receiving | Who records it, and in NetSuite or Ramp? |
+| Required fields | What’s mandatory on the request before anyone can approve |
+
+**Approach on the call:**
+
+1. Walk the five boxes once (~60–90 sec) so she sees the whole path.
+2. Then work the **four decisions** — one primary question each (below).
+3. One short follow-up if her answer is fuzzy.
+4. Extra questions only if **she** opens a door (vendors, emergencies, mismatch) — don’t run a checklist per box.
+
+It’s fine that you ask more than four questions. What’s odd is treating every path step like its own interrogation. The blanks are the spine; everything else is optional depth.
 
 ---
 
@@ -13,13 +35,13 @@
 
 | Time | Section | Slide |
 |------|---------|-------|
-| 0:00–1:30 | Intro + agenda | None |
-| 1:30–3:00 | Current state / pains → parts first | None |
-| 3:00–11:00 | Walk path + discovery per step + Confirm blanks | **Slide 2** |
-| 11:00–12:30 | Bill Pay reinforce + AI (if room) | Slide 2 or blank |
-| 12:30–15:00 | This week + lock calendar | **Slide 3** |
+| 0:00–1:30 | Intro | None |
+| 1:30–3:00 | Align on what’s broken | None |
+| 3:00–11:00 | Show path → four decisions | **Slide 2** |
+| 11:00–12:30 | Bill Pay / AI if it fits | Slide 2 |
+| 12:30–15:00 | This week + calendar | **Slide 3** |
 
-**Part 2 (~10 min):** Activation risk — zero usage at day 60? Rank → one line each.
+**Part 2 (~10 min):** Who’s most at risk of zero usage at day 60? Rank → one line each.
 
 ---
 
@@ -27,157 +49,126 @@
 
 **Say (close to this, then stop):**
 
-- Thanks for the time — I’ve gone through the kickoff notes.
-- Biggest issues I’m hearing: **approval speed** on aircraft parts + **clean audit trail** request → payment.
-- I have a preliminary view of how that could look in Ramp — want to **pressure-test** it, catch nuance, align on what goes **live first**.
-- If we use the time well: clear design **and** concrete first step toward the first purchase through Ramp. **Sound good?**
+> Monica — thanks for making the time. I went through the kickoff notes, so I’ve got a decent read on where things are today.
+>
+> What jumped out: approvals on aircraft parts are too slow — you’re missing need-by dates — and there’s no clean trail from request through payment.
+>
+> I’ve got a starting recommendation for how to fix that in Ramp. I’d like to walk you through it, check a few things with you, and if we’re aligned, leave with a first step we can actually launch. Does that work?
 
-**Discovery (if she opens up before you show deck):**
+**If she starts talking before the deck:**
 
-- What’s the one thing that would make this project a win for you in 60 days?
-- When a part is urgent, what breaks first — approval, vendor, or receiving?
+- What would make this a win for you in the next couple months?
+- When a part’s on fire, where does it usually stall — approvals, the vendor, or getting it received?
 
-**Don’t:** pain-point slides · “I’m not selling Ramp” · long product tour
-
----
-
-## 2. Current state / pains (~90 sec) — NO SLIDE
-
-**Anchor from brief (confirm, don’t lecture):**
-
-- ~600 employees · aircraft mfg · **NetSuite** · buying via **email + Slack**
-- Payment due dates in **spreadsheets** · no dedicated intake
-- Inventory validates need · existing vs new vendors differ · C-level by dollar
-- Manual PO/invoice matching · ACH/check runs
-
-**Two problems (get her nod):**
-
-1. **Speed** — approvals slow → parts miss need-by
-2. **Control / visibility** — no clean trail: request → approval → PO → receipt → invoice → payment
-
-**Recommend (short nod — full line when you show Slide 2):**
-
-- Parts-first — don't redesign all purchasing at once.
-
-**Ask:** *Does that match what hurts most?*
-
-**Discovery:**
-
-- Where do requests start today — Slack, email, both?
-- When something goes wrong, what’s hardest to reconstruct after the fact?
-- Roughly what share of spend is **aircraft parts** vs everything else?
+**Don’t:** pain slides · “I’m not selling Ramp” · product tour
 
 ---
 
-## 3. Slide 2 — Path walkthrough (~8 min)
+## 2. Align on the problem (~90 sec) — NO SLIDE
+
+**Keep light — you’re confirming, not presenting:**
+
+- Buying happens over email and Slack · NetSuite is the books · matching is manual · payments are ACH / check runs
+- Inventory is in the loop somehow · dollar thresholds hit C-level · new vs existing vendors feel different
+
+**Say:**
+
+> So the two things I’m optimizing for are speed on parts — hitting need-by — and a trail you can actually audit: requested, approved, received, invoiced, paid. Does that sound right, or am I missing something bigger?
+
+**Don’t** pitch parts-first here — that lands on Slide 2.
+
+**Only if she’s fuzzy on the brief:**
+
+- Where do people usually kick off a request today?
+- When something goes sideways, what’s hardest to piece back together later?
+
+---
+
+## 3. Slide 2 — Path + four decisions (~8 min)
 
 **Show Slide 2. Say:**
 
 > Monica, based on what we heard during kickoff, my initial recommendation is to start with **aircraft parts** rather than trying to redesign all purchasing at once. Here’s the workflow I’d recommend, but there are **four decisions** I want to validate with you before we configure it.
 
-*(Point at path — walk boxes once ~60–90 sec — then validate step by step. The four decisions = **Confirm with me** blanks on the slide.)*
+### Walk the path once (~60–90 sec)
 
-Walk boxes **once**, then **pressure-test step by step**.
+Point as you talk — don’t read the boxes:
 
-### Step 1 — Request
+1. **Request** — one place to ask for a part; qty, price, need-by, vendor, part #
+2. **Approve** — your thresholds; Inventory TBD (that’s decision #1)
+3. **PO** — on approval, into NetSuite
+4. **Receive** — NetSuite or Ramp — we’ll decide together
+5. **Match & pay** — three-way, then pay in Ramp — that’s Bill Pay closing the loop
 
-**On slide:** qty × price · need-by · vendor · part #
+> Okay — let me pressure-test this. Tell me where I’m off.
 
-**Say:** One front door for parts — employee captures what AP and Inventory need up front.
+### The four decisions (primary questions)
 
-**Discovery:**
+Ask in this order. Fill the blank on the slide as she answers.
 
-- Beyond qty/price/need-by — **required fields** for parts? (part #, tail/serial, work order, GL?)
-- Who should be able to **request** vs **order**?
-- Existing vendor vs new vendor — different info at intake?
-- Estimates OK at request, or must be firm before approval?
+**1 — Inventory**
 
----
+> Today Inventory confirms a purchase is needed. Are they actually approving it, or more making sure it’s needed before it goes to whoever owns the dollars?
 
-### Step 2 — Approve
+*Follow-up if fuzzy:* Would you still want them in the path if they’re not a hard approve — more as a check / named owner?
 
-**On slide:** thresholds · **Inventory TBD**
-
-**Say:** Routing follows **your** rules — not a generic template.
-
-**Discovery (WOW — ask early):**
-
-- **Inventory in the path — visibility** (can’t see stock), **accountability** (named owner), or **both**?
-- Dollar thresholds — same across categories or different for parts?
-- Who sets/changes approval rules? Who is the bottleneck today?
-- Does Inventory **approve**, **validate**, or just **inform**?
+*Fill blank:* visibility · accountability · both · real approve gate
 
 ---
 
-### Step 3 — PO
+**2 — Thresholds**
 
-**On slide:** on approval → **NetSuite**
+> Can you walk me through the dollar thresholds today — who signs off at each level?
 
-**Say:** Approved request becomes a real PO — NetSuite stays books of record.
+*Follow-up:* Same rules for aircraft parts, or are there exceptions?
 
-**Discovery:**
-
-- POs created in NetSuite today — who, and from what trigger?
-- Anything that must **not** sync or must edit in NetSuite only?
-- Blanket POs or standing orders for repeat parts?
+*Fill blank:* bands + owners (and who can change them if that comes up)
 
 ---
 
-### Step 4 — Receive
+**3 — Receiving**
 
-**On slide:** NetSuite **or** Ramp — **confirm**
+> Where does receiving actually get recorded today, and who’s responsible for it?
 
-**Say:** For parts, receiving matters — three-way needs proof goods arrived.
+*Follow-up:* Is the warehouse already living in NetSuite, or would it help if that happened in Ramp?
 
-**Discovery:**
+*Fill blank:* who · NetSuite vs Ramp
 
-- Who confirms receipt today? Where is it recorded?
-- Parts vs services — different receiving rules?
-- **SoD:** requester ≠ sole receiver — who is the receiver role?
-- Partial shipments / backorders — how handled?
-
-**If AOG / emergency raised:**
-
-- **Pattern A (prefer):** same Parts Program + **Emergency flag** → shorter approval branch (discover who)
-- **Pattern B:** buy now → **after-the-fact PO** within ~2 days → receive → match → pay
-- Flag ≠ skip receive · still three-way
+*(If SoD comes up: requester shouldn’t be the only person who can mark received — who owns that role?)*
 
 ---
 
-### Step 5 — Match & pay
+**4 — Required fields**
 
-**On slide:** three-way → **Bill Pay**
+> Beyond qty, price, need-by, vendor, and part number — what else does someone need to see before they feel okay approving a parts request?
 
-**Say (one breath):** Order + receipt + invoice match → pay in Ramp — **Bill Pay** closes the trail you want; don’t stop at the PO.
+*Follow-up:* That’s probably what we make required on the form — nothing extra we invent.
 
-**Discovery:**
-
-- How does AP know which PO an invoice belongs to today?
-- Invoice ≠ PO — who resolves, typical causes?
-- ACH vs check — any constraints on moving pay into Ramp?
-
-**Bill Pay reinforce (~15 sec, if not covered):**
-
-- Same system from request through payment = the audit trail, not a separate upsell.
-
-**AI (~30 sec, only if natural):**
-
-- After core path runs: AI for **research/prep** (vendor diligence, docs) — **humans still approve**; not autonomous approvals.
+*Fill blank:* only what she names (tail, work order, cost center, urgency, etc.)
 
 ---
 
-### Confirm with me — **the four decisions** (fill live)
+### If she opens a door (don’t force these)
 
-| # | Blank on slide | Discovery if not answered yet |
-|---|----------------|-------------------------------|
-| 1 | **Inventory — why in path?** | Visibility vs accountability vs both (see Step 2) |
-| 2 | **Thresholds** | $ bands · who at each · parts vs other |
-| 3 | **Receiving** | Who · NetSuite vs Ramp · partials |
-| 4 | **Required fields** | part # · tail · WO · vendor · new vs existing |
+| She mentions… | Ask |
+|---------------|-----|
+| New vs existing vendors | What’s different today, and who owns onboarding? |
+| Invoice ≠ PO | Who cleans that up, and what usually causes it? |
+| Emergencies / AOG | Prefer: same program + Emergency flag + shorter approvals. Or buy now, real PO within ~2 days, still receive and match. |
+| Blanket / standing POs | Do you use those for repeat parts? |
+| “We’re not ready for Bill Pay” | Fine — design the path so we can add payment later without rebuilding. |
 
-**Transition out:** *That’s enough for a first build — rest in a working session.*
+### Bill Pay (~15 sec, on Match & pay)
 
-**Killer (if time):** *If I fix **one** thing in 60 days, biggest impact on you?* — then **shut up**.
+> The reason I’d bring Bill Pay in is it closes the loop — same trail Monica wants, less time tying invoice to PO by hand. We don’t have to go live on pay day one, but I’d design toward it.
+
+### AI (~20 sec, only if natural)
+
+> Once the path is running, AI can do the homework — vendor diligence, docs, risk context — so reviewers aren’t starting from scratch. People still approve. Where do reviewers burn the most time validating a request today?
+
+### Exit Slide 2
+
+> That’s enough for a first build — we can dig into the rest in a working session.
 
 ---
 
@@ -185,82 +176,65 @@ Walk boxes **once**, then **pressure-test step by step**.
 
 **Say:**
 
-- Best first step: **one path live**, not whole company day one — **aircraft parts** (the pain).
-- **This week:** stand up program + **one real request** → review what broke.
-- **Lock before we leave:** working session · pilot group · open items on calendar.
+> Based on this, I think we’re ready for a small first step — not the whole company. Stand up the Aircraft Parts program with the approvals we just talked through, and run **one real request** through it this week. See what breaks, then tighten.
 
-**Discovery:**
+**Then lock:**
 
-- Who should be in the **pilot group**? (requesters + approvers + receiver + AP)
-- First real part you’d route — low risk but representative?
-- What’s blocking a pilot request in the **next two weeks** if not calendar?
+> Who should be in that pilot — who requests, who approves, who receives, and who on AP?
 
-**Must lock (verbal checklist):**
+> Can we get a working session on the calendar before we jump off?
 
-- [ ] Inventory decision (visibility / accountability / both)
-- [ ] Thresholds + owner of rules
-- [ ] Receiving (who + where recorded)
-- [ ] Pilot group named
-- [ ] **Working session on calendar**
+**If she won’t book time:** What’s in the way of a pilot request in the next couple weeks?
 
-**Do NOT end with:** “Any questions?” / “I’ll follow up.”
+**Must leave with:**
+
+- [ ] Inventory role clear
+- [ ] Thresholds / owners clear enough to configure
+- [ ] Receiving owner + system (NS vs Ramp)
+- [ ] Required fields named
+- [ ] Pilot people named
+- [ ] **Working session on the calendar**
+
+**Don’t end with:** “Any questions?” / “I’ll follow up.”
 
 ---
 
-## 5. Pushback — one-liners
+## 5. If she pushes back
 
 | She says | You say |
 |----------|---------|
-| Don’t change everything | One high-impact path first — prove, expand. |
-| Approvals are complicated | Separate **required** rules from friction of how it evolved. |
-| Need NetSuite | Ramp upstream; NetSuite = books; keep synced. |
-| Employees won’t adopt | One clear place — kill email/Slack chase. |
-| AI nervous | Gather info + prep review; your team approves. |
-| Process is unique | Preserve **business requirement**, not every tribal step. |
+| Don’t change everything | Agreed — one path first, prove it, then expand. |
+| Approvals are complicated | Then let’s model the real policy, not a generic chain. Which exceptions actually matter? |
+| We already use NetSuite | I’m not trying to rip that out. Ramp for intake and the buying workflow; NetSuite where it should stay system of record. |
+| Another system for receiving | Fair — if warehouse lives in NetSuite, keep receiving there and connect it for matching. |
+| AI deciding | Agreed — it gathers context; your people decide. |
+| Not ready for Bill Pay | Fine — prove procurement first; leave the door open so we don’t rebuild later. |
 
 ---
 
 ## 6. Part 2 triage (~10 min)
 
-**Open:** *Ranking by **activation risk** — zero live usage at day 60 if I wait a week?*
-
-Also: business impact · blocked vs workaround · async OK?
+**Open:** I’m ranking by activation risk — who’s most likely to have **zero live usage at day 60** if I wait a week?
 
 | P | Means |
 |---|--------|
-| 1 | Blocked from procurement live / zero usage late in window |
-| 2 | Live transaction broken · regression to Slack · critical spend |
-| 3 | Important but workaround exists |
-| 4 | Optimization / AI before first request |
+| 1 | Blocked from going live / zero usage late in the window |
+| 2 | Live transaction broken · people back on Slack · critical spend |
+| 3 | Important, but there’s a workaround |
+| 4 | Nice-to-have / AI before the first request |
 
-**Magic line:** *Blocker to activation, or optimization we handle async?*
+**Line if unsure:** Is this blocking activation, or something we can handle async?
 
-**Form:** *“#N because __. Next I’d __.”*
-
-**Practice order:** A1→A4→A2→A3 · B2→B1→B4→B3 · C2→C1→C4→C3
+**Form:** “#N because __. Next I’d __.”
 
 ---
 
-## 7. Product facts (if stuck)
+## 7. Before you join — 30 sec
 
-| Topic | Line |
-|-------|------|
-| NetSuite | Ramp upstream; NS = books; thoughtful PO origin |
-| 3-way | Parts: PO + receipt + invoice |
-| 2-way | Services later — per program |
-| Bill Pay | Match + pay — closes audit trail |
-| Agents | Research + report; **do not approve** |
+**Parts first** · Request → Approve → PO → Receive → Match → **Bill Pay** · NetSuite = books  
 
----
+**Four locks:** Inventory · Thresholds · Receiving · Required fields  
 
-## 8. Before you join — 30 sec scan
+**Close:** program + first real request + **calendar**  
 
-**NORTHSTAR** — speed + audit · parts first · friction ↓ control stays  
-
-**PATH** — Request → Approve → PO → Receive → Match → **Bill Pay** · NS = books  
-
-**WOW** — Inventory: visibility vs accountability?  
-
-**CLOSE** — parts program + first real request + **calendar**  
-
-**PART 2** — activation risk × impact · blocker vs async  
+**Part 2:** activation risk · blocker vs async  
