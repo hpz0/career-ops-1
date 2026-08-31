@@ -1,47 +1,58 @@
 # CV — Harrison Pizzi
 
-**Location:** Richboro, PA
+**Location:** Richboro, PA 18954
 **Email:** harrisonpizzi@gmail.com
 **Phone:** 215-595-8175
 **LinkedIn:** linkedin.com/in/hpizzi
 
 ## Professional Summary
 
-Procurement and category leader with 9+ years of **technology and indirect sourcing** on the buyer side — managing vendor portfolios, negotiating contracts, and running procure-to-pay at Plenty (agtech/manufacturing) and Comcast (Fortune 50 enterprise). Owns strategic sourcing across Technology/IT, Wireless Infrastructure, Fixed Network, and broader indirect categories (facilities, travel, marketing, contract labor). Builds supplier partnerships and scalable sourcing programs that improve total cost of ownership, contract compliance, and supply continuity.
+Strategic procurement leader with proven experience in high-growth manufacturing startups and Fortune 50 enterprises, directing multi-billion-dollar spend across direct materials, CapEx, and scaling operations. Excel at building sourcing strategies, fostering supplier partnerships, accelerating time-to-market, mitigating risks, and ensuring supply continuity through executive partnerships and data-driven decisions.
 
-**Positioning for account management roles:** Former procurement decision-maker who understands RFP cycles, contract negotiation, stakeholder alignment, and what kills vendor deals — now moving to the sell side with insider buyer empathy.
+## Core Competencies
+
+- Strategic Sourcing & Category Management
+- High-Value Contract Negotiation
+- ERP/P2P Systems (NetSuite, Coupa, Oracle)
+- Inventory & Demand Planning
+- Cost Reduction & Value Engineering
+- Supplier Risk Assessment & Mitigation
+- Procurement Policy & Compliance
+- Process Optimization
 
 ## Work Experience
 
-### Comcast — Philadelphia, PA
+### Comcast Corporation — Philadelphia, PA
 
 **Senior Manager, Enterprise Procurement**
 Feb 2026 – Present
 
+- Lead sourcing strategy for high-spend **Wireless Infrastructure** and **Fixed Network** categories across Comcast, NBC, and Sky, supporting a multi-billion-dollar portfolio and accelerating time-to-market for major initiatives
+- Drive complex, high-stakes contract negotiations to secure favorable terms, mitigate operational and commercial risk, and support network expansion and modernization
+- Deliver cost savings and efficiency improvements by aligning procurement strategy with enterprise network roadmaps and senior leadership priorities
+- Manage global vendor ecosystems to strengthen supplier innovation, performance, and long-term scalability
+
 **Manager, Enterprise Procurement**
 Apr 2024 – Feb 2026
 
-- Lead strategic sourcing for Wireless Infrastructure and Fixed Network categories across Comcast, NBC, and Sky — multi-billion-dollar technology/infrastructure portfolio supporting network expansion, modernization, and supply continuity
-- Drive executive-level contract negotiations and manage global vendor ecosystems for performance, commercial risk mitigation, and long-term scalability
-- Promoted to Senior Manager for strategic impact; selected to lead Fixed Networks after excelling in Wireless
+- Promoted to Senior Manager in recognition of strong leadership, strategic impact on multi-billion-dollar network categories, and consistent high-performance execution
+- Selected to lead Fixed Networks after excelling in the Wireless category, demonstrating adaptability, strategic thinking, and consistent execution under visibility
 
-### Plenty® — San Francisco, CA / South San Francisco, CA
+### Plenty Unlimited Inc. — South San Francisco, CA
 
 **Senior Global Supply Manager**
 Mar 2021 – Jan 2024
 
-- Managed strategic supplier partnerships and negotiations across raw material, packaging, and agricultural input categories
-- Delivered 30% reduction in Bill of Material costs within six months through value engineering, supplier negotiations, and cost-saving initiatives
-- Sourced supplies, materials, and equipment for Plant Science / R&D teams; purchased third-party lab testing services supporting product development and quality programs
-- Orchestrated migration from manual inventory management to NetSuite ERP with dynamic material requirements planning
-- Collaborated with Global Supplier Quality teams on supplier evaluation processes for FDA and SQF compliance
-- Led complete redesign of postharvest and packaging line with hardware optimization strategies
-- Directed New Product Introduction (NPI) initiatives, integrating procurement into product development
+- Owned end-to-end sourcing for **direct materials, equipment, and CapEx** in high-growth vertical farming/manufacturing, supporting continuous production and rapid scaling
+- Delivered **30% BOM cost reduction in 6 months** through strategic negotiations, value engineering, supplier optimization, and cross-functional S&OP demand planning
+- Implemented **NetSuite BOMs, material requirements planning, and inventory management** within existing ERP — replacing manual processes and improving spend visibility and throughput
+- Partnered with Supplier Quality on FDA/SQF compliance; embedded sourcing early in **NPI** cycles for faster product launches
 
 **Global Supply Manager**
 Jan 2018 – Mar 2021
 
-- Led major company-wide system implementations: Coupa (P2P), Ironclad and DocuSign SpringCM (CLM), TripActions (travel)
+- Led major company-wide system implementations: Coupa (P2P — including approval workflows, catalogs, and punchouts; implemented No-PO-No-Pay policy), Ironclad and DocuSign SpringCM (CLM), TripActions (travel)
+- Former **Coupa certified admin** (~5 years at Plenty); platform owner partnering with vendor on feature requests, onsite product sessions, and local user group; nominated for Coupa procurement award
 - Used Power BI and ERP spend analytics to inform category decisions and cost-driver analysis
 - Oversaw multimillion-dollar **indirect procurement** budget including **IT/technology**, facilities, travel, marketing, contract labor, and office supplies — category planning, sourcing, and supplier performance
 - Managed and negotiated **industrial gas** supply — including **CO₂ and oxygen** — covering contracted supply, delivery continuity, and commercial terms with gas suppliers
@@ -50,42 +61,13 @@ Jan 2018 – Mar 2021
 - Increased supplier electronic invoice rate by 50%, reducing Accounts Payable labor
 - Collaborated with Finance, Legal, and IT to align procurement strategies with corporate goals
 
-### Black Locust Lumber, U.S.A. — Pittstown, NJ
+### Earlier Experience
 
-**Project Manager**
-May 2016 – Feb 2017
-
-- Orchestrated documentation, planning, and outreach for sales and marketing initiatives; increased sales presentation appointment rates through targeted email campaigns and follow-up calls
-
-### Nuage Consulting Group, Inc.
-
-**Business Analyst**
-Jun 2015 – Aug 2015
-
-- Prepared legacy database input files for integration into NetSuite Cloud Business Software
-- Managed workload and prioritized tasks to meet critical path deadlines
-
-### Northeast Metal Traders, Inc. — Philadelphia, PA
-
-**Inventory Control**
-May 2014 – Aug 2014
-
-- Led quality control aspects of inventory software conversion at a multi-million-dollar metal recycling plant
+- **Project Manager** — Black Locust Lumber (2016–2017)
+- **Business Analyst** — Nuage Consulting Group (2015)
 
 ## Education
 
-- **Bachelor's Degree, Agribusiness Management** — Penn State University (2012–2016)
-- **International Business** — Temple University Rome
+- **B.S., Agribusiness Management** — Pennsylvania State University, University Park, PA (Dec 2016)
+- **International Business** — Temple University Rome, Rome, Italy (Jan 2015)
 
-## Certifications
-
-- Learning Java — LinkedIn Learning (Nov 2020)
-
-## Skills
-
-- **Technology & Indirect Sourcing:** Technology/IT category sourcing, Wireless Infrastructure, Fixed Network, indirect procurement (IT, facilities, travel, marketing, contract labor), industrial gases (CO₂, oxygen), category strategy, TCO
-- **Procurement & Supply Chain:** Strategic sourcing, procure-to-pay, contract lifecycle management, supplier management, material requirements planning, NPI, value engineering, commodity / bulk-supply negotiation
-- **Account Management & Partnerships:** Strategic vendor relationship management, contract negotiation, stakeholder alignment, buyer-process fluency, consultative partnership development, RFP/procurement cycle knowledge
-- **Systems:** NetSuite ERP, Coupa, Ironclad, DocuSign SpringCM, TripActions, Power BI, MS Office (Excel, Word, PowerPoint)
-- **Operations:** Inventory management, quality management, regulatory compliance (FDA, SQF), Plant Science / R&D supply & equipment sourcing, third-party lab testing services procurement, cross-functional program leadership
-- **Analytics & Tools:** Spend analytics, Power BI dashboards, Large-Scale Scrum (LeSS), project management

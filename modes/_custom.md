@@ -2,8 +2,10 @@
 
 ## House Rules
 
+- **Interview-prep layout:** One folder per company under `interview-prep/{company-slug}/`. Default two active files: `cheatsheet.md` (day-of) + `prep.md` (scripts/intel). Named rounds can use clearer names (e.g. Ramp: `caroline.md` + `caroline-prep.md`). Cross-company stories stay in `interview-prep/story-bank.md`. Put superseded drafts in `{company}/_archive/` — do not keep parallel “chatgpt / v2 / hm-qa” copies at the top level. Prefer this over flat `interview-prep/{company}-{role}.md` dumps when writing new prep for Harrison.
 - **Dual-track search:** Harrison targets both (A) procurement/supply chain builder roles AND (B) enterprise account management / account executive roles. Detect track from the JD title and tailor all output.
-- **Active interview (priority):** Ramp — Senior Manager, Procurement Product Activation (recruiter screen). Prep: `interview-prep/ramp-senior-manager-procurement-product-activation.md` + `ramp-procurement-activation-cheatsheet.md`. Do NOT suggest re-applying to Ramp. Confirm remote vs Hybrid and base under 70/30 OTE before advancing.
+- **Active interview (priority):** Ramp — Procurement Product Activation — **HM Caroline Novas done 2026-08-12** (went fine). She will decide **manager vs IC**, then next steps. Debrief: `interview-prep/ramp/caroline-debrief-2026-08-12.md`. Do NOT re-apply; confirm remote + base when path is clear.
+- **Active interview:** The Nuclear Company — Sr. Category Manager Indirect/Corporate — **HM next week w/ Rebekah O'Hara** (Director, Strategic Sourcing). Prep: `interview-prep/the-nuclear-company/` (cheatsheet + prep; HM sheet if present). Relocation already OK — do not reopen.
 - **Secondary Ramp thread:** AE exploratory with Max — keep warm; do not confuse with Activation role in outreach or prep.
 - **Hunt refinement (Jul 2026):** Prioritize **Director+** remote procurement/sourcing — especially **data centers, hardware, infrastructure**, and **source-to-pay / spend analytics**. **Remote US only — not relocating** to Boston, SF, NYC, etc. **Not an engineer** — discard engineering/PM/design titles. Deprioritize on-site PA suburbs and 25%+ travel titles.
 - **Scan is two steps (IMPORTANT):**

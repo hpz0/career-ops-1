@@ -80,6 +80,25 @@ type ScanJson = {
   offers?: JsonOffer[];
 };
 
+/** scan-ats-full --json writes ONE object to stdout; dotenv v17 may prepend a
+ *  human line ("◇ injected env…") when scan.mjs loads — strip it before parse. */
+function parseScanJson(stdout: string): ScanJson | null {
+  const trimmed = stdout.trim();
+  if (!trimmed) return null;
+  try {
+    return JSON.parse(trimmed) as ScanJson;
+  } catch {
+    const start = trimmed.indexOf("{");
+    const end = trimmed.lastIndexOf("}");
+    if (start < 0 || end <= start) return null;
+    try {
+      return JSON.parse(trimmed.slice(start, end + 1)) as ScanJson;
+    } catch {
+      return null;
+    }
+  }
+}
+
 export function runDiscovery(filters: ExploreFilters, onEvent: (e: ScanEvent) => void): Promise<DiscoveredOffer[]> {
   return new Promise((resolve) => {
     const tempPortals = writeTempPortals(filters);
@@ -224,12 +243,7 @@ export function runDiscovery(filters: ExploreFilters, onEvent: (e: ScanEvent) =>
       clearTimeout(killer);
       cleanupTempPortals(tempPortals);
       if (useJson) {
-        let j: ScanJson | null = null;
-        try {
-          j = JSON.parse(jsonOut.trim()) as ScanJson;
-        } catch {
-          j = null;
-        }
+        const j = parseScanJson(jsonOut);
         if (j && Array.isArray(j.offers)) {
           for (const o of j.offers) {
             const url = (o.url || "").trim();

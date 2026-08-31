@@ -1,0 +1,76 @@
+# Christina Pizzi — Career-Ops Profile
+# Separate profile from Harrison's root config. Point modes at christina/ when prepping for her roles.
+
+candidate:
+  full_name: "Christina Pizzi"
+  email: "christinapizzi1@gmail.com"
+  phone: "267-229-1383"
+  location: "Richboro, PA"
+  linkedin: ""
+  photo: ""
+
+target_roles:
+  primary:
+    - "Director of Paid Search"
+    - "Director of Performance Marketing"
+    - "Senior Growth Marketer"
+    - "Head of Paid Media"
+  secondary:
+    - "Senior Manager, Search Marketing"
+    - "Paid Search Lead"
+    - "Growth Marketing Manager"
+  archetypes:
+    - name: "Paid Search / Performance Marketing Leader"
+      level: "Director / Senior Manager"
+      fit: "primary"
+    - name: "Agency Growth Marketer (client-facing)"
+      level: "Senior / Director"
+      fit: "primary"
+    - name: "In-house Performance Marketing Manager"
+      level: "Senior Manager"
+      fit: "secondary"
+
+narrative:
+  headline: "Agency paid search director — $1M/mo portfolios, team leadership, Fortune 500 + national brands"
+  exit_story: "9 years in agency paid search and performance marketing, promoted from specialist to director at Vincodo. Currently directing 16 accounts and a specialist team with multimillion-dollar monthly budgets. Open to senior IC or director roles at growth agencies or in-house teams where paid search is the core lever."
+  superpowers:
+    - "Portfolio-scale paid search — 16 accounts, $1M/mo, CPA/ROAS discipline"
+    - "Team leadership and mentorship — reduced turnover, built specialists into strategists"
+    - "Budget scaling — 164% spend growth with 100% conversion lift at flagship client"
+    - "Cross-channel fluency — paid search primary; paid social and display foundation from earlier roles"
+    - "Tracking and measurement partnerships — resolves GTM/pixel issues with tech teams"
+  proof_points:
+    - name: "Flagship client scale-up"
+      hero_metric: "164% media spend increase, 100% conversion lift, 34% CPA increase over 2 years"
+    - name: "Portfolio ownership"
+      hero_metric: "$1M/mo across 16 accounts — national home services + high-value clients"
+    - name: "Fortune 500 agency work"
+      hero_metric: "AKQA CPG accounts — up to $1M/quarter, CPA/CPE targets met or exceeded"
+    - name: "Innovation testing"
+      hero_metric: "AI Max, PMAX, ROAS bidding — measurable conversion rate lifts"
+  avoid:
+    - "Pure brand/awareness roles with no performance accountability"
+    - "Entry-level or coordinator titles (overqualified)"
+    - "Roles requiring relocation to NYC full-time (remote or hybrid with PA base preferred)"
+    - "On-site only with no remote option"
+
+compensation:
+  target_range: "$120K-150K"
+  currency: "USD"
+  minimum: "$100K"
+  location_flexibility: "Remote preferred from Richboro, PA. Open to occasional Brooklyn/NYC office days for the right agency role."
+
+location:
+  country: "United States"
+  city: "Richboro, PA"
+  timezone: "EST"
+  visa_status: "No sponsorship needed"
+  remote_preference: "primary"
+  onsite_availability: "Remote-first from PA. Can travel to NYC/Brooklyn occasionally; not relocating."
+
+cover_letter:
+  notice_period_days: 14
+  primary_domain: "agency paid search and performance marketing"
+
+cv:
+  output_format: "html"

@@ -11,8 +11,7 @@ Harrison runs **two parallel tracks**. Detect which track a role belongs to and 
 | Track | Target titles | CV emphasis |
 |-------|---------------|-------------|
 | **A — Procurement / Supply Chain** | Director/Sr Director Procurement, Global Sourcing, Supply Chain Director, Source-to-Pay / spend systems | Builder, P2P, data centers, hardware BOM, Coupa/NetSuite |
-| **B — Account Management / Sales** | Enterprise AE, Strategic AM (fintech, spend SaaS, B2B to procurement/finance) | Buyer empathy — Ramp AE exploratory (Max); deprioritize vs Activation seat |
-| **A-adjacent — Procurement Product Activation** | Implementation / activation leadership at spend fintech (Ramp) | Buyer-side Coupa/P2P implementer → founding activation playbook |
+| **B — Account Management / Sales** | Enterprise AE, Strategic AM (fintech, spend SaaS, B2B to procurement/finance) | Buyer empathy — **Ramp interview validates this track** |
 
 **Never fabricate quota attainment or closed-won revenue.** Reframe procurement experience as relationship management, negotiation, and understanding the buyer's process.
 
@@ -57,10 +56,9 @@ When generating PDF/cover for AE/AM roles:
 **Frame:** The buyer who understands what it's like on the other side of the table.
 
 - **Track A (procurement):** Plenty builder → leaving Comcast bureaucracy → remote-first startup
-- **Track A-adjacent (Ramp Activation):** Active **recruiter screen** for Senior Manager, Procurement Product Activation — founding playbook / specialist coaching. Prioritize over AE cold apps.
-- **Track B (AE/AM):** Ramp AE exploratory with Max (SVP Sales) — secondary to Activation seat; still valid for other fintech AE roles where buyer-side fluency is the wedge.
+- **Track A-adjacent (Ramp Activation):** **HM Caroline Novas done 2026-08-12** (went fine). She decides **manager vs IC**, then next steps. Debrief: `interview-prep/ramp/caroline-debrief-2026-08-12.md`. Prioritize over AE cold apps.
+- **Track B (AE/AM/SE):** Ramp exploratory with Max + Gabriel — secondary to Activation seat; still valid for other fintech AE/SA/TAM roles. See `interview-prep/ramp/gabriel.md` if present.
 - **In interviews (activation):** Lead Coupa go-live + policy + coaching; do not lead with quota pivot
-- **In interviews (AE):** Use Plenty supplier negotiation stories as "how I'd handle a skeptical procurement stakeholder today — because I was one"
 
 ## Your Cross-cutting Advantage
 
@@ -84,9 +82,11 @@ When generating PDF/cover for AE/AM roles:
 
 | Company | Role | Track | Notes |
 |---------|------|-------|-------|
-| **Pengate Handling Systems** | Procurement Manager / Strategic Procurement Lead (Chalfont) | A | VP Finance round — stand up procurement from scratch. Use `pengate-cheatsheet.md` + `pengate-procurement-manager.md`. Lead Plenty builder stories; for **fuel** use **S8** (industrial gases CO₂/O₂). |
-| **Ramp** | Senior Manager, Procurement Product Activation | A-adjacent | **Active recruiter screen** — CS founding playbook seat. Use `interview-prep/ramp-senior-manager-procurement-product-activation.md` + cheatsheet. Confirm remote + 70/30 base. |
-| **Ramp** | Account Executive (remote) | B | Exploratory with Max (SVP Sales). Use `interview-prep/ramp.md`. Deprioritize vs Activation. |
+| **The Nuclear Company** | Sr. Category Manager (Indirect/Corporate) | A | **HM w/ Rebekah O'Hara** (Director, Strategic Sourcing). Prep: `interview-prep/the-nuclear-company/`. Comp $151–176K. **OK relocating**. |
+| **Pengate Handling Systems** | Procurement Manager / Strategic Procurement Lead (Chalfont) | A | Next: lawyer + onsite EVP Admin. Prep: `interview-prep/pengate/`. Fuel category: **S9** (industrial gases → fuel). |
+| **Ramp** | Procurement Product Activation (mgr vs IC TBD) | A-adjacent | **Post-HM 2026-08-12.** Caroline deciding path. Debrief: `interview-prep/ramp/caroline-debrief-2026-08-12.md`. Confirm remote + 70/30 base when clear. |
+| **Ramp** | SA/SE · TAM · Partnerships / AE exploratory | B | Max + Gabriel. Deprioritize vs Activation. `interview-prep/ramp/gabriel.md` if present. |
+
 
 ## Hunt Priorities (from Jul 2026 applications)
 

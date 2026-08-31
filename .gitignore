@@ -39,11 +39,13 @@ jds/*
 *成绩单*
 
 # Interview prep (accumulated STAR+R stories — user data)
+# Flat files + per-company folders (e.g. interview-prep/ramp/*.md) are tracked.
+# Session transcripts stay ignored except the system scaffold. #1242
 interview-prep/*
 !interview-prep/
 !interview-prep/.gitkeep
-# Session transcripts hold real interviewer names/companies — ignore content,
-# ship only the system-owned scaffold (README + .gitkeep). #1242
+!interview-prep/**/
+!interview-prep/**/*.md
 !interview-prep/sessions/
 interview-prep/sessions/*
 !interview-prep/sessions/.gitkeep
@@ -81,8 +83,18 @@ bun.lock
 # Report-number reservation sentinels (ephemeral, created by reserve-report-num.mjs)
 reports/*-RESERVED.md
 
-# Backup files written by normalize-statuses.mjs / dedup-tracker.mjs
-*.bak
+# Working copy the test suite makes under the repo root (test-all.mjs
+# `mkdtempSync(join(ROOT, '.tmp-script-test-'))`). A clean run deletes it; a
+# run interrupted mid-way leaves ~650MB of duplicated repo behind, which a
+# reflexive `git add .` would then stage as ~1000 new files.
+.tmp-script-test-*/
+
+# Backup files. Two shapes exist: `{file}.bak` (normalize-statuses.mjs,
+# dedup-tracker.mjs, tracker.mjs) and `{file}.bak-{ISO timestamp}`
+# (web/src/lib/core/safe-write.ts). A plain `*.bak` glob misses the timestamped
+# form, which for cv.md or portals.yml leaves a file holding the same PII as the
+# original sitting untracked in the repo root. Trailing `*` covers both.
+*.bak*
 
 # OpenRouter runner — generated data (personal, never commit)
 data/model-blacklist.json
@@ -105,6 +117,9 @@ package-lock.json
 # Playwright MCP server run artifacts (ephemeral, machine-local)
 .playwright-mcp/
 
+# Web dashboard local logo cache (runtime artifact — never ship)
+.career-ops-web/
+
 # Planning (local scratchpad)
 plan/
 
@@ -125,6 +140,7 @@ plan/
 !data/scan-runs.tsv
 !data/salary-observations.tsv
 !interview-prep/*.md
+!interview-prep/**/*.md
 !reports/*.md
 reports/*-RESERVED.md
 !jds/*

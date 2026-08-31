@@ -6,18 +6,19 @@ Accumulated stories for interviews. Only facts backed by `cv.md` / user statemen
 
 ## S1 — Coupa P2P Implementation (Plenty)
 
-**Use for:** Coupa depth, P2P ownership, transformation, first-100-days credibility, **standing up procurement from scratch** (Pengate VP Finance)  
+**Use for:** Coupa depth, P2P ownership, transformation, first-100-days credibility, standing up procurement from scratch (Pengate / Ramp HM)  
 **Audience:** recruiter-screen · hiring-manager · peer-tech
 
-- **Situation:** Plenty needed company-wide procure-to-pay discipline; manual / fragmented process.
-- **Task:** Lead major system implementation — Coupa (P2P) — and stand up operating policy with a small team.
-- **Action:** Led Coupa rollout; published and enforced Procurement Policy; managed 3 buyers; partnered with Finance, Legal, IT.
-- **Result:** 99% of spend on contract; purchase requisition cycle time cut from 3 days to 1.5 days.
-- **Reflection:** Platform only works when policy, approvals, and buyer behavior move with it — ownership of process + system beats “install and hope.”
-- **Finance framing (Pengate):** Lead with on-contract %, cycle time, and Finance/Legal partnership — not “I installed Coupa.”
+- **Situation:** Plenty needed company-wide procure-to-pay discipline; buying was manual, fragmented, and not scaling.
+- **Task:** Own the full P2P implementation end-to-end — system, policy, and adoption.
+- **Action:** Led Coupa rollout; configured **approval workflows, catalogs, and punchouts** (scale noted impressive by Coupa corporate); implemented **No-PO-No-Pay policy** (explicit, with threshold/emergency exceptions designed in); published and enforced Procurement Policy; managed 3 buyers; partnered with Finance, Legal, IT.
+- **Result:** 99% of spend on contract; requisition cycle time 3 days → 1.5 days; e-invoice rate +50%; Coupa corporate acknowledged the punchout build.
+- **Reflection:** Platform only works when policy, approvals, and buyer behavior move with it — process design + system beats "install and hope."
+- **Ramp framing (Caroline):** Tell as customer journey — discovery → design (routing, catalogs, punchouts, No-PO-No-Pay as change mgmt not a blunt gate) → config → adoption. Lead with outcome, not features.
+- **Finance framing (Pengate):** On-contract %, cycle time, AP labor — not "I installed Coupa."
+- **Drop naturally:** *"Coupa corporate was surprised at the number of punchouts I got live for a company our size."*
 
-**Proof source:** cv.md — Global Supply Manager, Plenty (Jan 2018 – Mar 2021)
-
+**Proof source:** cv.md (Global Supply Manager, Plenty Jan 2018–Mar 2021) + user confirmed 2026-08-12: No-PO-No-Pay explicit policy with threshold exceptions; punchouts at scale; Coupa corporate noted the build.
 ---
 
 ## S2 — Electronic Invoicing → AP Labor (Plenty)
@@ -101,24 +102,66 @@ Accumulated stories for interviews. Only facts backed by `cv.md` / user statemen
 
 ---
 
-## S8 — Industrial gases (CO₂ / oxygen) → Pengate fuel bridge
+## S7 — Controller-signed credit packet (not vendor credit apps)
 
-**Use for:** Pengate VP Finance · category credibility on **fuel / energy / bulk commodity** spend · “do you know dealer economics?”  
+**Use for:** Controller partnership · vendor onboarding · protecting the company from one-sided terms · playbook / Product feedback angle for Ramp Activation  
+**Audience:** hiring-manager · peer-tech · (light touch on recruiter if vendor-onboarding comes up)  
+**Status:** User-stated 2026-07-31 — confirm company/context if asked (fits Plenty-era process ownership with Controller; say so only if accurate).
+
+- **Situation:** Vendors routinely pushed **their** credit applications as the path to open terms / a line of credit. Those packets buried the vendor’s terms — easy to sign away leverage or accept junk conditions while “just setting up credit.”
+- **Task:** Establish credit relationships without executing vendor-paper terms that weren’t negotiated or approved.
+- **Action:** Stopped signing vendor credit apps as the default. Instead worked with the **Controller** on a **company template packet** — Controller-signed — that gave vendors the financial/credit info they needed to extend terms, on **our** paper and posture.
+- **Result:** Vendors could still underwrite/open credit, but we avoided casually agreeing to their boilerplate credit terms. Cleaner control, faster “here’s what you need” motion, Finance stayed in the loop.
+- **Reflection:** Vendor onboarding isn’t clerical — it’s **risk and terms**. Same class of problem Activation sees: customers get stuck in vendor setup / credit / master-data sludge, or they sign whatever the vendor emails. A standard packet is a playbook artifact; “auto-fill the vendor’s form” without term control is a product smell.
+- **Ramp angles (pick one, don’t force):**
+  - **Playbook:** Discovery question — *How do you open vendor credit today? Who signs? Do you execute vendor apps or issue a standard company packet?*
+  - **Product feedback pattern:** Mid-market Controllers may want a **controlled credit/onboarding packet** (exportable, Finance-approved) more than blind “fill the vendor’s credit application” automation.
+  - **Credibility line:** *“I’ve sat with a Controller designing how we share credit info without accepting the vendor’s terms by accident.”*
+
+**Proof source:** User statement in conversation 2026-07-31 (not yet in cv.md — fine for interview speech; add to cv/article-digest only if you want it on paper applications).
+
+---
+
+## S8 — Tub packaging CAPA / recall (Plenty direct materials)
+
+**Use for:** manufacturing buyer-planner, supplier quality, shortage/containment, Anduril maritime Quincy, any “tell me about a quality escape”  
+**Audience:** recruiter-screen · hiring-manager · peer-tech  
+**Status:** User-stated 2026-08-24 — interview speech OK. Not in `cv.md` (no $ / unit counts — don’t invent).
+
+- **Situation:** At Plenty I owned **direct materials**. A **tub packaging** material went **brittle**. Plastic **chipped**; product was affected and it became a **recall**.
+- **Task:** Stop bad material, protect the customer, get the line conforming material, close it with Supplier Quality — not a PO complaint.
+- **Action:**
+  1. **Quarantine** suspect material / affected product.
+  2. **New material ASAP** so production wasn’t starved.
+  3. **100% inspection by the vendor** as containment.
+  4. **Process review** with the supplier so the next lots didn’t repeat it.
+- **Result:** Conforming supply restored; recall worked as a supplier-and-quality event, not a finger-pointing thread. *(No separate metric in cv.md or the 2026-08-24 note.)*
+- **Reflection:** Direct materials failures are line-down and customer-safety events. Buyer/Planner owns the material until it is **good parts, on time, at spec**.
+- **Anduril one-liner:** *“I’ve run a packaging failure through quarantine, emergency material, vendor 100% inspect, and a process review with the supplier. That’s the job when a lot fails.”*
+
+**Proof source:** User statement 2026-08-24 + cv.md Senior Global Supply Manager (direct materials; Supplier Quality / FDA/SQF).
+
+---
+
+## S9 — Industrial gases (CO₂ / oxygen) → Pengate fuel bridge
+
+**Use for:** Pengate VP Finance · category credibility on **fuel / energy / bulk commodity** spend · "do you know dealer economics?"  
 **Audience:** hiring-manager  
-**Status:** User-stated 2026-08-04 — managed & negotiated industrial gases at Plenty incl. CO₂ and oxygen; bridge to Pengate fuel. No separate savings % — don’t invent one.
+**Status:** User-stated 2026-08-04 — managed & negotiated industrial gases at Plenty incl. CO₂ and oxygen; bridge to Pengate fuel. No separate savings % — don't invent one.
 
-- **Situation:** Plenty’s operations depended on reliable **industrial gas** supply — including **CO₂ and oxygen** — not a one-off PO category. Continuity, commercial terms, and supplier performance mattered the way fuel matters to a multi-site equipment dealer.
+- **Situation:** Plenty's operations depended on reliable **industrial gas** supply — including **CO₂ and oxygen** — not a one-off PO category. Continuity, commercial terms, and supplier performance mattered the way fuel matters to a multi-site equipment dealer.
 - **Task:** Own the category end-to-end: negotiate supply agreements, manage the vendor relationship, and keep sites supplied without accepting soft commercial terms or stockout risk.
 - **Action:**
   1. Treated gases as a **strategic commodity**, not spot buys — contracted supply, clear commercial terms, escalation path when delivery or pricing slipped.
   2. Negotiated with industrial gas suppliers on price, terms, and service expectations (delivery reliability, coverage across operating needs).
-  3. Partnered ops/finance stakeholders so usage, invoicing, and exceptions didn’t become AP/maverick chaos.
+  3. Partnered ops/finance stakeholders so usage, invoicing, and exceptions didn't become AP/maverick chaos.
 - **Result:** Stable contracted supply and a negotiated commercial posture on CO₂/oxygen (qualitative — no standalone % in cv.md). Category sat inside the broader indirect book you governed with policy + on-contract discipline.
 - **Reflection:** Bulk / delivered commodities (gases, fuel, propane, cylinders-to-tank) share the same playbook: **volume leverage, contracted continuity, delivery SLAs, invoice accuracy, and not letting vendors dictate terms.**
 - **Pengate bridge (say this):**  
-  > “At Plenty I owned industrial gases — CO₂ and oxygen — negotiating supply and keeping operations covered. That’s the same muscle as fuel for a multi-site dealer: contracted commodity spend, delivery continuity, cost control, and clean payables. I’d put fuel early in the category map with parts, facilities, and IT.”
+  > "At Plenty I owned industrial gases — CO₂ and oxygen — negotiating supply and keeping operations covered. That's the same muscle as fuel for a multi-site dealer: contracted commodity spend, delivery continuity, cost control, and clean payables. I'd put fuel early in the category map with parts, facilities, and IT."
 
 **Proof source:** User statement 2026-08-04; cv.md bullet on industrial gases (CO₂, oxygen).
+
 
 ---
 
@@ -127,8 +170,10 @@ Accumulated stories for interviews. Only facts backed by `cv.md` / user statemen
 - [ ] Conflict / influence with Finance or Controller-type stakeholder
 - [ ] Failed automation or adoption miss + recovery
 - [x] **S6 — Team coaching (junior buyer → IT category owner)** — drafted; verify soft details before HM
-- [x] **S8 — Industrial gases / Pengate fuel bridge** — drafted 2026-08-04
 - [ ] Comcast enterprise portfolio negotiation (need metrics user can confirm)
+- [x] **S8 — Plenty tub packaging CAPA / recall** — drafted 2026-08-24; add metrics only if you remember them
+- [x] **S9 — Industrial gases / Pengate fuel bridge** — drafted 2026-08-04
+- [ ] Anduril / defense: one personal “why this mission” sentence (don’t invent)
 
 ### Ramp Activation note (2026-07-29)
 
