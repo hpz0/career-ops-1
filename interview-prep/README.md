@@ -8,6 +8,7 @@ Session transcripts: [`sessions/`](sessions/)
 | Company | Open |
 |---------|------|
 | **Anduril** (Maritime Buyer/Planner, Quincy) | [`anduril/`](anduril/) |
+| **Ramp** (NorthStar Activation case) | [`ramp/northstar-business-case/cheatsheet.md`](ramp/northstar-business-case/cheatsheet.md) · [`prep.md`](ramp/northstar-business-case/prep.md) · [`ramp/`](ramp/) |
 | **Ramp** (Caroline HM) | [`ramp/caroline.md`](ramp/caroline.md) + [`ramp/caroline-prep.md`](ramp/caroline-prep.md) |
 | **Ramp** (post-Caroline HM debrief) | [`ramp/caroline-debrief-2026-08-12.md`](ramp/caroline-debrief-2026-08-12.md) |
 | Pengate | [`pengate/`](pengate/) |
