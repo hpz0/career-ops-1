@@ -143,6 +143,28 @@ Accumulated stories for interviews. Only facts backed by `cv.md` / user statemen
 
 ---
 
+## S9 — Industrial gases (CO₂ / oxygen) → Pengate fuel bridge
+
+**Use for:** Pengate VP Finance · category credibility on **fuel / energy / bulk commodity** spend · "do you know dealer economics?"  
+**Audience:** hiring-manager  
+**Status:** User-stated 2026-08-04 — managed & negotiated industrial gases at Plenty incl. CO₂ and oxygen; bridge to Pengate fuel. No separate savings % — don't invent one.
+
+- **Situation:** Plenty's operations depended on reliable **industrial gas** supply — including **CO₂ and oxygen** — not a one-off PO category. Continuity, commercial terms, and supplier performance mattered the way fuel matters to a multi-site equipment dealer.
+- **Task:** Own the category end-to-end: negotiate supply agreements, manage the vendor relationship, and keep sites supplied without accepting soft commercial terms or stockout risk.
+- **Action:**
+  1. Treated gases as a **strategic commodity**, not spot buys — contracted supply, clear commercial terms, escalation path when delivery or pricing slipped.
+  2. Negotiated with industrial gas suppliers on price, terms, and service expectations (delivery reliability, coverage across operating needs).
+  3. Partnered ops/finance stakeholders so usage, invoicing, and exceptions didn't become AP/maverick chaos.
+- **Result:** Stable contracted supply and a negotiated commercial posture on CO₂/oxygen (qualitative — no standalone % in cv.md). Category sat inside the broader indirect book you governed with policy + on-contract discipline.
+- **Reflection:** Bulk / delivered commodities (gases, fuel, propane, cylinders-to-tank) share the same playbook: **volume leverage, contracted continuity, delivery SLAs, invoice accuracy, and not letting vendors dictate terms.**
+- **Pengate bridge (say this):**  
+  > "At Plenty I owned industrial gases — CO₂ and oxygen — negotiating supply and keeping operations covered. That's the same muscle as fuel for a multi-site dealer: contracted commodity spend, delivery continuity, cost control, and clean payables. I'd put fuel early in the category map with parts, facilities, and IT."
+
+**Proof source:** User statement 2026-08-04; cv.md bullet on industrial gases (CO₂, oxygen).
+
+
+---
+
 ## Gaps (draft when ready)
 
 - [ ] Conflict / influence with Finance or Controller-type stakeholder
@@ -150,8 +172,13 @@ Accumulated stories for interviews. Only facts backed by `cv.md` / user statemen
 - [x] **S6 — Team coaching (junior buyer → IT category owner)** — drafted; verify soft details before HM
 - [ ] Comcast enterprise portfolio negotiation (need metrics user can confirm)
 - [x] **S8 — Plenty tub packaging CAPA / recall** — drafted 2026-08-24; add metrics only if you remember them
+- [x] **S9 — Industrial gases / Pengate fuel bridge** — drafted 2026-08-04
 - [ ] Anduril / defense: one personal “why this mission” sentence (don’t invent)
 
 ### Ramp Activation note (2026-07-29)
 
 Reframe S1 for **customer go-live** language (discovery → config → education → go-live) when answering async AI / “how would you onboard a client” prompts. You were the **buyer-side** implementer, not vendor CS — say that explicitly.
+
+### Pengate note (2026-08-04)
+
+When VP Finance asks about **fuel** or dealer operating spend, lead **S8** (gases → fuel analogy) before BOM. Keep BOM as backup TCO proof only.

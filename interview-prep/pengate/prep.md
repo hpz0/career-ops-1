@@ -7,7 +7,7 @@
 **Sources:** Company site; LinkedIn company page; John Leshinski LinkedIn headline; WV SOS corp filing (Michael Bock, V.P. of Finance); Pengate LinkedIn safety post tagging Bock CPA + Leshinski; Indeed careers/FAQ; Nexxt job listings; Senior Accountant / AP Accountant postings (Concur, PO→AP signals); acquisition announcements (Arbor Apr 2024, Hooper Dec 2024)
 **Audiences covered:** hiring-manager (VP Finance), panel-mixed (Bock + Leshinski), recruiter-screen (light)
 
-**Print companion:** [`pengate-cheatsheet.md`](pengate-cheatsheet.md) — 1-page sheet for **Michael Bock + John Leshinski** panel.
+**Print companion:** [`cheatsheet.md`](cheatsheet.md) — day-of sheet for **Michael Bock + John Leshinski** panel.
 
 ---
 
@@ -19,7 +19,7 @@
 | Sourcing + ERP + controls | Coupa P2P, NetSuite MRP, Ironclad/DocuSign CLM | strong |
 | Reports into / partners with Finance | VP Finance interview; Plenty Finance/Legal/IT alignment; e-invoice → AP | strong for this audience |
 | Multi-site / post-M&A spend discipline | Plenty multi-site ops + Comcast multi-brand portfolio | solid — frame dealer/network |
-| Category depth (parts, facilities, IT, vendors) | Plenty multimillion indirect (IT, facilities, travel, marketing, contract labor) | strong |
+| Category depth (parts, facilities, IT, vendors) | Plenty multimillion indirect (IT, facilities, travel, marketing, contract labor) + **industrial gases (CO₂, oxygen)** → fuel bridge (**S9**) | strong — use S9 for fuel |
 | Pure manufacturing BOM hero | 30% BOM / FDA-SQF | use sparingly — translate |
 
 **Verdict:** This is a **builder under Finance** seat, not a Coupa GPO at a software co. Plenty is the primary chapter; Comcast is scale proof. VP Finance cares about controls, visibility, AP quality, and a phased org plan — not only unit-cost war stories.
@@ -166,11 +166,12 @@ All questions `[inferred from JD]` / first-procurement-hire under Finance archet
 
 **Framing for Pengate:** Assess what’s live (ERP PO module, Concur adjacency from Finance hiring). Optimize controls in current tools first; sequence any P2P/CLM investment after requirements from Finance — don’t lead with “buy Coupa.”
 
-### 9. Give me a savings / negotiation example.
+### 9. Give me a savings / negotiation example — or “do you know our spend?”
 
-**Story:** S5 — **30% BOM cost reduction in six months** via value engineering + supplier negotiations.
+**Prefer for Pengate (dealer operating spend):** **S9 — industrial gases (CO₂ / oxygen)**  
+> At Plenty I managed and negotiated industrial gas supply — CO₂ and oxygen — contracted supply, commercial terms, delivery continuity. That’s the same category logic as **fuel** for a multi-site dealer: bulk commodity, sites that can’t stock out, invoice discipline, and not accepting soft vendor terms. I’d put fuel on the early category map with parts and facilities.
 
-**Bridge to dealer world:** Same commercial muscle applies to parts, facilities, contract labor, and project vendors — TCO and supplier performance, not only unit price. For this VP, pair with compliance metrics so you don’t read as “sourcing only.”
+**Backup savings proof:** S5 — **30% BOM cost reduction in six months** via value engineering + supplier negotiations. Bridge: TCO muscle for parts/vendors — pair with compliance metrics so you don’t read as “sourcing only.” Don’t lead with BOM/FDA in the open.
 
 ### 10. Why this role / why leave Comcast after promotion?
 
@@ -279,8 +280,9 @@ If John asks something Michael asked: same facts, shorter headline, then *new* a
 | 6 | panel (both) | **M&A / vendor master / Hooper** | **S9 approach + S1/S8 bridge** | **strong** | Approach talk track — not “I ran Pengate PMI” |
 | 7 | hiring-manager | Systems / T&E adjacency | S3 TripActions | partial | Concur ≠ TripActions — say “same control tower” |
 | 8 | hiring-manager | Savings | S5 30% BOM | partial | Reframe to TCO / dealer categories |
-| 9 | hiring-manager | Stakeholder conflict with Finance | — | none | Draft if probed |
-| 10 | panel (Leshinski) | Team coaching / underperformance | S6 | strong | — |
+| 9 | hiring-manager | **Fuel / energy / bulk commodity** | **S9** industrial gases (CO₂/O₂) | **strong** | Bridge explicitly to Pengate fuel |
+| 10 | hiring-manager | Stakeholder conflict with Finance | — | none | Draft if probed |
+| 11 | panel (Leshinski) | Team coaching / underperformance | S6 | strong | — |
 
 ---
 
@@ -290,7 +292,7 @@ If John asks something Michael asked: same facts, shorter headline, then *new* a
 - [ ] How procurement metrics feed close / audit / working capital
 - [ ] Concur expense/invoice adjacency (Pengate Finance hiring for this) — partner language, don’t claim Concur implementation (not in cv.md)
 - [ ] Multi-entity / post-acquisition vendor master consolidation approach
-- [ ] Category plan for dealer economics: OEM/parts, facilities, IT/SaaS, contract labor, systems-project vendors
+- [ ] Category plan for dealer economics: **fuel/energy**, OEM/parts, facilities, IT/SaaS, contract labor, systems-project vendors — lead **S9** (gases→fuel) when fuel comes up
 - [ ] Coupa / NetSuite / CLM vocabulary refresh — implementation ownership at Plenty only
 - [ ] Recall 1–2 themes from prior Bock conversation — open by acknowledging them
 
@@ -299,7 +301,7 @@ If John asks something Michael asked: same facts, shorter headline, then *new* a
 ## Company Signals — panel-mixed (Bock + Leshinski)
 
 ### To Bock (return)
-- **Lead with:** AP partnership depth, exception rates, concrete 90-day proofs for *his* KPIs.
+- **Lead with:** AP partnership depth, exception rates, concrete 90-day proofs for *his* KPIs. When fuel comes up → **S9** gases bridge.
 - **Ask:** what he wants proven first after your last talk.
 - **Avoid:** replaying the full Plenty overview verbatim.
 

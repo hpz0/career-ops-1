@@ -41,10 +41,11 @@ Use these as **evidence**, not a checklist. Pick **one or two** per answer.
 - **+50% e-invoicing** → upstream vendor enablement → less AP labor, cleaner close
 - **Team of 3 + policy** → you built an **org**, not just personal buying
 - **30% BOM reduction** → only if they ask about savings depth (manufacturing angle)
+- **Industrial gases (CO₂ / O₂)** → negotiated bulk commodity supply — **same muscle as dealer fuel**
 
 **Systems you've rolled out:** Coupa P2P · Ironclad CLM · DocuSign SpringCM · TripActions · NetSuite (BOM/MRP)
 
-**Default frame for VP Finance:** controls → visibility → AP partnership → then savings.
+**Default frame for VP Finance:** controls → visibility → AP partnership → then savings. Use **gases→fuel (S9)** when they talk operating spend / fuel.
 
 ---
 
@@ -153,7 +154,10 @@ Diagnose → policy/approvals → system hygiene → category quick wins → hir
 Spend visibility, on-contract compliance, cleaner AP intake, faster close support, fewer vendor surprises.
 
 **First 90 days?**  
-Baseline KPIs; publish policy + approval matrix; fix top 3 process leaks; source 2–3 high-impact categories; ERP/P2P roadmap (sequence, don't boil the ocean).
+Baseline KPIs; publish policy + approval matrix; fix top 3 process leaks; source 2–3 high-impact categories (**fuel**, parts, facilities/IT); ERP/P2P roadmap (sequence, don't boil the ocean).
+
+**Category depth — fuel / operating commodities?**  
+At Plenty I owned **industrial gases — CO₂ and oxygen** — negotiated supply and kept ops covered. Same playbook as dealer **fuel**: contracted commodity, delivery continuity, cost control, clean invoices. Baseline fuel early across sites (**S9**).
 
 **Partner with AP?**  
 Own upstream: vendor master, PO accuracy, e-invoicing. Plenty: +50% e-invoice → measurable AP relief.
@@ -184,13 +188,13 @@ Lead with outcomes: payment terms, renewal/auto-renew, liability, sole-source do
 2. Post-Arbor/Hooper — how fragmented are vendor masters, POs, and approvals?
 3. **Success at 12 months** — compliance, savings, headcount, systems?
 4. Current ERP / PO / AP / Concur stack — what's fixed vs open to change?
-5. Where should I spend political capital first — parts, facilities, project vendors, or IT?
+5. Where should I spend political capital first — **fuel**, parts, facilities, project vendors, or IT?
 
 ---
 
 ## Don't
 
-- Over-index FDA/BOM — translate to **dealer spend** (parts, service vendors, facilities, IT, contract labor, automation project vendors).
+- Over-index FDA/BOM — translate to **dealer spend** (**fuel**, parts, service vendors, facilities, IT, contract labor, automation project vendors). For fuel: use **industrial gases (CO₂/O₂) → S9** as the Plenty bridge.
 - Promise Coupa day-one — sell **operating model**, then tools.
 - Badmouth Comcast. Don't invent comp — ask for the band.
 - Sound like a pure cost-cutter — lead **control, forecastability, audit readiness**.

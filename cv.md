@@ -55,6 +55,7 @@ Jan 2018 – Mar 2021
 - Former **Coupa certified admin** (~5 years at Plenty); platform owner partnering with vendor on feature requests, onsite product sessions, and local user group; nominated for Coupa procurement award
 - Used Power BI and ERP spend analytics to inform category decisions and cost-driver analysis
 - Oversaw multimillion-dollar **indirect procurement** budget including **IT/technology**, facilities, travel, marketing, contract labor, and office supplies — category planning, sourcing, and supplier performance
+- Managed and negotiated **industrial gas** supply — including **CO₂ and oxygen** — covering contracted supply, delivery continuity, and commercial terms with gas suppliers
 - Managed team of 3 buyers; published and enforced Procurement Policy
 - Achieved 99% of spend on contract; reduced purchase requisition cycle time from 3 days to 1.5 days
 - Increased supplier electronic invoice rate by 50%, reducing Accounts Payable labor
@@ -69,3 +70,4 @@ Jan 2018 – Mar 2021
 
 - **B.S., Agribusiness Management** — Pennsylvania State University, University Park, PA (Dec 2016)
 - **International Business** — Temple University Rome, Rome, Italy (Jan 2015)
+
