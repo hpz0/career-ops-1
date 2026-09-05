@@ -56,9 +56,10 @@ When generating PDF/cover for AE/AM roles:
 **Frame:** The buyer who understands what it's like on the other side of the table.
 
 - **Track A (procurement):** Plenty builder → leaving Comcast bureaucracy → remote-first startup
-- **Track A-adjacent (Ramp Activation):** **HM Caroline Novas done 2026-08-12** (went fine). She decides **manager vs IC**, then next steps. Debrief: `interview-prep/ramp/caroline-debrief-2026-08-12.md`. Prioritize over AE cold apps.
-- **Track B (AE/AM/SE):** Ramp exploratory with Max + Gabriel — secondary to Activation seat; still valid for other fintech AE/SA/TAM roles. See `interview-prep/ramp/gabriel.md` if present.
-- **In interviews (activation):** Lead Coupa go-live + policy + coaching; do not lead with quota pivot
+- **Ramp closed (Sep 2026):** Activation rejected after HM (Caroline Novas). Do not re-apply. Archive prep under `interview-prep/ramp/`.
+- **Now:** Full reopen — Track A Director+ remote procurement/sourcing (data centers/hardware/S2P) AND Track B spend-SaaS AE/AM (Zip/Coupa-class). Exit Comcast is the priority.
+- **In Track B interviews:** Lead buyer-empathy + Coupa/Ironclad fluency; never invent quota history
+
 
 ## Your Cross-cutting Advantage
 
@@ -84,8 +85,9 @@ When generating PDF/cover for AE/AM roles:
 |---------|------|-------|-------|
 | **The Nuclear Company** | Sr. Category Manager (Indirect/Corporate) | A | **HM w/ Rebekah O'Hara** (Director, Strategic Sourcing). Prep: `interview-prep/the-nuclear-company/`. Comp $151–176K. **OK relocating**. |
 | **Pengate Handling Systems** | Procurement Manager / Strategic Procurement Lead (Chalfont) | A | Next: lawyer + onsite EVP Admin. Prep: `interview-prep/pengate/`. |
-| **Ramp** | Procurement Product Activation (mgr vs IC TBD) | A-adjacent | **Post-HM 2026-08-12.** Caroline deciding path. Debrief: `interview-prep/ramp/caroline-debrief-2026-08-12.md`. Confirm remote + 70/30 base when clear. |
-| **Ramp** | SA/SE · TAM · Partnerships / AE exploratory | B | Max + Gabriel. Deprioritize vs Activation. `interview-prep/ramp/gabriel.md` if present. |
+| **Ramp** | Senior Manager, Procurement Product Activation | A-adjacent | **REJECTED after HM (Caroline) — closed 2026-09-05.** Do not re-apply. |
+| ~~Ramp AE exploratory~~ | — | B | Closed with Activation rejection — redirect to Zip/Coupa-class. |
+
 
 ## Hunt Priorities (from Jul 2026 applications)
 
@@ -134,7 +136,7 @@ When generating PDF/cover for AE/AM roles:
 - **Hybrid 1-2 days/week:** 3.5
 - **Hybrid 3+ days / Boston or SF on-site required:** 1.5 — treat as deal-breaker unless explicit Remote (US)
 - **On-site required (Somerville, Boston, SF, NYC):** 1.0
-- **AE selling to procurement at fintech/spend SaaS (Ramp archetype):** boost North Star +1 tier — **active Ramp interview**
+- **AE selling to procurement at fintech/spend SaaS (Zip/Coupa/Ramp-class):** boost North Star +1 tier — Ramp closed; still boost for peer spend platforms
 - **Director procurement data centers / hardware / infrastructure:** boost North Star +0.5
 - **Source-to-pay / spend analytics director:** boost Match +0.5 (WD-style roles)
 - **Coupa/NetSuite/Ironclad vendors or supply-chain SaaS:** strong AE fit — boost Match
