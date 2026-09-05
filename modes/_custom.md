@@ -26,9 +26,10 @@
 ## Resume / CV Formatting (persistent)
 
 - **One page every time** — letter format for US roles; tighten spacing, drop weak early roles / non-relevant certs / empty Projects section when needed to fit.
-- **Short professional summary** — 2–3 lines max (not 4+).
+- **Dense body, not sparse layout** — prefer more concrete bullets with metrics over large whitespace. If content is thin, add real `cv.md` proof points before shrinking fonts.
+- **Summary with substance** — 2–3 lines max, but specific (systems, categories, proof) — no vague filler.
 - **Always include a Skills section** — JD-keyworded, truthful reformulation only.
-- Prefer Core Competencies + Skills + Experience + Education; omit Projects/Certifications unless they strengthen the specific JD.
+- Prefer Core Competencies + Skills + Experience + Education; omit Projects/Certifications unless they strengthen the specific JD (Coupa/P2P certs usually stay for Zip/Coupa-like roles).
 - Ask clarifying questions when JD skills are adjacent but not explicit in `cv.md` (e.g. Power BI, spend analytics, domain-specific categories).
 
 ## Off-Limits
