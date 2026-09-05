@@ -143,6 +143,36 @@ Accumulated stories for interviews. Only facts backed by `cv.md` / user statemen
 
 ---
 
+## S9 — Complex BOM / demand consolidation (Plenty) — DRAFT blanks
+
+**Use for:** Anduril Copperhead/Sentry onsite (Stephen coaching); eBOM→mBOM; shared-parts planning  
+**Status:** Direction from Stephen 2026-09-05 + cv NetSuite BOMs. **Fill blanks before onsite — do not invent SKUs.**
+
+- **Situation:** Multiple like configs / BOMs creating fragmented demand on shared parts.
+- **Task:** Own BOM planning work yourself — engineering BOM into manufacturing BOM, demand + supply planning, change management.
+- **Action:** Consolidated demand across like BOMs; kept item master / MRP honest when revs moved.
+- **Result:** [fill: what got better — fewer false shortages, cleaner buys, faster change intercept]
+- **Anduril bridge:** Tier-2 electronics commonality across Copperhead / Seabed Sentry = same rollup muscle.
+
+**Proof source:** User/Stephen notes 2026-09-05; cv.md NetSuite BOMs/MRP. Soft details = [fill].
+
+---
+
+## S10 — Cultivar NPI / DVT + change management (Plenty) — DRAFT blanks
+
+**Use for:** Open trade studies; buy long-lead before finish specs lock  
+**Status:** Stephen asked you to highlight this (2026-09-05). Skeleton only until you fill.
+
+- **Situation:** New cultivar (or material set) with engineers + scientists; design still moving.
+- **Task:** Support design validation test (DVT), change management, and strategic procurement so production isn’t starved.
+- **Action:** [fill: what you bought early vs held; how you intercepted POs when DVT changed the design]
+- **Result:** [fill: qualitative OK]
+- **Anduril bridge:** Raw/long-lead PO while trade study open → finish after spec locks.
+
+**Proof source:** User/Stephen notes 2026-09-05; cv.md NPI + Supplier Quality. No metrics until you add them.
+
+---
+
 ## Gaps (draft when ready)
 
 - [ ] Conflict / influence with Finance or Controller-type stakeholder
@@ -150,6 +180,7 @@ Accumulated stories for interviews. Only facts backed by `cv.md` / user statemen
 - [x] **S6 — Team coaching (junior buyer → IT category owner)** — drafted; verify soft details before HM
 - [ ] Comcast enterprise portfolio negotiation (need metrics user can confirm)
 - [x] **S8 — Plenty tub packaging CAPA / recall** — drafted 2026-08-24; add metrics only if you remember them
+- [ ] **S9 / S10 blanks** — fill before Anduril onsite
 - [ ] Anduril / defense: one personal “why this mission” sentence (don’t invent)
 
 ### Ramp Activation note (2026-07-29)

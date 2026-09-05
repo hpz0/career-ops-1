@@ -1,15 +1,16 @@
 # Anduril Maritime — Buyer/Planner Cheat Sheet
 
 **You:** Harrison Pizzi · Richboro, PA · EST · No visa · ~30-day notice  
-**HM (hiring manager):** You know them — **write the name here:** ________________  
+**HM (hiring manager):** **Stephen** (friend / HM — confirm how he wants to be introduced)  
 **Role:** Buyer/Planner · Track A (manufacturing / direct materials)  
+**Your book (Stephen):** **Copperhead** + **Seabed Sentry** (Dive-LD / Shallow LD “Alder” = neighbors)  
 **Site:** Quincy, MA **QCY-01** · Undersea Reconnaissance & Strike — Production  
 **Req:** 11321 · Still live as of 2026-08-22  
 **Comp (posted):** **$99K–$130K** base + equity · **Your number: $140K base**  
 **Travel:** up to 25% · **Clearance:** eligible for Secret (don't claim you have one)  
 **Posting:** https://job-boards.greenhouse.io/andurilindustries/jobs/5169966007?gh_jid=5169966007
 
-**Print this.** Longer notes: `prep.md` · Hardware study: `hardware-primer.md` · Decisions: `decision-playbook.md`
+**Print this.** Onsite from Stephen: `stephen-onsite.md` · Longer: `prep.md` · Hardware: `hardware-primer.md` · Decisions: `decision-playbook.md`
 
 ---
 
@@ -27,7 +28,7 @@
 >
 > Two proof points people remember: we took **bill of materials cost down 30% in about six months**. And we had a packaging failure: brittle tub plastic that started chipping into product and became a **recall**. I ran that with the supplier: quarantine the bad stuff, get good material in, put them on 100% inspection, then dig into what went wrong so it didn't happen again.
 >
-> That's the work this role is asking for. Quincy is building autonomous underwater vehicles, and this Buyer/Planner owns materials and planning for those lines. I know [HM]. I'm here to learn which vehicles I'd own and where the shortages actually are.
+> That's the work this role is asking for. Quincy is building autonomous underwater vehicles, and this Buyer/Planner owns materials and planning for those lines. Stephen and I talked about **Copperhead** and **Seabed Sentry** as the book. I'm here to learn how this team runs shortages and where the open trade studies live.
 
 *If they ask about Comcast:*  
 > I'm there now: wireless and fixed network categories, big contracts, enterprise vendors. Useful experience. But this seat is the factory job. That's what I want.
@@ -39,7 +40,7 @@
 They ask this more than once. Don't give a geopolitics speech. Don't say "drones are cool." Don't recite Lattice like a fan site.
 
 **Short version (recruiter):**  
-> I want to buy and plan for real manufacturing again. Plenty was that. Comcast isn't, not in the same way. Anduril's maritime team is building autonomous underwater vehicles in Quincy and scaling production (Quonset is the volume factory). Hard parts, real lead times, quality that matters. I know [HM], I looked at the seat, and it fits. I'm fine working in defense.
+> I want to buy and plan for real manufacturing again. Plenty was that. Comcast isn't, not in the same way. Anduril's maritime team is building autonomous underwater vehicles in Quincy and scaling production (Quonset is the volume factory). Hard parts, real lead times, quality that matters. I know Stephen, I looked at the seat, and it fits. I'm fine working in defense.
 
 **If they push "why defense / are you comfortable?":**  
 > Yeah. I'm not looking for a soft consumer brand. These vehicles either work or they don't. I've already lived what a bad material lot does to a product and a customer. That problem is interesting to me. I'm not ambivalent about the mission.
@@ -61,14 +62,18 @@ They ask this more than once. Don't give a geopolitics speech. Don't say "drones
 | This site | **QCY-01**: engineering + low-rate build/test. Water access. Not the big factory. |
 | Quonset, RI | Volume plant, ~150k sq ft, opened late 2025. ~1 hour south. Public talk of scaling hulls hard. |
 | Dive-LD | Large autonomous underwater vehicle: ~19 ft, ~4 ft diameter, deep (~6,000 m), modular payload. |
+| Shallow LD (Alder) | Neighbor program/name from Stephen. Know it; don't claim ownership. |
+| Copperhead (Toledo) | High-speed AUV family. **Your book.** Push more OTS, less sole source, in-house design ownership. |
+| Seabed Sentry | Seabed sensor nodes. **Your book.** Commonality with Copperhead is mostly tier-2 electronics/boards. |
 | Ghost Shark | Extra-large / Dive-XL family. Australia **A$1.7B** program (Sep 2025). Built in Sydney. Don't mix AU factory with Quincy. |
-| This job | Buy + plan for assigned lines: forecast, inventory, purchase orders, material requirements planning, shortages, make/buy, sales and operations planning, know the bill of materials well enough to push back on a bad promise. |
+| This job | Buy + plan for Copperhead + Sentry: forecast, inventory, POs, MRP, shortages, make/buy, S&OP, BOM literacy — including long-lead hedges while trade studies are still open. |
+| DPAS | Defense Priorities and Allocations System. Stephen: Anduril often lacks rated-order leverage; primes can jump the queue on scarce parts (timing / CSAC-class). |
 
-**Say:** materials, lead time, quarantine, bill of materials, material requirements planning, on-time-in-full.  
-**Don't claim:** you build autonomous underwater vehicles, you have clearance already, Blue Yonder, Lean/Six Sigma belts, deep Oracle admin.
+**Say:** materials, lead time, quarantine, bill of materials, material requirements planning, on-time-in-full, trade-study hedge, OTS, sole source.  
+**Don't claim:** you build AUVs, you have clearance already, Blue Yonder, Lean/Six Sigma belts, deep Oracle admin, DPAS policy expertise.
 
-**Hardware study:** `hardware-primer.md` (what the vehicle is made of, what you'd likely buy, smart questions when you're not an engineer).  
-**How you'd run the seat:** `decision-playbook.md` (make vs buy, change orders, long lead, delays).
+**Onsite pack:** `stephen-onsite.md` (Plenty highlights Stephen wants + blanks to fill).  
+**Hardware study:** `hardware-primer.md`. **Decisions:** `decision-playbook.md`.
 
 ---
 
@@ -89,7 +94,8 @@ Tell it like a story, not a corrective-and-preventive-action form.
 
 **Backup (one only if needed):**  
 - Cost: **30% bill of materials** in 6 months (negotiation + value engineering + sales and operations planning).  
-- Planning: NetSuite bill of materials / material requirements planning replaced manual inventory.  
+- Planning: NetSuite BOMs / MRP + safety stock; demand consolidation across like BOMs (Stephen highlight — fill blanks in `stephen-onsite.md`).  
+- NPI: new cultivar with engineers/scientists, DVT, change management, buy long-lead while finish specs still open.  
 - Process: Coupa / 99% on contract only if they wander into "can you build process." This seat is materials.  
 - People: junior buyer → IT category owner only if they ask about coaching.
 
@@ -118,7 +124,7 @@ Don't lead with money in the first minute. Don't say "walk-away" out loud. If yo
 **Secret:** Eligible to get and keep it. No sponsorship needed. Don't claim an existing clearance.  
 **Why leave Comcast:** Manufacturing ownership again + this team / HM. Not "I hate cable."  
 **Notice:** ~30 days.  
-**Other processes:** You have some. Don't give a tour. If asked: other conversations are open; this one is specific because of the manufacturing seat and [HM].
+**Other processes:** You have some. Don't give a tour. If asked: other conversations are open; this one is specific because of the manufacturing seat and Stephen.
 
 ---
 
@@ -140,7 +146,7 @@ Keep it plain.
 2. What still builds in Quincy vs Quonset, and who owns material between them?
 3. How healthy is material requirements planning master data? Is Oracle the daily system, or are people still living in spreadsheets?
 4. When a lot fails, who calls quarantine: Quality, the Buyer/Planner, or the vendor?
-5. You know what [HM] cares about. What is this seat still dropping that they hired for?
+5. You know what Stephen cares about. What is this seat still dropping that they hired for?
 
 ---
 
@@ -161,6 +167,11 @@ Keep it plain.
 | CAPA | Corrective and preventive action (fix the failure so it doesn't repeat) |
 | ECO | Engineering change order (a design/revision change that hits materials) |
 | WIP | Work in process (on the floor, not finished yet) |
+| eBOM / mBOM | Engineering / manufacturing bill of materials |
+| OTS / COTS | Off-the-shelf / commercial off-the-shelf |
+| DVT | Design validation test |
+| DPAS | Defense Priorities and Allocations System (rated orders that jump supplier queues) |
+| CSAC | Chip-scale atomic clock (likely Stephen's "CSAG" + atomic clock — confirm) |
 | RaaS | Robot-as-a-Service (they operate vehicles as a service, not only sell them) |
 | FG | Finished goods |
 | IC | Individual contributor (not a people manager) |

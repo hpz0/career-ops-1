@@ -7,7 +7,7 @@
 **Researched:** 2026-08-24  
 **Sources:** Greenhouse job JSON; Anduril Ghost Shark program-of-record news; Defense News Dive acquisition (2022); Quonset Development Corp / PBN / WJAR on Quonset factory; Exponent Anduril interview process; interviewing.io Anduril process; Glassdoor Anduril interviews hub (252 interviews, 3/5 difficulty, ~47% positive — page updated Jul 3, 2025); Blind offer threads (equity = private RSUs); Zero G Talent Quincy maritime workforce note (Jul 2026); user statements 2026-08-24  
 **Audiences covered:** recruiter-screen, hiring-manager, peer-tech, panel-mixed  
-**Day-of print:** [`cheatsheet.md`](cheatsheet.md) · Hardware study: [`hardware-primer.md`](hardware-primer.md) · Decisions: [`decision-playbook.md`](decision-playbook.md)
+**Day-of print:** [`cheatsheet.md`](cheatsheet.md) · Onsite from Stephen: [`stephen-onsite.md`](stephen-onsite.md) · Hardware: [`hardware-primer.md`](hardware-primer.md) · Decisions: [`decision-playbook.md`](decision-playbook.md)
 
 Write all human-facing prep in English. Market terms (Secret, ITAR, S&OP, MRP, CAPA) kept and explained in place. Acronym expansions also live in [`cheatsheet.md`](cheatsheet.md) and [`hardware-primer.md`](hardware-primer.md).
 
