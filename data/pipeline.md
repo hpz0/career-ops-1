@@ -4,19 +4,19 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 ## Pending
 
-- [ ] https://jobs.ashbyhq.com/cradlebio/07b4fd84-7dcf-4e31-a1f5-c2cff0e44f78 | Cradle | Account Executive, Global Accounts | US East (Remote)
-- [ ] https://jobs.ashbyhq.com/zip/37f9d33b-ea1c-4305-bc29-3afc50019728 | Zip | Strategic Account Executive - Central | Remote - US
-- [ ] https://jobs.ashbyhq.com/zip/756f7f6d-b390-4f59-b227-9ae0af19d82a | Zip | Enterprise Account Manager | Remote - US
-- [ ] https://jobs.ashbyhq.com/zip/957c81ac-7ff7-4d1b-9b4b-3eb60305b6da | Zip | Strategic Account Executive - West Coast | Remote - US
-- [ ] https://jobs.ashbyhq.com/zip/d250ca47-4ed5-449c-8006-64da7d46853e | Zip | Enterprise Account Executive - West Coast | Remote - US
-- [ ] https://jobs.ashbyhq.com/zip/f5318e56-1fb8-43ba-917c-83983ac7d9d5 | Zip | Enterprise Account Executive - Central | Remote - US
-- [ ] https://jobs.ashbyhq.com/ramp/f7c4de3c-1d64-42e9-8111-f38e265327d8 | Ramp | Account Executive / Mid-Market | Remote (US)
-- [ ] https://jobs.ashbyhq.com/ramp/b4cbb19e-8249-4339-8eac-20e3806d7999 | Ramp | Enterprise Account Executive, Juno | Remote (US)
-- [ ] https://jobs.ashbyhq.com/ramp/f0e3a8bb-5f86-4ce1-b345-80d8912f9ddc | Ramp | Procurement Product Activation Manager | Remote (US)
 - [x] https://jobs.ashbyhq.com/ramp/d238a056-3a1f-4dcc-99de-fadc95b9f31c | Ramp | Senior Manager, Procurement Product Activation | Remote (US) — Interview; prep ready 2026-07-29
-- [ ] https://jobs.ashbyhq.com/ramp/d84bbf19-572a-499c-9c87-0c154ce85caf | Ramp | Account Manager / Mid-Market | Remote (US)
 
 ## Processed
+- [x] #009 | https://jobs.ashbyhq.com/zip/f5318e56-1fb8-43ba-917c-83983ac7d9d5 | Zip | Enterprise Account Executive - Central | 3.7/5 | PDF ❌
+- [x] #010 | https://jobs.ashbyhq.com/ramp/f7c4de3c-1d64-42e9-8111-f38e265327d8 | Ramp | Account Executive / Mid-Market | 3.2/5 | PDF ❌
+- [x] #011 | https://jobs.ashbyhq.com/ramp/b4cbb19e-8249-4339-8eac-20e3806d7999 | Ramp | Enterprise Account Executive, Juno | 2.6/5 | PDF ❌
+- [x] #012 | https://jobs.ashbyhq.com/ramp/d84bbf19-572a-499c-9c87-0c154ce85caf | Ramp | Account Manager / Mid-Market | 3.8/5 | PDF ❌
+- [x] #-- | https://jobs.ashbyhq.com/cradlebio/07b4fd84-7dcf-4e31-a1f5-c2cff0e44f78 | skipped (pre-screen mismatch: Boston Hybrid + biotech AE to scientists; deprioritized vs fintech/spend)
+- [x] #-- | https://jobs.ashbyhq.com/ramp/f0e3a8bb-5f86-4ce1-b345-80d8912f9ddc | skipped (pre-screen mismatch: IC Activation Manager downlevel of active Senior Manager interview — do not re-apply)
+- [x] ~~https://jobs.ashbyhq.com/zip/37f9d33b-ea1c-4305-bc29-3afc50019728 | Zip | Strategic Account Executive - Central | Remote - US~~ — posting expired (liveness sweep)
+- [x] ~~https://jobs.ashbyhq.com/zip/756f7f6d-b390-4f59-b227-9ae0af19d82a | Zip | Enterprise Account Manager | Remote - US~~ — posting expired (liveness sweep)
+- [x] ~~https://jobs.ashbyhq.com/zip/957c81ac-7ff7-4d1b-9b4b-3eb60305b6da | Zip | Strategic Account Executive - West Coast | Remote - US~~ — posting expired (liveness sweep)
+- [x] ~~https://jobs.ashbyhq.com/zip/d250ca47-4ed5-449c-8006-64da7d46853e | Zip | Enterprise Account Executive - West Coast | Remote - US~~ — posting expired (liveness sweep)
 
 - [x] https://careers.sweetgreen.com/jobs/7968215?gh_jid=7968215 | Sweetgreen | Regional Supply Manager | Remote → [001](../reports/001-sweetgreen-2026-07-08.md) (3.4/5 — skip: 50% travel)
 - [x] https://jobs.ashbyhq.com/benchling/77e774c8-b0ed-4a87-8e25-60f9a0105f62 | Benchling | Enterprise Account Executive | Boston… → [002](../reports/002-benchling-2026-07-08.md) (3.3/5 — skip cold apply)
