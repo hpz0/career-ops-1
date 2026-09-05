@@ -58,7 +58,7 @@ target_roles:
 narrative:
   # Your professional headline (1 line)
   headline: "Procurement & P2P platform leader | 9+ years buyer-side — partnerships, TAM, or solutions at spend SaaS"
-  exit_story: "Spent 9+ years as the procurement buyer that sales teams sell to — at Plenty (startup) and Comcast (enterprise). Active Ramp process (Jul 2026): Gabriel fit chat — open to Partnerships, TAM, or Solutions Architect on procurement/P2P. Also hunting Director+ procurement and global sourcing — especially data centers, hardware, and infrastructure. Remote-first where possible."
+  exit_story: "Spent 9+ years as the procurement buyer that sales teams sell to — at Plenty (startup) and Comcast (enterprise). Ramp Activation process closed (rejected after HM, Sep 2026) — full reopen of Track A Director+ procurement/sourcing and Track B spend-SaaS AE/AM hunt. Priority: exit Comcast into remote US role. Especially data centers, hardware, infrastructure, and procurement/spend platforms."
   target_industries:
     - "health"
     - "food"
@@ -177,17 +177,18 @@ active_interviews:
     contact: "Michael Bock (VP Finance, HM); Taylor Cubbler (TA); lawyer round next"
     notes: "Jul 28 HM Michael Bock — group programs (consolidate spend e.g. batteries), Toyota-owned strict controls, ~60% spend Toyota/Raymond non-negotiable. Custom Raymond ERP + JIRA. Next: lawyer (negotiation) + onsite EVP Admin. $140-160K+10-20% bonus; onsite Chalfont."
   - company: "Ramp"
-    role: "Senior Manager, Procurement Product Activation (remote/hybrid TBD)"
+    role: "Senior Manager, Procurement Product Activation"
     track: "A-adjacent"
-    status: "Interviewing — post-HM; Caroline deciding manager vs IC"
-    contact: "Abigail Lovegrove (GTM recruiter); Caroline Novas (Dir CS Scaled & Partnerships, HM)"
-    notes: "HM 2026-08-12 went fine. Intel: Bill Pay ≠ Procurement; CSMs maxed; 3–4 procurement hires not started; need standardization; sequencing Bill Pay→Procurement (4→6mo); customer stakeholder chaos. Await path + next steps. Debrief: interview-prep/ramp/caroline-debrief-2026-08-12.md. Comp Nationwide OTE $166–227K 70/30 — confirm base ≥$140K + remote."
+    status: "Rejected (after HM Caroline Novas) — closed 2026-09-05"
+    contact: "Abigail Lovegrove (GTM recruiter); Caroline Novas (HM)"
+    notes: "Rejected after HM. Do not re-apply Activation. Keep Zip/Coupa-class spend SaaS AE/AM and Director+ procurement as primary hunt. Exit Comcast urgency high."
+
   - company: "Ramp"
     role: "Account Executive / SA-TAM-Partnerships (exploratory)"
     track: "B"
-    status: "Exploratory / deprioritized vs Activation seat"
+    status: "Closed with Activation rejection — do not pursue cold AE at Ramp"
     contact: "Max (SVP Sales); Gabriel Ragoff"
-    notes: "Informal with Max + Gabriel Jul 10. Keep warm; prioritize Activation HM. See interview-prep/ramp/gabriel.md if present."
+    notes: "Process closed Sep 2026 with Activation rejection. Redirect Track B energy to Zip/Coupa/Tipalti/Airbase-class."
 
 # ── Recent application signals (Jul 2026 — informs targeting, not tracker) ─
 recent_apply_patterns:
