@@ -11,7 +11,7 @@ Accumulated stories for interviews. Only facts backed by `cv.md` / user statemen
 
 - **Situation:** Plenty needed company-wide procure-to-pay discipline; buying was manual, fragmented, and not scaling.
 - **Task:** Own the full P2P implementation end-to-end — system, policy, and adoption.
-- **Action:** Led Coupa rollout; configured **approval workflows, catalogs, and punchouts** (scale noted impressive by Coupa corporate); implemented **No-PO-No-Pay policy** (explicit, with threshold/emergency exceptions designed in); published and enforced Procurement Policy; managed 3 buyers; partnered with Finance, Legal, IT.
+- **Action:** Led Coupa rollout (~**7 weeks**; ~**15 punchout catalogs** per your 2024 prep notes); configured **approval workflows, catalogs, and punchouts** (scale noted impressive by Coupa corporate); implemented **No-PO-No-Pay policy** (explicit, with threshold/emergency exceptions designed in); published and enforced Procurement Policy; managed 3 buyers; partnered with Finance, Legal, IT.
 - **Result:** 99% of spend on contract; requisition cycle time 3 days → 1.5 days; e-invoice rate +50%; Coupa corporate acknowledged the punchout build.
 - **Reflection:** Platform only works when policy, approvals, and buyer behavior move with it — process design + system beats "install and hope."
 - **Ramp framing (Caroline):** Tell as customer journey — discovery → design (routing, catalogs, punchouts, No-PO-No-Pay as change mgmt not a blunt gate) → config → adoption. Lead with outcome, not features.
@@ -143,33 +143,135 @@ Accumulated stories for interviews. Only facts backed by `cv.md` / user statemen
 
 ---
 
-## S9 — Complex BOM / demand consolidation (Plenty) — DRAFT blanks
+## S9 — Complex BOM / demand consolidation (Plenty)
 
-**Use for:** Anduril Copperhead/Sentry onsite (Stephen coaching); eBOM→mBOM; shared-parts planning  
-**Status:** Direction from Stephen 2026-09-05 + cv NetSuite BOMs. **Fill blanks before onsite — do not invent SKUs.**
+**Use for:** Anduril Copperhead/Sentry onsite; eBOM→mBOM; shared-parts planning  
+**Status:** Stephen coaching 2026-09-05 + examples from your **2024 Anduril interview prep notes** (user-authored). Soft names OK to tighten from memory.
 
-- **Situation:** Multiple like configs / BOMs creating fragmented demand on shared parts.
-- **Task:** Own BOM planning work yourself — engineering BOM into manufacturing BOM, demand + supply planning, change management.
-- **Action:** Consolidated demand across like BOMs; kept item master / MRP honest when revs moved.
-- **Result:** [fill: what got better — fewer false shortages, cleaner buys, faster change intercept]
+- **Situation:** Multiple like configs / recipes creating fragmented demand and operational complexity on shared materials.
+- **Task:** Own BOM / planning work — engineering intent into a manufacturing BOM, demand + supply planning, change management.
+- **Action examples you already documented:**
+  - **Pre-mixed nutrient solutions:** complicated inventory and ops; consolidated parts; cut changeover time **~20%**.
+  - **Engineered commodity strategy** to reduce operational complexity and cost across like items.
+  - **Spares BOM** with engineers: manifolds, wire harnesses, conveyors — source and maintain so ops had the right parts.
+  - NetSuite BOMs / MRP / inventory so planning wasn’t tribal knowledge.
+- **Result:** Cleaner buys, less changeover chaos, BOM cost work landed in the **30% in ~6 months** bucket (cv) when paired with negotiation + VE.
 - **Anduril bridge:** Tier-2 electronics commonality across Copperhead / Seabed Sentry = same rollup muscle.
 
-**Proof source:** User/Stephen notes 2026-09-05; cv.md NetSuite BOMs/MRP. Soft details = [fill].
+**Proof source:** User 2024 Anduril prep notes; cv.md NetSuite BOMs/MRP + 30% BOM; Stephen notes 2026-09-05.
 
 ---
 
-## S10 — Cultivar NPI / DVT + change management (Plenty) — DRAFT blanks
+## S10 — Cultivar / equipment NPI + change management (Plenty)
 
-**Use for:** Open trade studies; buy long-lead before finish specs lock  
-**Status:** Stephen asked you to highlight this (2026-09-05). Skeleton only until you fill.
+**Use for:** Open trade studies; buy long-lead before finish specs lock; non-engineer working with engineering  
+**Status:** Stephen ask 2026-09-05 + concrete examples from **2024 Anduril prep notes**.
 
-- **Situation:** New cultivar (or material set) with engineers + scientists; design still moving.
-- **Task:** Support design validation test (DVT), change management, and strategic procurement so production isn’t starved.
-- **Action:** [fill: what you bought early vs held; how you intercepted POs when DVT changed the design]
-- **Result:** [fill: qualitative OK]
-- **Anduril bridge:** Raw/long-lead PO while trade study open → finish after spec locks.
+- **Situation:** New cultivar or process kit with engineers / scientists; specs still moving; production still needs material and equipment.
+- **Task:** Strategic procurement + change control so the line isn’t starved and you’re not buying the wrong finish too early.
+- **Action examples from your notes:**
+  - **Cold plasma equipment** brought in-house: determined specs, wrote SOW, worked vendor to tailor equipment to cultivar needs / capacity.
+  - **Joint design development** on **hydrogel** and cold plasma with engineering.
+  - **Packaging tooling** (sealing, denesting internal; prototype + production thermoforming tools external).
+  - Feasibility work on custom strawberry media (labor, utilities, CapEx) before scaling buy.
+  - When design moved: intercept POs / tooling path, update manufacturing side, keep ops fed.
+- **Result:** Equipment and materials landed sized to the cultivar; changeover and process improvements followed (pair with nutrient consolidation / sealer throughput stories as needed).
+- **Anduril bridge:** Raw/long-lead or long-lead equipment path while trade study / DVT still open → finish or firm specs after lock.
 
-**Proof source:** User/Stephen notes 2026-09-05; cv.md NPI + Supplier Quality. No metrics until you add them.
+**Proof source:** User 2024 Anduril prep notes; cv.md NPI + Supplier Quality; Stephen notes 2026-09-05.
+
+---
+
+## S11 — Coupa go-live depth (7 weeks, 15 punchouts)
+
+**Use for:** “Tell me about a big implementation” · systems ownership · enrich S1  
+**Audience:** hiring-manager · peer if they drift process
+
+- **Situation:** Procurement lived in NetSuite — slow, low transparency.
+- **Task:** Stand up Coupa company-wide fast.
+- **Action:** Led implementation (~**7 weeks**); stood up **~15 punchout catalogs**; bolted on supplier information management; policy + No-PO-No-Pay with exceptions.
+- **Result:** Path into S1 metrics (99% on contract, cycle time cut, e-invoice lift). Became the reporting / NetSuite go-to for the Supply Chain Director (ad-hoc reports/dashboards).
+- **Reflection:** Speed matters, but punchouts + policy are what make people actually use it.
+
+**Proof source:** User 2024 Anduril prep notes + cv.md Coupa / 99% / cycle time. Don’t invent $ savings beyond what’s locked.
+
+---
+
+## S12 — Packaging tooling + sealer bottleneck
+
+**Use for:** manufacturing constraints · CapEx / tooling · working with ops/engineering  
+**Audience:** peer-tech · hiring-manager
+
+- **Situation:** Postharvest line bottleneck at the **sealer**; packaging tooling split internal vs external.
+- **Task:** Own sourcing/integration of packaging tooling and materials that unlock throughput.
+- **Action:** Internal sealing / denesting tooling; external prototype + production **thermoforming** tools; brought in materials that increased throughput at the sealer constraint.
+- **Result:** Throughput improvement at the bottleneck (exact units not in notes — don’t invent). Ties to tub packaging / recall world if they ask quality.
+- **Anduril bridge:** Tooling and long-lead process equipment while product design is still moving.
+
+**Proof source:** User 2024 Anduril prep notes. No fake OEE %.
+
+---
+
+## S13 — Plastic reduction 40% (clamshell → tub) + white paper
+
+**Use for:** cost / sustainability / VE without sounding fluffy  
+**Audience:** any
+
+- **Situation:** Packaging plastic use / cost / ops pain (clamshell format).
+- **Task:** Reduce plastic and complexity.
+- **Action:** Drove **clamshell → tub** change; authored a **white paper on plastic use**.
+- **Result:** **~40%** plastic reduction on that change. Related to the broader packaging / tub material story (and later recall CAPA if they go quality).
+- **Reflection:** Material format changes are supply + ops + quality, not a one-line PO swap.
+
+**Proof source:** User 2024 Anduril prep notes. Keep 40% attached to this packaging change only.
+
+---
+
+## S14 — Low volume / MOQ + contract flexibility (seeds & nutrients)
+
+**Use for:** Anduril low-rate production · Stephen “build leverage on low volume” · trade-study hedges  
+**Audience:** hiring-manager · peer buyer/planner · **Stephen**
+
+- **Situation:** Plenty often couldn’t hit supplier **minimum order quantities** on low-volume parts. Same class of pain as early maritime builds.
+- **Task:** Build flexibility into contracts and inventory policy without blowing cash or starving the line.
+- **Action:**
+  - **Seeds:** annual forecast structure; restocking fee **or** shift volume into next-year contract.
+  - **Nutrients:** warehouse stocking pattern; reused seed-style commercial structure where it fit.
+  - Supplier selection weighed **cost of quality** and **cost of stockout / risk**, not unit price alone.
+- **Result:** Could supply low-volume demand without pretending every buy was high-volume economics.
+- **Anduril bridge:** Copperhead / Sentry low-rate + open studies = same MOQ / hedge / flexibility problem. Stephen literally flagged this in 2024 notes.
+
+**Proof source:** User 2024 Anduril prep notes (Stephen Shaw section). Strong reuse for 2026 onsite.
+
+---
+
+## S15 — Mistake: double PO + fix
+
+**Use for:** “Tell me about a mistake” · process ownership  
+**Audience:** any
+
+- **Situation:** Double-ordered a **low-value** PO because it wasn’t marked ordered.
+- **Task:** Own the miss and stop it from recurring.
+- **Action:** Built new filters / views so the queue showed true open vs ordered status.
+- **Result:** Eliminated that failure mode (no need to inflate the $ — you already frame it as low-value).
+- **Reflection:** Mistake is fine; leaving the process broken isn’t.
+
+**Proof source:** User 2024 Anduril prep notes.
+
+---
+
+## S16 — COVID scarce supply via relationships
+
+**Use for:** crisis supply · supplier relationship depth  
+**Audience:** recruiter · HM
+
+- **Situation:** COVID supply shock. Masks, sanitizer, test kits scarce.
+- **Task:** Keep people/ops supplied when the market was chaos.
+- **Action:** Used key supplier relationships others didn’t have; partnered with lab service provider for COVID test kits.
+- **Result:** Brought in supplies competitors/peers couldn’t get (qualitative — don’t invent volume).
+- **Reflection:** When allocation is real, relationships and honesty beat blasting new RFQs into the void. Maps to DPAS-disadvantaged buys.
+
+**Proof source:** User 2024 Anduril prep notes.
 
 ---
 
@@ -180,9 +282,13 @@ Accumulated stories for interviews. Only facts backed by `cv.md` / user statemen
 - [x] **S6 — Team coaching (junior buyer → IT category owner)** — drafted; verify soft details before HM
 - [ ] Comcast enterprise portfolio negotiation (need metrics user can confirm)
 - [x] **S8 — Plenty tub packaging CAPA / recall** — drafted 2026-08-24; add metrics only if you remember them
-- [ ] **S9 / S10 blanks** — fill before Anduril onsite
+- [x] **S9–S16 — filled from 2024 Anduril prep notes** (2026-09-06); tighten names/numbers from memory if you want
 - [ ] Anduril / defense: one personal “why this mission” sentence (don’t invent)
 
 ### Ramp Activation note (2026-07-29)
 
 Reframe S1 for **customer go-live** language (discovery → config → education → go-live) when answering async AI / “how would you onboard a client” prompts. You were the **buyer-side** implementer, not vendor CS — say that explicitly.
+
+### Anduril note (2026-09-06)
+
+Your **Feb 2024** onsite prep PDF is now mined into S9–S16 + `anduril/from-2024-prep.md`. That loop was **Sourcing Engineer**; this loop is **Buyer/Planner**. Reuse stories; don’t reuse stale valuation, headcount, or panel names as current fact.

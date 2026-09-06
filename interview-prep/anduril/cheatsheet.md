@@ -10,7 +10,7 @@
 **Travel:** up to 25% · **Clearance:** eligible for Secret (don't claim you have one)  
 **Posting:** https://job-boards.greenhouse.io/andurilindustries/jobs/5169966007?gh_jid=5169966007
 
-**Print this.** Onsite from Stephen: `stephen-onsite.md` · Longer: `prep.md` · Hardware: `hardware-primer.md` · Decisions: `decision-playbook.md`
+**Print this.** Onsite from Stephen: `stephen-onsite.md` · Old notes rewritten: `from-2024-prep.md` · Longer: `prep.md` · Hardware: `hardware-primer.md` · Decisions: `decision-playbook.md`
 
 ---
 
@@ -94,9 +94,10 @@ Tell it like a story, not a corrective-and-preventive-action form.
 
 **Backup (one only if needed):**  
 - Cost: **30% bill of materials** in 6 months (negotiation + value engineering + sales and operations planning).  
-- Planning: NetSuite BOMs / MRP + safety stock; demand consolidation across like BOMs (Stephen highlight — fill blanks in `stephen-onsite.md`).  
-- NPI: new cultivar with engineers/scientists, DVT, change management, buy long-lead while finish specs still open.  
-- Process: Coupa / 99% on contract only if they wander into "can you build process." This seat is materials.  
+- Planning: NetSuite BOMs / MRP + safety stock; nutrient consolidation (~20% changeover) / MOQ contract structures (S9, S14).  
+- NPI: cold plasma equipment + hydrogel with eng; packaging tooling; buy long-lead while finish specs still open (S10).  
+- Process: Coupa ~7 weeks / ~15 punchouts / 99% on contract only if they wander into process. This seat is materials.  
+- Mistake / crisis: double PO fix (S15) or COVID scarce supply (S16) if they ask.  
 - People: junior buyer → IT category owner only if they ask about coaching.
 
 ---

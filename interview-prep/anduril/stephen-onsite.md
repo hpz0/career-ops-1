@@ -11,7 +11,7 @@
 - **[public]** = Anduril product pages / open press (safe to say at a high level)
 - **[typical]** = normal manufacturing buyer/planner practice (not Anduril-specific)
 
-**Pair with:** `cheatsheet.md` · `prep.md` · `hardware-primer.md` · `decision-playbook.md` (if present)
+**Pair with:** `cheatsheet.md` · `prep.md` · `hardware-primer.md` · `decision-playbook.md` · **`from-2024-prep.md`** (old onsite notes, rewritten)
 
 **Voice rule:** If a line sounds like LinkedIn, don’t say it. Short sentences. Talk like you talk.
 
@@ -45,7 +45,7 @@ These are *his* prompts. Below each: what you can say, what’s proven, and blan
 - Results you can use: **99% of spend on contract**; req cycle **3 days → 1.5**; e-invoice **+50%**; Coupa corporate noticed the punchout build; you were a **Coupa certified admin ~5 years**.
 
 **Say it like this**
-> Buying was a mess when I got there. I stood up Coupa, wrote the policy, No-PO-No-Pay with actual exceptions so people didn’t hate it, catalogs, punchouts. We got to like 99% on contract and cut req time in half. I’m not trying to be your Coupa guy though. That just shows I can build a process when there isn’t one.
+> Buying was a mess when I got there. I stood up Coupa in about seven weeks, wrote the policy, No-PO-No-Pay with actual exceptions so people didn’t hate it, something like fifteen punchout catalogs. We got to like 99% on contract and cut req time in half. I’m not trying to be your Coupa guy though. That just shows I can build a process when there isn’t one.
 
 **Don’t:** turn the onsite into a Coupa admin interview.
 
@@ -74,12 +74,11 @@ Stephen specifically called this out. You don’t need Blue Yonder. You need a d
 **Say it like this**
 > We were living in spreadsheets. I put BOMs and MRP into NetSuite so the system could actually tell us what to buy. Safety stock wasn’t “buffer everything.” It was the ugly parts. Long lead, sole source, kills the line if you stock out. I’d sit with ops, pick those, set a number, and keep the item master clean or MRP just lies to you.
 
-**[fill] before onsite — write one real example**
-- Part family you buffered: _______________________
-- Why (lead time / sole source / scrap / launch spike): _______________________
-- What you watched (stockout, expedite cost, excess): _______________________
-
-If you can’t remember a part name, just say how you decided. Don’t invent SKUs.
+**[fill] before onsite — optional, you already have examples**
+You already documented real ones in 2024 notes / story-bank:
+- Pre-mixed nutrients → part consolidation, ~20% changeover cut (S9)
+- Seeds / nutrients MOQ structures (S14)
+If you remember one more buffered part, write it here: _______________________
 
 **Bridge to Anduril** [Stephen]
 > Same idea with an open trade study. Sometimes you buy the raw or the long-lead blank before finish specs are done, then machine or finish once engineering locks. You’re burning calendar on purpose. You’re not hoping FedEx saves you later.
@@ -100,7 +99,7 @@ If you can’t remember a part name, just say how you decided. Don’t invent SK
 
 **What to say** [cv: NetSuite BOMs + NPI + 30% BOM cost; Stephen: you owned eBOM→mBOM, demand + supply planning, change mgmt]
 
-> Yeah, I did that work myself. Engineering would drop a design BOM. I’d turn it into a manufacturing BOM we could actually plan and buy. If we had a bunch of similar configs, I’d roll the shared parts into one demand signal so we weren’t buying five tiny lots of the same thing. And when they changed the rev after stuff was on order, I had to chase POs, figure out what to scrap or use, and update the BOM so MRP stopped calling for the dead part.
+> Yeah, I did that work myself. Engineering would drop a design BOM. I’d turn it into a manufacturing BOM we could actually plan and buy. Best example is nutrients — we went to pre-mixed solutions, consolidated a bunch of parts, cut changeover about 20%. Same idea when I owned spares BOMs with engineering — manifolds, harnesses, conveyors. And when they changed the rev after stuff was on order, I had to chase POs, figure out what to scrap or use, and update the BOM so MRP stopped calling for the dead part.
 
 **Demand consolidation → Anduril commonality** [Stephen]
 > Stephen said commonality here is mostly boards and electronics. Same board on Copperhead and Sentry? Cool. One forecast. One buy. Don’t let every variant invent its own little supply chain.
@@ -123,24 +122,19 @@ If you can’t remember a part name, just say how you decided. Don’t invent SK
 
 This is your closest analog to Anduril **open trade studies** + NPI on Copperhead / Sentry.
 
-### Story skeleton (fill blanks; don’t invent metrics)
+**Story skeleton (you already have meat — use these)**
 
-| Beat | Say this | Your blank |
-|------|----------|------------|
-| **S** | Plenty was launching / changing a grow configuration — new cultivar (or material set) with R&D / science + engineering. | Cultivar or program name: __________ |
-| **T** | Get from concept to something we could buy and build without starving the line or freezing forever. | Your ownership line: __________ |
-| **A — DVT** | Design validation test: what has to pass before we scale buy. Sit with engineers/scientists on specs that drive suppliers (material, tolerance, packaging, process). | What was validated: __________ |
-| **A — procurement** | Strategic buy: long-lead vs finish, sole source risk, incoming quality, dual path if we could. | What you bought early vs held: __________ |
-| **A — change mgmt** | When DVT moved the design: effectivity, scrap/rework, PO intercept, mBOM update, tell ops. | One change that landed late: __________ |
-| **R** | Launch / change landed with a plan, not a surprise shortage. | Result you can defend (even qualitative): __________ |
-
-**Proof anchors you already have** [cv]
-- Embedded sourcing early in **NPI** cycles for faster launches.
-- Partnered with Supplier Quality (FDA/SQF context).
-- NetSuite BOM/MRP was the system of record for the plan.
+| Beat | Concrete from your 2024 notes | Optional blank if you remember more |
+|------|------------------------------|-------------------------------------|
+| **S** | New cultivar / process kit with eng + science | Name if you want: __________ |
+| **T** | Feed production while specs move | — |
+| **A — DVT / design** | Cold plasma equipment: specs, SOW, vendor tailored to cultivar; hydrogel joint design with eng | __________ |
+| **A — procurement** | Packaging tooling (seal/denest internal; thermoform tools external); long-lead equipment before every finish detail was frozen | __________ |
+| **A — change** | Intercept POs / tooling when design moved; update manufacturing side | __________ |
+| **R** | Equipment sized to cultivar; line kept fed (pair with nutrient ~20% changeover if they want a number) | __________ |
 
 **Anduril translation** [Stephen]
-> At Plenty, new cultivar meant scientists and engineers were still figuring it out, DVT wasn’t done, and I still had to get material for the line. Stephen’s basically describing the same thing with open trade studies. Long leads don’t care that the study isn’t finished. So you buy the raw or the long-lead piece, write down who owns scrap if the answer changes, and finish it when the print locks. Beats missing a water test because you waited for perfect.
+> At Plenty, new cultivar meant scientists and engineers were still figuring it out, and I still had to get material and equipment for the line. Cold plasma was a good example — write the SOW, get the vendor to tailor it, don’t wait for every detail to be perfect. Stephen’s describing the same thing with open trade studies. Long leads don’t care that the study isn’t finished.
 
 ---
 
@@ -190,7 +184,7 @@ This is your closest analog to Anduril **open trade studies** + NPI on Copperhea
 **Say it like this**
 > I’m not waiting on every plating callout before I start a 20-week material. I’d say, fine, we’re buying this blank, here’s what we’re not assuming, here’s who eats scrap if the study flips, and here’s the date we need a decision. Then the PO goes out.
 
-**Plenty bridge:** cultivar / DVT material that changed midstream; you still had to feed the line. [fill with your example]
+**Plenty bridge (you already have this):** seeds/nutrients when you couldn’t hit MOQs — annual forecast + restock fee or roll to next year; warehouse stock nutrients (S14). Same muscle as a trade-study hedge.
 
 ## DPAS (you wrote “DPAS”) — say it right
 
