@@ -24,14 +24,14 @@
 
 ## Open (~60–75 sec)
 
-> I'm Harrison. Most of my buying career was at Plenty, a manufacturing company. I was Senior Global Supply Manager. I owned **direct materials** (and equipment and CapEx, capital expenditure): raw materials onto the line, bills of materials and material requirements planning in NetSuite, inventory, sales and operations planning with ops, and the supplier quality messes that stop production.
+> I’m Harrison. Most of my buying was at Plenty. Manufacturing company. Senior Global Supply Manager. I owned direct materials. Raw material onto the line, BOMs and MRP in NetSuite, inventory, planning with ops, and the supplier quality crap that shuts you down.
 >
-> Two proof points people remember: we took **bill of materials cost down 30% in about six months**. And we had a packaging failure: brittle tub plastic that started chipping into product and became a **recall**. I ran that with the supplier: quarantine the bad stuff, get good material in, put them on 100% inspection, then dig into what went wrong so it didn't happen again.
+> Two things people usually remember. We cut BOM cost about 30% in six months. And we had tub packaging that went brittle, started chipping into product, turned into a recall. I ran that with the supplier. Quarantine the bad stuff, get good material in, put them on 100% inspect, then dig into what broke so it didn’t happen again.
 >
-> That's the work this role is asking for. Quincy is building autonomous underwater vehicles, and this Buyer/Planner owns materials and planning for those lines. Stephen and I talked about **Copperhead** and **Seabed Sentry** as the book. I'm here to learn how this team runs shortages and where the open trade studies live.
+> Stephen and I talked about Copperhead and Seabed Sentry. Sounds like open trade studies and long leads that don’t wait for engineering to finish arguing. I’ve done that kind of work. Curious how you guys run shortages today.
 
 *If they ask about Comcast:*  
-> I'm there now: wireless and fixed network categories, big contracts, enterprise vendors. Useful experience. But this seat is the factory job. That's what I want.
+> I’m there now. Wireless and fixed network, big contracts. It’s fine. I want the factory seat again.
 
 ---
 
@@ -40,13 +40,13 @@
 They ask this more than once. Don't give a geopolitics speech. Don't say "drones are cool." Don't recite Lattice like a fan site.
 
 **Short version (recruiter):**  
-> I want to buy and plan for real manufacturing again. Plenty was that. Comcast isn't, not in the same way. Anduril's maritime team is building autonomous underwater vehicles in Quincy and scaling production (Quonset is the volume factory). Hard parts, real lead times, quality that matters. I know Stephen, I looked at the seat, and it fits. I'm fine working in defense.
+> I want to buy and plan for a factory again. Plenty was that. Comcast isn’t, not really. Anduril’s building underwater vehicles in Quincy and scaling (Quonset’s the volume plant). Hard parts, real lead times. I know Stephen. The job fits. I’m fine with defense.
 
 **If they push "why defense / are you comfortable?":**  
-> Yeah. I'm not looking for a soft consumer brand. These vehicles either work or they don't. I've already lived what a bad material lot does to a product and a customer. That problem is interesting to me. I'm not ambivalent about the mission.
+> Yeah. I’m not shopping for a soft brand. These things either work or they don’t. I’ve already lived a bad material lot wrecking a product. That problem’s interesting to me. I’m not weird about the mission.
 
 **If they push "why *this* company?":**  
-> Because they're actually building here. Dive came out of Quincy. The team is shipping autonomous underwater vehicles and standing up more capacity. I'm not trying to join a PowerPoint defense contractor. I want the materials job behind the hardware.
+> Because they’re actually building. Dive came out of Quincy. They’re shipping hardware and standing up capacity. I don’t want a PowerPoint defense job. I want materials behind the vehicle.
 
 **Don't:** invent a family military story, China talking points, or "I want to transform national security."  
 **Do:** Plenty → manufacturing itch → Quincy/Quonset is real → HM relationship → comfortable with defense.
@@ -81,11 +81,11 @@ They ask this more than once. Don't give a geopolitics speech. Don't say "drones
 
 Tell it like a story, not a corrective-and-preventive-action form.
 
-> At Plenty I owned direct materials. We had tub packaging where the plastic went brittle. It started chipping. That became a recall.
+> At Plenty I owned direct materials. Tub packaging went brittle. Started chipping. Became a recall.
 >
-> I didn't just fire off an email. We quarantined the bad material, got new material in so the line wasn't dead, put the vendor on 100% inspection as containment, and did a process review with them so the next lots didn't repeat it.
+> I didn’t just email the vendor. We quarantined the bad material, got good stuff in so the line wasn’t dead, put them on 100% inspection, and did a process review so the next lots didn’t repeat it.
 >
-> That's what I mean by owning materials. Good parts, on time, at spec. Same motion if a resin, seal, fastener, or battery lot fails here.
+> Same motion if a resin, seal, fastener, or battery lot fails here. You own it until the parts are good.
 
 **Vary by audience:**  
 - Recruiter: short. Problem → what you did → line got good material again.  
@@ -108,10 +108,10 @@ Posted: **$99–130K** base. Equity is part of the package (private company: tre
 Your number: **$140K** base. Walk-away in your profile is $140K. Senior Buyer/Planner postings have listed **$129–171K**.
 
 **Recruiter (if they ask):**  
-> I've seen the range. For this scope I'm looking at about **$140K base**. I know that's above this posting and inside what Senior Buyer/Planner has been listed at. Happy to talk equity for total, but I'm not going to pretend $115K base works for me.
+> Yeah I’ve seen the band. I’m around **$140K base** for this. I know that’s over the posting and inside what Senior has been listed at. Happy to talk equity. I’m just not going to pretend $115K works.
 
 **HM (you know them):**  
-> Band tops out at $130K. I can do the job. **$140K** is what makes leaving Comcast make sense. If the work is already senior-level, we can name it that way even if the req stays Buyer/Planner.
+> Band caps at $130K. I can do the job. **$140K** is what makes leaving Comcast worth it. If the work’s already senior, we can call it that even if the req title stays Buyer/Planner.
 
 Don't lead with money in the first minute. Don't say "walk-away" out loud. If you get an offer, ask grant size, share price, and vest.
 

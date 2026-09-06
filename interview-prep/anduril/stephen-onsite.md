@@ -13,15 +13,20 @@
 
 **Pair with:** `cheatsheet.md` · `prep.md` · `hardware-primer.md` · `decision-playbook.md` (if present)
 
+**Voice rule:** If a line sounds like LinkedIn, don’t say it. Short sentences. Talk like you talk.
+
 ---
 
-## 60-second open (retuned for this onsite)
+## 60-second open (say it like a person)
 
-> I’m Harrison. The chapter that matches this seat is Plenty. I was Senior Global Supply Manager on a real manufacturing line: I designed our procure-to-pay operating model, stood up NetSuite BOMs and MRP with inventory / safety stock so we weren’t flying blind, and I owned complex BOM work myself — engineering BOM into manufacturing BOM, demand and supply planning, and change control when the design moved.  
->  
-> Stephen and I talked about Copperhead and Seabed Sentry. That’s the work I want: long-lead hedges while trade studies are still open, more off-the-shelf where we can, less sole-source pain, and common electronics so planning isn’t inventing a new supply chain per vehicle. I’m here to learn how this team runs shortages and who owns the call when a finish spec isn’t locked yet.
+> I’m Harrison. Most of my buying was at Plenty. Manufacturing. Senior Global Supply Manager. I owned direct materials end to end. Built our Coupa process, put BOMs and MRP into NetSuite with real safety stock, and I did the messy BOM work myself when engineering changed stuff midstream.
+>
+> We also had a packaging failure that turned into a recall. Quarantine, get good material in, vendor on 100% inspect, then fix the process. That’s the kind of problem I actually know how to run.
+>
+> Stephen and I talked about Copperhead and Seabed Sentry. Sounds like a lot of open trade studies and long leads that don’t wait for the design to freeze. I’ve done that. Happy to dig into how you guys handle it today.
 
-Keep Comcast to one sentence if asked. Don’t lead with it.
+If they ask about Comcast: one line, then come back.
+> I’m at Comcast now. Big categories, big vendors. Fine. I want the factory job again.
 
 ---
 
@@ -39,10 +44,10 @@ These are *his* prompts. Below each: what you can say, what’s proven, and blan
 - Published / enforced Procurement Policy; managed **3 buyers**.
 - Results you can use: **99% of spend on contract**; req cycle **3 days → 1.5**; e-invoice **+50%**; Coupa corporate noticed the punchout build; you were a **Coupa certified admin ~5 years**.
 
-**One-liner**
-> I didn’t inherit a clean P2P. I designed the path: Coupa, policy, No-PO-No-Pay with real exceptions, catalogs and punchouts — and we got 99% on contract while cutting cycle time in half.
+**Say it like this**
+> Buying was a mess when I got there. I stood up Coupa, wrote the policy, No-PO-No-Pay with actual exceptions so people didn’t hate it, catalogs, punchouts. We got to like 99% on contract and cut req time in half. I’m not trying to be your Coupa guy though. That just shows I can build a process when there isn’t one.
 
-**Don’t:** turn the onsite into a Coupa admin interview. Bridge back to materials in one breath.
+**Don’t:** turn the onsite into a Coupa admin interview.
 
 ---
 
@@ -66,18 +71,18 @@ Stephen specifically called this out. You don’t need Blue Yonder. You need a d
 4. Cash vs idle line / missed test window
 5. What does MRP say vs what the floor knows?
 
-**Script**
-> In NetSuite we stopped managing inventory out of spreadsheets. MRP told us what to buy and when; safety stock was for the parts that killed the line when they went to zero — not a blanket buffer on everything. I’d set it with ops based on lead time, scrap, and how ugly demand was, then clean the item master so the system wasn’t lying.
+**Say it like this**
+> We were living in spreadsheets. I put BOMs and MRP into NetSuite so the system could actually tell us what to buy. Safety stock wasn’t “buffer everything.” It was the ugly parts. Long lead, sole source, kills the line if you stock out. I’d sit with ops, pick those, set a number, and keep the item master clean or MRP just lies to you.
 
 **[fill] before onsite — write one real example**
 - Part family you buffered: _______________________
 - Why (lead time / sole source / scrap / launch spike): _______________________
 - What you watched (stockout, expedite cost, excess): _______________________
 
-If you can’t remember a part name, use the *method* above and say so. Don’t invent SKUs.
+If you can’t remember a part name, just say how you decided. Don’t invent SKUs.
 
 **Bridge to Anduril** [Stephen]
-> Same problem when a trade study is open: you may place a raw / long-lead buy before finish specs lock, then finish or machine once engineering freezes. That’s a planned hedge, not panic expediting.
+> Same idea with an open trade study. Sometimes you buy the raw or the long-lead blank before finish specs are done, then machine or finish once engineering locks. You’re burning calendar on purpose. You’re not hoping FedEx saves you later.
 
 ---
 
@@ -93,12 +98,12 @@ If you can’t remember a part name, use the *method* above and say so. Don’t 
 | **mBOM** (manufacturing bill of materials) | How the floor builds it (buy, make, kit, sequence). |
 | **Demand consolidation** | Roll need across similar BOMs / configs so you buy once for shared parts instead of siloed forecasts. |
 
-**What to say (directionally locked)** [cv: NetSuite BOMs + NPI + 30% BOM cost; Stephen: you owned eBOM→mBOM, demand + supply planning, change mgmt]
+**What to say** [cv: NetSuite BOMs + NPI + 30% BOM cost; Stephen: you owned eBOM→mBOM, demand + supply planning, change mgmt]
 
-> I owned the BOM work in NetSuite — not as a spectator. Engineering released design; I translated that into a manufacturing BOM we could plan and buy against. When we had like configurations, I consolidated demand on the common parts so MRP wasn’t fragmenting the buy. When the design changed, I ran the change through planning and supply — open POs, inventory disposition, effectivity — not just an email that said “new rev.”
+> Yeah, I did that work myself. Engineering would drop a design BOM. I’d turn it into a manufacturing BOM we could actually plan and buy. If we had a bunch of similar configs, I’d roll the shared parts into one demand signal so we weren’t buying five tiny lots of the same thing. And when they changed the rev after stuff was on order, I had to chase POs, figure out what to scrap or use, and update the BOM so MRP stopped calling for the dead part.
 
 **Demand consolidation → Anduril commonality** [Stephen]
-> Stephen’s point: commonality is mostly **tier 2** (electronics, boards). That’s exactly where consolidation matters. Same board across Copperhead and Sentry variants? One forecast, one buy, clearer safety stock, less sole-source drama if you can dual-qualify.
+> Stephen said commonality here is mostly boards and electronics. Same board on Copperhead and Sentry? Cool. One forecast. One buy. Don’t let every variant invent its own little supply chain.
 
 **30% BOM cost (use as backup, not the open)** [cv / S5]
 - Negotiation + value engineering + supplier optimization + S&OP demand planning, **in ~6 months**.
@@ -134,8 +139,8 @@ This is your closest analog to Anduril **open trade studies** + NPI on Copperhea
 - Partnered with Supplier Quality (FDA/SQF context).
 - NetSuite BOM/MRP was the system of record for the plan.
 
-**Anduril translation (say this in the room)** [Stephen]
-> At Plenty a new cultivar was an NPI: scientists and engineers still learning the design, DVT not done, and me trying to feed production. Stephen described the same pattern here — open trade study, long leads that won’t wait for the PowerPoint to finish. I’d place the raw / long-lead order to cut calendar time, then finish to the locked print when it lands. Cash and scrap risk are real; the alternative is a zero-inventory miracle that misses water test.
+**Anduril translation** [Stephen]
+> At Plenty, new cultivar meant scientists and engineers were still figuring it out, DVT wasn’t done, and I still had to get material for the line. Stephen’s basically describing the same thing with open trade studies. Long leads don’t care that the study isn’t finished. So you buy the raw or the long-lead piece, write down who owns scrap if the answer changes, and finish it when the print locks. Beats missing a water test because you waited for perfect.
 
 ---
 
@@ -164,8 +169,8 @@ This is your closest analog to Anduril **open trade studies** + NPI on Copperhea
 
 **Interview implication:** your best stories are dual-source / qualify alternate / consolidate common boards / push engineering toward a buyable standard part — not “I love custom.”
 
-**Script**
-> If commonality lives in boards and electronics, that’s where I’d spend planner brain: one item master, one forecast rollup, dual path where we can, and hard questions when someone wants a unique board for a soft reason.
+**Say it like this**
+> If the common stuff is boards, that’s where I’d look first. Same item number. Same forecast. Second source if we can. And if someone wants a unique board because they feel like it, I’m gonna ask why.
 
 ## Open trade studies + long-lead hedge [Stephen]
 
@@ -182,8 +187,8 @@ This is your closest analog to Anduril **open trade studies** + NPI on Copperhea
 - Can you buy a blank that serves both trade-study options?
 - What’s the drop-dead date for the next build / test?
 
-**Script**
-> I wouldn’t wait for every finish callout before I move a 20-week melt or a specialty board fab slot. I’d write down the hedge: what we’re buying, what we’re *not* assuming, who owns scrap if the study picks the other path, and when we stop. Then I’d put the PO in and keep engineering on a decision date.
+**Say it like this**
+> I’m not waiting on every plating callout before I start a 20-week material. I’d say, fine, we’re buying this blank, here’s what we’re not assuming, here’s who eats scrap if the study flips, and here’s the date we need a decision. Then the PO goes out.
 
 **Plenty bridge:** cultivar / DVT material that changed midstream; you still had to feed the line. [fill with your example]
 
@@ -196,8 +201,8 @@ This is your closest analog to Anduril **open trade studies** + NPI on Copperhea
 - If Anduril is often **unrated / without that hammer**, big primes with rated demand can **jump the queue** on the same scarce parts.
 - He called out painful components (you wrote **CSAG** + **atomic clock**). Most likely he meant **CSAC** (**chip-scale atomic clock**) — precision timing parts that are long-lead and capacity-constrained. **Confirm the acronym with him**; don’t correct him in the panel if he says CSAG — ask privately.
 
-**How to talk about it without policy cosplay**
-> I get that we’re competing for the same constrained parts as players who can rate orders. If we don’t have DPAS leverage, the buyer job gets more about relationship, forecast honesty, early POs, dual source, and buffers — not waiting in line hoping. I’d want to know which Copperhead / Sentry components are in that fight today.
+**How to talk about it**
+> Yeah, I get it. If Lockheed can rate an order and we can’t, the supplier’s gonna feed them first. So you stop pretending the queue is fair. You get close to the supplier, you put demand in early, you dual source where you can, you hold a little buffer on the nasty parts. Which Copperhead or Sentry parts are getting jumped right now?
 
 **Ask Stephen’s team**
 - Which parts lose to rated demand most often?
@@ -222,22 +227,22 @@ You won’t get names until the calendar lands. Assume a mix. Rotate proof; don�
 
 ---
 
-# Part 4 — Steal-these answers (mapped to Stephen)
+# Part 4 — Answers that don’t sound like a deck
 
 ### “Walk me through how you’d support an open trade study.”
-> Confirm what’s frozen vs open. If the long-lead is the material or a fab slot, I’d rather buy the hedge with a written scrap owner than lose twelve weeks. Finish when the dash number locks. I’d keep a decision date on engineering and update the mBOM the same day so MRP stops planning fiction.
+> First I’d ask what’s actually frozen. If the long-lead is the material or a fab slot, I’m probably buying that now. Write down who owns scrap if engineering picks the other option. Finish when the dash number is real. And update the manufacturing BOM the same day so MRP isn’t still asking for the old thing.
 
 ### “How do you think about commonality?”
-> Stephen said it’s mostly tier-2 electronics. I’d hunt shared boards and connectors across Copperhead and Sentry, one forecast, one safety-stock policy, and I’d push unique part proliferation when it’s preference not requirement.
+> Stephen said it’s mostly boards and electronics. So I’d look for the same board on Copperhead and Sentry, roll the demand together, and push back if every variant wants its own special part for no good reason.
 
 ### “Tell me about MRP / inventory.”
-> NetSuite: BOMs, MRP, inventory after we left manual. Safety stock on line-killers with ugly lead times; not a blanket. Clean master data or the exception pile is noise.
+> At Plenty we moved off spreadsheets into NetSuite. BOMs, MRP, inventory. Safety stock on the parts that kill you. Not everything. And if the item master is garbage, the exceptions are garbage.
 
 ### “Have you done NPI with technical teams?”
-> Plenty new cultivar: engineers and scientists, DVT, then I bought and planned against a moving design. Change management was half the job — intercept POs, disposition material, update the manufacturing BOM.
+> Yeah. New cultivar at Plenty. Engineers, scientists, DVT still moving, and I’m buying anyway. Half the job was change control. Stop the old PO, figure out what’s on the dock, update the BOM.
 
 ### “Why not stay in big-company procurement?”
-> Comcast is real scale. This seat is Copperhead and Sentry materials — factory work with someone I already trust. That’s the job I want.
+> Comcast is fine. It’s just not the factory. I want Copperhead and Sentry materials, and I already know Stephen. That’s why I’m here.
 
 ---
 
@@ -274,4 +279,4 @@ Stephen’s coaching is a gift. It is not a script to recite as if you sat in th
 - Don’t claim DPAS policy expertise you don’t have.
 - Don’t invent CSAC lead times or Anduril’s real sole sources.
 - Don’t upgrade Plenty stories with numbers that aren’t in `cv.md` / story-bank.
-- Do show the *decision muscle* he already told you they need: hedge long leads, consolidate common electronics, run change control, keep the line fed.
+- Do the practical stuff Stephen already told you they need: buy long leads early, share common electronics demand, catch changes, keep the line fed.
