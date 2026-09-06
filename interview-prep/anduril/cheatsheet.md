@@ -132,21 +132,21 @@ Don't lead with money in the first minute. Don't say "walk-away" out loud. If yo
 
 Keep it plain.
 
-1. **First few weeks:** Own my lines. Walk the floor. Learn the bill of materials and material requirements planning. See open purchase orders, shortages, lead times. Figure out who buys vs who plans today (this job is both).
-2. **Next:** Shortage rhythm with manufacturing, quality, and engineering. Clear containment rules when something fails. Forecast vs reality, including Robot-as-a-Service vs contract demand if that's in the mix.
-3. **By 90 days:** A real sales and operations planning cadence for my book. Simple key performance indicators I can run (I use Power BI). Cleaner master data so the system isn't folklore. Make/buy notes where they matter.
+1. **First few weeks:** Own my lines. Walk the floor. Learn the BOMs and MRP. Look at open POs, shortages, lead times. Figure out who buys vs who plans today (this job is both).
+2. **Next:** Get a shortage rhythm with manufacturing, quality, and engineering. Clear rules when something fails. Forecast vs reality, including RaaS vs contract demand if that’s in the mix.
+3. **By 90 days:** A real S&OP cadence for my stuff. Simple metrics I can run in Power BI. Cleaner master data so the system isn’t folklore. Make/buy notes where they matter.
 
-**Scoreboard that matters:** parts on time to the line, finished goods on time to the customer, shortage aging, inventory vs stockouts, vendor delivery/quality, material requirements planning exception pile.
+**What I’d watch:** parts on time to the line, finished goods on time to the customer, shortage aging, inventory vs stockouts, vendor delivery/quality, MRP exception pile.
 
 ---
 
 ## Questions (pick 3)
 
-1. Which vehicles would I own: Dive-LD, XL (extra-large), payloads, Robot-as-a-Service spares? What's shared on the bill of materials vs unique?
+1. For Copperhead and Seabed Sentry, what do I own day one vs what’s still with LD / Alder?
 2. What still builds in Quincy vs Quonset, and who owns material between them?
-3. How healthy is material requirements planning master data? Is Oracle the daily system, or are people still living in spreadsheets?
-4. When a lot fails, who calls quarantine: Quality, the Buyer/Planner, or the vendor?
-5. You know what Stephen cares about. What is this seat still dropping that they hired for?
+3. How bad is the MRP master data? Is Oracle what people actually live in, or spreadsheets?
+4. When a lot fails, who calls quarantine: Quality, the buyer/planner, or the vendor?
+5. What are you guys still fighting with on materials that this hire is supposed to fix?
 
 ---
 
