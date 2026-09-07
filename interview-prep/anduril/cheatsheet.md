@@ -1,15 +1,16 @@
 # Anduril Maritime — Buyer/Planner Cheat Sheet
 
 **You:** Harrison Pizzi · Richboro, PA · EST · No visa · ~30-day notice  
-**HM (hiring manager):** You know them — **write the name here:** ________________  
+**HM (hiring manager):** **Stephen** (friend / HM — confirm how he wants to be introduced)  
 **Role:** Buyer/Planner · Track A (manufacturing / direct materials)  
+**Your book (Stephen):** **Copperhead** + **Seabed Sentry** (Dive-LD / Shallow LD “Alder” = neighbors)  
 **Site:** Quincy, MA **QCY-01** · Undersea Reconnaissance & Strike — Production  
 **Req:** 11321 · Still live as of 2026-08-22  
 **Comp (posted):** **$99K–$130K** base + equity · **Your number: $140K base**  
 **Travel:** up to 25% · **Clearance:** eligible for Secret (don't claim you have one)  
 **Posting:** https://job-boards.greenhouse.io/andurilindustries/jobs/5169966007?gh_jid=5169966007
 
-**Print this.** Longer notes: `prep.md` · Hardware study: `hardware-primer.md` · Decisions: `decision-playbook.md`
+**Print this.** Onsite from Stephen: `stephen-onsite.md` · Old notes rewritten: `from-2024-prep.md` · Longer: `prep.md` · Hardware: `hardware-primer.md` · Decisions: `decision-playbook.md`
 
 ---
 
@@ -23,14 +24,15 @@
 
 ## Open (~60–75 sec)
 
-> I'm Harrison. Most of my buying career was at Plenty, a manufacturing company. I was Senior Global Supply Manager. I owned **direct materials** (and equipment and CapEx, capital expenditure): raw materials onto the line, bills of materials and material requirements planning in NetSuite, inventory, sales and operations planning with ops, and the supplier quality messes that stop production.
->
-> Two proof points people remember: we took **bill of materials cost down 30% in about six months**. And we had a packaging failure: brittle tub plastic that started chipping into product and became a **recall**. I ran that with the supplier: quarantine the bad stuff, get good material in, put them on 100% inspection, then dig into what went wrong so it didn't happen again.
->
-> That's the work this role is asking for. Quincy is building autonomous underwater vehicles, and this Buyer/Planner owns materials and planning for those lines. I know [HM]. I'm here to learn which vehicles I'd own and where the shortages actually are.
+Same spine as `stephen-onsite.md`. Say it until it sounds like you.
 
-*If they ask about Comcast:*  
-> I'm there now: wireless and fixed network categories, big contracts, enterprise vendors. Useful experience. But this seat is the factory job. That's what I want.
+> I’m Harrison. I spent most of my career in manufacturing procurement at Plenty. Senior Global Supply Manager. I owned direct materials end to end: BOMs and MRP in NetSuite, inventory and safety stock, S&OP with ops, CapEx and tooling, and the supplier quality problems that stop a line.
+>
+> A few things that stuck. We took about 30% out of BOM cost in six months. I stood up Coupa when buying was still living in NetSuite. And I ran a packaging failure that became a recall: quarantine, get conforming material in, put the vendor on 100% inspection, then dig into the process so it didn’t repeat.
+>
+> I’m at Comcast now on wireless and fixed network categories. Useful, but it’s not the factory job. Stephen and I talked about Copperhead and Seabed Sentry: open trade studies, long leads, getting off sole source. That’s the work I want to do.
+
+If they only ask “tell me about yourself,” stop after paragraph two and let them steer.
 
 ---
 
@@ -39,13 +41,13 @@
 They ask this more than once. Don't give a geopolitics speech. Don't say "drones are cool." Don't recite Lattice like a fan site.
 
 **Short version (recruiter):**  
-> I want to buy and plan for real manufacturing again. Plenty was that. Comcast isn't, not in the same way. Anduril's maritime team is building autonomous underwater vehicles in Quincy and scaling production (Quonset is the volume factory). Hard parts, real lead times, quality that matters. I know [HM], I looked at the seat, and it fits. I'm fine working in defense.
+> I want to buy and plan for a factory again. Plenty was that. Comcast isn’t, not really. Anduril’s building underwater vehicles in Quincy and scaling (Quonset’s the volume plant). Hard parts, real lead times. I know Stephen. The job fits. I’m fine with defense.
 
 **If they push "why defense / are you comfortable?":**  
-> Yeah. I'm not looking for a soft consumer brand. These vehicles either work or they don't. I've already lived what a bad material lot does to a product and a customer. That problem is interesting to me. I'm not ambivalent about the mission.
+> Yeah. I’m not shopping for a soft brand. These things either work or they don’t. I’ve already lived a bad material lot wrecking a product. That problem’s interesting to me. I’m not weird about the mission.
 
 **If they push "why *this* company?":**  
-> Because they're actually building here. Dive came out of Quincy. The team is shipping autonomous underwater vehicles and standing up more capacity. I'm not trying to join a PowerPoint defense contractor. I want the materials job behind the hardware.
+> Because they’re actually building. Dive came out of Quincy. They’re shipping hardware and standing up capacity. I don’t want a PowerPoint defense job. I want materials behind the vehicle.
 
 **Don't:** invent a family military story, China talking points, or "I want to transform national security."  
 **Do:** Plenty → manufacturing itch → Quincy/Quonset is real → HM relationship → comfortable with defense.
@@ -61,14 +63,18 @@ They ask this more than once. Don't give a geopolitics speech. Don't say "drones
 | This site | **QCY-01**: engineering + low-rate build/test. Water access. Not the big factory. |
 | Quonset, RI | Volume plant, ~150k sq ft, opened late 2025. ~1 hour south. Public talk of scaling hulls hard. |
 | Dive-LD | Large autonomous underwater vehicle: ~19 ft, ~4 ft diameter, deep (~6,000 m), modular payload. |
+| Shallow LD (Alder) | Neighbor program/name from Stephen. Know it; don't claim ownership. |
+| Copperhead (Toledo) | High-speed AUV family. **Your book.** Push more OTS, less sole source, in-house design ownership. |
+| Seabed Sentry | Seabed sensor nodes. **Your book.** Commonality with Copperhead is mostly tier-2 electronics/boards. |
 | Ghost Shark | Extra-large / Dive-XL family. Australia **A$1.7B** program (Sep 2025). Built in Sydney. Don't mix AU factory with Quincy. |
-| This job | Buy + plan for assigned lines: forecast, inventory, purchase orders, material requirements planning, shortages, make/buy, sales and operations planning, know the bill of materials well enough to push back on a bad promise. |
+| This job | Buy + plan for Copperhead + Sentry: forecast, inventory, POs, MRP, shortages, make/buy, S&OP, BOM literacy — including long-lead hedges while trade studies are still open. |
+| DPAS | Defense Priorities and Allocations System. Stephen: Anduril often can’t rate orders; primes can jump the queue on scarce parts (timing / CSAC-class). |
 
-**Say:** materials, lead time, quarantine, bill of materials, material requirements planning, on-time-in-full.  
-**Don't claim:** you build autonomous underwater vehicles, you have clearance already, Blue Yonder, Lean/Six Sigma belts, deep Oracle admin.
+**Say:** materials, lead time, quarantine, bill of materials, material requirements planning, on-time-in-full, trade-study hedge, OTS, sole source.  
+**Don't claim:** you build AUVs, you have clearance already, Blue Yonder, Lean/Six Sigma belts, deep Oracle admin, DPAS policy expertise.
 
-**Hardware study:** `hardware-primer.md` (what the vehicle is made of, what you'd likely buy, smart questions when you're not an engineer).  
-**How you'd run the seat:** `decision-playbook.md` (make vs buy, change orders, long lead, delays).
+**Onsite pack:** `stephen-onsite.md` (full stories + how you’d run the job + room plan).  
+**Hardware study:** `hardware-primer.md`. **Decisions:** `decision-playbook.md`.
 
 ---
 
@@ -76,11 +82,11 @@ They ask this more than once. Don't give a geopolitics speech. Don't say "drones
 
 Tell it like a story, not a corrective-and-preventive-action form.
 
-> At Plenty I owned direct materials. We had tub packaging where the plastic went brittle. It started chipping. That became a recall.
+> At Plenty I owned direct materials. Tub packaging went brittle. Started chipping. Became a recall.
 >
-> I didn't just fire off an email. We quarantined the bad material, got new material in so the line wasn't dead, put the vendor on 100% inspection as containment, and did a process review with them so the next lots didn't repeat it.
+> I didn’t just email the vendor. We quarantined the bad material, got good stuff in so the line wasn’t dead, put them on 100% inspection, and did a process review so the next lots didn’t repeat it.
 >
-> That's what I mean by owning materials. Good parts, on time, at spec. Same motion if a resin, seal, fastener, or battery lot fails here.
+> Same motion if a resin, seal, fastener, or battery lot fails here. You own it until the parts are good.
 
 **Vary by audience:**  
 - Recruiter: short. Problem → what you did → line got good material again.  
@@ -89,8 +95,10 @@ Tell it like a story, not a corrective-and-preventive-action form.
 
 **Backup (one only if needed):**  
 - Cost: **30% bill of materials** in 6 months (negotiation + value engineering + sales and operations planning).  
-- Planning: NetSuite bill of materials / material requirements planning replaced manual inventory.  
-- Process: Coupa / 99% on contract only if they wander into "can you build process." This seat is materials.  
+- Planning: NetSuite BOMs / MRP + safety stock; nutrient consolidation (~20% changeover) / MOQ contract structures (S9, S14).  
+- NPI: cold plasma equipment + hydrogel with eng; packaging tooling; buy long-lead while finish specs still open (S10).  
+- Process: Coupa ~7 weeks / ~15 punchouts / 99% on contract only if they wander into process. This seat is materials.  
+- Mistake / crisis: double PO fix (S15) or COVID scarce supply (S16) if they ask.  
 - People: junior buyer → IT category owner only if they ask about coaching.
 
 ---
@@ -102,10 +110,10 @@ Posted: **$99–130K** base. Equity is part of the package (private company: tre
 Your number: **$140K** base. Walk-away in your profile is $140K. Senior Buyer/Planner postings have listed **$129–171K**.
 
 **Recruiter (if they ask):**  
-> I've seen the range. For this scope I'm looking at about **$140K base**. I know that's above this posting and inside what Senior Buyer/Planner has been listed at. Happy to talk equity for total, but I'm not going to pretend $115K base works for me.
+> Yeah I’ve seen the band. I’m around **$140K base** for this. I know that’s over the posting and inside what Senior has been listed at. Happy to talk equity. I’m just not going to pretend $115K works.
 
 **HM (you know them):**  
-> Band tops out at $130K. I can do the job. **$140K** is what makes leaving Comcast make sense. If the work is already senior-level, we can name it that way even if the req stays Buyer/Planner.
+> Band caps at $130K. I can do the job. **$140K** is what makes leaving Comcast worth it. If the work’s already senior, we can call it that even if the req title stays Buyer/Planner.
 
 Don't lead with money in the first minute. Don't say "walk-away" out loud. If you get an offer, ask grant size, share price, and vest.
 
@@ -118,7 +126,7 @@ Don't lead with money in the first minute. Don't say "walk-away" out loud. If yo
 **Secret:** Eligible to get and keep it. No sponsorship needed. Don't claim an existing clearance.  
 **Why leave Comcast:** Manufacturing ownership again + this team / HM. Not "I hate cable."  
 **Notice:** ~30 days.  
-**Other processes:** You have some. Don't give a tour. If asked: other conversations are open; this one is specific because of the manufacturing seat and [HM].
+**Other processes:** You have some. Don't give a tour. If asked: other conversations are open; this one is specific because of the manufacturing seat and Stephen.
 
 ---
 
@@ -126,21 +134,21 @@ Don't lead with money in the first minute. Don't say "walk-away" out loud. If yo
 
 Keep it plain.
 
-1. **First few weeks:** Own my lines. Walk the floor. Learn the bill of materials and material requirements planning. See open purchase orders, shortages, lead times. Figure out who buys vs who plans today (this job is both).
-2. **Next:** Shortage rhythm with manufacturing, quality, and engineering. Clear containment rules when something fails. Forecast vs reality, including Robot-as-a-Service vs contract demand if that's in the mix.
-3. **By 90 days:** A real sales and operations planning cadence for my book. Simple key performance indicators I can run (I use Power BI). Cleaner master data so the system isn't folklore. Make/buy notes where they matter.
+1. **First few weeks:** Own my lines. Walk the floor. Learn the BOMs and MRP. Look at open POs, shortages, lead times. Figure out who buys vs who plans today (this job is both).
+2. **Next:** Get a shortage rhythm with manufacturing, quality, and engineering. Clear rules when something fails. Forecast vs reality, including RaaS vs contract demand if that’s in the mix.
+3. **By 90 days:** A real S&OP cadence for my stuff. Simple metrics I can run in Power BI. Cleaner master data so the system isn’t folklore. Make/buy notes where they matter.
 
-**Scoreboard that matters:** parts on time to the line, finished goods on time to the customer, shortage aging, inventory vs stockouts, vendor delivery/quality, material requirements planning exception pile.
+**What I’d watch:** parts on time to the line, finished goods on time to the customer, shortage aging, inventory vs stockouts, vendor delivery/quality, MRP exception pile.
 
 ---
 
 ## Questions (pick 3)
 
-1. Which vehicles would I own: Dive-LD, XL (extra-large), payloads, Robot-as-a-Service spares? What's shared on the bill of materials vs unique?
+1. For Copperhead and Seabed Sentry, what do I own day one vs what’s still with LD / Alder?
 2. What still builds in Quincy vs Quonset, and who owns material between them?
-3. How healthy is material requirements planning master data? Is Oracle the daily system, or are people still living in spreadsheets?
-4. When a lot fails, who calls quarantine: Quality, the Buyer/Planner, or the vendor?
-5. You know what [HM] cares about. What is this seat still dropping that they hired for?
+3. How bad is the MRP master data? Is Oracle what people actually live in, or spreadsheets?
+4. When a lot fails, who calls quarantine: Quality, the buyer/planner, or the vendor?
+5. What are you guys still fighting with on materials that this hire is supposed to fix?
 
 ---
 
@@ -161,6 +169,11 @@ Keep it plain.
 | CAPA | Corrective and preventive action (fix the failure so it doesn't repeat) |
 | ECO | Engineering change order (a design/revision change that hits materials) |
 | WIP | Work in process (on the floor, not finished yet) |
+| eBOM / mBOM | Engineering / manufacturing bill of materials |
+| OTS / COTS | Off-the-shelf / commercial off-the-shelf |
+| DVT | Design validation test |
+| DPAS | Defense Priorities and Allocations System (rated orders that jump supplier queues) |
+| CSAC | Chip-scale atomic clock (likely Stephen's "CSAG" + atomic clock — confirm) |
 | RaaS | Robot-as-a-Service (they operate vehicles as a service, not only sell them) |
 | FG | Finished goods |
 | IC | Individual contributor (not a people manager) |
