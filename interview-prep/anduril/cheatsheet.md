@@ -24,14 +24,15 @@
 
 ## Open (~60–75 sec)
 
-> I’m Harrison. Most of my buying was at Plenty. Manufacturing company. Senior Global Supply Manager. I owned direct materials. Raw material onto the line, BOMs and MRP in NetSuite, inventory, planning with ops, and the supplier quality crap that shuts you down.
->
-> Two things people usually remember. We cut BOM cost about 30% in six months. And we had tub packaging that went brittle, started chipping into product, turned into a recall. I ran that with the supplier. Quarantine the bad stuff, get good material in, put them on 100% inspect, then dig into what broke so it didn’t happen again.
->
-> Stephen and I talked about Copperhead and Seabed Sentry. Sounds like open trade studies and long leads that don’t wait for engineering to finish arguing. I’ve done that kind of work. Curious how you guys run shortages today.
+Same spine as `stephen-onsite.md`. Say it until it sounds like you.
 
-*If they ask about Comcast:*  
-> I’m there now. Wireless and fixed network, big contracts. It’s fine. I want the factory seat again.
+> I’m Harrison. I spent most of my career in manufacturing procurement at Plenty. Senior Global Supply Manager. I owned direct materials end to end: BOMs and MRP in NetSuite, inventory and safety stock, S&OP with ops, CapEx and tooling, and the supplier quality problems that stop a line.
+>
+> A few things that stuck. We took about 30% out of BOM cost in six months. I stood up Coupa when buying was still living in NetSuite. And I ran a packaging failure that became a recall: quarantine, get conforming material in, put the vendor on 100% inspection, then dig into the process so it didn’t repeat.
+>
+> I’m at Comcast now on wireless and fixed network categories. Useful, but it’s not the factory job. Stephen and I talked about Copperhead and Seabed Sentry: open trade studies, long leads, getting off sole source. That’s the work I want to do.
+
+If they only ask “tell me about yourself,” stop after paragraph two and let them steer.
 
 ---
 
@@ -67,12 +68,12 @@ They ask this more than once. Don't give a geopolitics speech. Don't say "drones
 | Seabed Sentry | Seabed sensor nodes. **Your book.** Commonality with Copperhead is mostly tier-2 electronics/boards. |
 | Ghost Shark | Extra-large / Dive-XL family. Australia **A$1.7B** program (Sep 2025). Built in Sydney. Don't mix AU factory with Quincy. |
 | This job | Buy + plan for Copperhead + Sentry: forecast, inventory, POs, MRP, shortages, make/buy, S&OP, BOM literacy — including long-lead hedges while trade studies are still open. |
-| DPAS | Defense Priorities and Allocations System. Stephen: Anduril often lacks rated-order leverage; primes can jump the queue on scarce parts (timing / CSAC-class). |
+| DPAS | Defense Priorities and Allocations System. Stephen: Anduril often can’t rate orders; primes can jump the queue on scarce parts (timing / CSAC-class). |
 
 **Say:** materials, lead time, quarantine, bill of materials, material requirements planning, on-time-in-full, trade-study hedge, OTS, sole source.  
 **Don't claim:** you build AUVs, you have clearance already, Blue Yonder, Lean/Six Sigma belts, deep Oracle admin, DPAS policy expertise.
 
-**Onsite pack:** `stephen-onsite.md` (Plenty highlights Stephen wants + blanks to fill).  
+**Onsite pack:** `stephen-onsite.md` (full stories + how you’d run the job + room plan).  
 **Hardware study:** `hardware-primer.md`. **Decisions:** `decision-playbook.md`.
 
 ---

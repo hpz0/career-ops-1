@@ -3,7 +3,7 @@
 | File | Use |
 |------|-----|
 | [`cheatsheet.md`](cheatsheet.md) | Day of — company flash, CAPA story, questions, acronym table |
-| [`stephen-onsite.md`](stephen-onsite.md) | **Onsite pack from Stephen** — Plenty highlights + Copperhead/Sentry role map |
+| [`stephen-onsite.md`](stephen-onsite.md) | **Onsite pack** — full Plenty stories, how you’d run the job, room plan, Q&A |
 | [`from-2024-prep.md`](from-2024-prep.md) | Your Feb 2024 Anduril notes — stories, Q&A rewrites, EVT/DVT/PVT, what to keep/drop |
 | [`prep.md`](prep.md) | Full intel (process, questions, 90-day) |
 | [`hardware-primer.md`](hardware-primer.md) | Non-engineer guide to AUV parts/materials (overview + deep dive) |
