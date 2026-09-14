@@ -2,6 +2,7 @@
 
 | # | Date | Company | Via | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|-----|------|-------|--------|-----|--------|-------|
+| 19 | 2026-09-14 | GFiber | — | Strategic Procurement Manager | 4.1/5 | Evaluated | ✅ | [019](../reports/019-gfiber-2026-09-14.md) | Remote US; Coupa+telecom hardware fit; Manager vs Director+ hunt; Astound/Stonepeak close Q4 2026; req gh_jid 6104940004 |
 | 13 | 2026-09-05 | GitLab | — | Manager, Procurement | 4.3/5 | Evaluated | ✅ | [13](../reports/013-gitlab-2026-09-05.md) | Track A STAND OUT — Remote US; Coupa/P2P + SaaS sourcing fit; confirm base ≥$140K (band $115-194K); apply this week; PDF ready: output/013-gitlab-manager-procurement/cv/tailored/v001/cv.pdf |
 | 14 | 2026-09-05 | Zip | — | Enterprise Account Executive - Southeast | 3.4/5 | Evaluated | ❌ | [14](../reports/014-zip-eae-se-2026-09-05.md) | Track B — warm intro only; SE territory suboptimal from PA; job e6abd4e2 |
 | 15 | 2026-09-05 | Zip | — | Strategic Account Executive - East Coast | 3.6/5 | Evaluated | ❌ | [15](../reports/015-zip-sae-east-2026-09-05.md) | Track B best Zip geo (Philly listed); 8+ yrs SaaS closer gap; warm intro only; OTE $300-350K |
