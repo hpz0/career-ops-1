@@ -155,3 +155,19 @@ Accumulated stories for interviews. Only facts backed by `cv.md` / user statemen
 ### Ramp Activation note (2026-07-29)
 
 Reframe S1 for **customer go-live** language (discovery → config → education → go-live) when answering async AI / “how would you onboard a client” prompts. You were the **buyer-side** implementer, not vendor CS — say that explicitly.
+
+## Coupa / P2P platform ownership (Groq Zip-adjacent)
+
+**Situation:** Plenty needed purchasing discipline and a scalable P2P platform.
+**Task:** Own Coupa as business admin — workflows, catalogs, punchouts, policy.
+**Action:** Certified admin; No-PO-No-Pay; partnered Legal/Finance/IT on CLM and AP.
+**Result:** 99% spend on contract; PR cycle 3→1.5 days; +50% e-invoice rate.
+**Reflection:** Platform ownership is adoption + config + policy, not ticket-taking — transferable to Zip.
+
+## Indirect portfolio ownership
+
+**Situation:** Multimillion-dollar indirect budget across IT, facilities, travel, marketing, contract labor.
+**Task:** Full lifecycle intake→source→negotiate→renew with supplier performance.
+**Action:** Category planning, consolidations, stakeholder intake discipline.
+**Result:** On-contract spend and faster requisitions under growth pressure.
+**Reflection:** Renewal calendars beat fire drills; AP partnership closes the loop.
