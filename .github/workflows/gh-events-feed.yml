@@ -12,7 +12,8 @@ permissions:
 
 jobs:
   post:
-    if: github.event.pull_request.merged == true
+    # Upstream-only Discord #gh-events — skip on personal forks (no webhook).
+    if: github.event.pull_request.merged == true && !github.event.repository.fork
     runs-on: ubuntu-latest
     steps:
       - uses: actions/github-script@v9
