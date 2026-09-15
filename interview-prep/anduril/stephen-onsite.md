@@ -4,9 +4,11 @@
 **HM:** Stephen  
 **You:** Harrison Pizzi · Plenty manufacturing buyer (direct materials) → Comcast enterprise procurement  
 **Comp ask:** $140K base (posted $99–130K; Senior bands have listed higher)  
-**Also:** `cheatsheet.md` · `from-2024-prep.md` · `story-bank.md` · `decision-playbook.md` · `hardware-primer.md`
+**Also:** `loop-schedule.md` (Mon/Thu interviewer map) · `cheatsheet.md` · `from-2024-prep.md` · `story-bank.md` · `decision-playbook.md` · `hardware-primer.md`
 
 This is one document you can prep from. Say the scripted answers out loud until they sound like you, not like a page.
+
+**Loop:** Jamie Lichay (Mon) · Robbie Collins · Kyle Davis · Stephen Shaw (Thu). Room cards live in `loop-schedule.md`. Keep answers ~90–120 seconds in the 30-minute blocks.
 
 ---
 
@@ -45,17 +47,22 @@ If they only ask “tell me about yourself,” stop after paragraph two and let 
 
 # 3. Why Anduril / why leave Comcast / why defense
 
+Order: **role → company → mission**. Mission first sounds like a podcast recap.
+
 **Why this role**
 > I want to own materials on a production line again. Plenty was that. Comcast is category work at scale. This Buyer/Planner job is shortages, lead times, engineering changes, and getting good parts to the floor. That’s what I’m looking for.
 
 **Why Anduril**
-> They’re building real hardware in Quincy and scaling capacity. Maritime vehicles that have to work in water. Hard supply problems. I already know Stephen. I’m not looking for a paper defense contractor.
+> Two things. They’re building real hardware in Quincy and scaling capacity, not a paper defense services shop. And the supply chain thesis matches how I think about the job. A lot of legacy programs run on a long tail of vendors and slow industrial capacity. Anduril’s trying to build the product and a tighter industrial base under it. I want that problem on Copperhead and Seabed Sentry. Stephen already walked me through the book.
 
-**Defense comfort**
-> I’m comfortable with it. I’ve already lived what a bad material lot does to a product and a customer. These systems either work or they don’t. That doesn’t bother me.
+**Defense / mission (only if they push)**
+> I’m aligned with deterrence. Make it not worth starting the fight. Get more capability per dollar instead of romanticizing endless spend. I’ve lived what a bad material lot does to a product and a customer. Systems that have to work in the water don’t bother me.
 
 **No engineering degree**
 > I’m not an ME. At Plenty I still sat with engineers and scientists on specs, SOWs, tooling, and new cultivars. Cold plasma equipment, hydrogel, packaging tools, spares BOMs. I don’t design the part. I learn the requirement, turn it into a buyable plan, and keep the line fed when the drawing moves. That’s the job.
+
+**Commodity gap (if they press foam / electronics)**
+> Most of my direct materials at Plenty were farm inputs: seeds, media, nutrients, plus packaging and CapEx/tooling. I also owned spares BOMs with engineering: manifolds, harnesses, conveyors. I haven’t lived electronics allocation or syntactic foam as a commodity buyer. I have lived BOMs, MRP, NPI with engineers, quality escapes, and low-volume contracts. The part numbers change. The rhythm doesn’t.
 
 ---
 
@@ -202,18 +209,16 @@ This is the part that gets you hired. Not vibes. Judgment.
 
 ---
 
-# 6. Room plan (4–5 people)
+# 6. Room plan (named loop)
 
-Rotate stories. Do **not** tell the full recall four times.
+Full cards: `loop-schedule.md`. Rotate stories. Do **not** tell the full recall four times.
 
 | Room | What they care about | Lead with | Have ready |
 |------|----------------------|-----------|------------|
-| Stephen / HM | Ownership, judgment, you’ll stay | Copperhead/Sentry, trade-study hedge, low-volume MOQ contracts | Comp / Quincy only if he opens it |
-| Buyer peer | Suppliers, expedite, dual source | Sole-source push, SCAR/CAPA, COVID allocation | One shortage war story |
-| Planner peer | MRP, safety stock, BOM hygiene | NetSuite MRP, nutrient consolidation, item master | Change-order intercept |
-| Engineering / NPI | Can you keep up | Cold plasma / hydrogel / tooling NPI | Trade-study hedge script |
-| Quality / MFG | Escapes, floor reality | Tub recall sequence | Sealer bottleneck / tooling |
-| Ops / program | Dates and promises | “Can we actually promise that?” | S&OP, Quincy vs Quonset ownership |
+| **Jamie Lichay** (Mon) | Desk-ready buyer/planner | MRP, safety stock, nutrient consolidation | Short recall · MOQ contracts |
+| **Robbie Collins** | Sourcing eng / high-speed AUV supply | NPI + trade-study hedge | eBOM→mBOM · sole source |
+| **Kyle Davis** | Confirm his seat in minute one | Match to MFG / quality / planning | Independence + one data story |
+| **Stephen Shaw** (HM, 45m) | Ownership, judgment, you’ll stay | Why role + trade-study + MOQ | Comp / Quincy only if he opens it |
 
 ---
 

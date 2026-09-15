@@ -283,12 +283,27 @@ Accumulated stories for interviews. Only facts backed by `cv.md` / user statemen
 - [ ] Comcast enterprise portfolio negotiation (need metrics user can confirm)
 - [x] **S8 — Plenty tub packaging CAPA / recall** — drafted 2026-08-24; add metrics only if you remember them
 - [x] **S9–S16 — filled from 2024 Anduril prep notes** (2026-09-06); tighten names/numbers from memory if you want
-- [ ] Anduril / defense: one personal “why this mission” sentence (don’t invent)
+- [x] Anduril / defense: why this mission — see `anduril/loop-schedule.md` (role → company → mission). Don’t invent a military bio.
 
 ### Ramp Activation note (2026-07-29)
 
 Reframe S1 for **customer go-live** language (discovery → config → education → go-live) when answering async AI / “how would you onboard a client” prompts. You were the **buyer-side** implementer, not vendor CS — say that explicitly.
 
+### Anduril loop note (2026-09-15)
+
+**Interviewers:** Jamie Lichay · Robbie Collins · Kyle Davis · Stephen Shaw.  
+**Their trait filter:** Problem-Solving Independence · Data Mastery · Stakeholder Engagement · scrappy 0→80.  
+**Story → trait cheat:**
+
+| Trait | Reach for |
+|-------|-----------|
+| Independence | S8 recall · S10 NPI/open specs · trade-study hedge · S15 double-PO fix |
+| Data | S9 MRP/nutrients · S1/S11 Coupa · ~30% BOM |
+| Stakeholders | S10 eng/scientists · S8 SQE · S6 coaching · S16 COVID suppliers |
+| Scrappy 0→80 | Coupa ~7 weeks · MRP from manual · S14 MOQ contracts |
+
+30-minute rooms = Situation / Approach / Result in ~90–120 seconds, then stop. Full room cards in `anduril/loop-schedule.md`.
+
 ### Anduril note (2026-09-06)
 
-Your **Feb 2024** onsite prep PDF is now mined into S9–S16 + `anduril/from-2024-prep.md`. That loop was **Sourcing Engineer**; this loop is **Buyer/Planner**. Reuse stories; don’t reuse stale valuation, headcount, or panel names as current fact.
+Your **Feb 2024** onsite prep PDF is mined into S9–S16 + `anduril/from-2024-prep.md`. That loop was **Sourcing Engineer**; this loop is **Buyer/Planner**. Reuse stories; don’t reuse stale valuation, headcount, or panel names as current fact.

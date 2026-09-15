@@ -10,15 +10,22 @@
 **Travel:** up to 25% · **Clearance:** eligible for Secret (don't claim you have one)  
 **Posting:** https://job-boards.greenhouse.io/andurilindustries/jobs/5169966007?gh_jid=5169966007
 
-**Print this.** Onsite from Stephen: `stephen-onsite.md` · Old notes rewritten: `from-2024-prep.md` · Longer: `prep.md` · Hardware: `hardware-primer.md` · Decisions: `decision-playbook.md`
+**Print this.** Loop map: `loop-schedule.md` · Full scripts: `stephen-onsite.md` · 2024 notes: `from-2024-prep.md` · Hardware: `hardware-primer.md` · Decisions: `decision-playbook.md`
+
+**This loop**
+- **Mon 9/21 · 2:00–2:30 ET** — Jamie Lichay (maritime procurement/planning)
+- **Thu 9/24 · 12:00–12:30** — Robbie Collins (product sourcing eng)
+- **Thu 9/24 · 12:30–1:00** — Kyle Davis (confirm seat in minute one)
+- **Thu 9/24 · 1:00–1:45** — Stephen Shaw (HM)
+- **Dress:** business casual · **Answers:** ~90–120 sec (Situation → Approach → Result, then stop)
 
 ---
 
 ## Lock these before any call
 
-1. **HM name + how you know them.** One sentence. Recruiter will ask.
-2. **Quincy.** This is on-site. Richboro is not a commute. Align with the HM first (relocate / hybrid / whatever you agreed). Don't give the recruiter a different story.
-3. **$140K vs the band.** This req tops out at $130K. Senior Buyer/Planner postings at Anduril have gone **$129–171K**. $140K is a stretch on *this* title and normal for Senior. Don't start a title fight in round one.
+1. **HM:** Stephen Shaw. One sentence on how you know him. Don’t make the loop sound like a favor.
+2. **Quincy.** On-site. Richboro is not a commute. Same story every room.
+3. **$140K vs the band.** Req tops out at $130K. Senior listings have gone **$129–171K**. Don’t start a title fight on round one.
 
 ---
 
@@ -36,21 +43,24 @@ If they only ask “tell me about yourself,” stop after paragraph two and let 
 
 ---
 
-## Why Anduril (say this out loud until it sounds like you)
+## Why Anduril (role → company → mission)
 
-They ask this more than once. Don't give a geopolitics speech. Don't say "drones are cool." Don't recite Lattice like a fan site.
+Don’t open with a podcast recap. Full version in `loop-schedule.md` and `stephen-onsite.md`.
 
-**Short version (recruiter):**  
-> I want to buy and plan for a factory again. Plenty was that. Comcast isn’t, not really. Anduril’s building underwater vehicles in Quincy and scaling (Quonset’s the volume plant). Hard parts, real lead times. I know Stephen. The job fits. I’m fine with defense.
+**Why this role**
+> I want to own materials on a production line again. Plenty was that. Comcast is category work at scale. This seat is shortages, lead times, engineering changes, good parts to the floor.
 
-**If they push "why defense / are you comfortable?":**  
-> Yeah. I’m not shopping for a soft brand. These things either work or they don’t. I’ve already lived a bad material lot wrecking a product. That problem’s interesting to me. I’m not weird about the mission.
+**Why Anduril**
+> They’re building real hardware in Quincy and scaling capacity. And the supply chain thesis matches how I think: less long-tail vendor sprawl, more real industrial capacity under the product. I want that on Copperhead and Seabed Sentry. Stephen already walked me through the book.
 
-**If they push "why *this* company?":**  
-> Because they’re actually building. Dive came out of Quincy. They’re shipping hardware and standing up capacity. I don’t want a PowerPoint defense job. I want materials behind the vehicle.
+**Mission (only if they push defense)**
+> Deterrence. Make the fight not worth starting. More capability per dollar, not endless spend as a personality trait. Bad material lots wrecking a real product doesn’t scare me. Water systems that have to work don’t either.
 
-**Don't:** invent a family military story, China talking points, or "I want to transform national security."  
-**Do:** Plenty → manufacturing itch → Quincy/Quonset is real → HM relationship → comfortable with defense.
+**20-second version**
+> Factory seat again, on vehicles that have to work, at a company building product and supply chain together. That’s the job I want.
+
+**Don't:** F-35 vendor-count TED talk, Palmer quotes, China lecture, “B2B SaaS is meaningless,” fake lifelong defense calling.  
+**Do:** Plenty → factory itch → Quincy is real → Copperhead/Sentry → Stephen as context, not a crutch.
 
 ---
 
