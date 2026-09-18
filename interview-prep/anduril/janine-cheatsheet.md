@@ -1,14 +1,12 @@
-# Janine Paat — Anduril TA screen (remote)
+# Janine — Buyer/Planner peer (remote)
 
-**Who:** Janine Paat · Recruiting Lead (Maritime Production / Supply Chain)  
-**You:** Harrison Pizzi · Buyer/Planner · Copperhead + Seabed Sentry · Quincy QCY-01  
-**HM:** Stephen Shaw (friend — one sentence, don’t make it a favor)  
-**Her job today:** fit, logistics, motivation, can you clear the loop. Not a deep MRP exam.  
-**Your job:** Plenty manufacturing first. Short answers. Leave her wanting Stephen to meet you.
+**Who:** Janine · Buyer/Planner (Maritime) — peer on the desk, not TA  
+**You:** Harrison Pizzi · Buyer/Planner candidate · Copperhead + Seabed Sentry · Quincy  
+**HM:** Stephen Shaw  
+**Her lens:** Can you run the book next to her. Shortages, POs, planning hygiene, suppliers, calm under mess.  
+**Format:** Behavioral. ~90–120 sec per story. Situation → Approach → Result → stop.
 
-**Comp ask:** $140K base (posted $99–130K; Senior listings $129–171K)  
-**Clearance:** eligible for Secret — don’t claim you have one  
-**Notice:** ~30 days · **Travel:** ≤25% · **Remote call:** business casual on camera
+Deep scripts: `stephen-onsite.md` · Loop map: `loop-schedule.md`
 
 ---
 
@@ -24,67 +22,56 @@ Stop. Let her steer.
 
 ---
 
-## Why Anduril / why this role
+## Why this seat (if she asks)
 
-**Role → company → mission (don’t podcast).**
-
-> I want materials on a production line again. Plenty was that. Comcast is category work. This Buyer/Planner seat is shortages, lead times, engineering changes, good parts to the floor.
->
-> Anduril’s building real hardware in Quincy and scaling capacity. I want that on Copperhead and Seabed Sentry. Stephen already walked me through the book.
-
-**If she pushes defense:**  
-> Deterrence. Make the fight not worth starting. More capability per dollar. Bad material lots wrecking a real product doesn’t scare me.
-
-**If she asks about Stephen:**  
-> We’ve known each other a while. He walked me through Copperhead and Seabed Sentry and what this seat owns. I’m here for the work, not a favor.
+> I want materials on a production line again. Plenty was that. Comcast is category work. This job is shortages, lead times, engineering changes, good parts to the floor. Copperhead and Seabed Sentry is the book I want to own.
 
 ---
 
-## Logistics (one story only)
+## Lead stories for her room
 
-| Topic | Say |
-|-------|-----|
-| **Quincy on-site** | Same story as Stephen. Richboro isn’t a commute. *(Lock relocate/hybrid with him — don’t freestyle two answers.)* |
-| **Travel 25%** | Ask: Quonset + suppliers, or field/test? |
-| **Secret** | Eligible to obtain and maintain. No sponsorship. |
-| **Notice** | ~30 days. |
-| **Other processes** | Some conversations open. This one is specific: manufacturing seat + Stephen. No tour. |
+| Need | Story | One line |
+|------|-------|----------|
+| **LEAD — planning / data** | NetSuite MRP + safety stock (S4/S9) | System drove buys; buffers only on parts that kill the line; item master has to be honest |
+| **LEAD — ownership** | Tub recall (S8) | Quarantine → conforming material → vendor 100% → process review with SQE |
+| **Strong backup** | Nutrient consolidation ~20% changeover (S9) | Fewer SKUs, cleaner forecast, cleaner buys |
+| **Strong backup** | MOQ / low-volume contracts (S14) | Seeds/nutrients: annual forecast, restock or roll volume; cost of stockout mattered |
+| **If she goes NPI** | Cold plasma / tooling (S10) | Buy long-lead while finish specs still move |
+| **If she goes current role** | Samsung schedule → volumes · Nokia 90-day vendor hold | Demand plan → buy; stockout cover without parking cash |
 
----
-
-## Comp (only if she asks)
-
-> I’ve seen the band. I’m around **$140K base** for this scope. I know that’s over this posting and inside what Senior has been listed at. Happy to talk equity. I’m not going to pretend $115K works.
-
-Don’t open with money. Don’t say “walk-away.”
+**Rotate.** Don’t dump the full recall if you already used it in the open. Shorten to the sequence.
 
 ---
 
-## One proof story if she asks for an example (90 sec max)
+## Likely questions — short answers
 
-**Tub recall:** brittle packaging → chips → recall. Quarantine → conforming material in → vendor 100% inspect → process review with Supplier Quality.
+**How do you decide what to buy / how much?**  
+> Demand from the plan and BOM, minus on-hand and on-order, plus lead time and lot size. If lead times and revs in the system are wrong, MRP is noise. Safety stock only on the parts that stop the build.
 
-**Backup (pick one):** NetSuite MRP/safety stock · ~30% BOM · Coupa ~7 weeks / 99% on contract · nutrient consolidation ~20% changeover
+**Shortage morning?**  
+> Confirm it’s real. Wrong lead times and unreceived dock inventory fake a lot of shortages. If it’s real: call the supplier same morning, ask manufacturing if we can build around it, quality if someone wants a sub, then fix why the system didn’t see it.
 
-**Comcast only if she digs “current role”:** Samsung strand radios = deployment schedule → contracted volumes. Nokia = supplier held inventory 90 days, no added cost (stockout cover without parking cash). Then come back to Plenty/factory.
+**Engineering change after the PO is out?**  
+> Effectivity and what’s already bought. Use / rework / scrap. Freeze bad rev POs. Disposition dock and WIP. Update the mBOM the same day so MRP stops calling the dead part.
+
+**Oracle vs NetSuite?**  
+> Same job, different screens. I lived MRP in NetSuite. I’ll learn yours.
+
+**Commodity gap (foam / electronics)?**  
+> Most of my directs at Plenty were farm inputs plus packaging and CapEx/tooling. Also spares BOMs with eng. I haven’t lived electronics allocation as a commodity buyer. I have lived BOMs, MRP, NPI, quality escapes, low-volume contracts. Part numbers change. The rhythm doesn’t.
 
 ---
 
-## Gaps (say once, clean)
+## Ask her (pick 2–3)
 
-> I’m not an ME and I haven’t bought foam/electronics as a commodity. I have lived BOMs, MRP, NPI with engineers, quality escapes, and low-volume contracts. Oracle vs NetSuite: same job, different screens. I’ll learn yours.
-
----
-
-## Ask her (pick 2)
-
-1. What does success in the first 90 days look like for this hire?
-2. How does this seat split day-to-day with Jamie’s team vs Stephen?
-3. Anything in my background you want me to clear up before the rest of the loop?
-4. Timeline from here to a decision?
+1. What does a bad shortage morning look like on your book right now?
+2. Copperhead vs Sentry: what’s common on the BOM today vs still unique?
+3. How clean is Oracle / MRP master data day to day — what do people actually trust?
+4. When engineering flips a rev after the PO is out, how fast do you expect planning to intercept?
+5. What do you wish the last person in this seat had done differently?
 
 ---
 
 ## Don’t
 
-Lead with Comcast · geopolitics speech · fake clearance · Oracle/Blue Yonder bravado · long Coupa tour · same recall if she already got the open · argue title vs Senior on this call
+Lead with Comcast · long Coupa tour · geopolitics · fake electronics depth · Oracle admin bravado · treat her like HR · argue comp/title on this call

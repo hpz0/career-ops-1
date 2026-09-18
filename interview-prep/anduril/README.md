@@ -2,7 +2,7 @@
 
 | File | Use |
 |------|-----|
-| [`janine-cheatsheet.md`](janine-cheatsheet.md) | **Janine Paat (TA) remote screen** — 1-pager |
+| [`janine-cheatsheet.md`](janine-cheatsheet.md) | **Janine (Buyer/Planner peer) remote** — 1-pager |
 | [`loop-schedule.md`](loop-schedule.md) | **This loop** — Mon/Thu calendar, interviewer cards, trait map, Why Anduril |
 | [`cheatsheet.md`](cheatsheet.md) | Day-of one-pager for peer/HM rooms |
 | [`stephen-onsite.md`](stephen-onsite.md) | Full scripts + Plenty stories + how you’d run the job |
