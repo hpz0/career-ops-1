@@ -45,22 +45,22 @@ If they only ask “tell me about yourself,” stop after paragraph two and let 
 
 ## Why Anduril (role → company → mission)
 
-Don’t open with a podcast recap. Full version in `loop-schedule.md` and `stephen-onsite.md`.
+**Recruiter signal (Sep 2026): why Anduril is critical.** They want belief, not a soft “factory itch” only. Say it like you mean it.
 
 **Why this role**
 > I want to own materials on a production line again. Plenty was that. Comcast is category work at scale. This seat is shortages, lead times, engineering changes, good parts to the floor.
 
 **Why Anduril**
-> They’re building real hardware in Quincy and scaling capacity. And the supply chain thesis matches how I think: less long-tail vendor sprawl, more real industrial capacity under the product. I want that on Copperhead and Seabed Sentry. Stephen already walked me through the book.
+> Two things. They’re putting advanced hardware in warfighters’ hands faster than the old cost-plus machine. And they’re trying to blow up that model so taxpayers get more capability per dollar. I believe that’s worth doing. Maritime is building for real in Quincy. I want that problem on Copperhead and Seabed Sentry. Stephen already walked me through the book.
 
-**Mission (only if they push defense)**
-> Deterrence. Make the fight not worth starting. More capability per dollar, not endless spend as a personality trait. Bad material lots wrecking a real product doesn’t scare me. Water systems that have to work don’t either.
+**If they only give you 20 seconds**
+> Get better kit to the fleet faster, stop wasting money on cost-plus theater, and own materials behind vehicles that have to work. That’s why I’m here.
 
-**20-second version**
-> Factory seat again, on vehicles that have to work, at a company building product and supply chain together. That’s the job I want.
+**Maritime pace (recruiter: startup inside Anduril)**
+> I get it. Deadlines are real. If something’s on fire after 5, you stay and clear it. Plenty was that kind of floor. I’m not looking for a clock-out culture.
 
-**Don't:** F-35 vendor-count TED talk, Palmer quotes, China lecture, “B2B SaaS is meaningless,” fake lifelong defense calling.  
-**Do:** Plenty → factory itch → Quincy is real → Copperhead/Sentry → Stephen as context, not a crutch.
+**Don't:** F-35 vendor-count TED talk, Palmer quotes, China lecture, “B2B SaaS is meaningless,” fake lifelong defense calling, mission that sounds copy-pasted.  
+**Do:** Believe it → factory ownership → Copperhead/Sentry → Stephen as context, not a crutch.
 
 ---
 

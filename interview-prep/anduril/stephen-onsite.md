@@ -47,16 +47,18 @@ If they only ask “tell me about yourself,” stop after paragraph two and let 
 
 # 3. Why Anduril / why leave Comcast / why defense
 
-Order: **role → company → mission**. Mission first sounds like a podcast recap.
+**Recruiter (Sep 2026): why Anduril is critical.** Belief matters. Role-only answers are not enough.
+
+Order still works: **role → company/mission → pace**. Don’t sound like a podcast. Do sound like you mean it.
 
 **Why this role**
 > I want to own materials on a production line again. Plenty was that. Comcast is category work at scale. This Buyer/Planner job is shortages, lead times, engineering changes, and getting good parts to the floor. That’s what I’m looking for.
 
 **Why Anduril**
-> Two things. They’re building real hardware in Quincy and scaling capacity, not a paper defense services shop. And the supply chain thesis matches how I think about the job. A lot of legacy programs run on a long tail of vendors and slow industrial capacity. Anduril’s trying to build the product and a tighter industrial base under it. I want that problem on Copperhead and Seabed Sentry. Stephen already walked me through the book.
+> They’re putting advanced hardware in warfighters’ hands faster than the legacy cost-plus machine. And they’re trying to blow that model up so taxpayers get more capability per dollar. I believe that’s worth doing. Maritime is building for real in Quincy, not running a paper defense services shop. I want that problem on Copperhead and Seabed Sentry. Stephen already walked me through the book.
 
-**Defense / mission (only if they push)**
-> I’m aligned with deterrence. Make it not worth starting the fight. Get more capability per dollar instead of romanticizing endless spend. I’ve lived what a bad material lot does to a product and a customer. Systems that have to work in the water don’t bother me.
+**Maritime pace (recruiter: “startup inside Anduril”)**
+> Deadlines are real. If the build or the buy is on fire after 5, you stay and clear it. Plenty was a floor that didn’t wait for perfect. I’m not looking for a clock-out culture.
 
 **No engineering degree**
 > I’m not an ME. At Plenty I still sat with engineers and scientists on specs, SOWs, tooling, and new cultivars. Cold plasma equipment, hydrogel, packaging tools, spares BOMs. I don’t design the part. I learn the requirement, turn it into a buyable plan, and keep the line fed when the drawing moves. That’s the job.
@@ -207,6 +209,29 @@ This is the part that gets you hired. Not vibes. Judgment.
 
 > If the goal is more off-the-shelf and less sole source, I spend time in design reviews before the unique part is sacred. Shared boards across Copperhead and Sentry should be one item, one forecast, ideally two qualified sources. In-house design ownership matters because a black-box vendor design is how you stay sole-sourced forever.
 
+## 5.7 Buying strategy when you get a technical BOM
+
+**Recruiter ask.** A good buyer doesn’t just process the PDF. You handle every input you’re given, and you spot issues in the parts before they become shortages.
+
+**Say**
+> First I read it like a buyer, not like a clerk. What’s the requirement on each line: material, finish, tolerance, qual, quantity, rev. What’s frozen vs still in trade study. What’s long lead, sole source, or custom vs off-the-shelf.
+>
+> Then I sort the BOM into a buy plan: critical path and long-lead first, COTS that can dual-source, custom that needs eng in the room, and anything with a soft or missing callout that will blow up later. I don’t wait for MRP to scream. If lead time doesn’t fit the build date, if the rev is mush, if we’re designing into one vendor, I bring that back to engineering the same week.
+>
+> At Plenty I owned turning engineering intent into a manufacturing BOM we could actually plan and buy. Nutrient consolidation, spares BOMs with eng, intercepting POs when a rev moved. Same muscle: use all the info, then find the landmines in the parts list before the floor feels them.
+
+**Proof points to name if they dig**
+- Item master / lead times wrong = fake shortages (fix data first)
+- Open trade study → hedge raw/long-lead, don’t freeze waiting for perfect
+- Sole source / OTS push (Stephen’s priority)
+- Rev change after PO → intercept, don’t forward an email
+
+## 5.8 Spot issues in the parts (before the fire)
+
+**Recruiter: “Are you proactive in seeing issues in the parts?”**
+
+> Yes. The job isn’t clearing a queue. It’s reading the BOM and the open PO book and asking what fails next. Long lead vs need date. Sole source with no backup. Spec that manufacturing can’t buy. Safety stock on the wrong part. Rev drift. If I only react when the line is already short, I’m late.
+
 ---
 
 # 6. Room plan (named loop)
@@ -226,6 +251,12 @@ Full cards: `loop-schedule.md`. Rotate stories. Do **not** tell the full recall 
 
 ### Walk me through supporting an open trade study
 > I’d ask what’s frozen. If the long lead is material or a fab slot, I’d buy that now with a written scrap owner and a decision date on engineering. Finish when the dash number is real. Update the manufacturing BOM the same day so MRP isn’t still planning the old thing.
+
+### What’s your buying strategy when you get a technical BOM?
+> Read it like a buyer. Requirement, rev, qual, quantity. What’s frozen vs open. Long lead and sole source first. COTS vs custom. Soft callouts go back to eng the same week. Then build the buy plan so critical path isn’t late. Plenty: eBOM→mBOM, consolidate where it helps, intercept when the rev moves. I use everything I’m given. I don’t just PO the PDF.
+
+### How do you spot issues in the parts early?
+> Long lead vs need date. Sole source with no backup. Spec we can’t buy. Wrong buffer. Rev drift. Read the BOM and the open PO book and ask what fails next. If I only move when the line is already short, I’m late.
 
 ### How do you set safety stock?
 > On the parts that stop the line or the test. Lead time, demand ugliness, rev stability, cash. Not everything. And only if the item master isn’t garbage.
@@ -290,14 +321,16 @@ Ask 2–3 per room. Listen.
 # 10. Night-before run-through
 
 Say these out loud once each:
-1. Opening
-2. Trade-study hedge
-3. Tub recall
-4. Nutrient consolidation / BOM ownership
-5. Cold plasma NPI
-6. MOQ / low-volume contracts
-7. No engineering degree
-8. Why leave Comcast
+1. Why Anduril (warfighters faster + break cost-plus)
+2. Maritime pace (deadlines / stay when it’s on fire)
+3. Opening
+4. Technical BOM buying strategy
+5. Spot issues in the parts early
+6. Trade-study hedge
+7. Tub recall
+8. Nutrient consolidation / BOM ownership
+9. MOQ / low-volume contracts
+10. Why leave Comcast
 
 Products cold: Copperhead, Seabed Sentry, Dive-LD, Alder, Quonset vs Quincy.  
 Numbers cold: 30% BOM, 99% on contract, 3→1.5 days, ~15 punchouts / ~7 weeks Coupa, ~20% changeover, ~40% plastic cut, $140K ask.

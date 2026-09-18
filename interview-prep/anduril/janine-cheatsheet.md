@@ -26,6 +26,9 @@ Stop. Let her steer.
 
 > I want materials on a production line again. Plenty was that. Comcast is category work. This job is shortages, lead times, engineering changes, good parts to the floor. Copperhead and Seabed Sentry is the book I want to own.
 
+**Why Anduril (recruiter said this is critical — say it)**
+> Advanced hardware to warfighters faster than the cost-plus machine. Blow that model up so taxpayers get more capability per dollar. I believe that’s worth doing. Maritime is a startup inside Anduril. Deadlines are real. If it’s on fire after 5, you stay and clear it.
+
 ---
 
 ## Lead stories for her room
@@ -59,6 +62,12 @@ Stop. Let her steer.
 
 **Commodity gap (foam / electronics)?**  
 > Most of my directs at Plenty were farm inputs plus packaging and CapEx/tooling. Also spares BOMs with eng. I haven’t lived electronics allocation as a commodity buyer. I have lived BOMs, MRP, NPI, quality escapes, low-volume contracts. Part numbers change. The rhythm doesn’t.
+
+**Buying strategy when you get a technical BOM?**  
+> Read it like a buyer. What’s frozen, what’s long lead, what’s sole source, what’s soft. Sort critical path first, then COTS vs custom. Flag landmines back to eng the same week. Don’t wait for the shortage. At Plenty I owned eBOM→mBOM, consolidated demand, and intercepted POs when revs moved.
+
+**How do you spot issues in the parts early?**  
+> Long lead vs need date. Sole source with no backup. Spec manufacturing can’t buy. Wrong safety stock. Rev drift. I use everything I’m given, then ask what fails next. Clearing a queue isn’t the job.
 
 ---
 
