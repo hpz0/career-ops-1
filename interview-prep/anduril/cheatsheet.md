@@ -83,6 +83,11 @@ If they only ask “tell me about yourself,” stop after paragraph two and let 
 **Say:** materials, lead time, quarantine, bill of materials, material requirements planning, on-time-in-full, trade-study hedge, OTS, sole source.  
 **Don't claim:** you build AUVs, you have clearance already, Blue Yonder, Lean/Six Sigma belts, deep Oracle admin, DPAS policy expertise.
 
+**Recruiter asks to have cold (Sep 2026)**
+- **Technical BOM strategy:** read like a buyer → sort critical path / COTS / custom / landmines → flag eng same week → then buy. Full script in `stephen-onsite.md` §5.7.
+- **Spot issues in parts early:** long lead vs need date, sole source, soft specs, rev drift. Not a PO clerk.
+- **Maritime pace:** startup inside Anduril. Stay when it’s on fire. Meet deadlines.
+
 **Onsite pack:** `stephen-onsite.md` (full stories + how you’d run the job + room plan).  
 **Hardware study:** `hardware-primer.md`. **Decisions:** `decision-playbook.md`.
 
