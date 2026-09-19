@@ -2,8 +2,9 @@
 
 | File | Use |
 |------|-----|
+| [`janine-cheatsheet.md`](janine-cheatsheet.md) | **Janine (Buyer/Planner peer) remote** — 1-pager |
 | [`loop-schedule.md`](loop-schedule.md) | **This loop** — Mon/Thu calendar, interviewer cards, trait map, Why Anduril |
-| [`cheatsheet.md`](cheatsheet.md) | Day-of one-pager |
+| [`cheatsheet.md`](cheatsheet.md) | Day-of one-pager for peer/HM rooms |
 | [`stephen-onsite.md`](stephen-onsite.md) | Full scripts + Plenty stories + how you’d run the job |
 | [`from-2024-prep.md`](from-2024-prep.md) | Feb 2024 notes mined — extra stories, EVT/DVT/PVT |
 | [`prep.md`](prep.md) | Longer intel |
