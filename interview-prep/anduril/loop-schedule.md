@@ -132,48 +132,36 @@ If they want more, they’ll pull. Padding kills you in a 30-minute block.
 
 ---
 
-## Why Anduril / why this role (use this approach)
+## Why Anduril (one answer)
 
-**Recruiter signal (Sep 2026): why Anduril is critical.** They want belief. Role-only is not enough.
+**Recruiter: critical. Belief required.** Don’t split role and company into two quirky speeches.
 
-**Best structure:** role → why Anduril (mission + how they build) → maritime pace. Don’t podcast. Do mean it.
+> I want back on a production materials seat. Plenty was that: BOMs, MRP, shortages, engineering changes, supplier quality. Comcast is big-company category work. Useful, but not what I want next.
+>
+> I’m here because Anduril is trying to get advanced hardware to warfighters faster and break the old cost-plus model so taxpayers get more capability per dollar. I believe that. Maritime is a startup inside Anduril. Deadlines are real. If the buy or the build is on fire after five, you stay and clear it. Stephen walked me through Copperhead and Seabed Sentry. That’s the book I want to own.
 
-### Why this role (say this every time)
-> I want to own materials on a production line again. Plenty was that: BOMs, MRP, shortages, engineering changes, supplier quality. Comcast is category work at scale. This Buyer/Planner seat is the factory job. That’s what I’m looking for.
+### Story use (corrected)
 
-### Why Anduril (recruiter-grade)
-> They’re putting advanced hardware in warfighters’ hands faster than the old cost-plus machine. And they’re trying to blow that model up so taxpayers get more capability per dollar. I believe that’s worth doing. Maritime is building for real in Quincy. I want that on Copperhead and Seabed Sentry. Stephen already walked me through the book.
+| Story | Use for | Don’t use for |
+|-------|---------|---------------|
+| Base A/B nutrients | Commonality, consolidation, eng partnership | “How I buy a technical BOM” |
+| Cold plasma | Spotting a quality/parts problem early; vendor development | Pretending you’re an ME / primary eng NPI for Robbie |
+| Comcast disaggregation | Spec with eng → OTS vs built-to-spec; better eng-room NPI | Leading the whole interview |
+| Technical BOM method | Recruiter’s explicit ask | Hand-waving “I read it carefully” |
 
-### Maritime pace (recruiter: startup inside Anduril)
-> Deadlines are real. If something needs to get done after 5, you stay and clear it. Plenty was that kind of floor. I’m not looking for a clock-out culture.
-
-### Don’t
-- Soft “I like manufacturing” with no Anduril belief  
-- Recite Palmer quotes like a book report  
-- Say “B2B SaaS doesn’t matter” (cheap shot; you’re at Comcast)  
-- Lead with China policy  
-- Claim you’ve always wanted defense if your path was ag manufacturing → cable
-
-### Do
-- Say **faster to warfighters** and **break cost-plus / taxpayer value** in plain English  
-- Name **Copperhead** and **Seabed Sentry**  
-- Name **Stephen** as context, not a crutch  
-- Own the after-hours / deadline expectation without sounding like a martyr
-
-**One-liner if you only get 20 seconds:**
-> Better kit to the fleet faster, stop wasting money on cost-plus theater, own materials behind vehicles that have to work. That’s why I’m here.
+Full BOM method: `stephen-onsite.md` §5.7.
 
 ---
 
 ## Recruiter debrief — Sep 2026 Sr Recruiter
 
-| Signal | What to do in every room |
-|--------|--------------------------|
-| Why Anduril must be strong | Use the script above. Don’t skip mission. |
-| Maritime = startup inside Anduril | Stay late when the build/buy is on fire. Meet deadlines. Scrappy. |
-| Good buyer uses all info given | Don’t be a PO clerk. Read the full package. |
-| Spot issues in the parts early | Long lead, sole source, soft specs, rev mush — flag before shortage day. |
-| Buying strategy on a technical BOM | See `stephen-onsite.md` §5.7. Sort critical path / COTS / custom / landmines, then buy. |
+| Signal | What to do |
+|--------|------------|
+| Why Anduril must be strong | One answer above. Every room. |
+| Maritime = startup inside Anduril | Stay when it’s on fire. Meet deadlines. |
+| Good buyer uses all info | Don’t be a PO clerk. |
+| Spot issues in parts early | Long lead, sole source, soft specs, rev mush. |
+| Buying strategy on a technical BOM | §5.7 method. Practice until automatic. |
 
 ---
 

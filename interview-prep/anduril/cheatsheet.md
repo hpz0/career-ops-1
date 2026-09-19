@@ -43,24 +43,18 @@ If they only ask “tell me about yourself,” stop after paragraph two and let 
 
 ---
 
-## Why Anduril (role → company → mission)
+## Why Anduril (one answer)
 
-**Recruiter signal (Sep 2026): why Anduril is critical.** They want belief, not a soft “factory itch” only. Say it like you mean it.
+**Recruiter: this has to land.** Don’t split into quirky mini-scripts.
 
-**Why this role**
-> I want to own materials on a production line again. Plenty was that. Comcast is category work at scale. This seat is shortages, lead times, engineering changes, good parts to the floor.
+> I want back on a production materials seat. Plenty was that: BOMs, MRP, shortages, engineering changes, supplier quality. Comcast is big-company category work. Useful, but not what I want next.
+>
+> I’m here because Anduril is trying to get advanced hardware to warfighters faster and break the old cost-plus model so taxpayers get more capability per dollar. I believe that. Maritime is a startup inside Anduril. Deadlines are real. If the buy or the build is on fire after five, you stay and clear it. Stephen walked me through Copperhead and Seabed Sentry. That’s the book I want to own.
 
-**Why Anduril**
-> Two things. They’re putting advanced hardware in warfighters’ hands faster than the old cost-plus machine. And they’re trying to blow up that model so taxpayers get more capability per dollar. I believe that’s worth doing. Maritime is building for real in Quincy. I want that problem on Copperhead and Seabed Sentry. Stephen already walked me through the book.
+**Technical BOM (recruiter ask — cold):** don’t PO the PDF → read packet → sort critical path / COTS / custom / soft → flag landmines same week → buy long lead first → keep MRP honest. Full method in `stephen-onsite.md` §5.7.
 
-**If they only give you 20 seconds**
-> Get better kit to the fleet faster, stop wasting money on cost-plus theater, and own materials behind vehicles that have to work. That’s why I’m here.
-
-**Maritime pace (recruiter: startup inside Anduril)**
-> I get it. Deadlines are real. If something’s on fire after 5, you stay and clear it. Plenty was that kind of floor. I’m not looking for a clock-out culture.
-
-**Don't:** F-35 vendor-count TED talk, Palmer quotes, China lecture, “B2B SaaS is meaningless,” fake lifelong defense calling, mission that sounds copy-pasted.  
-**Do:** Believe it → factory ownership → Copperhead/Sentry → Stephen as context, not a crutch.
+**Don't:** podcast voice, Palmer quotes, China lecture, fake lifelong defense calling.  
+**Do:** belief + factory ownership + Copperhead/Sentry + pace, in one breath.
 
 ---
 

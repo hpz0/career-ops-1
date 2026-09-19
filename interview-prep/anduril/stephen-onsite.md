@@ -45,26 +45,23 @@ If they only ask “tell me about yourself,” stop after paragraph two and let 
 
 ---
 
-# 3. Why Anduril / why leave Comcast / why defense
+# 3. Why Anduril (one answer)
 
-**Recruiter (Sep 2026): why Anduril is critical.** Belief matters. Role-only answers are not enough.
+**Recruiter: this has to be strong.** Role and company in the same breath. Don’t split into quirky mini-scripts.
 
-Order still works: **role → company/mission → pace**. Don’t sound like a podcast. Do sound like you mean it.
+> I want back on a production materials seat. Plenty was that: BOMs, MRP, shortages, engineering changes, supplier quality. Comcast is big-company category work. Useful, but it’s not the job I want next.
+>
+> I’m here because Anduril is trying to get advanced hardware to warfighters faster and break the old cost-plus model so taxpayers get more capability per dollar. I believe that. Maritime is basically a startup inside Anduril. Deadlines are real. If the buy or the build is on fire after five, you stay and clear it. Stephen walked me through Copperhead and Seabed Sentry. That’s the book I want to own.
 
-**Why this role**
-> I want to own materials on a production line again. Plenty was that. Comcast is category work at scale. This Buyer/Planner job is shortages, lead times, engineering changes, and getting good parts to the floor. That’s what I’m looking for.
-
-**Why Anduril**
-> They’re putting advanced hardware in warfighters’ hands faster than the legacy cost-plus machine. And they’re trying to blow that model up so taxpayers get more capability per dollar. I believe that’s worth doing. Maritime is building for real in Quincy, not running a paper defense services shop. I want that problem on Copperhead and Seabed Sentry. Stephen already walked me through the book.
-
-**Maritime pace (recruiter: “startup inside Anduril”)**
-> Deadlines are real. If the build or the buy is on fire after 5, you stay and clear it. Plenty was a floor that didn’t wait for perfect. I’m not looking for a clock-out culture.
+**If they only ask “why leave Comcast?”** Use paragraph one.  
+**If they only ask “why Anduril / why defense?”** Start at paragraph two.  
+**Pace only if they probe culture:** last three sentences of paragraph two.
 
 **No engineering degree**
-> I’m not an ME. At Plenty I still sat with engineers and scientists on specs, SOWs, tooling, and new cultivars. Cold plasma equipment, hydrogel, packaging tools, spares BOMs. I don’t design the part. I learn the requirement, turn it into a buyable plan, and keep the line fed when the drawing moves. That’s the job.
+> I’m not an ME. I still sit with engineers on specs, SOWs, and what the floor can actually buy. I don’t design the part. I turn the requirement into a buyable plan and keep material moving when the drawing changes.
 
-**Commodity gap (if they press foam / electronics)**
-> Most of my direct materials at Plenty were farm inputs: seeds, media, nutrients, plus packaging and CapEx/tooling. I also owned spares BOMs with engineering: manifolds, harnesses, conveyors. I haven’t lived electronics allocation or syntactic foam as a commodity buyer. I have lived BOMs, MRP, NPI with engineers, quality escapes, and low-volume contracts. The part numbers change. The rhythm doesn’t.
+**Commodity gap**
+> At Plenty most of my directs were farm inputs, packaging, and CapEx/tooling, plus spares BOMs with eng. I haven’t lived foam or electronics as a commodity buyer. I have lived technical BOMs, MRP, NPI with engineers, quality escapes, and low-volume contracts. Different parts. Same job.
 
 ---
 
@@ -93,37 +90,41 @@ These are the themes he told you to lead with. Each one has a real Plenty exampl
 **Low-volume bridge (Stephen loves this)**
 > Plenty was high-mix, low-volume a lot of the time. We couldn’t always hit MOQs. On seeds we used an annual forecast with either a restocking fee or rolling volume into the next year. On nutrients we used warehouse stocking and similar commercial structures. Supplier choice wasn’t just unit price. It was cost of quality and cost of a stockout. That’s the same problem on early maritime builds.
 
-## 4.3 Complex BOMs, demand consolidation, change control
+## 4.3 Commonality / consolidation (Base A / Base B nutrients)
 
-**Use when:** “Walk me through a BOM,” commonality, engineering changes.
-
-**Plain language**
-- **eBOM:** how engineering defines the product
-- **mBOM:** how manufacturing buys, kits, and builds it
-- Your job: keep those connected, and make sure planning buys what the floor will actually use
+**Use when:** commonality across Copperhead/Sentry, SKU sprawl, “how do you simplify a BOM,” working with eng/scientists on shared vs unique.  
+**Do not use as:** your answer to “how do you buy a technical BOM.” Wrong tool.
 
 **Story**
-> I owned that work myself. Engineering would release a design. I’d turn it into a manufacturing BOM we could plan and buy against in NetSuite.
+> Nutrient recipes were exploding. Every cultivar had its own mess of parts and changeovers. I worked with plant science and engineering to build a Base A and Base B nutrient that could start every cultivar. Then they fine-tuned with micro and macro nutrients per cultivar as needed.
 >
-> Best consolidation example: nutrient recipes. We moved to pre-mixed nutrient solutions, consolidated parts, and cut changeover time about 20%. I also owned spares BOMs with engineering: manifolds, wire harnesses, conveyors, so ops had the right parts instead of tribal lists.
->
-> When a rev changed after material was on order, I didn’t just forward an email. I intercepted POs, dispositioned what was on the dock, and updated the mBOM so MRP stopped calling for the dead part.
->
-> Stephen said commonality on Copperhead and Sentry is mostly boards and electronics. That’s the same muscle. Shared board = one forecast, one buy, one safety-stock policy. Unique board for a soft reason gets a hard question.
+> That cut the SKU noise, cleaned the forecast, and cut changeover about 20%. Shared base, variant top-up. Same idea Stephen described on boards and electronics across Copperhead and Sentry: share what you can, make uniqueness earn its keep.
 
-**Cost backup (don’t lead every room with this)**
-> We took about 30% out of BOM cost in six months through negotiation, value engineering, supplier work, and S&OP. Useful if they ask commercial rigor. Don’t make it the whole interview.
+**Also have ready:** spares BOMs with eng (manifolds, harnesses, conveyors). Rev change after PO: intercept, disposition dock, update mBOM same day.
 
-## 4.4 NPI / cultivar work with engineers and scientists
+## 4.4 NPI / working with engineering (pick the right story)
 
-**Use when:** open trade studies, working with engineering, “have you done NPI?”
+### A. Cold plasma (Plenty) — use for quality problem → early tech → vendor development
+
+**Best for:** Jamie/Stephen on ownership and spotting issues early. Fine for Robbie if you frame it as sourcing/process, not as you inventing the physics.
 
 **Story**
-> New cultivar work at Plenty was NPI with engineers and scientists while production still needed material and equipment. Specs moved. I still had to buy.
+> Our seeds weren’t clean enough. Pathogens were getting into the grow. I stayed on emerging seed-cleaning tech and found vendors doing early cold plasma work that cleaned exceptionally well without hurting plant growth.
 >
-> Concrete examples: I brought cold plasma equipment in-house. Wrote the specs and SOW, worked the vendor to tailor capacity to the cultivar. Did joint design work on hydrogel with engineering. Owned packaging tooling: sealing and denesting internally, prototype and production thermoforming tools externally. Did feasibility on custom strawberry media before we scaled CapEx.
+> I brought early prototype equipment in-house, built test plans with the team, and worked the vendor hard on our requirements: kill specific pathogens, hit cleanliness counts. We refined the machine until it met what we needed. That’s not me playing scientist. That’s a buyer owning a quality problem, finding the tech, and dragging a young vendor up to a real production standard.
+
+### B. Network disaggregation (Comcast) — use for technical specs + OTS vs custom with engineering
+
+**Best for:** Robbie or anyone asking “have you bought against a technical spec / NPI with eng?” Often cleaner than cold plasma for a sourcing engineer.
+
+**Story**
+> At Comcast we’re pushing network disaggregation: separate the software stack from the hardware box so you’re not locked to one vendor’s appliance.
 >
-> That’s the same pattern Stephen described here. Trade study still open, long lead already running. You buy the raw or the long-lead path, write down who owns scrap if the answer changes, and finish once the print locks. Waiting for perfect is how you miss the build.
+> I worked with engineering on the hardware requirements: capacity/throughput, form factor, power and thermal, port types and speeds, management interfaces, and whatever else eng needed for the software to land clean. Then I took that to market. Built-to-spec boxes and off-the-shelf boxes that could meet the need. Multiple vendors competing against a real spec instead of one OEM’s black box.
+>
+> That’s the buyer half of NPI: help eng write something buyable, then bring options that fit.
+
+**Rule:** One NPI story per room. Don’t stack cold plasma + Comcast + hydrogel.
 
 ## 4.5 Quality escape / CAPA
 
@@ -177,8 +178,8 @@ This is the part that gets you hired. Not vibes. Judgment.
 **Say**
 > If the long lead is twenty weeks and the finish callout is still in trade study, I’m not waiting for the PowerPoint. I’d buy the blank or raw that covers the likely options, document what we’re not assuming, name who owns scrap if the study flips, and keep engineering on a decision date. Then when the print locks, we finish. MRP has to get updated the same day or we’ll keep planning the wrong thing.
 
-**Plenty parallel**
-> Cold plasma and packaging tooling were that motion: lock enough of the requirement to buy long-lead equipment, keep shaping details with engineering, don’t freeze the factory waiting for every line on the SOW.
+**Plenty / Comcast parallel (if they ask for proof you’ve done the motion)**
+> Trade-study hedges map to buying long-lead equipment while requirements were still tightening (cold plasma prototypes, packaging tools). Spec-driven multi-vendor buys map to Comcast disaggregation: eng writes a buyable spec, I bring built-to-spec and OTS options.
 
 ## 5.2 Make vs buy (short, confident)
 
@@ -209,28 +210,44 @@ This is the part that gets you hired. Not vibes. Judgment.
 
 > If the goal is more off-the-shelf and less sole source, I spend time in design reviews before the unique part is sacred. Shared boards across Copperhead and Sentry should be one item, one forecast, ideally two qualified sources. In-house design ownership matters because a black-box vendor design is how you stay sole-sourced forever.
 
-## 5.7 Buying strategy when you get a technical BOM
+## 5.7 Buying strategy when you’re handed a technical BOM
 
-**Recruiter ask.** A good buyer doesn’t just process the PDF. You handle every input you’re given, and you spot issues in the parts before they become shortages.
+**This is the answer to practice until it’s automatic.** Recruiter flagged it. You don’t need to have lived every AUV commodity. You need a clear method.
 
-**Say**
-> First I read it like a buyer, not like a clerk. What’s the requirement on each line: material, finish, tolerance, qual, quantity, rev. What’s frozen vs still in trade study. What’s long lead, sole source, or custom vs off-the-shelf.
+### What you do, in order
+
+1. **Get the packet, not just the PDF.** Drawing/rev, specs, qual requirements, qty, need date / build date, make vs buy notes if any, approved vendor list if it exists, open trade studies.
+2. **Sanity-check the data.** Missing rev, TBD callouts, “ref vendor” with no second source, lead time blank, qty that doesn’t match the build plan. Those are issues, not paperwork.
+3. **Sort every line into buckets:**
+   - **Critical path / long lead** — batteries, boards, housings, specialty materials, anything that can miss the build
+   - **COTS / standard** — fasteners, connectors, many electronics; dual-source if a miss hurts
+   - **Custom / controlled** — machined, molded, unique boards; eng stays in the loop
+   - **Soft / incomplete** — finish TBD, dash TBD, “or equivalent”; do not pretend it’s buyable yet
+4. **Run a risk pass before you PO.** Lead time vs need date. Sole source. MOQ vs real demand. Rev stability. Spec the supplier can’t actually hold. Anything that fails goes back to eng/program the same week with options (OTS alt, hedge buy, dual source, change the date).
+5. **Build the buy plan.** Long lead and critical path first. Set buffers only where a miss kills the line or the test. Put POs in. Put decision dates on open studies. Load clean lead times and revs into MRP so the system isn’t folklore.
+6. **Stay in the loop after the PO.** Watch confirmations, slip risk, and ECO traffic. If the rev moves, intercept. Don’t forward an email and hope.
+
+### Say it (90–120 sec)
+
+> If you hand me a technical BOM today, I don’t start by issuing POs. I read the whole packet: rev, specs, qty, need date, what’s still in trade study.
 >
-> Then I sort the BOM into a buy plan: critical path and long-lead first, COTS that can dual-source, custom that needs eng in the room, and anything with a soft or missing callout that will blow up later. I don’t wait for MRP to scream. If lead time doesn’t fit the build date, if the rev is mush, if we’re designing into one vendor, I bring that back to engineering the same week.
+> Then I sort it. Critical path and long lead first. COTS that should be dual-sourced. Custom that needs engineering in the room. Soft callouts that aren’t buyable yet. Missing lead times, sole source, TBD finishes, revs that don’t match the build: those get flagged the same week, with options, not a shrug.
 >
-> At Plenty I owned turning engineering intent into a manufacturing BOM we could actually plan and buy. Nutrient consolidation, spares BOMs with eng, intercepting POs when a rev moved. Same muscle: use all the info, then find the landmines in the parts list before the floor feels them.
+> After that I buy to the plan: long lead first, buffers only on parts that stop a build or a test, clean item master so MRP isn’t lying. And I stay on it after the PO goes out, because the drawing will move.
+>
+> At Plenty I owned turning engineering intent into something we could actually plan and buy, and I intercepted when revs changed mid-order. At Comcast I’ve done the spec-to-market version on disaggregated network hardware with engineering. Different parts. Same method.
 
-**Proof points to name if they dig**
-- Item master / lead times wrong = fake shortages (fix data first)
-- Open trade study → hedge raw/long-lead, don’t freeze waiting for perfect
-- Sole source / OTS push (Stephen’s priority)
-- Rev change after PO → intercept, don’t forward an email
+### What “good” looks like to them
+- You use **all** the info you’re given
+- You **spot issues in the parts** before shortage day
+- You can talk **buckets and sequence**, not vibes
 
 ## 5.8 Spot issues in the parts (before the fire)
 
-**Recruiter: “Are you proactive in seeing issues in the parts?”**
+> The job isn’t clearing a queue. It’s reading the BOM and the open PO book and asking what fails next. Long lead vs need date. Sole source with no backup. Spec we can’t buy. Wrong buffer. Rev drift. If I only move when the line is already short, I’m late.
 
-> Yes. The job isn’t clearing a queue. It’s reading the BOM and the open PO book and asking what fails next. Long lead vs need date. Sole source with no backup. Spec that manufacturing can’t buy. Safety stock on the wrong part. Rev drift. If I only react when the line is already short, I’m late.
+**Plenty proof:** seed pathogen problem → found cold plasma early → requirements and test plans with the vendor before it became a bigger grow failure.  
+**Comcast proof:** Nokia 90-day vendor hold = stockout risk designed out of the contract before it hit deployment.
 
 ---
 
@@ -240,10 +257,10 @@ Full cards: `loop-schedule.md`. Rotate stories. Do **not** tell the full recall 
 
 | Room | What they care about | Lead with | Have ready |
 |------|----------------------|-----------|------------|
-| **Jamie Lichay** (Mon) | Desk-ready buyer/planner | MRP, safety stock, nutrient consolidation | Short recall · MOQ contracts |
-| **Robbie Collins** | Sourcing eng / high-speed AUV supply | NPI + trade-study hedge | eBOM→mBOM · sole source |
+| **Jamie Lichay** (Mon) | Desk-ready buyer/planner | MRP + safety stock · technical BOM method | Short recall · Base A/B commonality |
+| **Robbie Collins** | Sourcing eng / high-speed AUV supply | Comcast disaggregation NPI **or** cold plasma | Trade-study hedge · sole source |
 | **Kyle Davis** | Confirm his seat in minute one | Match to MFG / quality / planning | Independence + one data story |
-| **Stephen Shaw** (HM, 45m) | Ownership, judgment, you’ll stay | Why role + trade-study + MOQ | Comp / Quincy only if he opens it |
+| **Stephen Shaw** (HM, 45m) | Ownership, judgment, you’ll stay | Why Anduril (one answer) + trade-study + MOQ | Comp / Quincy only if he opens it |
 
 ---
 
@@ -253,16 +270,16 @@ Full cards: `loop-schedule.md`. Rotate stories. Do **not** tell the full recall 
 > I’d ask what’s frozen. If the long lead is material or a fab slot, I’d buy that now with a written scrap owner and a decision date on engineering. Finish when the dash number is real. Update the manufacturing BOM the same day so MRP isn’t still planning the old thing.
 
 ### What’s your buying strategy when you get a technical BOM?
-> Read it like a buyer. Requirement, rev, qual, quantity. What’s frozen vs open. Long lead and sole source first. COTS vs custom. Soft callouts go back to eng the same week. Then build the buy plan so critical path isn’t late. Plenty: eBOM→mBOM, consolidate where it helps, intercept when the rev moves. I use everything I’m given. I don’t just PO the PDF.
+> I don’t PO the PDF. I read the packet: rev, specs, qty, need date, open studies. Sort critical path and long lead, COTS, custom, and soft callouts. Flag landmines the same week with options. Then buy long lead first, buffer only what stops the build, keep MRP honest, and intercept when the rev moves. Plenty was eBOM→mBOM and rev intercepts. Comcast disaggregation was spec-to-market with eng.
 
 ### How do you spot issues in the parts early?
-> Long lead vs need date. Sole source with no backup. Spec we can’t buy. Wrong buffer. Rev drift. Read the BOM and the open PO book and ask what fails next. If I only move when the line is already short, I’m late.
+> Long lead vs need date. Sole source. Soft specs. Wrong buffer. Rev drift. Read the BOM and open POs and ask what fails next. Seed cleanliness / cold plasma is the Plenty version of catching a parts problem before the operation eats it.
+
+### Tell me about working with engineering
+> Plenty: Base A/B nutrients with plant science and eng; cold plasma requirements and test plans with the vendor; spares BOMs. Comcast: disaggregation hardware specs with eng, then built-to-spec and OTS boxes to market. I bring supplier constraints early so we don’t design into a fantasy lead time.
 
 ### How do you set safety stock?
 > On the parts that stop the line or the test. Lead time, demand ugliness, rev stability, cash. Not everything. And only if the item master isn’t garbage.
-
-### Tell me about working with engineering
-> Regularly. Specs, lead times, SOWs. Cold plasma equipment, hydrogel, packaging tools, spares BOMs. I bring supplier constraints early so we don’t design into a thirty-week fantasy.
 
 ### How do you evaluate suppliers?
 > Start from the requirement. Can they make it? Capacity, quality system, financial health, past performance. RFQ with real specs. Score cost, lead time, quality, flexibility, and whether they’ll work with engineering when the drawing changes. Site visit on critical parts. Dual source if a miss kills schedule. Here I’d also ask who else is eating their capacity and whether we’re unrated against DPAS customers.
@@ -321,16 +338,13 @@ Ask 2–3 per room. Listen.
 # 10. Night-before run-through
 
 Say these out loud once each:
-1. Why Anduril (warfighters faster + break cost-plus)
-2. Maritime pace (deadlines / stay when it’s on fire)
-3. Opening
-4. Technical BOM buying strategy
-5. Spot issues in the parts early
-6. Trade-study hedge
-7. Tub recall
-8. Nutrient consolidation / BOM ownership
-9. MOQ / low-volume contracts
-10. Why leave Comcast
+1. Why Anduril (one answer)
+2. Technical BOM method (§5.7)
+3. Tub recall
+4. Base A/B nutrients (commonality only)
+5. Comcast disaggregation **or** cold plasma (pick one for eng rooms)
+6. MOQ / low-volume contracts
+7. Spot issues in the parts early
 
 Products cold: Copperhead, Seabed Sentry, Dive-LD, Alder, Quonset vs Quincy.  
 Numbers cold: 30% BOM, 99% on contract, 3→1.5 days, ~15 punchouts / ~7 weeks Coupa, ~20% changeover, ~40% plastic cut, $140K ask.
