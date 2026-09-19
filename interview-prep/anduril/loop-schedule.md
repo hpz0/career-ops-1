@@ -132,32 +132,36 @@ If they want more, they’ll pull. Padding kills you in a 30-minute block.
 
 ---
 
-## Why Anduril / why this role (use this approach)
+## Why Anduril (one answer)
 
-**Best structure:** role first → company second → mission last. Mission alone sounds like a podcast recap. Role alone sounds transactional. Together it lands.
+**Recruiter: critical. Belief required.** Don’t split role and company into two quirky speeches.
 
-### Why this role (say this every time)
-> I want to own materials on a production line again. Plenty was that: BOMs, MRP, shortages, engineering changes, supplier quality. Comcast is category work at scale. This Buyer/Planner seat is the factory job. That’s what I’m looking for.
+> I want back on a production materials seat. Plenty was that: BOMs, MRP, shortages, engineering changes, supplier quality. Comcast is big-company category work. Useful, but not what I want next.
+>
+> I’m here because Anduril is trying to get advanced hardware to warfighters faster and break the old cost-plus model so taxpayers get more capability per dollar. I believe that. Maritime is a startup inside Anduril. Deadlines are real. If the buy or the build is on fire after five, you stay and clear it. Stephen walked me through Copperhead and Seabed Sentry. That’s the book I want to own.
 
-### Why Anduril (one tight version — podcast ideas compressed)
-> Two things. First, they’re actually building hardware in Quincy and scaling capacity, not running a paper defense services shop. Second, the supply chain thesis matches how I think about the job. A lot of legacy programs are a long tail of vendors and slow industrial capacity. Anduril’s trying to build the product *and* a tighter industrial base under it. I want to be on that problem for Copperhead and Seabed Sentry, not watching it from a corporate category seat.
+### Story use (corrected)
 
-### Mission (only if they push “are you comfortable with defense?”)
-> I’m aligned with the deterrence idea. You make it painful enough to pick a fight that the fight doesn’t happen. And you do it by getting more capability per dollar, not by romanticizing endless spend. I’ve lived what bad material does to a real product and a customer. Systems that have to work in the water don’t bother me.
+| Story | Use for | Don’t use for |
+|-------|---------|---------------|
+| Base A/B nutrients | Commonality, consolidation, eng partnership | “How I buy a technical BOM” |
+| Cold plasma | Spotting a quality/parts problem early; vendor development | Pretending you’re an ME / primary eng NPI for Robbie |
+| Comcast disaggregation | Spec with eng → OTS vs built-to-spec; better eng-room NPI | Leading the whole interview |
+| Technical BOM method | Recruiter’s explicit ask | Hand-waving “I read it carefully” |
 
-### Don’t
-- Recite F-35 vendor counts or Palmer quotes like a book report  
-- Say “B2B SaaS doesn’t matter” (cheap shot; you’re at Comcast)  
-- Lead with China policy  
-- Claim you’ve always wanted defense if your path was ag manufacturing → cable
+Full BOM method: `stephen-onsite.md` §5.7.
 
-### Do
-- Name **Copperhead** and **Seabed Sentry**  
-- Name **Stephen** as why this loop is specific (without making it “my buddy will hire me”)  
-- Tie mission back to *materials*: dual-use suppliers, long leads, getting off sole source
+---
 
-**One-liner if you only get 20 seconds:**
-> Factory seat again, on vehicles that have to work, at a company that’s serious about building product and supply chain together. Stephen already walked me through Copperhead and Sentry. That’s the job I want.
+## Recruiter debrief — Sep 2026 Sr Recruiter
+
+| Signal | What to do |
+|--------|------------|
+| Why Anduril must be strong | One answer above. Every room. |
+| Maritime = startup inside Anduril | Stay when it’s on fire. Meet deadlines. |
+| Good buyer uses all info | Don’t be a PO clerk. |
+| Spot issues in parts early | Long lead, sole source, soft specs, rev mush. |
+| Buying strategy on a technical BOM | §5.7 method. Practice until automatic. |
 
 ---
 
@@ -185,12 +189,15 @@ If they want more, they’ll pull. Padding kills you in a 30-minute block.
 ## Night before (Sun for Jamie; Wed for Thursday stack)
 
 Say out loud once each:
-1. Why this role + Why Anduril (short version)
-2. MRP / safety stock
-3. Trade-study hedge
-4. Tub recall (90 seconds)
-5. MOQ / low-volume contracts
-6. “I haven’t bought foam/electronics as a commodity — here’s how the work transfers”
+1. Why Anduril (warfighters faster + break cost-plus)
+2. Maritime pace (deadlines / stay when on fire)
+3. Why this role + Why Anduril (short version)
+4. MRP / safety stock
+5. Technical BOM buying strategy
+6. Trade-study hedge
+7. Tub recall (90 seconds)
+8. MOQ / low-volume contracts
+9. “I haven’t bought foam/electronics as a commodity — here’s how the work transfers”
 
 Products cold: Copperhead, Seabed Sentry, Dive-LD, Alder, Quincy vs Quonset.  
 Numbers cold: ~30% BOM, 99% on contract, 3→1.5 days, ~15 punchouts / ~7 weeks Coupa, ~20% changeover, ~40% plastic, $140K ask.

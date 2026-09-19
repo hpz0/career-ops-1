@@ -137,51 +137,62 @@ Accumulated stories for interviews. Only facts backed by `cv.md` / user statemen
   4. **Process review** with the supplier so the next lots didn’t repeat it.
 - **Result:** Conforming supply restored; recall worked as a supplier-and-quality event, not a finger-pointing thread. *(No separate metric in cv.md or the 2026-08-24 note.)*
 - **Reflection:** Direct materials failures are line-down and customer-safety events. Buyer/Planner owns the material until it is **good parts, on time, at spec**.
-- **Anduril one-liner:** *“I’ve run a packaging failure through quarantine, emergency material, vendor 100% inspect, and a process review with the supplier. That’s the job when a lot fails.”*
+- **Anduril one-liner:** *“I’ve run a packaging failure through quarantine, emergency material, vendor 100% inspect, and a process review with the supplier. At Plenty that SCAR/CAPA work lived in ETQ. That’s the job when a lot fails.”*
 
-**Proof source:** User statement 2026-08-24 + cv.md Senior Global Supply Manager (direct materials; Supplier Quality / FDA/SQF).
-
----
-
-## S9 — Complex BOM / demand consolidation (Plenty)
-
-**Use for:** Anduril Copperhead/Sentry onsite; eBOM→mBOM; shared-parts planning  
-**Status:** Stephen coaching 2026-09-05 + examples from your **2024 Anduril interview prep notes** (user-authored). Soft names OK to tighten from memory.
-
-- **Situation:** Multiple like configs / recipes creating fragmented demand and operational complexity on shared materials.
-- **Task:** Own BOM / planning work — engineering intent into a manufacturing BOM, demand + supply planning, change management.
-- **Action examples you already documented:**
-  - **Pre-mixed nutrient solutions:** complicated inventory and ops; consolidated parts; cut changeover time **~20%**.
-  - **Engineered commodity strategy** to reduce operational complexity and cost across like items.
-  - **Spares BOM** with engineers: manifolds, wire harnesses, conveyors — source and maintain so ops had the right parts.
-  - NetSuite BOMs / MRP / inventory so planning wasn’t tribal knowledge.
-- **Result:** Cleaner buys, less changeover chaos, BOM cost work landed in the **30% in ~6 months** bucket (cv) when paired with negotiation + VE.
-- **Anduril bridge:** Tier-2 electronics commonality across Copperhead / Seabed Sentry = same rollup muscle.
-
-**Proof source:** User 2024 Anduril prep notes; cv.md NetSuite BOMs/MRP + 30% BOM; Stephen notes 2026-09-05.
+**Proof source:** User statement 2026-08-24 + cv.md Senior Global Supply Manager (direct materials; Supplier Quality / FDA/SQF). User 2026-09-19: **ETQ** for supplier quality / CAPA / change control.
 
 ---
 
-## S10 — Cultivar / equipment NPI + change management (Plenty)
+## S9 — Base A / Base B nutrient consolidation (Plenty)
 
-**Use for:** Open trade studies; buy long-lead before finish specs lock; non-engineer working with engineering  
-**Status:** Stephen ask 2026-09-05 + concrete examples from **2024 Anduril prep notes**.
+**Use for:** commonality across product variants; SKU consolidation; eng/science partnership; operational efficiency  
+**Do not use for:** “how do you buy a technical BOM”  
+**Audience:** hiring-manager · buyer/planner peer · Stephen (commonality)
 
-- **Situation:** New cultivar or process kit with engineers / scientists; specs still moving; production still needs material and equipment.
-- **Task:** Strategic procurement + change control so the line isn’t starved and you’re not buying the wrong finish too early.
-- **Action examples from your notes:**
-  - **Cold plasma equipment** brought in-house: determined specs, wrote SOW, worked vendor to tailor equipment to cultivar needs / capacity.
-  - **Joint design development** on **hydrogel** and cold plasma with engineering.
-  - **Packaging tooling** (sealing, denesting internal; prototype + production thermoforming tools external).
-  - Feasibility work on custom strawberry media (labor, utilities, CapEx) before scaling buy.
-  - When design moved: intercept POs / tooling path, update manufacturing side, keep ops fed.
-- **Result:** Equipment and materials landed sized to the cultivar; changeover and process improvements followed (pair with nutrient consolidation / sealer throughput stories as needed).
-- **Anduril bridge:** Raw/long-lead or long-lead equipment path while trade study / DVT still open → finish or firm specs after lock.
+- **Situation:** Nutrient recipes were proliferating by cultivar. Too many SKUs, messy inventory, painful changeovers.
+- **Task:** Simplify without killing cultivar performance.
+- **Action:** Worked with plant science and engineering to build **Base A** and **Base B** nutrients as the starting point for all cultivars. Teams fine-tuned with micro and macro nutrients per cultivar as needed.
+- **Result:** Cleaner forecast and buys; changeover cut **~20%**.
+- **Anduril bridge:** Shared base + variant top-up = shared boards/electronics across Copperhead and Seabed Sentry. Uniqueness has to earn its keep.
+- **Also related:** spares BOMs with eng (manifolds, harnesses, conveyors); rev intercept after PO.
 
-**Proof source:** User 2024 Anduril prep notes; cv.md NPI + Supplier Quality; Stephen notes 2026-09-05.
+**Proof source:** User clarification 2026-09-19 + prior 2024 notes / ~20% changeover; cv.md NetSuite BOMs/MRP.
 
 ---
 
+## S10 — Cold plasma seed cleaning (Plenty)
+
+**Use for:** spotting a quality/parts problem early; bringing early vendor tech in-house; requirements + test plans with a young vendor  
+**Better eng-room NPI alternative:** **S17 Comcast disaggregation**  
+**Audience:** HM · peer · Robbie only if framed as sourcing/quality, not physics expertise
+
+- **Situation:** Seeds weren’t clean enough to standard. Pathogens were entering the grow operation.
+- **Task:** Fix seed cleanliness without harming plant growth.
+- **Action:** Tracked emerging seed-cleaning tech; found vendors doing early **cold plasma** work with strong cleanliness results. Brought early prototype equipment in-house; developed test plans; refined with the vendor against real requirements (specific pathogens, cleanliness counts).
+- **Result:** Equipment path that met production cleanliness needs (don’t invent kill-rate %).
+- **Reflection:** Buyer owned a quality problem end to end: found the tech, set the bar, dragged the vendor up.
+- **Anduril bridge:** Spot issues in the parts/process before the line eats them; work incomplete tech against a real requirement.
+
+**Proof source:** User clarification 2026-09-19 (supersedes thinner cold-plasma framing).
+
+---
+
+
+## S17 — Network disaggregation hardware NPI (Comcast)
+
+**Use for:** NPI with engineering; writing buyable specs; OTS vs built-to-spec; multi-vendor competition against a real requirement  
+**Best room:** Robbie (sourcing eng) · anyone asking technical-spec buying  
+**Audience:** peer-tech · hiring-manager
+
+- **Situation:** Comcast pushing **network disaggregation**: separate software stack from hardware box so you’re not locked to one vendor’s appliance.
+- **Task:** Help engineering turn that into hardware that could be bought and competed.
+- **Action:** Worked with eng on hardware requirements (capacity/throughput, form factor, power/thermal, port types/speeds, management interfaces, plus whatever else eng needed for the software to land). Took the spec to market: **built-to-spec** boxes and **off-the-shelf** boxes that could meet the need. Multiple vendors against a real spec.
+- **Result:** Spec-driven multi-vendor path instead of one OEM black box (no $ metric claimed — don’t invent).
+- **Anduril bridge:** Same motion as buying against a technical BOM / trade study: make the requirement buyable, then bring options (OTS vs custom).
+
+**Proof source:** User statement 2026-09-19. Spec examples are the kinds of fields discussed with eng — tighten from memory if you remember exact callouts. Do not invent win metrics.
+
+---
 ## S11 — Coupa go-live depth (7 weeks, 15 punchouts)
 
 **Use for:** “Tell me about a big implementation” · systems ownership · enrich S1  
@@ -283,7 +294,7 @@ Accumulated stories for interviews. Only facts backed by `cv.md` / user statemen
 - [ ] Comcast enterprise portfolio negotiation (need metrics user can confirm)
 - [x] **S8 — Plenty tub packaging CAPA / recall** — drafted 2026-08-24; add metrics only if you remember them
 - [x] **S9–S16 — filled from 2024 Anduril prep notes** (2026-09-06); tighten names/numbers from memory if you want
-- [x] Anduril / defense: why this mission — see `anduril/loop-schedule.md` (role → company → mission). Don’t invent a military bio.
+- [x] **Arena PLM + ETQ** — weave as backup on BOM/ECO/CAPA answers (user 2026-09-19). Not a hero story.
 
 ### Ramp Activation note (2026-07-29)
 

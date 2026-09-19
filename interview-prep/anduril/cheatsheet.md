@@ -43,26 +43,20 @@ If they only ask “tell me about yourself,” stop after paragraph two and let 
 
 ---
 
-## Why Anduril (role → company → mission)
+## Why Anduril (one answer)
 
-Don’t open with a podcast recap. Full version in `loop-schedule.md` and `stephen-onsite.md`.
+**Recruiter: this has to land.** Don’t split into quirky mini-scripts.
 
-**Why this role**
-> I want to own materials on a production line again. Plenty was that. Comcast is category work at scale. This seat is shortages, lead times, engineering changes, good parts to the floor.
+> I want back on a production materials seat. Plenty was that: BOMs, MRP, shortages, engineering changes, supplier quality. Comcast is big-company category work. Useful, but not what I want next.
+>
+> I’m here because Anduril is trying to get advanced hardware to warfighters faster and break the old cost-plus model so taxpayers get more capability per dollar. I believe that. Maritime is a startup inside Anduril. Deadlines are real. If the buy or the build is on fire after five, you stay and clear it. Stephen walked me through Copperhead and Seabed Sentry. That’s the book I want to own.
 
-**Why Anduril**
-> They’re building real hardware in Quincy and scaling capacity. And the supply chain thesis matches how I think: less long-tail vendor sprawl, more real industrial capacity under the product. I want that on Copperhead and Seabed Sentry. Stephen already walked me through the book.
+**Technical BOM (recruiter ask — cold):** don’t PO the PDF → read packet (at Plenty: **Arena** for BOM/change control) → sort critical path / COTS / custom / soft → flag landmines same week → buy long lead first → keep MRP honest. Full method in `stephen-onsite.md` §5.7.
 
-**Mission (only if they push defense)**
-> Deterrence. Make the fight not worth starting. More capability per dollar, not endless spend as a personality trait. Bad material lots wrecking a real product doesn’t scare me. Water systems that have to work don’t either.
+**Systems backup (name once, don’t tour):** **Arena** PLM (implement + day-to-day BOM/ECO) · **ETQ** (SCAR/CAPA + change control) · NetSuite MRP · Coupa. Judgment first. Tools second.
 
-**20-second version**
-> Factory seat again, on vehicles that have to work, at a company building product and supply chain together. That’s the job I want.
-
-**Don't:** F-35 vendor-count TED talk, Palmer quotes, China lecture, “B2B SaaS is meaningless,” fake lifelong defense calling.  
-**Do:** Plenty → factory itch → Quincy is real → Copperhead/Sentry → Stephen as context, not a crutch.
-
----
+**Don't:** podcast voice, Palmer quotes, China lecture, fake lifelong defense calling, systems name-drop tour.  
+**Do:** belief + factory ownership + Copperhead/Sentry + pace, in one breath.
 
 ## Company flash cards (facts, not a monologue)
 
@@ -82,6 +76,11 @@ Don’t open with a podcast recap. Full version in `loop-schedule.md` and `steph
 
 **Say:** materials, lead time, quarantine, bill of materials, material requirements planning, on-time-in-full, trade-study hedge, OTS, sole source.  
 **Don't claim:** you build AUVs, you have clearance already, Blue Yonder, Lean/Six Sigma belts, deep Oracle admin, DPAS policy expertise.
+
+**Recruiter asks to have cold (Sep 2026)**
+- **Technical BOM strategy:** read like a buyer → sort critical path / COTS / custom / landmines → flag eng same week → then buy. Full script in `stephen-onsite.md` §5.7.
+- **Spot issues in parts early:** long lead vs need date, sole source, soft specs, rev drift. Not a PO clerk.
+- **Maritime pace:** startup inside Anduril. Stay when it’s on fire. Meet deadlines.
 
 **Onsite pack:** `stephen-onsite.md` (full stories + how you’d run the job + room plan).  
 **Hardware study:** `hardware-primer.md`. **Decisions:** `decision-playbook.md`.
