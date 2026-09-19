@@ -51,12 +51,12 @@ If they only ask “tell me about yourself,” stop after paragraph two and let 
 >
 > I’m here because Anduril is trying to get advanced hardware to warfighters faster and break the old cost-plus model so taxpayers get more capability per dollar. I believe that. Maritime is a startup inside Anduril. Deadlines are real. If the buy or the build is on fire after five, you stay and clear it. Stephen walked me through Copperhead and Seabed Sentry. That’s the book I want to own.
 
-**Technical BOM (recruiter ask — cold):** don’t PO the PDF → read packet → sort critical path / COTS / custom / soft → flag landmines same week → buy long lead first → keep MRP honest. Full method in `stephen-onsite.md` §5.7.
+**Technical BOM (recruiter ask — cold):** don’t PO the PDF → read packet (at Plenty: **Arena** for BOM/change control) → sort critical path / COTS / custom / soft → flag landmines same week → buy long lead first → keep MRP honest. Full method in `stephen-onsite.md` §5.7.
 
-**Don't:** podcast voice, Palmer quotes, China lecture, fake lifelong defense calling.  
+**Systems backup (name once, don’t tour):** **Arena** PLM (implement + day-to-day BOM/ECO) · **ETQ** (SCAR/CAPA + change control) · NetSuite MRP · Coupa. Judgment first. Tools second.
+
+**Don't:** podcast voice, Palmer quotes, China lecture, fake lifelong defense calling, systems name-drop tour.  
 **Do:** belief + factory ownership + Copperhead/Sentry + pace, in one breath.
-
----
 
 ## Company flash cards (facts, not a monologue)
 

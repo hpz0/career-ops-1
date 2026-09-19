@@ -44,7 +44,7 @@ Stop.
 
 ## Technical BOM (have this cold)
 
-> I don’t PO the PDF. I read the packet: rev, specs, qty, need date, open studies. Sort critical path / long lead, COTS, custom, soft callouts. Flag landmines the same week with options. Buy long lead first, buffer only what stops the build, keep MRP honest, intercept when the rev moves.
+> I don’t PO the PDF. I read the packet. At Plenty BOM and change control lived in **Arena**, and I used it day to day. Sort critical path / long lead, COTS, custom, soft callouts. Flag landmines the same week with options. Buy long lead first, buffer only what stops the build, keep MRP honest, intercept when the rev moves.
 
 Full steps: `stephen-onsite.md` §5.7.
 
@@ -53,9 +53,11 @@ Full steps: `stephen-onsite.md` §5.7.
 ## Other short answers
 
 **Shortage morning:** Confirm it’s real → call supplier → ask MFG if we can build around it → fix why the system missed it.  
-**ECO after PO:** Effectivity, what’s bought, use/rework/scrap, freeze bad rev, update mBOM same day.  
+**ECO after PO:** Effectivity, what’s bought, use/rework/scrap, freeze bad rev, update mBOM same day. Arena + ETQ were the day-to-day systems for that at Plenty.  
+**Quality / SCAR:** Tub recall sequence. ETQ was the supplier-quality / CAPA platform.  
 **Oracle:** Same job as NetSuite MRP. I’ll learn the screens.  
-**Commodity gap:** Farm inputs + packaging + CapEx/tooling at Plenty. Not foam/electronics commodity depth. Method transfers.
+**Commodity gap:** Farm inputs + packaging + CapEx/tooling at Plenty. Not foam/electronics commodity depth. Method transfers.  
+**Systems (if asked):** Arena PLM (implement + daily BOM/ECO) · ETQ (SCAR/CAPA + change control) · NetSuite · Coupa. Judgment first. Don’t give a tool tour.
 
 ---
 

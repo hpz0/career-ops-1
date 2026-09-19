@@ -133,7 +133,7 @@ These are the themes he told you to lead with. Each one has a real Plenty exampl
 **Story**
 > Tub packaging went brittle. Plastic started chipping into product. It became a recall.
 >
-> We quarantined the bad material, got conforming lots in so the line wasn’t dead, put the vendor on 100% inspection as containment, and ran a process review so the next lots didn’t repeat it. I partnered with Supplier Quality. It wasn’t a PO complaint thread.
+> We quarantined the bad material, got conforming lots in so the line wasn’t dead, put the vendor on 100% inspection as containment, and ran a process review so the next lots didn’t repeat it. I partnered with Supplier Quality. At Plenty that supplier-quality / SCAR / CAPA work lived in **ETQ**. It wasn’t a PO complaint thread.
 >
 > Same sequence if a resin, seal, foam grade, or board lot fails here. Contain, feed the line, then fix the cause.
 
@@ -189,7 +189,9 @@ This is the part that gets you hired. Not vibes. Judgment.
 
 > First questions are effectivity and what’s already bought. Can we use the old rev, rework it, or is it scrap? Freeze outgoing POs if the old rev is dead. Disposition dock and WIP. Change or cancel open orders. Update the manufacturing BOM the same day. First good new part through incoming before we kit a pile of vehicles on a fantasy rev.
 >
-> Printed bracket changes are annoying and usually recoverable. Machined housings and pinout changes are schedule killers. A connector pinout change after harnesses are on order is basically a new part.
+> At Plenty that change traffic lived in **Arena** (PLM) and often in **ETQ** for quality/change control. I used both day to day. The system name isn’t the point. Intercepting the buy before we keep ordering the dead rev is.
+
+Printed bracket changes are annoying and usually recoverable. Machined housings and pinout changes are schedule killers. A connector pinout change after harnesses are on order is basically a new part.
 
 ## 5.4 Shortage morning
 
@@ -216,7 +218,7 @@ This is the part that gets you hired. Not vibes. Judgment.
 
 ### What you do, in order
 
-1. **Get the packet, not just the PDF.** Drawing/rev, specs, qual requirements, qty, need date / build date, make vs buy notes if any, approved vendor list if it exists, open trade studies.
+1. **Get the packet, not just the PDF.** Drawing/rev, specs, qual requirements, qty, need date / build date, make vs buy notes if any, approved vendor list if it exists, open trade studies. In PLM if that’s where truth lives (**Arena** at Plenty).
 2. **Sanity-check the data.** Missing rev, TBD callouts, “ref vendor” with no second source, lead time blank, qty that doesn’t match the build plan. Those are issues, not paperwork.
 3. **Sort every line into buckets:**
    - **Critical path / long lead** — batteries, boards, housings, specialty materials, anything that can miss the build
@@ -225,11 +227,11 @@ This is the part that gets you hired. Not vibes. Judgment.
    - **Soft / incomplete** — finish TBD, dash TBD, “or equivalent”; do not pretend it’s buyable yet
 4. **Run a risk pass before you PO.** Lead time vs need date. Sole source. MOQ vs real demand. Rev stability. Spec the supplier can’t actually hold. Anything that fails goes back to eng/program the same week with options (OTS alt, hedge buy, dual source, change the date).
 5. **Build the buy plan.** Long lead and critical path first. Set buffers only where a miss kills the line or the test. Put POs in. Put decision dates on open studies. Load clean lead times and revs into MRP so the system isn’t folklore.
-6. **Stay in the loop after the PO.** Watch confirmations, slip risk, and ECO traffic. If the rev moves, intercept. Don’t forward an email and hope.
+6. **Stay in the loop after the PO.** Watch confirmations, slip risk, and ECO traffic in PLM. If the rev moves, intercept. Don’t forward an email and hope.
 
 ### Say it (90–120 sec)
 
-> If you hand me a technical BOM today, I don’t start by issuing POs. I read the whole packet: rev, specs, qty, need date, what’s still in trade study.
+> If you hand me a technical BOM today, I don’t start by issuing POs. I read the whole packet: rev, specs, qty, need date, what’s still in trade study. At Plenty that lived in **Arena** for BOM and change control, and I used it day to day, not just as an implementer.
 >
 > Then I sort it. Critical path and long lead first. COTS that should be dual-sourced. Custom that needs engineering in the room. Soft callouts that aren’t buyable yet. Missing lead times, sole source, TBD finishes, revs that don’t match the build: those get flagged the same week, with options, not a shrug.
 >

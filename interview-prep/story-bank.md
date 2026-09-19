@@ -137,9 +137,9 @@ Accumulated stories for interviews. Only facts backed by `cv.md` / user statemen
   4. **Process review** with the supplier so the next lots didn’t repeat it.
 - **Result:** Conforming supply restored; recall worked as a supplier-and-quality event, not a finger-pointing thread. *(No separate metric in cv.md or the 2026-08-24 note.)*
 - **Reflection:** Direct materials failures are line-down and customer-safety events. Buyer/Planner owns the material until it is **good parts, on time, at spec**.
-- **Anduril one-liner:** *“I’ve run a packaging failure through quarantine, emergency material, vendor 100% inspect, and a process review with the supplier. That’s the job when a lot fails.”*
+- **Anduril one-liner:** *“I’ve run a packaging failure through quarantine, emergency material, vendor 100% inspect, and a process review with the supplier. At Plenty that SCAR/CAPA work lived in ETQ. That’s the job when a lot fails.”*
 
-**Proof source:** User statement 2026-08-24 + cv.md Senior Global Supply Manager (direct materials; Supplier Quality / FDA/SQF).
+**Proof source:** User statement 2026-08-24 + cv.md Senior Global Supply Manager (direct materials; Supplier Quality / FDA/SQF). User 2026-09-19: **ETQ** for supplier quality / CAPA / change control.
 
 ---
 
@@ -294,7 +294,7 @@ Accumulated stories for interviews. Only facts backed by `cv.md` / user statemen
 - [ ] Comcast enterprise portfolio negotiation (need metrics user can confirm)
 - [x] **S8 — Plenty tub packaging CAPA / recall** — drafted 2026-08-24; add metrics only if you remember them
 - [x] **S9–S16 — filled from 2024 Anduril prep notes** (2026-09-06); tighten names/numbers from memory if you want
-- [x] Anduril / defense: why this mission — see `anduril/loop-schedule.md` (role → company → mission). Don’t invent a military bio.
+- [x] **Arena PLM + ETQ** — weave as backup on BOM/ECO/CAPA answers (user 2026-09-19). Not a hero story.
 
 ### Ramp Activation note (2026-07-29)
 
