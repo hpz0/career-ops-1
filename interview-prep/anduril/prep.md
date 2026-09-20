@@ -1,15 +1,15 @@
 # Interview Intel: Anduril Industries — Buyer/Planner (Maritime / Quincy)
 
 **URL:** https://job-boards.greenhouse.io/andurilindustries/jobs/5169966007?gh_jid=5169966007  
-**JD source:** Greenhouse boards API (`/v1/boards/andurilindustries/jobs/5169966007`) + job-board page. ATS `updated_at`: 2026-08-22. Req **11321**. Posting first published 2026-06-23.  
+**Job posting (JD) source:** Greenhouse boards API (`/v1/boards/andurilindustries/jobs/5169966007`) + job-board page. ATS `updated_at`: 2026-08-22. Req **11321**. Posting first published 2026-06-23.  
 **Legitimacy:** official first-party Greenhouse ATS (no evaluation report)  
 **Report:** N/A (URL-entry prep; no `reports/` match)  
 **Researched:** 2026-08-24  
-**Sources:** Greenhouse job JSON; Anduril Ghost Shark POR news; Defense News Dive acquisition (2022); Quonset Development Corp / PBN / WJAR on Quonset factory; Exponent Anduril interview process; interviewing.io Anduril process; Glassdoor Anduril interviews hub (252 interviews, 3/5 difficulty, ~47% positive — page updated Jul 3, 2025); Blind offer threads (equity = private RSUs); Zero G Talent Quincy maritime workforce note (Jul 2026); user statements 2026-08-24  
+**Sources:** Greenhouse job JSON; Anduril Ghost Shark program-of-record news; Defense News Dive acquisition (2022); Quonset Development Corp / PBN / WJAR on Quonset factory; Exponent Anduril interview process; interviewing.io Anduril process; Glassdoor Anduril interviews hub (252 interviews, 3/5 difficulty, ~47% positive — page updated Jul 3, 2025); Blind offer threads (equity = private RSUs); Zero G Talent Quincy maritime workforce note (Jul 2026); user statements 2026-08-24  
 **Audiences covered:** recruiter-screen, hiring-manager, peer-tech, panel-mixed  
-**Day-of print:** [`cheatsheet.md`](cheatsheet.md)
+**Day-of print:** [`cheatsheet.md`](cheatsheet.md) · Onsite from Stephen: [`stephen-onsite.md`](stephen-onsite.md) · Hardware: [`hardware-primer.md`](hardware-primer.md) · Decisions: [`decision-playbook.md`](decision-playbook.md)
 
-Write all human-facing prep in English. Market terms (Secret, ITAR, S&OP, MRP, CAPA) kept and explained in place.
+Write all human-facing prep in English. Market terms (Secret, ITAR, S&OP, MRP, CAPA) kept and explained in place. Acronym expansions also live in [`cheatsheet.md`](cheatsheet.md) and [`hardware-primer.md`](hardware-primer.md).
 
 ---
 
@@ -17,12 +17,12 @@ Write all human-facing prep in English. Market terms (Secret, ITAR, S&OP, MRP, C
 
 | Potential doubt | Evidence | Fix in the room |
 |-----------------|----------|-----------------|
-| Can they do manufacturing buying/planning? | Plenty Senior Global Supply Manager: direct materials, CapEx, NetSuite BOM/MRP, S&OP, NPI, Supplier Quality | Lead Plenty. CAPA tub story. Comcast is supporting cast. |
+| Can they do manufacturing buying/planning? | Plenty Senior Global Supply Manager: direct materials, CapEx, NetSuite bill of materials (BOM) / material requirements planning (MRP), sales and operations planning (S&OP), new product introduction (NPI), Supplier Quality | Lead Plenty. CAPA tub story. Comcast is supporting cast. |
 | Overqualified / will bounce | Current title Senior Manager, Enterprise Procurement; hunt is Director+ | Say it: IC value-chain ownership on a line is the job you want; title inflation at Comcast is not the goal |
 | Defense / maritime domain | None in cv.md | Transfer: spec, quality, lead time, containment. Do not fake hull design. |
 | Logistics | Quincy on-site; you sit Richboro, PA; 25% travel; Secret eligibility | One location story, aligned with the HM you know |
 | Comp mismatch | Posted $99–130K; you want $140K; profile walk-away $140K | Senior Buyer/Planner comps $129–171K; equity is extra; don’t open with the number |
-| Generic Anduril fan | Easy to sound like Luckey/Lattice TED talk | Quincy + Dive-LD + Quonset ramp + BOM/shortage |
+| Generic Anduril fan | Easy to sound like Luckey/Lattice TED talk | Plenty manufacturing itch + Quincy/Quonset is real build + HM; skip geopolitics speech |
 
 ---
 
@@ -38,8 +38,8 @@ Write all human-facing prep in English. Market terms (Secret, ITAR, S&OP, MRP, C
 
 ### Maritime division (this job)
 
-- **Origin:** Anduril acquired **Dive Technologies** (Quincy, MA) in **February 2022** and made it the maritime division. Dive’s DIVE-LD: large-displacement UUV, COTS internals, additive/composite hull story at founding. [Defense News 2022-02-02; CompositesWorld]
-- **JD team blurb:** next-gen **AUVs**; ultra-long-range, full-ocean-depth; manufacturing architecture that scales **large → extra-large**; executing multi-million-dollar contracts **and** **Robot-as-a-Service (RaaS)** AUV operations. [Greenhouse JD]
+- **Origin:** Anduril acquired **Dive Technologies** (Quincy, MA) in **February 2022** and made it the maritime division. Dive’s DIVE-LD: large-displacement unmanned underwater vehicle (UUV / AUV), commercial off-the-shelf (COTS) internals, additive/composite hull story at founding. [Defense News 2022-02-02; CompositesWorld]
+- **Job posting team blurb:** next-gen autonomous underwater vehicles (**AUVs**); ultra-long-range, full-ocean-depth; manufacturing architecture that scales **large → extra-large**; executing multi-million-dollar contracts **and** **Robot-as-a-Service (RaaS)** AUV operations. [Greenhouse JD]
 - **This req’s org:** Greenhouse department **Manufacturing : Undersea Reconnaissance & Strike — Production**. Office **Quincy, MA (QCY-01)**. [Greenhouse API]
 - **Dive-LD (public product facts):** ~5.8 m / 19 ft length, ~1.2 m / 4 ft diameter, depth on the order of **6,000 m**, modular payload (ISR, mine warfare, survey, cable/pipeline, etc.). [Anduril Dive-LD product page via secondary writeups; cite as public product sheet, not a spec you memorized from classified material]
 - **Ghost Shark / Dive-XL:** Royal Australian Navy **A$1.7B (US$1.12B)** five-year program of record **10 Sep 2025** after ~A$140M co-development; LRIP then high-rate in 2026; Anduril Australia factory (Sydney). First production Ghost Shark rolled off in **Nov 2025**, RAN delivery targeted **Jan 2026**. Anduril says it self-funded Dive acquisition ahead of government paper and invested in AU manufacturing. [Australian Defence Ministers 2025-09-10; Anduril news “Ghost Shark Enters Program of Record”; Breaking Defense 2025-11-03]
@@ -50,9 +50,9 @@ Write all human-facing prep in English. Market terms (Secret, ITAR, S&OP, MRP, C
 
 ### What this Buyer/Planner actually does [JD]
 
-Own the value chain **raw materials → assembly line → finished goods to customer**: demand forecast, inventory, POs (production **and** R&D), MRP + item master, shortage firefighting, make/buy, S&OP, demand-planning KPIs, **BOM literacy** so you can challenge a sales promise.
+Own the value chain **raw materials → assembly line → finished goods to customer**: demand forecast, inventory, purchase orders (**POs**) for production **and** R&D, material requirements planning (**MRP**) + item master, shortage firefighting, make/buy, sales and operations planning (**S&OP**), demand-planning KPIs, **bill of materials (BOM) literacy** so you can challenge a sales promise.
 
-**Required:** 3+ years technical procurement in **manufacturing**; negotiation; cross-functional; read design spec; full value-chain ownership under quality constraints; **Oracle or similar ERP**; travel ≤25%; **Secret eligibility**.
+**Required:** 3+ years technical procurement in **manufacturing**; negotiation; cross-functional; read design spec; full value-chain ownership under quality constraints; **Oracle or similar enterprise resource planning (ERP)**; travel ≤25%; **Secret clearance eligibility**.
 
 **Preferred (honest gaps):** engineering/supply-chain degree (you: **B.S. Agribusiness Management** — business/ag manufacturing, not ME); Lean/Six Sigma (**don’t claim**); Blue Yonder / statistical demand models (**don’t claim**); SQL (**don’t claim**); Tableau/Power BI/Qlik — **Power BI is in cv.md**.
 
@@ -116,62 +116,57 @@ No named panelists provided — no Panel Intel names. If you get a calendar, pas
 ### Recruiter-screen
 
 **Walk me through your CV / why looking?**  
-**Headline:** Factory buyer-planner at Plenty is the match; Comcast is scale, not the pitch.  
-**Effect:** Recruiter can map you to Undersea Production, not “enterprise sourcing guy.”  
-**Rationale:** JD is manufacturing value-chain, 3+ years technical procurement.  
-**Ops:** 75-sec open on the cheatsheet.
+Use the open on `cheatsheet.md`. Plenty first. Comcast one sentence if asked. End on which lines you'd own and where shortages are.
 
 **Comp?**  
-**Headline:** $140K base; posted band $99–130K; Senior Buyer/Planner comps $129–171K.  
-**Effect:** You don’t die on $115K and you don’t sound delusional.  
-**Rationale:** Profile walk-away $140K; JD says actual offer varies + equity.  
-**Ops:** Recruiter script on cheatsheet. If they only have this req’s band, ask them to run Senior scope / exception with the HM.
+~$140K base. Posted band is $99–130K. Senior Buyer/Planner has listed $129–171K. Scripts on the cheatsheet. If they only have this req's band, ask them to run it by the HM as senior-scope.
 
 **Why Anduril / why maritime?**  
-**Headline:** Quincy builds AUVs that have to work in water; that’s a materials-and-flow problem.  
-**Effect:** Passes the mission filter without a geopolitics TED talk you didn’t live.  
-**Rationale:** Exponent: generic growth narrative fails follow-up.  
-**Ops:** Dive-LD family + Quonset ramp + your recall story. Personalize the mission sentence if the printed one isn’t yours.
+Cheatsheet has the short version. Core: manufacturing itch (Plenty) + Quincy/Quonset is real build + you know the HM + you're fine with defense. Not a Lattice TED talk. Not China talking points. [Exponent: "Why Anduril?" is a values filter; vague "I want a challenge" fails.]
+
+**Are you comfortable with defense / weapons?**  
+Yes, plainly. Bad material lots already taught you what "doesn't work" costs a customer. You're not looking for a soft consumer brand. Don't invent a military family bio.
 
 **Location / remote / visa?**  
-On-site Quincy (confirm). No sponsorship. Secret: eligible, not current (unless you later confirm otherwise). Travel 25% — ask mix.
+On-site Quincy (same story as the HM). No sponsorship. Secret: eligible, not current (unless you later confirm otherwise). Travel 25%: ask Quonset vs field-test.
 
 **Timeline / notice?** ~30 days.
 
-**Other processes?** You have other conversations. This one is specific: maritime manufacturing + HM. No company names unless pressed.
+**Other processes?** You have some. This one is specific: manufacturing seat + HM. No company names unless pressed.
 
-**Background:** Plenty South SF → Comcast Philly is a real arc. You’re not hiding Comcast; you’re **sequencing** it.
+**Background:** Plenty → Comcast is fine. You're not hiding Comcast. You're just not leading with it.
 
 ### Hiring-manager
 
 **Why this role, why now?**  
-Plenty was the manufacturing OS (direct materials, MRP, quality). Comcast is large-company category. You want the line again, with someone you already trust, on vehicles that can’t ship “good enough.”
+Plenty was direct materials, MRP, quality. Comcast is big-company category work. You want the factory job again, with someone you already trust, on vehicles that have to work.
 
-**First 90 days?** Cheatsheet. Tie to **Quincy vs Quonset** and **RaaS vs POR demand**.
+**First 90 days?** Cheatsheet. Quincy vs Quonset and RaaS vs contract demand if that's in play.
 
-**Risk map:** Overqualified — “Senior Manager” at Comcast still sits above buyers; at Plenty you **did** this job with a bigger title. Won’t last — HM relationship + manufacturing itch; don’t promise a 10-year lock-in.
+**Overqualified / will you bounce?**  
+At Plenty you *did* this job (with a bigger title). Comcast Senior Manager doesn't mean you want Director theater. You want ownership of the line. Don't promise a 10-year lock-in.
 
-**Leadership:** S6 only if asked. This req does not say people manager.
+**Leadership:** S6 only if asked. This req isn't a people-manager posting.
 
-**Sharp questions:** cheatsheet list (BOM family, Quincy/Quonset, MRP hygiene, quarantine owner).
+**Questions:** cheatsheet list (BOM family, Quincy/Quonset, MRP health, quarantine owner).
 
 ### Peer-tech
 
 All tagged **[inferred from JD]** unless noted.
 
-- **Walk a shortage from ERP exception to parts on the dock.** NetSuite MRP + supplier call + internal ops. Oracle: “similar ERP; I’d learn the screens in week one.”
-- **Safety stock vs expedite in high-mix low-volume.** AUV/RaaS is lumpy. You don’t have Blue Yonder models — say so. Logic: service level vs cash vs shelf life / ITAR lots.
-- **Supplier fails spec.** CAPA story. Sequence: quarantine → clean material → 100% at vendor → process review.
-- **Make/buy.** JD asks you to support it. Frame: cost, lead time, quality system, export, second source. No fake Anduril make/buy example.
-- **BOM challenge to sales.** JD: understand BOM enough to question a promise. Plenty NPI + BOM ownership.
-- **KPIs.** OTIF, shortage aging, inventory $, quality escapes, MRP exception count. Power BI exists in cv.md.
-- **Lean/Six Sigma?** Don’t claim a belt. CAPA + process review *is* CI language.
+- **Shortage to parts on the dock.** NetSuite MRP + call the supplier + loop in ops. Oracle: "Same job, different screens. I lived MRP in NetSuite. I'll learn yours in week one."
+- **Safety stock vs expedite.** Demand is lumpy (AUV + RaaS). No Blue Yonder models: say so. Trade service level, cash, and lot constraints.
+- **Supplier fails spec.** Tub story. Quarantine → good material in → vendor 100% → process review.
+- **Make/buy.** Walk `decision-playbook.md`: process-dependent (COTS buy, printed hybrid, housings usually buy). Close with lead time, yield, volume, revision churn. No fake Anduril example.
+- **BOM pushback to sales.** Plenty NPI + BOM ownership. "Can we actually promise that date?"
+- **KPIs.** OTIF, shortage aging, inventory $, quality escapes, MRP exceptions. Power BI is in cv.md.
+- **Lean/Six Sigma?** No belt. CAPA and process review is how you do the work.
 
-**Reverse questions:** What does a “red” shortage meeting look like here? Who can stop a build? How often do engineers change the BOM after you placed the PO?
+**Ask them:** What does a bad shortage day look like? Who can stop a build? How often does engineering change the BOM after the PO is out?
 
 ### Panel-mixed
 
-No names. Hand-off: recruiter gets headline + logistics; HM gets “I’ll own the fire”; peers get containment mechanics. Do not replay the recall identically.
+No names yet. Recruiter: fit + logistics. HM: you'll own shortages. Peers: containment mechanics. Don't play the same recall tape three times.
 
 ---
 
@@ -186,10 +181,8 @@ No names. Hand-off: recruiter gets headline + logistics; HM gets “I’ll own t
 | 5 | peer-tech | Containment / CAPA | **S8** | strong | Add $ or lot counts later if you remember them |
 | 6 | peer-tech | Planning / S&OP | **S4** + S&OP line in cv.md | partial | No Blue Yonder |
 | 7 | any | P2P / Coupa | **S1** | weak for this JD | Don’t lead with it |
-| 8 | hiring-manager | Why leave / Director hunt | — | none | Need a clean “IC on purpose” line (on cheatsheet) |
-| 9 | recruiter-screen | Defense motivation | — | none | Personalize; don’t invent a family-military story |
-
-For gap 9: you need one true sentence about why *defense hardware* vs another factory. If you don’t have it, say: you want manufactured product with real failure modes, and this HM/team is the door — then stop.
+| 8 | hiring-manager | Why leave / Director hunt | cheatsheet “why leave Comcast” | strong | — |
+| 9 | recruiter-screen | Why Anduril / defense | cheatsheet Why Anduril block | strong | Swap in personal details if you have them; don’t invent military bio |
 
 ---
 
@@ -201,7 +194,7 @@ For gap 9: you need one true sentence about why *defense hardware* vs another fa
 - [ ] MRP exceptions, item master, safety stock — why: JD “MRP and associated master data”
 - [ ] CAPA sequence cold (quarantine / new lot / 100% / process) — why: your best manufacturing proof; JD quality + shortages
 - [ ] BOM common vs unique across LD/XL family — why: JD BOM literacy; public “large to extra-large” architecture
-- [ ] Power BI KPI mock in your head (shortage aging, OTIF) — why: preferred quals
+- [ ] Make vs buy / change order / delay sequence (`decision-playbook.md`) — why: peer-tech will ask how you decide, not just what a thruster is
 - [ ] Secret / ITAR / export questions on the Greenhouse form — why: application + eligibility
 - [ ] Comp: $99–130 vs $140 vs Senior $129–171 — why: recruiter screen
 - [ ] One location story with the HM — why: otherwise the loop is theater
@@ -214,28 +207,27 @@ Max 10.
 
 ### Recruiter / HR
 
-- **Volunteer:** manufacturing match, Quincy awareness, clearance eligibility, notice, $140K if asked.
-- **Don’t volunteer:** Anduril valuation gossip; “your band is insulting”; other companies’ round details; political takes on Luckey.
-- **Vocabulary:** AUV/UUV, Dive-LD, Ghost Shark, Lattice, QCY-01, Quonset, MRP, S&OP, RaaS, Secret, ITAR.
-- **Red flags they screen:** visa surprise, “I need fully remote,” “I’m really a Director,” weak defense answer.
+- **Volunteer:** Plenty manufacturing match, Quincy awareness, clearance eligibility, notice, $140K if asked.
+- **Don’t volunteer:** valuation gossip; band insults; other companies’ details; takes on Luckey.
+- **Words that sound like the job:** Dive-LD, Quonset, MRP, S&OP, shortage, BOM, Secret. Lattice once is enough.
+- **They screen for:** visa surprise, “I need remote,” “I’m really a Director,” soft/weird defense answer.
 
 ### Hiring manager
 
-- **Lead:** Plenty direct materials + CAPA + “I’ll own shortages.”
-- **Vocabulary:** containment, spec, OTIF, item master, make/buy, NPI.
-- **Ask:** what’s broken in the current buy/plan split; Quincy vs Quonset material ownership.
+- **Lead:** Plenty direct materials + the recall + you’ll own shortages.
+- **Ask:** what’s broken in buy vs plan today; who owns material Quincy ↔ Quonset.
 
 ### Peer / technical
 
-- **Lead:** how you ran the recall with the vendor, not how you feel about autonomy.
-- **Avoid:** claiming Lean belts, SQL warehouses, Oracle deep-admin, undersea engineering.
-- **Ask:** on-call for shortages; who can freeze a BOM; vendor scorecard reality.
+- **Lead:** how you ran containment with the vendor, not how you feel about autonomy.
+- **Avoid:** Lean belts, SQL bravado, Oracle deep-admin, undersea engineering cosplay.
+- **Ask:** who freezes a BOM; what a red shortage day looks like.
 
 ### Mixed panel
 
-- **2-sentence frame:** Plenty manufacturing buyer-planner; Quincy AUV value chain; HM already knows you.
-- **Don’t repeat:** same CAPA paragraph three times.
-- **Don’t contradict:** location, $140K, clearance, notice.
+- Frame: Plenty manufacturing buyer/planner; Quincy AUV materials; HM already knows you.
+- Don’t repeat the recall the same way three times.
+- Don’t contradict yourself on location, $140K, clearance, or notice.
 
 ---
 
@@ -247,7 +239,7 @@ No coffee-chat note provided. HM relationship is **not** a coffee-chat file — 
 
 ## Post-research
 
-1. **Story gaps:** defense motivation (personal); optional CAPA metrics if you remember them; Oracle vs NetSuite depth. I drafted S8 into `interview-prep/story-bank.md` from your 2026-08-24 detail — no dollars invented.
+1. **Story gaps:** optional CAPA metrics if you remember them; Oracle vs NetSuite depth. Why Anduril / defense is drafted on the cheatsheet (manufacturing itch + real Quincy build + HM). Swap in personal details if you have them; don't invent a military bio.
 2. **Interview date:** none given. When you have one, say so and we time-box a plan.
 3. **`deep` mode:** optional if you want strategy/competitors (HII, GD Bluefin/Quincy neighbors, Navy Replicator). This pack is enough to interview the **seat**.
 4. **career-ops:** system update available **v1.26.0 → v1.28.0**. Your CV/profile/tracker are not touched by that. Say if you want it applied.

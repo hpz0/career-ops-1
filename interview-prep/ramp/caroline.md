@@ -1,4 +1,7 @@
-# Caroline Novas — Day of (Wed Aug 12, 2026)
+# Caroline Novas — Day of (Wed Aug 12, 2026) · ARCHIVE
+
+**Status after call:** Went fine. She will decide **manager vs IC**, then next steps.  
+**Live file:** [`caroline-debrief-2026-08-12.md`](caroline-debrief-2026-08-12.md)
 
 **Role:** Senior Manager, Procurement Product Activation  
 **Her:** Director, CS Scaled & Partnerships · ex BizOps Self-Service Activations · grew Scaled CS 6→20+ · launched Bill Pay product specialist  
@@ -60,6 +63,8 @@ She’s heard “I’ve done CS implementations.” She hasn’t heard many peop
 3. Where do go-lives stall — discovery, ERP, change management, or Sales handoff?
 4. What does exceptional look like for this manager at **6 months** on *your* scoreboard?
 5. How should this seat sit vs Scaled CS / Partnerships — shared DNA or distinct pod?
+
+**Product (any Ramp panel):** duplicate vendors — Amazon Inc vs Amazon — fuzzy name / EIN / email / merge? Full wording in [`questions-for-ramp.md`](questions-for-ramp.md).
 
 ---
 
