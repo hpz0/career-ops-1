@@ -35,13 +35,11 @@ You are not interviewing to sound like an ME. You are interviewing as someone wh
 
 # 2. Opening (60–75 seconds)
 
-> I’m Harrison. I spent most of my career in manufacturing procurement at Plenty. Senior Global Supply Manager. I owned direct materials end to end: BOMs and MRP in NetSuite, inventory and safety stock, S&OP with ops, CapEx and tooling, and the supplier quality problems that stop a line.
+> I’m Harrison. Most of my career has been in manufacturing procurement. At Plenty I was Senior Global Supply Manager — I owned direct materials end to end. BOMs and MRP, inventory and planning with ops, CapEx and tooling, and the supplier quality issues that keep a line running or shut it down. We took about 30% out of BOM cost in six months, and I spent a lot of time in the systems side too — NetSuite, Arena for BOM and change control, Coupa earlier on.
 >
-> A few things that stuck. We took about 30% out of BOM cost in six months. I stood up Coupa when buying was still living in NetSuite. And I ran a packaging failure that became a recall: quarantine, get conforming material in, put the vendor on 100% inspection, then dig into the process so it didn’t repeat.
->
-> I’m at Comcast now on wireless and fixed network categories. Useful, but it’s not the factory job. Stephen and I talked about Copperhead and Seabed Sentry: open trade studies, long leads, getting off sole source. That’s the work I want to do.
+> I’m at Comcast now on wireless and fixed network categories. Big spend, complex suppliers, real commercial work. What I’m looking for next is to get back closer to hardware and production — where the buy directly enables the build. That’s why this Buyer/Planner seat on Copperhead and Seabed Sentry is interesting to me.
 
-If they only ask “tell me about yourself,” stop after paragraph two and let them steer. Don’t dump every story in the open.
+If they only ask “tell me about yourself,” stop there and let them steer. Don’t dump the recall, ETQ, or Stephen in the open.
 
 ---
 
