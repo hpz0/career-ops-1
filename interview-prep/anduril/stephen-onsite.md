@@ -35,27 +35,28 @@ You are not interviewing to sound like an ME. You are interviewing as someone wh
 
 # 2. Opening (60–75 seconds)
 
-> I’m Harrison. I spent most of my career in manufacturing procurement at Plenty. Senior Global Supply Manager. I owned direct materials end to end: BOMs and MRP in NetSuite, inventory and safety stock, S&OP with ops, CapEx and tooling, and the supplier quality problems that stop a line.
->
-> A few things that stuck. We took about 30% out of BOM cost in six months. I stood up Coupa when buying was still living in NetSuite. And I ran a packaging failure that became a recall: quarantine, get conforming material in, put the vendor on 100% inspection, then dig into the process so it didn’t repeat.
->
-> I’m at Comcast now on wireless and fixed network categories. Useful, but it’s not the factory job. Stephen and I talked about Copperhead and Seabed Sentry: open trade studies, long leads, getting off sole source. That’s the work I want to do.
+**Source of truth:** master `cheatsheet.md` §1.
 
-If they only ask “tell me about yourself,” stop after paragraph two and let them steer. Don’t dump every story in the open.
+> I’m Harrison. Most of my career has been in procurement and supply chain, a lot of it tied directly to manufacturing.
+>
+> Before Comcast I was Senior Global Supply Manager at Plenty. I owned direct materials end to end — BOMs and MRP, inventory and planning with ops, CapEx and tooling, and supplier quality issues that could stop a line. We took about 30% out of BOM cost in six months, so I spent a lot of time balancing cost, supply, quality, and production at once. I was deep in the systems too — NetSuite, Arena for BOM and change control, Coupa.
+>
+> I’m at Comcast now managing wireless and fixed network categories. Big spend, complex suppliers, heavy commercial work. I’ve kept building on negotiation and supplier management there.
+>
+> What I want next is to get back closer to the hardware and the production environment — where procurement decisions show up in what actually gets built. That’s what drew me to this role and to Anduril’s maritime business. I can bring the commercial and supplier muscle from Comcast plus the hands-on manufacturing and planning from Plenty, and put it closer to the product.
 
----
+Stop. Let them steer. Don’t dump the recall, ETQ, or Stephen in the open.
+
 
 # 3. Why Anduril (one answer)
 
-**Recruiter: this has to be strong.** Role and company in the same breath. Don’t split into quirky mini-scripts.
+**Source of truth:** master `cheatsheet.md` §2.
 
-> I want back on a production materials seat. Plenty was that: BOMs, MRP, shortages, engineering changes, supplier quality. Comcast is big-company category work. Useful, but it’s not the job I want next.
+> The thing that attracts me about this seat is how close it is to the product. At Comcast I manage complex categories, negotiate, drive cost, and work through supply issues at scale. I’m good at that. What I want next is an environment where procurement isn’t just supporting the business — it’s directly enabling production.
 >
-> I’m here because Anduril is trying to get advanced hardware to warfighters faster and break the old cost-plus model so taxpayers get more capability per dollar. I believe that. Maritime is basically a startup inside Anduril. Deadlines are real. If the buy or the build is on fire after five, you stay and clear it. Stephen walked me through Copperhead and Seabed Sentry. That’s the book I want to own.
+> I want to be closer to the hardware, engineering, suppliers, and the manufacturing process. I’ve had real impact at Comcast, and I’m ready for more ownership and more speed — somewhere the supply chain actually matters to the mission. Anduril is trying to get advanced hardware to warfighters faster and break the old cost-plus model. I believe that. Maritime is a startup inside Anduril. Deadlines are real. Copperhead and Seabed Sentry is the book I want to own.
 
-**If they only ask “why leave Comcast?”** Use paragraph one.  
-**If they only ask “why Anduril / why defense?”** Start at paragraph two.  
-**Pace only if they probe culture:** last three sentences of paragraph two.
+**If they only ask why leave Comcast:** stop after paragraph one.
 
 **No engineering degree**
 > I’m not an ME. I still sit with engineers on specs, SOWs, and what the floor can actually buy. I don’t design the part. I turn the requirement into a buyable plan and keep material moving when the drawing changes.
@@ -63,7 +64,6 @@ If they only ask “tell me about yourself,” stop after paragraph two and let 
 **Commodity gap**
 > At Plenty most of my directs were farm inputs, packaging, and CapEx/tooling, plus spares BOMs with eng. I haven’t lived foam or electronics as a commodity buyer. I have lived technical BOMs, MRP, NPI with engineers, quality escapes, and low-volume contracts. Different parts. Same job.
 
----
 
 # 4. Stephen’s themes (full stories)
 

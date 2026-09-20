@@ -78,7 +78,8 @@ You’ve lived this on the tub recall (S8). Lead with that story, not the textbo
 > Yeah, I’m not an ME. At Plenty I still sat with engineers and scientists on specs, SOWs, tooling, and new cultivars. Cold plasma equipment, hydrogel, packaging tools, spares BOMs. I don’t pretend I can design the part. I can learn the requirement fast, translate it into a buy, and keep the line fed when the drawing moves.
 
 ### Why Anduril
-> They’re actually building hardware. Maritime in Quincy, vehicles that have to work in water. I like hard supply problems. I’ve already lived bad material lots and long-lead chaos at Plenty. Defense doesn’t freak me out. I know Stephen. The work fits.
+**Source of truth:** master `cheatsheet.md` §2 (use that wording). Short backup if you blank:
+> Close to the product. Procurement that enables production. Ownership and speed. Warfighters faster, break cost-plus. Maritime startup. Copperhead + Seabed Sentry.
 
 ### How do you negotiate / run suppliers
 > I don’t try to “win” the meeting. I know the market, I know my BATNA, and I’m clear on what good looks like — price, lead time, quality, flexibility. Regular scorecards. When something breaks, I want a SCAR and a real CAPA, not a vibe. Relationships matter more when you don’t have DPAS leverage and you’re fighting for the same scarce parts as primes.

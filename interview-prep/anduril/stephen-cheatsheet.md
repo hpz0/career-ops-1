@@ -10,24 +10,35 @@ Deep: `stephen-onsite.md` full pack · especially §3, §5.1, §5.7, S14 MOQ
 
 ---
 
-## Open (~60 sec)
+## Open (~60–75 sec)
 
-> I’m Harrison. Plenty was manufacturing procurement — direct materials end to end: BOMs and MRP, Arena change control, inventory, S&OP, CapEx/tooling, supplier quality. Comcast is category work at scale. I want the factory seat again.
+> I’m Harrison. Most of my career has been in procurement and supply chain, a lot of it tied directly to manufacturing.
 >
-> You’ve already walked me through Copperhead and Seabed Sentry: open trade studies, long leads, more OTS, less sole source. That’s the work I want to own.
+> Before Comcast I was Senior Global Supply Manager at Plenty. I owned direct materials end to end — BOMs and MRP, inventory and planning with ops, CapEx and tooling, and supplier quality issues that could stop a line. We took about 30% out of BOM cost in six months, so I spent a lot of time balancing cost, supply, quality, and production at once. I was deep in the systems too — NetSuite, Arena for BOM and change control, Coupa.
+>
+> I’m at Comcast now managing wireless and fixed network categories. Big spend, complex suppliers, heavy commercial work. I’ve kept building on negotiation and supplier management there.
+>
+> What I want next is to get back closer to the hardware and the production environment — where procurement decisions show up in what actually gets built. That’s what drew me to this role and to Anduril’s maritime business. I can bring the commercial and supplier muscle from Comcast plus the hands-on manufacturing and planning from Plenty, and put it closer to the product.
 
-Stop. Let him steer.
+Stop. Let them steer.  
+Recall / ETQ / Stephen only if they ask.
+
 
 ---
 
-## Why Anduril (one answer — recruiter said critical)
+## Why Anduril (one answer)
 
-> I want back on a production materials seat. Plenty was that. Comcast is category work.
+Same as master `cheatsheet.md`.
+
+> The thing that attracts me about this seat is how close it is to the product. At Comcast I manage complex categories, negotiate, drive cost, and work through supply issues at scale. I’m good at that. What I want next is an environment where procurement isn’t just supporting the business — it’s directly enabling production.
 >
-> I’m here because Anduril is trying to get advanced hardware to warfighters faster and break the old cost-plus model so taxpayers get more capability per dollar. I believe that. Maritime is a startup inside Anduril. Deadlines are real. If the buy or the build is on fire after five, you stay and clear it. Copperhead and Seabed Sentry is the book I want to own.
+> I want to be closer to the hardware, engineering, suppliers, and the manufacturing process. I’ve had real impact at Comcast, and I’m ready for more ownership and more speed — somewhere the supply chain actually matters to the mission. Anduril is trying to get advanced hardware to warfighters faster and break the old cost-plus model. I believe that. Maritime is a startup inside Anduril. Deadlines are real. Copperhead and Seabed Sentry is the book I want to own.
+
+**If they only ask why leave Comcast:** stop after paragraph one.
 
 **If he asks about knowing him:**  
 > We’ve known each other a while. You walked me through this book. I’m here for the work, not a favor.
+
 
 ---
 
