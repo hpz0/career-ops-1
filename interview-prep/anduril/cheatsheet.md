@@ -10,7 +10,8 @@
 **Travel:** up to 25% · **Clearance:** eligible for Secret (don't claim you have one)  
 **Posting:** https://job-boards.greenhouse.io/andurilindustries/jobs/5169966007?gh_jid=5169966007
 
-**Print this.** Loop map: `loop-schedule.md` · Full scripts: `stephen-onsite.md` · 2024 notes: `from-2024-prep.md` · Hardware: `hardware-primer.md` · Decisions: `decision-playbook.md`
+**Print this for shared flash.** **Person sheets (use these for each call):** `jamie-cheatsheet.md` · `robbie-cheatsheet.md` · `kyle-cheatsheet.md` · `stephen-cheatsheet.md` · `janine-cheatsheet.md`  
+Full scripts: `stephen-onsite.md` · Loop: `loop-schedule.md` · Hardware: `hardware-primer.md`
 
 **This loop**
 - **Mon 9/21 · 2:00–2:30 ET** — Jamie Lichay (maritime procurement/planning)
