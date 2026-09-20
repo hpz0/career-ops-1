@@ -75,13 +75,14 @@ If they want more, they’ll pull. Padding kills you in a 30-minute block.
 
 ---
 
-## Why Anduril (one answer)
+## Open + Why Anduril
 
-Built from your words. Recruiter still needs belief — keep the Anduril sentence.
+**Source of truth:** master `cheatsheet.md` §1 (open) and §2 (why). Full open lives there — don’t invent a shorter one for the loop. Why text below matches master:
 
-> The thing that attracts me about this seat is how close it is to the product. At Comcast I manage complex categories, negotiate, drive cost, and work through supply issues at scale. What I want next is procurement that directly enables production — closer to hardware, engineering, suppliers, and the floor.
+> The thing that attracts me about this seat is how close it is to the product. At Comcast I manage complex categories, negotiate, drive cost, and work through supply issues at scale. I’m good at that. What I want next is an environment where procurement isn’t just supporting the business — it’s directly enabling production.
 >
-> I’ve had real impact at Comcast. I’m ready for more ownership and speed, somewhere the supply chain matters to the mission. Anduril is trying to get advanced hardware to warfighters faster and break the old cost-plus model. I believe that. Maritime is a startup inside Anduril. Deadlines are real. Copperhead and Seabed Sentry is the book I want to own.
+> I want to be closer to the hardware, engineering, suppliers, and the manufacturing process. I’ve had real impact at Comcast, and I’m ready for more ownership and more speed — somewhere the supply chain actually matters to the mission. Anduril is trying to get advanced hardware to warfighters faster and break the old cost-plus model. I believe that. Maritime is a startup inside Anduril. Deadlines are real. Copperhead and Seabed Sentry is the book I want to own.
+
 
 ### Story use (corrected)
 

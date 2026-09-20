@@ -4,7 +4,7 @@ You’re overloaded. Ignore most of the folder.
 
 ## Print / use only these
 
-1. **`cheatsheet.md`** — MASTER. Best answers. Day-of bible.
+1. **`cheatsheet.md`** — MASTER / primary source. Best answers. Day-of bible. If an overlay drifts, trust this.
 2. **One person overlay for that call** (optional):
    - Jamie → `jamie-cheatsheet.md`
    - Robbie → `robbie-cheatsheet.md` (NPI eng — your nervous room)

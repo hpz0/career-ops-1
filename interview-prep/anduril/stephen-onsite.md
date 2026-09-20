@@ -35,6 +35,8 @@ You are not interviewing to sound like an ME. You are interviewing as someone wh
 
 # 2. Opening (60–75 seconds)
 
+**Source of truth:** master `cheatsheet.md` §1.
+
 > I’m Harrison. Most of my career has been in procurement and supply chain, a lot of it tied directly to manufacturing.
 >
 > Before Comcast I was Senior Global Supply Manager at Plenty. I owned direct materials end to end — BOMs and MRP, inventory and planning with ops, CapEx and tooling, and supplier quality issues that could stop a line. We took about 30% out of BOM cost in six months, so I spent a lot of time balancing cost, supply, quality, and production at once. I was deep in the systems too — NetSuite, Arena for BOM and change control, Coupa.
@@ -45,11 +47,10 @@ You are not interviewing to sound like an ME. You are interviewing as someone wh
 
 Stop. Let them steer. Don’t dump the recall, ETQ, or Stephen in the open.
 
----
 
 # 3. Why Anduril (one answer)
 
-Built from your words. Recruiter still needs belief + mission — don’t drop those, but lead with the product/ownership pitch.
+**Source of truth:** master `cheatsheet.md` §2.
 
 > The thing that attracts me about this seat is how close it is to the product. At Comcast I manage complex categories, negotiate, drive cost, and work through supply issues at scale. I’m good at that. What I want next is an environment where procurement isn’t just supporting the business — it’s directly enabling production.
 >
@@ -63,7 +64,6 @@ Built from your words. Recruiter still needs belief + mission — don’t drop t
 **Commodity gap**
 > At Plenty most of my directs were farm inputs, packaging, and CapEx/tooling, plus spares BOMs with eng. I haven’t lived foam or electronics as a commodity buyer. I have lived technical BOMs, MRP, NPI with engineers, quality escapes, and low-volume contracts. Different parts. Same job.
 
----
 
 # 4. Stephen’s themes (full stories)
 

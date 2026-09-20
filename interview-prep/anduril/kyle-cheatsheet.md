@@ -19,14 +19,21 @@ Then pick the lane below. Don’t guess.
 
 ## Open (~45–60 sec) — after you know his seat
 
-> I’m Harrison. Procurement and supply chain background, a lot of it in manufacturing — Plenty direct materials, BOMs/MRP, shortages, supplier quality. At Comcast now on network categories. Looking to get back closer to hardware and production. Happy to go wherever is most useful for your side of the house.
+Full open lives on master `cheatsheet.md`. Short version:
+
+> I’m Harrison. Most of my career has been in procurement and supply chain, a lot of it tied to manufacturing — Plenty direct materials end to end, then Comcast on wireless and fixed network. Looking to get back closer to hardware and production. Happy to go wherever is most useful for your side of the house.
+
 
 
 ---
 
 ## Why Anduril (if asked)
 
-> Close to the product. Comcast is category scale. I want procurement enabling production — more ownership, more speed, supply chain that matters to the mission. Anduril: advanced hardware to warfighters faster, break cost-plus. I believe that. Deadlines are real.
+Same as master `cheatsheet.md`.
+
+> Close to the product. Comcast is category work at scale — I’m good at it. I want procurement that directly enables production: hardware, eng, suppliers, the floor. More ownership, more speed, supply chain that matters to the mission. Anduril is trying to get advanced hardware to warfighters faster and break cost-plus. I believe that. Maritime is a startup inside Anduril. Deadlines are real. Copperhead and Seabed Sentry is the book I want.
+
+
 
 ---
 

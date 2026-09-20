@@ -19,15 +19,22 @@ Deep: `stephen-onsite.md` §4.2 (MRP) · §5.7 (technical BOM) · §3 (why Andur
 >
 > What I want next is to get back closer to the hardware and the production environment — where procurement decisions show up in what actually gets built. That’s what drew me to this role and to Anduril’s maritime business. I can bring the commercial and supplier muscle from Comcast plus the hands-on manufacturing and planning from Plenty, and put it closer to the product.
 
-Stop.
+Stop. Let them steer.  
+Recall / ETQ / Stephen only if they ask.
+
 
 ---
 
 ## Why Anduril (one answer)
 
-> The thing that attracts me about this seat is how close it is to the product. At Comcast I manage complex categories, negotiate, drive cost, and work through supply issues at scale. What I want next is procurement that directly enables production — closer to hardware, engineering, suppliers, and the floor.
+Same as master `cheatsheet.md`.
+
+> The thing that attracts me about this seat is how close it is to the product. At Comcast I manage complex categories, negotiate, drive cost, and work through supply issues at scale. I’m good at that. What I want next is an environment where procurement isn’t just supporting the business — it’s directly enabling production.
 >
-> I’ve had real impact at Comcast. I’m ready for more ownership and speed, somewhere the supply chain matters to the mission. Anduril is trying to get advanced hardware to warfighters faster and break the old cost-plus model. I believe that. Maritime is a startup inside Anduril. Deadlines are real. Copperhead and Seabed Sentry is the book I want.
+> I want to be closer to the hardware, engineering, suppliers, and the manufacturing process. I’ve had real impact at Comcast, and I’m ready for more ownership and more speed — somewhere the supply chain actually matters to the mission. Anduril is trying to get advanced hardware to warfighters faster and break the old cost-plus model. I believe that. Maritime is a startup inside Anduril. Deadlines are real. Copperhead and Seabed Sentry is the book I want to own.
+
+**If they only ask why leave Comcast:** stop after paragraph one.
+
 
 ---
 

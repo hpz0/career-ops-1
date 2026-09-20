@@ -1,5 +1,7 @@
 # Anduril Buyer/Planner — MASTER CHEAT SHEET
 
+**PRIMARY SOURCE.** Overlays copy from here. If anything conflicts, this wins.
+
 **You:** Harrison Pizzi · Plenty manufacturing buyer → Comcast · Richboro, PA · ~30-day notice  
 **Role:** Buyer/Planner · **Book:** Copperhead + Seabed Sentry · Quincy QCY-01  
 **HM:** Stephen Shaw (friend — one sentence, not a favor)  
