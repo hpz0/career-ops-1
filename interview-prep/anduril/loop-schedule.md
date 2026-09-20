@@ -6,8 +6,8 @@
 **Format tip from TA:** behavioral, STAR-style, **concise**. These are short blocks. Aim **90–120 seconds** per story unless they dig.
 
 Deep scripts: `stephen-onsite.md`  
-**Print one sheet per person:** `jamie-cheatsheet.md` · `robbie-cheatsheet.md` · `kyle-cheatsheet.md` · `stephen-cheatsheet.md` · `janine-cheatsheet.md`  
-Shared flash: `cheatsheet.md`  
+**MASTER (print this):** `cheatsheet.md` — best latest answers for all rooms  
+**Person overlays:** `jamie-cheatsheet.md` · `robbie-cheatsheet.md` · `kyle-cheatsheet.md` · `stephen-cheatsheet.md` · `janine-cheatsheet.md`  
 Stories: `../story-bank.md` (S8–S17)
 
 ---
