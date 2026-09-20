@@ -21,6 +21,10 @@ jobs:
           WEBHOOK: ${{ secrets.DISCORD_CONTRIB_WEBHOOK }}
         with:
           script: |
+            if (!process.env.WEBHOOK) {
+              core.info('DISCORD_CONTRIB_WEBHOOK unset — skip');
+              return;
+            }
             const pr = context.payload.pull_request;
             const esc = (s) => s.replace(/([*_~`|\\])/g, '\\$1');
             const first = pr.author_association === 'FIRST_TIME_CONTRIBUTOR'
