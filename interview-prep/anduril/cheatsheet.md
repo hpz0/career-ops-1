@@ -1,220 +1,163 @@
-# Anduril Maritime — Buyer/Planner Cheat Sheet
+# Anduril Buyer/Planner — MASTER CHEAT SHEET
 
-**You:** Harrison Pizzi · Richboro, PA · EST · No visa · ~30-day notice  
-**HM (hiring manager):** **Stephen** (friend / HM — confirm how he wants to be introduced)  
-**Role:** Buyer/Planner · Track A (manufacturing / direct materials)  
-**Your book (Stephen):** **Copperhead** + **Seabed Sentry** (Dive-LD / Shallow LD “Alder” = neighbors)  
-**Site:** Quincy, MA **QCY-01** · Undersea Reconnaissance & Strike — Production  
-**Req:** 11321 · Still live as of 2026-08-22  
-**Comp (posted):** **$99K–$130K** base + equity · **Your number: $140K base**  
-**Travel:** up to 25% · **Clearance:** eligible for Secret (don't claim you have one)  
-**Posting:** https://job-boards.greenhouse.io/andurilindustries/jobs/5169966007?gh_jid=5169966007
+**You:** Harrison Pizzi · Plenty manufacturing buyer → Comcast · Richboro, PA · ~30-day notice  
+**Role:** Buyer/Planner · **Book:** Copperhead + Seabed Sentry · Quincy QCY-01  
+**HM:** Stephen Shaw (friend — one sentence, not a favor)  
+**Comp ask:** $140K base (posted $99–130K; Senior listed $129–171K)  
+**Clearance:** eligible for Secret — don’t claim you have one  
+**Answers:** ~90–120 sec · Situation → Approach → Result → stop
 
-**Print this.** Loop map: `loop-schedule.md` · Full scripts: `stephen-onsite.md` · 2024 notes: `from-2024-prep.md` · Hardware: `hardware-primer.md` · Decisions: `decision-playbook.md`
+**Person overlays (print for that call only):** `jamie` · `robbie` · `kyle` · `stephen` · `janine`  
+**Deep dive:** `stephen-onsite.md` · Hardware: `hardware-primer.md`
 
-**This loop**
-- **Mon 9/21 · 2:00–2:30 ET** — Jamie Lichay (maritime procurement/planning)
-- **Thu 9/24 · 12:00–12:30** — Robbie Collins (product sourcing eng)
-- **Thu 9/24 · 12:30–1:00** — Kyle Davis (confirm seat in minute one)
-- **Thu 9/24 · 1:00–1:45** — Stephen Shaw (HM)
-- **Dress:** business casual · **Answers:** ~90–120 sec (Situation → Approach → Result, then stop)
-
----
-
-## Lock these before any call
-
-1. **HM:** Stephen Shaw. One sentence on how you know him. Don’t make the loop sound like a favor.
-2. **Quincy.** On-site. Richboro is not a commute. Same story every room.
-3. **$140K vs the band.** Req tops out at $130K. Senior listings have gone **$129–171K**. Don’t start a title fight on round one.
+| When | Who | Overlay |
+|------|-----|---------|
+| Mon 2:00–2:30 | Jamie Lichay — buyer/planner peer | `jamie-cheatsheet.md` |
+| Thu 12:00–12:30 | Robbie Collins — sourcing / NPI eng | `robbie-cheatsheet.md` |
+| Thu 12:30–1:00 | Kyle Davis — confirm seat first | `kyle-cheatsheet.md` |
+| Thu 1:00–1:45 | Stephen Shaw — HM | `stephen-cheatsheet.md` |
+| If scheduled | Janine — buyer/planner peer | `janine-cheatsheet.md` |
 
 ---
 
-## Open (~60–75 sec)
+## 1. Open (~60 sec)
 
-Same spine as `stephen-onsite.md`. Say it until it sounds like you.
-
-> I’m Harrison. I spent most of my career in manufacturing procurement at Plenty. Senior Global Supply Manager. I owned direct materials end to end: BOMs and MRP in NetSuite, inventory and safety stock, S&OP with ops, CapEx and tooling, and the supplier quality problems that stop a line.
+> I’m Harrison. I spent most of my career in manufacturing procurement at Plenty. Senior Global Supply Manager. I owned direct materials end to end: BOMs and MRP in NetSuite, inventory and safety stock, S&OP, CapEx and tooling, and the supplier quality problems that stop a line.
 >
-> A few things that stuck. We took about 30% out of BOM cost in six months. I stood up Coupa when buying was still living in NetSuite. And I ran a packaging failure that became a recall: quarantine, get conforming material in, put the vendor on 100% inspection, then dig into the process so it didn’t repeat.
+> A few things that stuck. We took about 30% out of BOM cost in six months. BOM and change control lived in Arena — I implemented it and used it day to day. And I ran a packaging failure that became a recall: quarantine, conforming material in, vendor 100% inspection, then fix the process. Supplier SCAR/CAPA lived in ETQ.
 >
-> I’m at Comcast now on wireless and fixed network categories. Useful, but it’s not the factory job. Stephen and I talked about Copperhead and Seabed Sentry: open trade studies, long leads, getting off sole source. That’s the work I want to do.
+> I’m at Comcast now on wireless and fixed network. Useful, but it’s not the factory job. Stephen walked me through Copperhead and Seabed Sentry. That’s the work I want.
 
-If they only ask “tell me about yourself,” stop after paragraph two and let them steer.
+Stop. Let them steer.
 
 ---
 
-## Why Anduril (one answer)
-
-**Recruiter: this has to land.** Don’t split into quirky mini-scripts.
+## 2. Why Anduril (one answer — recruiter said critical)
 
 > I want back on a production materials seat. Plenty was that: BOMs, MRP, shortages, engineering changes, supplier quality. Comcast is big-company category work. Useful, but not what I want next.
 >
-> I’m here because Anduril is trying to get advanced hardware to warfighters faster and break the old cost-plus model so taxpayers get more capability per dollar. I believe that. Maritime is a startup inside Anduril. Deadlines are real. If the buy or the build is on fire after five, you stay and clear it. Stephen walked me through Copperhead and Seabed Sentry. That’s the book I want to own.
-
-**Technical BOM (recruiter ask — cold):** don’t PO the PDF → read packet (at Plenty: **Arena** for BOM/change control) → sort critical path / COTS / custom / soft → flag landmines same week → buy long lead first → keep MRP honest. Full method in `stephen-onsite.md` §5.7.
-
-**Systems backup (name once, don’t tour):** **Arena** PLM (implement + day-to-day BOM/ECO) · **ETQ** (SCAR/CAPA + change control) · NetSuite MRP · Coupa. Judgment first. Tools second.
-
-**Don't:** podcast voice, Palmer quotes, China lecture, fake lifelong defense calling, systems name-drop tour.  
-**Do:** belief + factory ownership + Copperhead/Sentry + pace, in one breath.
-
-## Company flash cards (facts, not a monologue)
-
-| Thing | What it is |
-|-------|------------|
-| Anduril | Defense products + **Lattice** (their command-and-control / AI software). Costa Mesa. Founded 2017. |
-| Maritime | Started when they bought **Dive Technologies** (Quincy) in **2022**. |
-| This site | **QCY-01**: engineering + low-rate build/test. Water access. Not the big factory. |
-| Quonset, RI | Volume plant, ~150k sq ft, opened late 2025. ~1 hour south. Public talk of scaling hulls hard. |
-| Dive-LD | Large autonomous underwater vehicle: ~19 ft, ~4 ft diameter, deep (~6,000 m), modular payload. |
-| Shallow LD (Alder) | Neighbor program/name from Stephen. Know it; don't claim ownership. |
-| Copperhead (Toledo) | High-speed AUV family. **Your book.** Push more OTS, less sole source, in-house design ownership. |
-| Seabed Sentry | Seabed sensor nodes. **Your book.** Commonality with Copperhead is mostly tier-2 electronics/boards. |
-| Ghost Shark | Extra-large / Dive-XL family. Australia **A$1.7B** program (Sep 2025). Built in Sydney. Don't mix AU factory with Quincy. |
-| This job | Buy + plan for Copperhead + Sentry: forecast, inventory, POs, MRP, shortages, make/buy, S&OP, BOM literacy — including long-lead hedges while trade studies are still open. |
-| DPAS | Defense Priorities and Allocations System. Stephen: Anduril often can’t rate orders; primes can jump the queue on scarce parts (timing / CSAC-class). |
-
-**Say:** materials, lead time, quarantine, bill of materials, material requirements planning, on-time-in-full, trade-study hedge, OTS, sole source.  
-**Don't claim:** you build AUVs, you have clearance already, Blue Yonder, Lean/Six Sigma belts, deep Oracle admin, DPAS policy expertise.
-
-**Recruiter asks to have cold (Sep 2026)**
-- **Technical BOM strategy:** read like a buyer → sort critical path / COTS / custom / landmines → flag eng same week → then buy. Full script in `stephen-onsite.md` §5.7.
-- **Spot issues in parts early:** long lead vs need date, sole source, soft specs, rev drift. Not a PO clerk.
-- **Maritime pace:** startup inside Anduril. Stay when it’s on fire. Meet deadlines.
-
-**Onsite pack:** `stephen-onsite.md` (full stories + how you’d run the job + room plan).  
-**Hardware study:** `hardware-primer.md`. **Decisions:** `decision-playbook.md`.
+> I’m here because Anduril is trying to get advanced hardware to warfighters faster and break the old cost-plus model so taxpayers get more capability per dollar. I believe that. Maritime is a startup inside Anduril. Deadlines are real. If the buy or the build is on fire after five, you stay and clear it. Copperhead and Seabed Sentry is the book I want to own.
 
 ---
 
-## Hero story — tub packaging / recall
+## 3. Technical BOM (have cold — recruiter ask)
 
-Tell it like a story, not a corrective-and-preventive-action form.
-
-> At Plenty I owned direct materials. Tub packaging went brittle. Started chipping. Became a recall.
+> I don’t PO the PDF. I read the whole packet: rev, specs, qty, need date, open trade studies. At Plenty that lived in Arena.
 >
-> I didn’t just email the vendor. We quarantined the bad material, got good stuff in so the line wasn’t dead, put them on 100% inspection, and did a process review so the next lots didn’t repeat it.
+> Then I sort it. Critical path and long lead first. COTS that should be dual-sourced. Custom that needs eng in the room. Soft callouts that aren’t buyable yet. Missing lead times, sole source, TBD finishes: flagged the same week with options, not a shrug.
 >
-> Same motion if a resin, seal, fastener, or battery lot fails here. You own it until the parts are good.
+> Then I buy to the plan: long lead first, buffers only on parts that stop a build or a test, clean item master so MRP isn’t lying. And I stay on it after the PO — when the rev moves, I intercept.
 
-**Vary by audience:**  
-- Recruiter: short. Problem → what you did → line got good material again.  
-- HM: stress partnering with Supplier Quality and the vendor, not theater.  
-- Peer: quarantine / expedite / 100% / process review sequence.
-
-**Backup (one only if needed):**  
-- Cost: **30% bill of materials** in 6 months (negotiation + value engineering + sales and operations planning).  
-- Planning: NetSuite BOMs / MRP + safety stock; nutrient consolidation (~20% changeover) / MOQ contract structures (S9, S14).  
-- NPI: cold plasma equipment + hydrogel with eng; packaging tooling; buy long-lead while finish specs still open (S10).  
-- Process: Coupa ~7 weeks / ~15 punchouts / 99% on contract only if they wander into process. This seat is materials.  
-- Mistake / crisis: double PO fix (S15) or COVID scarce supply (S16) if they ask.  
-- People: junior buyer → IT category owner only if they ask about coaching.
+**Spot issues early:** long lead vs need date · sole source · soft specs · wrong buffer · rev drift. Clearing a queue isn’t the job.
 
 ---
 
-## Comp
+## 4. How you work with NPI engineering (Robbie — cold)
 
-Posted: **$99–130K** base. Equity is part of the package (private company: treat equity as real but illiquid).
+> Eng owns the requirement. I turn it into a buyable, schedulable plan. I want in early, before the unique part is sacred: what’s frozen vs in trade study, what’s long lead, what’s sole source, and whether OTS dies for a real reason or a soft one.
+>
+> I bring supplier reality back — lead times, MOQs, capacity. If it isn’t buyable yet, I say so the same week with options. When the rev moves, I intercept in PLM (Arena). I’m not redesigning your board. I’m keeping material lined up and stopping a thirty-week fantasy.
 
-Your number: **$140K** base. Walk-away in your profile is $140K. Senior Buyer/Planner postings have listed **$129–171K**.
+**Lead story for eng room — Comcast disaggregation:**
+> Network disaggregation: software off the vendor box. Worked with eng on hardware requirements — capacity, form factor, power/thermal, ports, management interfaces — then took it to market. Built-to-spec and off-the-shelf options. Multiple vendors against a real spec.
 
-**Recruiter (if they ask):**  
-> Yeah I’ve seen the band. I’m around **$140K base** for this. I know that’s over the posting and inside what Senior has been listed at. Happy to talk equity. I’m just not going to pretend $115K works.
-
-**HM (you know them):**  
-> Band caps at $130K. I can do the job. **$140K** is what makes leaving Comcast worth it. If the work’s already senior, we can call it that even if the req title stays Buyer/Planner.
-
-Don't lead with money in the first minute. Don't say "walk-away" out loud. If you get an offer, ask grant size, share price, and vest.
+**Backup only — cold plasma:** seed pathogens → found early cold plasma tech → prototypes in-house → test plans → refined with vendor to cleanliness/pathogen requirements. Catching a parts problem early, not playing scientist.
 
 ---
 
-## Location / clearance / travel / logistics
+## 5. Other must-have answers
 
-**Quincy:** One story, same as the HM.  
-**Travel (25%):** Probably Quonset + suppliers. Ask: "Is it Quonset and vendors, or more like field-test travel?"  
-**Secret:** Eligible to get and keep it. No sponsorship needed. Don't claim an existing clearance.  
-**Why leave Comcast:** Manufacturing ownership again + this team / HM. Not "I hate cable."  
-**Notice:** ~30 days.  
-**Other processes:** You have some. Don't give a tour. If asked: other conversations are open; this one is specific because of the manufacturing seat and Stephen.
+**Trade study / long lead still open**  
+> Buy blank/raw/long-lead path now. Name who owns scrap if the study flips. Decision date on eng. Finish when the dash locks. Update mBOM the same day.
+
+**Shortage morning**  
+> Confirm it’s real. Call supplier same morning. Ask MFG if we can build around it. Quality if someone wants a sub. Fix why the system missed it.
+
+**ECO after PO**  
+> Effectivity + what’s bought. Use / rework / scrap. Freeze bad rev. Disposition dock/WIP. Update mBOM same day. Arena + ETQ were day-to-day for that at Plenty.
+
+**MRP / safety stock**  
+> System drives buys from BOM + demand − on-hand/on-order + lead time. Safety stock only on parts that kill the build. Dirty item master = noise.
+
+**Base A/B nutrients (commonality only — not BOM method)**  
+> Worked with plant science and eng on Base A and Base B as the start for every cultivar; fine-tune with micro/macro per cultivar. ~20% changeover cut. Shared base, variant top-up — same idea as shared boards across Copperhead/Sentry.
+
+**Low volume / MOQ**  
+> Seeds/nutrients: annual forecast, restocking fee or roll volume; cost of stockout mattered, not just unit price.
+
+**Tub recall**  
+> Brittle tubs → chips → recall. Quarantine → good material in → vendor 100% → process review with SQE (ETQ). Own it until parts are good.
+
+**Make vs buy**  
+> COTS: buy, dual source if a miss kills schedule. Custom while iterating: keep eng close. Specialty: buy from people who live there. Make never means no buying.
+
+**No ME / commodity gap**  
+> Not an ME. I make requirements buyable and keep material moving. Plenty directs were mostly farm inputs, packaging, CapEx/tooling + spares BOMs. Not foam/electronics commodity depth. Method transfers.
+
+**Oracle**  
+> Same job as NetSuite MRP. Different screens. I’ll learn yours.
+
+**90 days**  
+> Own Copperhead/Sentry materials. Floor + BOMs + open POs + true lead times. Shortage rhythm with MFG/quality/eng. By 90: S&OP cadence, cleaner master data, red-part list with owners.
+
+**Comp (only if asked)**  
+> Around $140K base. Over this posting, inside Senior bands. Happy to talk equity. Not pretending $115K works.
 
 ---
 
-## First 90 days (if asked)
+## 6. Story → room (don’t repeat full recall)
 
-Keep it plain.
-
-1. **First few weeks:** Own my lines. Walk the floor. Learn the BOMs and MRP. Look at open POs, shortages, lead times. Figure out who buys vs who plans today (this job is both).
-2. **Next:** Get a shortage rhythm with manufacturing, quality, and engineering. Clear rules when something fails. Forecast vs reality, including RaaS vs contract demand if that’s in the mix.
-3. **By 90 days:** A real S&OP cadence for my stuff. Simple metrics I can run in Power BI. Cleaner master data so the system isn’t folklore. Make/buy notes where they matter.
-
-**What I’d watch:** parts on time to the line, finished goods on time to the customer, shortage aging, inventory vs stockouts, vendor delivery/quality, MRP exception pile.
-
----
-
-## Questions (pick 3)
-
-1. For Copperhead and Seabed Sentry, what do I own day one vs what’s still with LD / Alder?
-2. What still builds in Quincy vs Quonset, and who owns material between them?
-3. How bad is the MRP master data? Is Oracle what people actually live in, or spreadsheets?
-4. When a lot fails, who calls quarantine: Quality, the buyer/planner, or the vendor?
-5. What are you guys still fighting with on materials that this hire is supposed to fix?
+| Story | Jamie / Janine | Robbie | Kyle | Stephen |
+|-------|----------------|--------|------|---------|
+| Open / Why Anduril | yes | short | short | full |
+| MRP / safety stock | **LEAD** | backup | if planner | yes |
+| Technical BOM method | yes | **yes** | if asked | yes |
+| Work with NPI eng | light | **LEAD** | if eng-adj | yes |
+| Comcast disaggregation | backup | **LEAD story** | — | one NPI max |
+| Base A/B commonality | yes | no | if planner | yes |
+| Tub recall | short | only if asked | **if quality** | once if needed |
+| MOQ / low volume | yes | light | light | **must** |
+| Trade-study hedge | backup | **yes** | if MFG | **must** |
+| Coupa 0→80 | if process | skip | skip | light |
+| Arena / ETQ | name once | name once | if ECO/quality | name once |
 
 ---
 
-## Acronym cheat (say the words until they stick)
+## 7. Product / site flash
 
-| Short | Full |
+| Thing | Line |
 |-------|------|
-| AUV / UUV | Autonomous underwater vehicle / unmanned underwater vehicle (same idea in practice) |
-| BOM | Bill of materials (the parts list for a build) |
-| MRP | Material requirements planning (what to buy or build, and when) |
-| S&OP | Sales and operations planning (align demand with supply) |
-| ERP | Enterprise resource planning (Oracle, NetSuite, etc.) |
-| PO | Purchase order |
-| CapEx | Capital expenditure (equipment / big buys) |
-| COTS | Commercial off-the-shelf (buy standard parts instead of custom) |
-| NPI | New product introduction |
-| OTIF | On time, in full |
-| CAPA | Corrective and preventive action (fix the failure so it doesn't repeat) |
-| ECO | Engineering change order (a design/revision change that hits materials) |
-| WIP | Work in process (on the floor, not finished yet) |
-| eBOM / mBOM | Engineering / manufacturing bill of materials |
-| OTS / COTS | Off-the-shelf / commercial off-the-shelf |
-| DVT | Design validation test |
-| DPAS | Defense Priorities and Allocations System (rated orders that jump supplier queues) |
-| CSAC | Chip-scale atomic clock (likely Stephen's "CSAG" + atomic clock — confirm) |
-| RaaS | Robot-as-a-Service (they operate vehicles as a service, not only sell them) |
-| FG | Finished goods |
-| IC | Individual contributor (not a people manager) |
-| JD | Job description / job posting |
-| C2 | Command and control |
-| ITAR | International Traffic in Arms Regulations (export-control rules for defense stuff) |
-| ISR | Intelligence, surveillance, reconnaissance |
-| ASW | Anti-submarine warfare |
+| Copperhead (Toledo) | Your book. High-speed AUV. More OTS, less sole source. |
+| Seabed Sentry | Your book. Seafloor nodes. Commonality mostly boards/electronics. |
+| Dive-LD / Alder | Neighbors. Know names. Don’t claim ownership. |
+| Quincy | Eng + low-rate / design change. On-site. |
+| Quonset | Volume plant ~1 hr south. |
+| DPAS | Primes with rated orders can jump queue; get closer to suppliers, early demand, dual source, buffer red parts. |
 
 ---
 
-## Don't
+## 8. Asks (pick 2–3 per room)
 
-| Trap | Do this instead |
-|------|-----------------|
-| Lead with Comcast / Director story | Lead Plenty. This is individual-contributor factory work. |
-| Claim Lean / Six Sigma / SQL / Blue Yonder | Say Power BI + enterprise resource planning. Corrective action is how you do continuous improvement. |
-| Sound like an Oracle expert | "Oracle or similar. I lived material requirements planning in NetSuite. I'll learn the screens." |
-| Fake defense / engineering pedigree | Transfer manufacturing judgment. Ask smart questions. Study `hardware-primer.md`. |
-| Two different location answers | One story with the HM. |
-| Same recall speech three times | Shorten / change the angle each round. |
-| "Mission-critical / cutting-edge / transform" | Talk shortages, bills of materials, and good parts. |
+**Jamie / Janine:** Bad shortage morning? Common vs unique on Copperhead/Sentry BOM? How clean is Oracle/item master? Rev flip → how fast should planning intercept?
+
+**Robbie:** Open trade studies burning long-lead clock? Sole source — tech, qual, or volume? What do you want from planning the day you release a rev? What does a good buyer do in your design review?
+
+**Kyle:** What do you own day to day? Who can stop a build when material is late/bad? Quincy vs Quonset friction?
+
+**Stephen:** Day-one ownership vs LD/Alder? Which hedges do you want signed before finish locks? Measure at six months? Reservations I can clear? DPAS pain parts?
 
 ---
 
-## Numbers (1–2 per answer, not a dump)
+## 9. Logistics (one story)
 
-- 30% bill of materials cost in ~6 months  
-- NetSuite bills of materials + material requirements planning  
-- New product introduction with engineering  
-- Worked with Supplier Quality (FDA / SQF food-safety context at Plenty)  
-- 99% on contract / 3 days → 1.5 / +50% e-invoice: only if they go process  
-- Team of 3 buyers: only if they ask people
+Quincy on-site · same as Stephen · Travel ≤25% (ask Quonset + vendors vs field) · Secret eligible · Notice ~30 days · Other processes: open, this one is specific (manufacturing + Stephen)
 
-Not yours to claim: Ghost Shark pricing, hull counts as personal metrics, Anduril valuation gossip, a clearance you don't have.
+---
+
+## 10. Don’t
+
+Lead Comcast · Coupa tour · geopolitics / Palmer quotes · fake electronics · Oracle wizard · apologize for 10 min about not being an ME · stack three NPI stories · full recall four times · open with comp · two Quincy stories
+
+## Numbers (1–2 per answer)
+
+30% BOM · ~20% changeover (Base A/B) · Coupa ~7 weeks / ~15 punchouts / 99% on contract / 3→1.5 days (process rooms only) · ~40% plastic (packaging only) · $140K ask

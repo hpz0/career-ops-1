@@ -6,26 +6,29 @@
 **Format tip from TA:** behavioral, STAR-style, **concise**. These are short blocks. Aim **90–120 seconds** per story unless they dig.
 
 Deep scripts: `stephen-onsite.md`  
-Day-of one-pager: `cheatsheet.md`  
-Stories: `../story-bank.md` (S8–S16)
+**MASTER (print this):** `cheatsheet.md` — best latest answers for all rooms  
+**Person overlays:** `jamie-cheatsheet.md` · `robbie-cheatsheet.md` · `kyle-cheatsheet.md` · `stephen-cheatsheet.md` · `janine-cheatsheet.md`  
+Stories: `../story-bank.md` (S8–S17)
 
 ---
 
 ## Calendar
 
 ### Mon Sep 21
-| Time (ET) | Who | Likely lens |
-|-----------|-----|-------------|
-| 2:00–2:30 | **Jamie Lichay** | Lead / senior for Maritime Procurement & Planning (Quincy). Ex-Wayfair merchant/planner. Peer or near-peer on the seat you’re interviewing for. |
+| Time (ET) | Who | Print |
+|-----------|-----|-------|
+| 2:00–2:30 | **Jamie Lichay** — Buyer/Planner peer | `jamie-cheatsheet.md` |
 
 ### Thu Sep 24
-| Time (ET) | Who | Likely lens |
-|-----------|-----|-------------|
-| 12:00–12:30 | **Robbie Collins** | Product Sourcing Engineer (maritime / high-speed AUVs). Specs, make/buy, long-lead, can you work with engineering. |
-| 12:30–1:00 | **Kyle Davis** | Title not confirmed from public info. Treat as **manufacturing / ops / quality stakeholder** until the invite says otherwise. Ask in the first minute what he owns. |
-| 1:00–1:45 | **Stephen Shaw** | HM. Ownership, judgment, you’ll stay, Copperhead/Sentry reality. Longer block = more depth + your questions. |
+| Time (ET) | Who | Print |
+|-----------|-----|-------|
+| 12:00–12:30 | **Robbie Collins** — Product Sourcing / NPI eng | `robbie-cheatsheet.md` |
+| 12:30–1:00 | **Kyle Davis** — confirm seat first | `kyle-cheatsheet.md` |
+| 1:00–1:45 | **Stephen Shaw** — HM | `stephen-cheatsheet.md` |
 
-Three of four rooms are **30 minutes**. Stephen gets **45**. Do not rehearse 4-minute monologues.
+Also: **Janine** (Buyer/Planner peer, remote) → `janine-cheatsheet.md` if on your calendar.
+
+Three of four Thu rooms are **30 minutes**. Stephen gets **45**. Do not rehearse 4-minute monologues.
 
 ---
 
@@ -36,86 +39,26 @@ Map every answer to at least one of these. Don’t name the trait out loud.
 | Trait (their words) | What it means here | Best stories |
 |---------------------|--------------------|--------------|
 | **Problem-Solving Independence** | You decide under ambiguity; don’t wait for a ticket | S8 tub recall · S10 cold plasma / open specs · trade-study hedge · S15 double PO fix |
-| **Data Mastery / Technical Adeptness** | Item master, MRP, reporting, clean numbers drive the call | S4/S9 NetSuite MRP + nutrient consolidation · S1/S11 Coupa + 99% on contract · BOM cost ~30% |
-| **Stakeholder / Team Engagement** | Eng, SQE, ops, suppliers — same room, shared goal | S10 NPI with engineers/scientists · S8 with Supplier Quality · S6 coaching · S16 COVID relationships |
-| **Scrappy / 0→80** | Build the operating rhythm before the perfect system | Coupa in ~7 weeks · MRP stood up from manual · MOQ contracts when volume is ugly (S14) |
+| **Data Mastery / Technical Adeptness** | Item master, MRP, reporting, clean numbers drive the call | S4/S9 NetSuite MRP + Base A/B · Arena/ETQ · BOM cost ~30% |
+| **Stakeholder / Team Engagement** | Eng, SQE, ops, suppliers — same room, shared goal | S17 Comcast disaggregation · S8 with SQE · S10 cold plasma |
+| **Scrappy / 0→80** | Build the operating rhythm before the perfect system | Coupa ~7 weeks · MRP from manual · S14 MOQ contracts |
 
-Their line: *take something from 0% to 80%, then 80 to 100%.* Use it once if it fits Coupa or MRP. Don’t turn it into a slogan every room.
-
----
-
-## Room cards (lead story + backup + ask)
-
-### Jamie Lichay (Mon) — buyer/planner peer
-
-**She wants:** Can you run the desk next to me without babysitting. Shortages, POs, planning hygiene, supplier calls, calm under mess.
-
-**Lead:** NetSuite MRP / safety stock / item master (S4 + S9)  
-**Backup:** Tub recall sequence (S8) *short* · MOQ / low-volume contracts (S14)  
-**Skip unless she asks:** Long Coupa tour, Comcast categories, geopolitics
-
-**Opening (if she asks tell me about yourself):** Plenty manufacturing first. Copperhead/Sentry one sentence. Stop.
-
-**Ask her (pick 2):**
-1. What does a bad shortage morning look like on your book right now?
-2. How clean is Oracle / MRP master data day to day — what do people actually trust?
-3. Copperhead vs Sentry: what’s common on the BOM today vs still unique?
-4. What do you wish the last person in this seat had done differently?
-
-**Watch:** She’s retail/planning DNA + Anduril maritime now. She’ll smell fluff. Speak floor language.
+Their line: *take something from 0% to 80%, then 80 to 100%.* Use it once if it fits. Don’t turn it into a slogan every room.
 
 ---
 
-### Robbie Collins (Thu) — sourcing / engineering adjacency
+## Room cards (detail lives on each person sheet)
 
-**He wants:** Can you buy against a moving print. Trade studies. Make/buy. OTS vs custom. You won’t freeze when the ME is still iterating.
+| Room | Lead | Backup |
+|------|------|--------|
+| **Jamie** | MRP + safety stock · technical BOM method | Short recall · Base A/B · MOQ |
+| **Robbie** | How you work with NPI eng + **Comcast disaggregation** | Trade-study hedge · Arena ECO |
+| **Kyle** | Ask what he owns first | Match MFG / quality / planning |
+| **Stephen** | Why Anduril one answer + trade-study + MOQ | DPAS · 90-day · comp only if opened |
+| **Janine** | Same peer desk as Jamie | See `janine-cheatsheet.md` |
 
-**Lead:** Cold plasma / hydrogel / tooling NPI (S10) + trade-study hedge script  
-**Backup:** eBOM→mBOM + rev intercept (S9) · sole-source / dual-source judgment  
-**Hardware:** Copperhead = high-speed AUV (his world). Know housings, boards, connectors, batteries as *buyer buckets*, not as an ME.
-
-**Ask him (pick 2):**
-1. Which open trade studies are burning long-lead clock on Copperhead right now?
-2. Where are you still forced into sole source, and what’s the real blocker — design ownership, qual, or volume?
-3. When engineering flips a rev after the PO is out, how fast do you expect planning to intercept?
-4. What does a good buyer/planner do in a design review that a mediocre one doesn’t?
-
-**Watch:** Don’t fake electronics depth. Transfer: “I haven’t lived CSAC allocation. I have lived long-lead buys while finish specs were still open.”
-
----
-
-### Kyle Davis (Thu) — confirm his world in minute one
-
-**Say:** “Before we dive in — what do you own day to day so I answer in your world?”
-
-| If he’s… | Lead with | Backup |
-|----------|-----------|--------|
-| Manufacturing / ops | Shortage morning + “can we promise that date?” | Sealer bottleneck / tooling (S12) · S&OP |
-| Quality | Tub recall full sequence (S8) | Plastic/format change (S13) only if he stays on packaging |
-| Planning / program | MRP + nutrient consolidation (S9) · 90-day plan | Quincy vs Quonset ownership question |
-| Unknown | Independence story (S8 or S10) | One data story (MRP / 30% BOM) |
-
-**Ask (pick 2 after you know his seat):**
-1. When material is late or bad, who can stop a build?
-2. What does “boots on the ground” look like for supply chain on your team?
-3. Biggest materials friction between Quincy and Quonset?
-
----
-
-### Stephen Shaw (Thu) — HM · 45 min
-
-**He wants:** You’ll own Copperhead + Sentry. You’ll stay. Judgment on trade studies, DPAS disadvantage, low volume. Same story as your private coaching.
-
-**Lead:** Why this role + how you’d run an open trade study  
-**Must hit:** Low-volume MOQ contracts (S14) · MRP/safety stock · NPI with eng  
-**Have ready:** Tub recall (don’t open with it unless quality comes up) · Comp only if he opens · Quincy relocation one sentence
-
-**Ask him (pick 3):**
-1. Day-one ownership: Copperhead / Sentry vs LD / Alder?
-2. Which long-lead hedges do you want signed before finish specs lock?
-3. How will you measure this seat at six months?
-4. Any reservations about my background I can clear up now?
-5. Quincy vs Quonset material ownership when a kit moves?
+### Robbie posture (nervous room)
+You make eng’s intent **buyable and on time**. Not the ME. Full script on `robbie-cheatsheet.md`. Don’t lead cold plasma; lead Comcast disaggregation.
 
 ---
 
