@@ -20,11 +20,11 @@ Stop. Let him steer.
 
 ---
 
-## Why Anduril (one answer — recruiter said critical)
+## Why Anduril (one answer — from your words)
 
-> I want back on a production materials seat. Plenty was that. Comcast is category work.
+> This seat is close to the product. At Comcast I run complex categories at scale. What I want next is procurement that directly enables production — hardware, eng, suppliers, the floor. More ownership, more speed, supply chain that matters to the mission.
 >
-> I’m here because Anduril is trying to get advanced hardware to warfighters faster and break the old cost-plus model so taxpayers get more capability per dollar. I believe that. Maritime is a startup inside Anduril. Deadlines are real. If the buy or the build is on fire after five, you stay and clear it. Copperhead and Seabed Sentry is the book I want to own.
+> Anduril is trying to get advanced hardware to warfighters faster and break the old cost-plus model. I believe that. Maritime is a startup inside Anduril. Deadlines are real. Copperhead and Seabed Sentry is the book I want to own.
 
 **If he asks about knowing him:**  
 > We’ve known each other a while. You walked me through this book. I’m here for the work, not a favor.

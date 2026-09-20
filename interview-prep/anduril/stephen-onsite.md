@@ -47,15 +47,13 @@ If they only ask “tell me about yourself,” stop after paragraph two and let 
 
 # 3. Why Anduril (one answer)
 
-**Recruiter: this has to be strong.** Role and company in the same breath. Don’t split into quirky mini-scripts.
+Built from your words. Recruiter still needs belief + mission — don’t drop those, but lead with the product/ownership pitch.
 
-> I want back on a production materials seat. Plenty was that: BOMs, MRP, shortages, engineering changes, supplier quality. Comcast is big-company category work. Useful, but it’s not the job I want next.
+> The thing that attracts me about this seat is how close it is to the product. At Comcast I manage complex categories, negotiate, drive cost, and work through supply issues at scale. I’m good at that. What I want next is an environment where procurement isn’t just supporting the business — it’s directly enabling production.
 >
-> I’m here because Anduril is trying to get advanced hardware to warfighters faster and break the old cost-plus model so taxpayers get more capability per dollar. I believe that. Maritime is basically a startup inside Anduril. Deadlines are real. If the buy or the build is on fire after five, you stay and clear it. Stephen walked me through Copperhead and Seabed Sentry. That’s the book I want to own.
+> I want to be closer to the hardware, engineering, suppliers, and the manufacturing process. I’ve had real impact at Comcast, and I’m ready for more ownership and more speed — somewhere the supply chain actually matters to the mission. Anduril is trying to get advanced hardware to warfighters faster and break the old cost-plus model. I believe that. Maritime is a startup inside Anduril. Deadlines are real. Copperhead and Seabed Sentry is the book I want to own.
 
-**If they only ask “why leave Comcast?”** Use paragraph one.  
-**If they only ask “why Anduril / why defense?”** Start at paragraph two.  
-**Pace only if they probe culture:** last three sentences of paragraph two.
+**If they only ask why leave Comcast:** stop after paragraph one.
 
 **No engineering degree**
 > I’m not an ME. I still sit with engineers on specs, SOWs, and what the floor can actually buy. I don’t design the part. I turn the requirement into a buyable plan and keep material moving when the drawing changes.

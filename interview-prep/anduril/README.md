@@ -1,26 +1,27 @@
-# Anduril Industries — Maritime
+# Anduril prep — what to actually use
 
-## Master + person overlays
+You’re overloaded. Ignore most of the folder.
 
-| File | Use |
-|------|-----|
-| [`cheatsheet.md`](cheatsheet.md) | **MASTER** — best latest answers, all rooms. Print this. |
-| [`jamie-cheatsheet.md`](jamie-cheatsheet.md) | Jamie overlay (Mon peer) |
-| [`robbie-cheatsheet.md`](robbie-cheatsheet.md) | Robbie overlay (NPI / sourcing eng) |
-| [`kyle-cheatsheet.md`](kyle-cheatsheet.md) | Kyle overlay (confirm seat) |
-| [`stephen-cheatsheet.md`](stephen-cheatsheet.md) | Stephen overlay (HM) |
-| [`janine-cheatsheet.md`](janine-cheatsheet.md) | Janine overlay (peer remote) |
+## Print / use only these
 
-## Reference
+1. **`cheatsheet.md`** — MASTER. Best answers. Day-of bible.
+2. **One person overlay for that call** (optional):
+   - Jamie → `jamie-cheatsheet.md`
+   - Robbie → `robbie-cheatsheet.md` (NPI eng — your nervous room)
+   - Kyle → `kyle-cheatsheet.md`
+   - Stephen → `stephen-cheatsheet.md`
+   - Janine → `janine-cheatsheet.md`
 
-| File | Use |
-|------|-----|
-| [`loop-schedule.md`](loop-schedule.md) | Calendar + recruiter debrief |
-| [`stephen-onsite.md`](stephen-onsite.md) | Full scripts + technical BOM §5.7 |
-| [`from-2024-prep.md`](from-2024-prep.md) | EVT/DVT/PVT + mined 2024 notes |
-| [`hardware-primer.md`](hardware-primer.md) | Non-engineer AUV parts |
-| [`decision-playbook.md`](decision-playbook.md) | Make/buy, ECO, delays |
-| [`prep.md`](prep.md) | Longer intel |
+## Ignore unless you need a deep dive
 
-**Seat:** Buyer/Planner · Quincy QCY-01 · Copperhead + Seabed Sentry  
-**How to use:** Print `cheatsheet.md` (master). Add the person overlay for that call. Answers ~90–120 sec.
+| File | When to open |
+|------|----------------|
+| `stephen-onsite.md` | Extra detail on technical BOM / trade studies |
+| `story-bank.md` | Story inventory (S8–S17) |
+| `hardware-primer.md` | Night before Robbie only, skim product table |
+| `decision-playbook.md` | Make/buy / ECO practice |
+| `from-2024-prep.md` | EVT/DVT/PVT vocab only |
+| `loop-schedule.md` | Calendar reference |
+| `prep.md` | Skip for now |
+
+**Rule:** If it’s not on the master cheatsheet, you don’t need it in the room.

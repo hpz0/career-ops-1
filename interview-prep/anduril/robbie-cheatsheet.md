@@ -22,7 +22,9 @@ Stop.
 
 ## Why Anduril (if he asks — one answer)
 
-> Factory materials seat again. Anduril is trying to get advanced hardware to warfighters faster and break cost-plus so taxpayers get more capability per dollar. I believe that. Maritime is a startup inside Anduril. Deadlines are real. Copperhead and Seabed Sentry is the book I want.
+> This seat is close to the product. Comcast is category work at scale — I’m good at it. I want procurement that directly enables production: hardware, eng, suppliers, the floor. More ownership, more speed, supply chain that matters to the mission.
+>
+> Anduril is trying to get advanced hardware to warfighters faster and break cost-plus. I believe that. Maritime is a startup inside Anduril. Deadlines are real. Copperhead and Seabed Sentry is the book I want.
 
 ---
 

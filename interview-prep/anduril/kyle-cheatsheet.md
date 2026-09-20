@@ -25,7 +25,7 @@ Then pick the lane below. Don’t guess.
 
 ## Why Anduril (if asked)
 
-> Factory materials seat again. Anduril getting advanced hardware to warfighters faster and breaking cost-plus — I believe that. Maritime is a startup inside Anduril. Deadlines are real. That’s the job I want.
+> Close to the product. Comcast is category scale. I want procurement enabling production — more ownership, more speed, supply chain that matters to the mission. Anduril: advanced hardware to warfighters faster, break cost-plus. I believe that. Deadlines are real.
 
 ---
 
