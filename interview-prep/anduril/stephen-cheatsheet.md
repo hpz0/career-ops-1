@@ -36,6 +36,9 @@ Same as master `cheatsheet.md`.
 
 **If they only ask why leave Comcast:** stop after paragraph one.
 
+**If he asks about knowing him:**  
+> We’ve known each other a while. You walked me through this book. I’m here for the work, not a favor.
+
 
 ---
 

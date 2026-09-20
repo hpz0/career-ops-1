@@ -25,3 +25,6 @@ You’re overloaded. Ignore most of the folder.
 | `prep.md` | Skip for now |
 
 **Rule:** If it’s not on the master cheatsheet, you don’t need it in the room.
+
+**Seat:** Buyer/Planner · Quincy QCY-01 · Copperhead + Seabed Sentry  
+**How to use:** Print `cheatsheet.md` (master). Add the person overlay for that call. Answers ~90–120 sec.
