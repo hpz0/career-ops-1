@@ -10,11 +10,15 @@ Deep: `stephen-onsite.md` full pack · especially §3, §5.1, §5.7, S14 MOQ
 
 ---
 
-## Open (~60 sec)
+## Open (~60–75 sec)
 
-> I’m Harrison. Most of my career has been in manufacturing procurement. At Plenty I was Senior Global Supply Manager — I owned direct materials end to end. BOMs and MRP, inventory and planning with ops, CapEx and tooling, and the supplier quality issues that keep a line running or shut it down. We took about 30% out of BOM cost in six months, and I spent a lot of time in the systems side too — NetSuite, Arena for BOM and change control, Coupa earlier on.
+> I’m Harrison. Most of my career has been in procurement and supply chain, a lot of it tied directly to manufacturing.
 >
-> I’m at Comcast now on wireless and fixed network categories. Big spend, complex suppliers, real commercial work. What I’m looking for next is to get back closer to hardware and production — where the buy directly enables the build. That’s why this Buyer/Planner seat on Copperhead and Seabed Sentry is interesting to me.
+> Before Comcast I was Senior Global Supply Manager at Plenty. I owned direct materials end to end — BOMs and MRP, inventory and planning with ops, CapEx and tooling, and supplier quality issues that could stop a line. We took about 30% out of BOM cost in six months, so I spent a lot of time balancing cost, supply, quality, and production at once. I was deep in the systems too — NetSuite, Arena for BOM and change control, Coupa.
+>
+> I’m at Comcast now managing wireless and fixed network categories. Big spend, complex suppliers, heavy commercial work. I’ve kept building on negotiation and supplier management there.
+>
+> What I want next is to get back closer to the hardware and the production environment — where procurement decisions show up in what actually gets built. That’s what drew me to this role and to Anduril’s maritime business. I can bring the commercial and supplier muscle from Comcast plus the hands-on manufacturing and planning from Plenty, and put it closer to the product.
 
 Stop.
 

@@ -10,11 +10,11 @@ Deep: `stephen-onsite.md` §4.4B (Comcast) · §5.1 (trade study) · §5.7 (tech
 
 ---
 
-## Open (~60 sec)
+## Open (~60–75 sec)
 
-> I’m Harrison. Most of my career has been manufacturing procurement — Plenty, Senior Global Supply Manager, direct materials end to end. BOMs, MRP, Arena for change control, planning with ops, supplier quality when the line is at risk. About 30% out of BOM cost in six months.
+> I’m Harrison. Most of my career has been in procurement and supply chain, a lot of it tied to manufacturing. At Plenty I owned direct materials end to end — BOMs, MRP, Arena for change control, planning with ops, supplier quality. About 30% out of BOM cost in six months.
 >
-> I’m at Comcast now on wireless and fixed network. What I want next is closer to hardware and production — where the buy enables the build. That’s why Copperhead and Seabed Sentry interest me. I’m not going to pretend I already know your BOM. I will make it buyable and keep material lined up when the drawing moves.
+> I’m at Comcast now on wireless and fixed network. What I want next is closer to hardware and production — where the buy shows up in what gets built. That’s what drew me to Anduril maritime and this seat. I won’t pretend I already know your BOM. I will make it buyable and keep material lined up when the drawing moves.
 
 Stop.
 

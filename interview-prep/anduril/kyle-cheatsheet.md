@@ -19,7 +19,7 @@ Then pick the lane below. Don’t guess.
 
 ## Open (~45–60 sec) — after you know his seat
 
-> I’m Harrison. Manufacturing procurement background — Plenty direct materials, BOMs/MRP, shortages, supplier quality. At Comcast now on network categories. Looking to get back closer to hardware and production. Happy to go wherever is most useful for your side of the house.
+> I’m Harrison. Procurement and supply chain background, a lot of it in manufacturing — Plenty direct materials, BOMs/MRP, shortages, supplier quality. At Comcast now on network categories. Looking to get back closer to hardware and production. Happy to go wherever is most useful for your side of the house.
 
 
 ---
