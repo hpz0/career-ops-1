@@ -41,9 +41,9 @@ Same as master `cheatsheet.md`.
 
 | If he’s… | Lead with | Backup | Ask |
 |----------|-----------|--------|-----|
-| **Manufacturing / ops** | Shortage morning · “can we actually promise that date?” | Sealer bottleneck / tooling (S12) · S&OP | Who can stop a build when material is late or bad? |
-| **Quality** | Tub recall full sequence (S8) + ETQ for SCAR/CAPA | Cold plasma as early quality catch | When a lot fails, who calls quarantine? |
-| **Planning / program** | MRP + safety stock · Base A/B commonality | 90-day plan · Nokia vendor hold | Quincy vs Quonset: who owns the PO when a kit moves? |
+| **Manufacturing / ops** | Shortage morning · sanitation process (S18) | Sealer bottleneck / tooling (S12) · S&OP | Who can stop a build when material is late or bad? |
+| **Quality** | Tub recall full sequence (S8) + ETQ for SCAR/CAPA | Cold plasma / S18 clean-window planning | When a lot fails, who calls quarantine? |
+| **Planning / program** | MRP + safety stock · Base A/B commonality | S18 dirty/clean PN + WO · Nokia vendor hold | Quincy vs Quonset: who owns the PO when a kit moves? |
 | **Still unclear** | Independence: recall or shortage | One data story (MRP / 30% BOM) | What does boots-on-the-ground look like for supply chain on your team? |
 
 ---

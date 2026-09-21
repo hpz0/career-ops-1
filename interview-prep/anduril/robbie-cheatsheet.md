@@ -63,9 +63,10 @@ Same as master `cheatsheet.md` §4.
 >
 > That’s the buyer half of NPI: help eng write something buyable, then bring options that fit.
 
-**Backup only if needed:** cold plasma = seed pathogens → early tech → prototypes + test plans → vendor refined to cleanliness requirements. Frame as catching a parts/process problem early, not as you inventing physics.
+**Backup only if needed:** cold plasma = seed pathogens → early tech → prototypes + test plans → vendor refined to cleanliness requirements. Frame as catching a parts/process problem early, not as you inventing physics.  
+**Process backup (not lead):** sanitation (S18) — outside service → in-line with eng/plant science; dirty PN → WO → clean PN. Only if he asks how the floor process ran.
 
-**Do not lead:** Coupa · Base A/B nutrients · full tub recall · foam/electronics cosplay
+**Do not lead:** Coupa · Base A/B nutrients · full tub recall · foam/electronics cosplay · S18 as your eng NPI story
 
 ---
 

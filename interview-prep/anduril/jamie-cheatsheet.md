@@ -43,6 +43,7 @@ Same as master `cheatsheet.md`.
 | Need | Use | Don’t |
 |------|-----|-------|
 | **LEAD — planning** | NetSuite MRP + safety stock + item master | Lead Coupa |
+| **LEAD — process** | Sanitation (S18): outside service → in-line; dirty PN → WO → clean PN | As cold-plasma physics story |
 | **LEAD — ownership** | Tub recall (short if already in open) | Full recall twice |
 | Commonality | Base A/B nutrients → shared base, cultivar fine-tune, ~20% changeover | As your “how I buy a BOM” answer |
 | Low volume | Seeds/nutrients MOQ contracts | — |
@@ -64,6 +65,9 @@ Same as master `cheatsheet.md`.
 
 **ECO after PO?**  
 > Effectivity, what’s bought, use/rework/scrap, freeze bad rev, update mBOM same day.
+
+**Built a process on the floor?**  
+> Seed/media sanitation started outside. Change control with eng and plant science to bring it in-house and in-line. Dirty NetSuite PN → work order → clean PN. Planned against throughput and how long clean stayed in-spec.
 
 **Oracle vs NetSuite?**  
 > Same job, different screens. I lived MRP in NetSuite. I’ll learn yours.

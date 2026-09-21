@@ -49,6 +49,7 @@ Same as master `cheatsheet.md`.
 | Open trade study + long-lead hedge | Buy blank/raw now, scrap owner, decision date on eng, finish when print locks, update mBOM same day |
 | Low volume / MOQ | Seeds/nutrients: annual forecast, restock or roll volume; cost of stockout mattered (S14) |
 | MRP / safety stock | NetSuite MRP; buffers only on parts that kill the build; item master has to be honest |
+| Process / change control | Sanitation (S18): outside → in-line with eng + plant science; dirty PN → WO → clean PN |
 | OTS / sole source / commonality | Base A/B as shared-base proof; boards/electronics commonality on Copperhead/Sentry |
 | Technical BOM method | Don’t PO the PDF · Arena · sort buckets · flag landmines · buy critical path first |
 | DPAS disadvantage | Get closer to supplier, early honest demand, dual source, buffer red parts — don’t whine |
@@ -63,6 +64,7 @@ Same as master `cheatsheet.md`.
 | Judgment | Trade-study hedge |
 | Low volume | MOQ contracts (S14) |
 | Planning | MRP / safety stock |
+| Process / eng + science | Sanitation (S18) — better than Coupa for “built a floor process” |
 | Quality (if asked) | Tub recall — once, not opener |
 | Eng partnership | Comcast disaggregation **or** cold plasma — one only |
 | Systems backup | Arena + ETQ + NetSuite — name once |

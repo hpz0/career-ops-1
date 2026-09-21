@@ -89,7 +89,8 @@ If they want more, they’ll pull. Padding kills you in a 30-minute block.
 | Story | Use for | Don’t use for |
 |-------|---------|---------------|
 | Base A/B nutrients | Commonality, consolidation, eng partnership | “How I buy a technical BOM” |
-| Cold plasma | Spotting a quality/parts problem early; vendor development | Pretending you’re an ME / primary eng NPI for Robbie |
+| Cold plasma (S10) | Spotting a quality/parts problem early; vendor development | Pretending you’re an ME / primary eng NPI for Robbie |
+| Sanitation process (S18) | Building a floor process; change control; outside → in-line; dirty/clean PNs | Leading Robbie; Coupa replacement when they want P2P |
 | Comcast disaggregation | Spec with eng → OTS vs built-to-spec; better eng-room NPI | Leading the whole interview |
 | Technical BOM method | Recruiter’s explicit ask | Hand-waving “I read it carefully” |
 
@@ -115,7 +116,8 @@ Full BOM method: `stephen-onsite.md` §5.7.
 |-------|-----------|--------|------|---------|
 | Opening / why | short | short | short | full |
 | MRP / safety stock / nutrients (S9) | **LEAD** | backup | if planner | yes |
-| Trade-study / NPI (S10) | backup | **LEAD** | if eng-adj | yes |
+| Sanitation process (S18) | **LEAD if process** | backup | **if MFG** | **yes if process** |
+| Trade-study / NPI (S10/S17) | backup | **LEAD S17** | if eng-adj | yes |
 | Tub recall (S8) | short if quality | only if asked | **LEAD** if quality/MFG | once if needed |
 | MOQ / low volume (S14) | yes | light | light | **must** |
 | Coupa 0→80 (S11) | if process | skip | skip | light |

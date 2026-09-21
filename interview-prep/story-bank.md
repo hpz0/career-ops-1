@@ -163,6 +163,7 @@ Accumulated stories for interviews. Only facts backed by `cv.md` / user statemen
 ## S10 — Cold plasma seed cleaning (Plenty)
 
 **Use for:** spotting a quality/parts problem early; bringing early vendor tech in-house; requirements + test plans with a young vendor  
+**Process companion:** **S18** (outside service → in-line work orders + dirty/clean part numbers) — use S18 for process/change-control rooms; S10 for early-tech catch  
 **Better eng-room NPI alternative:** **S17 Comcast disaggregation**  
 **Audience:** HM · peer · Robbie only if framed as sourcing/quality, not physics expertise
 
@@ -177,6 +178,24 @@ Accumulated stories for interviews. Only facts backed by `cv.md` / user statemen
 
 ---
 
+## S18 — Seed / grow-media sanitation process (Plenty)
+
+**Use for:** building a manufacturing process · change control with eng + plant science · outside service → in-house/in-line · NetSuite work orders · item-master honesty (dirty ≠ clean) · planning under time constraint (shelf life / clean window)  
+**Best rooms:** Jamie · Janine · Stephen · Kyle if MFG/planning  
+**Robbie:** backup only (still lead **S17**); pair lightly with S10 if they ask how sanitation actually ran  
+**Audience:** peer · hiring-manager · manufacturing/ops
+
+- **Situation:** Seed and grow-media sanitation started as an **outside service**. Dirty material went out; clean came back. Volume and control pushed the need onto our own line (same family of work as cold plasma cleaning — S10).
+- **Task:** Stand up an in-house, in-line sanitation process that eng/plant science would own with supply chain — inventory-true, schedulable, change-controlled.
+- **Action:** Worked change control with **engineering and plant science** to bring the process in-house and put it **in-line**. Locked a NetSuite flow: dirty/raw under one part number → **work order** for disposition and cleaning → clean material received back under a **differentiated** part number so dirty and clean couldn’t mix in the system. Planned releases against line throughput/capacity plus shelf life and how long clean stayed inside specs (over-clean ahead of need → burn the clean window; under-plan → production starves).
+- **Result:** Repeatable sanitation process tied to real inventory identity and build timing (no invented cycle-time or kill-rate metrics).
+- **Reflection:** The scrub wasn’t the story — the operating system was: outside → make/in-line, part identity, work orders, and timing to the build.
+- **Anduril bridge:** Same muscle as bringing a special process onto a vehicle line — qualify it, control the change, don’t let inventory treat before/after as the same part.
+- **Don’t:** Lead with SKU count · claim you invented the plasma physics · use as “how I buy a technical BOM” · replace Coupa when they want P2P · lead Robbie’s room with this
+
+**Proof source:** User 2026-09-21 (owned part-number scheme; metrics not claimed).
+
+---
 
 ## S17 — Network disaggregation hardware NPI (Comcast)
 
@@ -294,6 +313,7 @@ Accumulated stories for interviews. Only facts backed by `cv.md` / user statemen
 - [ ] Comcast enterprise portfolio negotiation (need metrics user can confirm)
 - [x] **S8 — Plenty tub packaging CAPA / recall** — drafted 2026-08-24; add metrics only if you remember them
 - [x] **S9–S16 — filled from 2024 Anduril prep notes** (2026-09-06); tighten names/numbers from memory if you want
+- [x] **S18 — Seed / grow-media sanitation process** — drafted 2026-09-21 (outside → in-line, WO, dirty/clean PNs)
 - [x] **Arena PLM + ETQ** — weave as backup on BOM/ECO/CAPA answers (user 2026-09-19). Not a hero story.
 
 ### Ramp Activation note (2026-07-29)
@@ -308,10 +328,10 @@ Reframe S1 for **customer go-live** language (discovery → config → education
 
 | Trait | Reach for |
 |-------|-----------|
-| Independence | S8 recall · S10 NPI/open specs · trade-study hedge · S15 double-PO fix |
-| Data | S9 MRP/nutrients · S1/S11 Coupa · ~30% BOM |
-| Stakeholders | S10 eng/scientists · S8 SQE · S6 coaching · S16 COVID suppliers |
-| Scrappy 0→80 | Coupa ~7 weeks · MRP from manual · S14 MOQ contracts |
+| Independence | S8 recall · S10 NPI/open specs · S18 sanitation process · trade-study hedge · S15 double-PO fix |
+| Data | S9 MRP/nutrients · S18 dirty/clean PN + WO planning · S1/S11 Coupa · ~30% BOM |
+| Stakeholders | S18 eng/plant science change control · S10 eng/scientists · S8 SQE · S6 coaching · S16 COVID suppliers |
+| Scrappy 0→80 | S18 outside→in-line · Coupa ~7 weeks · MRP from manual · S14 MOQ contracts |
 
 30-minute rooms = Situation / Approach / Result in ~90–120 seconds, then stop. Full room cards in `anduril/loop-schedule.md`.
 

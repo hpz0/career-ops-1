@@ -92,6 +92,9 @@ Built from your words + what the Sr Recruiter said must land (belief, mission, p
 **MRP / safety stock**  
 > System drives buys from BOM + demand − on-hand/on-order + lead time. Safety stock only on parts that kill the build. Dirty item master = noise.
 
+**Process build — seed / media sanitation (S18 — process rooms)**  
+> Sanitation started as an outside service. Worked change control with eng and plant science to bring it in-house and in-line. Dirty/raw under one NetSuite part number → work order for clean → clean material back under a differentiated part number. Planned against throughput, capacity, and how long clean stayed in-spec. Process + inventory truth, not just a vendor scrub.
+
 **Base A/B nutrients (commonality only — not BOM method)**  
 > Worked with plant science and eng on Base A and Base B as the start for every cultivar; fine-tune with micro/macro per cultivar. ~20% changeover cut. Shared base, variant top-up — same idea as shared boards across Copperhead/Sentry.
 
@@ -124,6 +127,7 @@ Built from your words + what the Sr Recruiter said must land (belief, mission, p
 |-------|----------------|--------|------|---------|
 | Open / Why Anduril | yes | short | short | full |
 | MRP / safety stock | **LEAD** | backup | if planner | yes |
+| Sanitation process (S18) | **LEAD if process** | backup only | **if MFG** | **yes if process** |
 | Technical BOM method | yes | **yes** | if asked | yes |
 | Work with NPI eng | light | **LEAD** | if eng-adj | yes |
 | Comcast disaggregation | backup | **LEAD story** | — | one NPI max |
