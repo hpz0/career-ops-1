@@ -48,6 +48,7 @@ Same as master `cheatsheet.md`.
 |-------|-------------|
 | Open trade study + long-lead hedge | Buy blank/raw now, scrap owner, decision date on eng, finish when print locks, update mBOM same day |
 | Low volume / MOQ | Seeds/nutrients: annual forecast, restock or roll volume; cost of stockout mattered (S14) |
+| Clear to build / BOM→plan | BOM → buyable, timed plan; UoM/purchasable BOM proof from Plenty |
 | MRP / safety stock | NetSuite MRP; buffers only on parts that kill the build; item master has to be honest |
 | Process / change control | Sanitation (S18): outside → in-line with eng + plant science; dirty PN → WO → clean PN |
 | OTS / sole source / commonality | Base A/B as shared-base proof; boards/electronics commonality on Copperhead/Sentry |
@@ -62,6 +63,7 @@ Same as master `cheatsheet.md`.
 |------|-----|
 | Why / ownership | Why Anduril one answer |
 | Judgment | Trade-study hedge |
+| Clear to build | BOM → viable plan; purchasable BOM + UoM (his last coaching) |
 | Low volume | MOQ contracts (S14) |
 | Planning | MRP / safety stock |
 | Process / eng + science | Sanitation (S18) — better than Coupa for “built a floor process” |

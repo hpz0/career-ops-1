@@ -42,8 +42,9 @@ Same as master `cheatsheet.md`.
 
 | Need | Use | Don’t |
 |------|-----|-------|
-| Planning / data | NetSuite MRP + safety stock | Lead with Coupa |
+| Planning / data | NetSuite MRP + safety stock · clear-to-build | Lead with Coupa |
 | Process / change control | Sanitation (S18): outside → in-line; dirty PN → WO → clean PN | Cold plasma as physics flex |
+| Purchasable BOM | Built/cleaned BOMs for buy unit vs ops weight vs sales cases | SKU-count bravado |
 | Ownership | Tub recall (short if already in open) | Full recall twice |
 | Commonality | Base A/B nutrients → shared base, cultivar fine-tune, ~20% changeover | As your “how I buy a BOM” answer |
 | Low volume | Seeds/nutrients MOQ contracts | — |
@@ -63,6 +64,7 @@ Full steps: `stephen-onsite.md` §5.7.
 ## Other short answers
 
 **Shortage morning:** Confirm it’s real → call supplier → ask MFG if we can build around it → fix why the system missed it.  
+**Clear to build:** BOM → buyable timed plan. Plenty: purchasable BOMs; ops weight vs sales cases vs buy count/box — UoM had to line up or MRP lied.  
 **Built a process:** Sanitation (S18) — outside service → in-house/in-line with eng + plant science; dirty PN → WO → clean PN; plan to clean-window.  
 **ECO after PO:** Effectivity, what’s bought, use/rework/scrap, freeze bad rev, update mBOM same day. Arena + ETQ were the day-to-day systems for that at Plenty.  
 **Quality / SCAR:** Tub recall sequence. ETQ was the supplier-quality / CAPA platform.  

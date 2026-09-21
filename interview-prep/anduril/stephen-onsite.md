@@ -223,22 +223,23 @@ Printed bracket changes are annoying and usually recoverable. Machined housings 
 
 > If the goal is more off-the-shelf and less sole source, I spend time in design reviews before the unique part is sacred. Shared boards across Copperhead and Sentry should be one item, one forecast, ideally two qualified sources. In-house design ownership matters because a black-box vendor design is how you stay sole-sourced forever.
 
-## 5.7 Buying strategy when you’re handed a technical BOM
+## 5.7 Buying strategy when you’re handed a technical BOM → clear to build
 
-**This is the answer to practice until it’s automatic.** Recruiter flagged it. You don’t need to have lived every AUV commodity. You need a clear method.
+**This is the answer to practice until it’s automatic.** Recruiter flagged it. **Stephen’s last coaching:** big focus on BOMs and turning them into a viable plan — **clear to build**. You don’t need to have lived every AUV commodity. You need a clear method.
 
 ### What you do, in order
 
 1. **Get the packet, not just the PDF.** Drawing/rev, specs, qual requirements, qty, need date / build date, make vs buy notes if any, approved vendor list if it exists, open trade studies. In PLM if that’s where truth lives (**Arena** at Plenty).
-2. **Sanity-check the data.** Missing rev, TBD callouts, “ref vendor” with no second source, lead time blank, qty that doesn’t match the build plan. Those are issues, not paperwork.
+2. **Sanity-check the data.** Missing rev, TBD callouts, “ref vendor” with no second source, lead time blank, qty that doesn’t match the build plan, **UoM that doesn’t match how you buy**. Those are issues, not paperwork.
 3. **Sort every line into buckets:**
    - **Critical path / long lead** — batteries, boards, housings, specialty materials, anything that can miss the build
    - **COTS / standard** — fasteners, connectors, many electronics; dual-source if a miss hurts
    - **Custom / controlled** — machined, molded, unique boards; eng stays in the loop
    - **Soft / incomplete** — finish TBD, dash TBD, “or equivalent”; do not pretend it’s buyable yet
-4. **Run a risk pass before you PO.** Lead time vs need date. Sole source. MOQ vs real demand. Rev stability. Spec the supplier can’t actually hold. Anything that fails goes back to eng/program the same week with options (OTS alt, hedge buy, dual source, change the date).
+4. **Run a risk pass before you PO.** Lead time vs need date. Sole source. MOQ vs real demand. Rev stability. Spec the supplier can’t actually hold. Bad buy/stock/BOM unit conversions. Anything that fails goes back to eng/program the same week with options (OTS alt, hedge buy, dual source, change the date).
 5. **Build the buy plan.** Long lead and critical path first. Set buffers only where a miss kills the line or the test. Put POs in. Put decision dates on open studies. Load clean lead times and revs into MRP so the system isn’t folklore.
 6. **Stay in the loop after the PO.** Watch confirmations, slip risk, and ECO traffic in PLM. If the rev moves, intercept. Don’t forward an email and hope.
+7. **Clear to build.** Ops can release. Material is buyable, timed, and identity-true. Green MRP with a wrong UoM is not clear to build.
 
 ### Say it (90–120 sec)
 
@@ -246,7 +247,11 @@ Printed bracket changes are annoying and usually recoverable. Machined housings 
 >
 > Then I sort it. Critical path and long lead first. COTS that should be dual-sourced. Custom that needs engineering in the room. Soft callouts that aren’t buyable yet. Missing lead times, sole source, TBD finishes, revs that don’t match the build: those get flagged the same week, with options, not a shrug.
 >
-> After that I buy to the plan: long lead first, buffers only on parts that stop a build or a test, clean item master so MRP isn’t lying. And I stay on it after the PO goes out, because the drawing will move.
+> After that I buy to the plan: long lead first, buffers only on parts that stop a build or a test, clean item master so MRP isn’t lying. And I stay on it after the PO goes out, because the drawing will move. End state is **clear to build** — not a green screen with a fantasy lead time.
+
+### Plenty proof — purchasable BOM + UoM (use with Jamie / planning)
+
+> I built and cleaned BOMs for purchasability, not just consumed them. Ops often ran weight. Sales thought in finished-goods cases. We purchased by count, box, or each. If those units didn’t convert cleanly in the item master and BOM, MRP looked fine and you still weren’t clear to build. Making buy unit, stock unit, and BOM unit match how we actually purchased was part of the job.
 >
 > At Plenty I owned turning engineering intent into something we could actually plan and buy, and I intercepted when revs changed mid-order. At Comcast I’ve done the spec-to-market version on disaggregated network hardware with engineering. Different parts. Same method.
 
@@ -303,7 +308,7 @@ Full cards: `loop-schedule.md`. Rotate stories. Do **not** tell the full recall 
 ### Greatest achievement
 Pick one:
 - Materials room: **~30% BOM cost** in six months
-- Process room: **Coupa in ~7 weeks**, ~15 punchouts, 99% on contract
+- Process room: **sanitation in-line (S18)** — outside → in-house with eng/plant science; dirty PN → WO → clean PN · *or* Coupa ~7 weeks if they mean P2P systems
 - Ops room: nutrient premix **~20% changeover** or sealer throughput work
 
 ### Weakness

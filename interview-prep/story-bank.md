@@ -197,6 +197,26 @@ Accumulated stories for interviews. Only facts backed by `cv.md` / user statemen
 
 ---
 
+## S19 — Purchasable BOM + unit of measure (Plenty)
+
+**Use for:** clear-to-build · item master honesty · building/cleaning BOMs for purchasability · bridging ops / sales / buy units  
+**Best rooms:** Jamie · Janine · Stephen · Kyle if planning  
+**Stephen coaching (2026-09-21):** big focus on BOMs → viable plan → clear to build  
+**Audience:** peer · hiring-manager
+
+- **Situation:** At Plenty I didn’t only consume BOMs — I built and cleaned them so materials were actually purchasable. Ops, sales, and purchasing spoke different unit languages.
+- **Task:** Make the BOM and item master tell the truth for buying and clear-to-build planning.
+- **Action:** Ops often ran **weight-based** units. Sales thought in **finished-goods cases**. Purchasing bought by **count / box / each**. Lined up buy unit, stock unit, and BOM unit so conversions matched how we actually purchased — otherwise MRP looked green and you still weren’t clear to build.
+- **Result:** Purchasable BOMs and an item master that matched real buy practice (no invented accuracy %).
+- **Reflection:** Clear to build is not a green screen. It’s buyable parts, honest units, and a plan ops can release against.
+- **Anduril bridge:** Same failure mode on a vehicle kit — wrong UoM or unbuyable line and the build “clears” until the dock is empty.
+
+**Don’t:** Turn into a UoM lecture · invent conversion factors · lead Robbie’s eng room with this alone (pair under technical BOM method)
+
+**Proof source:** User 2026-09-21 (Stephen call + Plenty UoM experience).
+
+---
+
 ## S17 — Network disaggregation hardware NPI (Comcast)
 
 **Use for:** NPI with engineering; writing buyable specs; OTS vs built-to-spec; multi-vendor competition against a real requirement  
@@ -314,6 +334,7 @@ Accumulated stories for interviews. Only facts backed by `cv.md` / user statemen
 - [x] **S8 — Plenty tub packaging CAPA / recall** — drafted 2026-08-24; add metrics only if you remember them
 - [x] **S9–S16 — filled from 2024 Anduril prep notes** (2026-09-06); tighten names/numbers from memory if you want
 - [x] **S18 — Seed / grow-media sanitation process** — drafted 2026-09-21 (outside → in-line, WO, dirty/clean PNs)
+- [x] **S19 — Purchasable BOM + UoM** — drafted 2026-09-21 (Stephen clear-to-build coaching)
 - [x] **Arena PLM + ETQ** — weave as backup on BOM/ECO/CAPA answers (user 2026-09-19). Not a hero story.
 
 ### Ramp Activation note (2026-07-29)
@@ -329,7 +350,7 @@ Reframe S1 for **customer go-live** language (discovery → config → education
 | Trait | Reach for |
 |-------|-----------|
 | Independence | S8 recall · S10 NPI/open specs · S18 sanitation process · trade-study hedge · S15 double-PO fix |
-| Data | S9 MRP/nutrients · S18 dirty/clean PN + WO planning · S1/S11 Coupa · ~30% BOM |
+| Data | S9 MRP/nutrients · S19 purchasable BOM/UoM · S18 dirty/clean PN + WO planning · S1/S11 Coupa · ~30% BOM |
 | Stakeholders | S18 eng/plant science change control · S10 eng/scientists · S8 SQE · S6 coaching · S16 COVID suppliers |
 | Scrappy 0→80 | S18 outside→in-line · Coupa ~7 weeks · MRP from manual · S14 MOQ contracts |
 

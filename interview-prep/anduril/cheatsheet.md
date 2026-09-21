@@ -53,15 +53,20 @@ Built from your words + what the Sr Recruiter said must land (belief, mission, p
 
 ---
 
-## 3. Technical BOM (have cold — recruiter ask)
+## 3. Technical BOM → clear-to-build (HAVE COLD — Stephen’s last coaching)
+
+**Job in one line:** take the BOM and turn it into a **viable clear-to-build plan** — material that can actually be bought, timed, and on the floor when the build needs it. Not PO clerk. Not PDF reader.
 
 > I don’t PO the PDF. I read the whole packet: rev, specs, qty, need date, open trade studies. At Plenty that lived in Arena.
 >
 > Then I sort it. Critical path and long lead first. COTS that should be dual-sourced. Custom that needs eng in the room. Soft callouts that aren’t buyable yet. Missing lead times, sole source, TBD finishes: flagged the same week with options, not a shrug.
 >
-> Then I buy to the plan: long lead first, buffers only on parts that stop a build or a test, clean item master so MRP isn’t lying. And I stay on it after the PO — when the rev moves, I intercept.
+> Then I buy to the plan: long lead first, buffers only on parts that stop a build or a test, clean item master so MRP isn’t lying. And I stay on it after the PO — when the rev moves, I intercept. End state: **clear to build** — ops can release without a surprise shortage on a part that was never really buyable or never really timed.
 
-**Spot issues early:** long lead vs need date · sole source · soft specs · wrong buffer · rev drift. Clearing a queue isn’t the job.
+**Spot issues early:** long lead vs need date · sole source · soft specs · wrong buffer · rev drift · bad UoM / conversion. Clearing a queue isn’t the job.
+
+**Plenty proof — purchasable BOM + unit of measure (Jamie / planning rooms):**  
+> I didn’t just consume BOMs — I built and cleaned them for **purchasability**. Hard part was unit of measure. Ops often ran **weight**. Sales thought in **finished-goods cases**. We bought by **count / box / each**. If those conversions weren’t right in the item master and BOM, MRP lied and you weren’t clear to build even when the screen looked green. I made the buy unit, stock unit, and BOM unit line up so the plan matched how we actually purchased.
 
 ---
 
@@ -90,7 +95,10 @@ Built from your words + what the Sr Recruiter said must land (belief, mission, p
 > Effectivity + what’s bought. Use / rework / scrap. Freeze bad rev. Disposition dock/WIP. Update mBOM same day. Arena + ETQ were day-to-day for that at Plenty.
 
 **MRP / safety stock**  
-> System drives buys from BOM + demand − on-hand/on-order + lead time. Safety stock only on parts that kill the build. Dirty item master = noise.
+> System drives buys from BOM + demand − on-hand/on-order + lead time. Safety stock only on parts that kill the build. Dirty item master = noise. Wrong UoM = fake clear-to-build.
+
+**Clear to build (Stephen — say this)**  
+> BOM → buyable plan → material timed to the release. If a line isn’t purchasable, lead time is fantasy, or UoM is wrong, you’re not clear to build — the system just looks green.
 
 **Process build — seed / media sanitation (S18 — process rooms)**  
 > Sanitation started as an outside service. Worked change control with eng and plant science to bring it in-house and in-line. Dirty/raw under one NetSuite part number → work order for clean → clean material back under a differentiated part number. Planned against throughput, capacity, and how long clean stayed in-spec. Process + inventory truth, not just a vendor scrub.
@@ -126,7 +134,9 @@ Built from your words + what the Sr Recruiter said must land (belief, mission, p
 | Story | Jamie / Janine | Robbie | Kyle | Stephen |
 |-------|----------------|--------|------|---------|
 | Open / Why Anduril | yes | short | short | full |
+| Clear-to-build / BOM→plan | **LEAD** | **yes** | if MFG/planner | **must** |
 | MRP / safety stock | **LEAD** | backup | if planner | yes |
+| Purchasable BOM + UoM | **LEAD proof** | light | if planner | yes |
 | Sanitation process (S18) | **LEAD if process** | backup only | **if MFG** | **yes if process** |
 | Technical BOM method | yes | **yes** | if asked | yes |
 | Work with NPI eng | light | **LEAD** | if eng-adj | yes |
@@ -155,7 +165,7 @@ Built from your words + what the Sr Recruiter said must land (belief, mission, p
 
 ## 8. Asks (pick 2–3 per room)
 
-**Jamie / Janine:** Bad shortage morning? Common vs unique on Copperhead/Sentry BOM? How clean is Oracle/item master? Rev flip → how fast should planning intercept?
+**Jamie / Janine:** Clear-to-build on your book — where does it usually break? Common vs unique on Copperhead/Sentry BOM? How clean is Oracle/item master / UoM? Rev flip → how fast should planning intercept?
 
 **Robbie:** Open trade studies burning long-lead clock? Sole source — tech, qual, or volume? What do you want from planning the day you release a rev? What does a good buyer do in your design review?
 

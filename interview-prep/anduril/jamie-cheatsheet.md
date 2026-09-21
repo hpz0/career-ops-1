@@ -5,7 +5,8 @@
 **Her lens:** Can you run the book next to her. Shortages, POs, planning hygiene, suppliers, calm under mess.  
 **Format:** ~90–120 sec. Situation → Approach → Result → stop.
 
-Deep: `stephen-onsite.md` §4.2 (MRP) · §5.7 (technical BOM) · §3 (why Anduril)
+Deep: `stephen-onsite.md` §4.2 (MRP) · §5.7 (technical BOM) · §3 (why Anduril)  
+**Stephen’s last coaching for this room:** BOM → viable plan → **clear to build**. Lead that. Not Coupa. Not Comcast.
 
 ---
 
@@ -42,6 +43,7 @@ Same as master `cheatsheet.md`.
 
 | Need | Use | Don’t |
 |------|-----|-------|
+| **LEAD — clear to build** | BOM → buyable plan → timed material; UoM / purchasable BOM proof | Lead Coupa or Comcast |
 | **LEAD — planning** | NetSuite MRP + safety stock + item master | Lead Coupa |
 | **LEAD — process** | Sanitation (S18): outside service → in-line; dirty PN → WO → clean PN | As cold-plasma physics story |
 | **LEAD — ownership** | Tub recall (short if already in open) | Full recall twice |
@@ -54,11 +56,14 @@ Same as master `cheatsheet.md`.
 
 ## Answers she’ll likely ask
 
+**What does clear to build mean to you? / How do you run a BOM?**  
+> Take the BOM and turn it into a viable plan — buyable parts, real lead times, honest item master — so ops can release without a surprise shortage. At Plenty I built and cleaned BOMs for purchasability. Ops ran weight, sales thought in finished-goods cases, we bought count/box/each. If UoM conversions were wrong, the screen looked green and you still weren’t clear to build. I made buy unit, stock unit, and BOM unit line up with how we actually purchased.
+
 **How do you decide what to buy / how much?**  
-> Demand from plan + BOM, minus on-hand and on-order, plus lead time and lot size. Dirty item master = fake shortages. Safety stock only on parts that stop the build.
+> Demand from plan + BOM, minus on-hand and on-order, plus lead time and lot size. Dirty item master or bad UoM = fake shortages / fake clear-to-build. Safety stock only on parts that stop the build.
 
 **Technical BOM?**  
-> Don’t PO the PDF. Read the packet (Arena for me). Sort critical path / COTS / custom / soft. Flag landmines same week. Buy long lead first. Keep MRP honest.
+> Don’t PO the PDF. Read the packet (Arena for me). Sort critical path / COTS / custom / soft. Flag landmines same week. Buy long lead first. Keep MRP honest. End state: clear to build.
 
 **Shortage morning?**  
 > Confirm it’s real → call supplier → ask MFG if we can build around it → fix why the system missed it.
@@ -79,9 +84,9 @@ Same as master `cheatsheet.md`.
 
 ## Ask her (pick 2)
 
-1. Bad shortage morning on your book right now?
+1. On your book, where does clear-to-build usually break — BOM, lead time, UoM/master data, or suppliers?
 2. Copperhead vs Sentry: what’s actually common on the BOM?
-3. How clean is Oracle / item master day to day?
+3. How clean is Oracle / item master / unit of measure day to day?
 4. When eng flips a rev after the PO, how fast should planning intercept?
 5. What do you wish the last person in this seat had done differently?
 

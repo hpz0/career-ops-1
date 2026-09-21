@@ -91,8 +91,9 @@ If they want more, they’ll pull. Padding kills you in a 30-minute block.
 | Base A/B nutrients | Commonality, consolidation, eng partnership | “How I buy a technical BOM” |
 | Cold plasma (S10) | Spotting a quality/parts problem early; vendor development | Pretending you’re an ME / primary eng NPI for Robbie |
 | Sanitation process (S18) | Building a floor process; change control; outside → in-line; dirty/clean PNs | Leading Robbie; Coupa replacement when they want P2P |
+| Purchasable BOM + UoM (S19) | Clear to build; item master; ops weight vs sales cases vs buy count | UoM lecture; sole Robbie lead |
 | Comcast disaggregation | Spec with eng → OTS vs built-to-spec; better eng-room NPI | Leading the whole interview |
-| Technical BOM method | Recruiter’s explicit ask | Hand-waving “I read it carefully” |
+| Technical BOM method | Recruiter’s explicit ask + Stephen clear-to-build | Hand-waving “I read it carefully” |
 
 Full BOM method: `stephen-onsite.md` §5.7.
 
@@ -105,8 +106,9 @@ Full BOM method: `stephen-onsite.md` §5.7.
 | Why Anduril must be strong | One answer above. Every room. |
 | Maritime = startup inside Anduril | Stay when it’s on fire. Meet deadlines. |
 | Good buyer uses all info | Don’t be a PO clerk. |
-| Spot issues in parts early | Long lead, sole source, soft specs, rev mush. |
-| Buying strategy on a technical BOM | §5.7 method. Practice until automatic. |
+| Spot issues in parts early | Long lead, sole source, soft specs, rev mush, bad UoM. |
+| Buying strategy on a technical BOM | §5.7 method → **clear to build**. Practice until automatic. |
+| Stephen last coaching (2026-09-21) | BOM → viable plan → clear to build. Lead that with Jamie and the panel. |
 
 ---
 
@@ -115,6 +117,8 @@ Full BOM method: `stephen-onsite.md` §5.7.
 | Story | Mon Jamie | Robbie | Kyle | Stephen |
 |-------|-----------|--------|------|---------|
 | Opening / why | short | short | short | full |
+| Clear-to-build / BOM→plan | **LEAD** | **yes** | if MFG/planner | **must** |
+| Purchasable BOM + UoM (S19) | **LEAD proof** | light | if planner | yes |
 | MRP / safety stock / nutrients (S9) | **LEAD** | backup | if planner | yes |
 | Sanitation process (S18) | **LEAD if process** | backup | **if MFG** | **yes if process** |
 | Trade-study / NPI (S10/S17) | backup | **LEAD S17** | if eng-adj | yes |

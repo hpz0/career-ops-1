@@ -76,7 +76,7 @@ Same as master `cheatsheet.md` §4.
 > Hedge what I can buy now — blank, raw, long-lead path — write who owns scrap if the study flips, put a decision date on eng, finish when the dash locks. Update the BOM the same day.
 
 **Technical BOM?**  
-> Don’t PO the PDF. Read the packet in PLM (Arena for me). Sort critical path / COTS / custom / soft. Flag landmines same week. Buy long lead first. Keep MRP honest. Intercept ECOs.
+> Don’t PO the PDF. Read the packet in PLM (Arena for me). Sort critical path / COTS / custom / soft. Flag landmines same week. Buy long lead first. Keep MRP honest. Intercept ECOs. End state: clear to build.
 
 **You’re not an engineer — why trust you?**  
 > I won’t fake your domain. I’ll learn your BOM on the floor, ask before I assume, and protect schedule by catching unbuyable and late-risk parts early. That’s the partnership.
