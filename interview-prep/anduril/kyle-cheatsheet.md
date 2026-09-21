@@ -1,69 +1,80 @@
-# Kyle Davis — confirm seat first (Thu)
+# Kyle Davis — NPI Mechanical Engineer (Thu)
 
-**Who:** Kyle Davis · title not confirmed from public info  
+**Who:** Kyle Davis · **NPI mechanical engineer** (per Stephen, Sep 2026)  
 **You:** Harrison · Buyer/Planner · Copperhead + Seabed Sentry · Quincy · HM Stephen Shaw  
-**First move:** Ask what he owns so you answer in his world.  
-**Format:** ~90–120 sec. Situation → Approach → Result → stop.
+**His lens:** Can you partner on NPI — BOMs, long leads, rev moves, clear-to-build — without pretending you’re an ME.  
+**Format:** ~90–120 sec. Situation → Approach → Result → stop.  
+**Posture:** Eng owns the design. You make it **buyable, schedulable, clear to build**.
 
-Deep: `stephen-onsite.md` (match his lane) · `decision-playbook.md` if MFG
+Deep: master `cheatsheet.md` §3–4 · `stephen-onsite.md` §5.1 / §5.7 · Comcast disaggregation (S17)
 
----
-
-## Minute one
-
-> Before we get into it — what do you own day to day so I answer in your world?
-
-Then pick the lane below. Don’t guess.
+**If he corrects the title:** stay on NPI/BOM — Stephen said both Kyle and Robbie are NPI-heavy.
 
 ---
 
-## Open (~45–60 sec) — after you know his seat
+## Minute one (optional confirm)
 
-Full open lives on master `cheatsheet.md`. Short version:
+> Before we get into it — are you on Copperhead/Sentry NPI day to day, or broader maritime?
 
-> I’m Harrison. Most of my career has been in procurement and supply chain, a lot of it tied to manufacturing — Plenty direct materials end to end, then Comcast on wireless and fixed network. Looking to get back closer to hardware and production. Happy to go wherever is most useful for your side of the house.
+Then run the NPI playbook below. Don’t guess commodities.
 
+---
 
+## Open (~45–60 sec)
+
+Full open on master `cheatsheet.md`. Short version for eng room:
+
+> I’m Harrison. Plenty was manufacturing procurement — BOMs, MRP, clear-to-build planning with eng. Comcast is category work at scale. I want back closer to hardware and NPI — turning a moving BOM into a buyable plan. Happy to go deep on how I work with mechanical / NPI eng.
 
 ---
 
 ## Why Anduril (if asked)
 
-Same as master `cheatsheet.md`.
+Same as master `cheatsheet.md` (short ok):
 
-> Close to the product. Comcast is category work at scale — I’m good at it. I want procurement that directly enables production: hardware, eng, suppliers, the floor. More ownership, more speed, supply chain that matters to the mission. Anduril is trying to get advanced hardware to warfighters faster and break cost-plus. I believe that. Maritime is a startup inside Anduril. Deadlines are real. Copperhead and Seabed Sentry is the book I want.
-
-
+> Close to the product. Procurement that enables production. Ownership and speed. Warfighters faster, break cost-plus. Maritime startup. Copperhead and Seabed Sentry.
 
 ---
 
-## Lane map
+## Lead this room: NPI + BOM → clear to build
 
-| If he’s… | Lead with | Backup | Ask |
-|----------|-----------|--------|-----|
-| **Manufacturing / ops** | Shortage morning · sanitation process (S18) | Sealer bottleneck / tooling (S12) · S&OP | Who can stop a build when material is late or bad? |
-| **Quality** | Tub recall full sequence (S8) + ETQ for SCAR/CAPA | Cold plasma / S18 clean-window planning | When a lot fails, who calls quarantine? |
-| **Planning / program** | MRP + safety stock · Base A/B commonality | S18 dirty/clean PN + WO · Nokia vendor hold | Quincy vs Quonset: who owns the PO when a kit moves? |
-| **Still unclear** | Independence: recall or shortage | One data story (MRP / 30% BOM) | What does boots-on-the-ground look like for supply chain on your team? |
+Same posture as Robbie — different accent (mechanical NPI vs sourcing/program).
 
----
+> Eng owns the requirement. I turn it into a buyable, schedulable plan. I want in early, before the unique part is sacred: what’s frozen vs in trade study, what’s long lead, what’s sole source, and whether OTS dies for a real reason or a soft one.
+>
+> I bring supplier reality back — lead times, MOQs, capacity. If it isn’t buyable yet, I say so the same week with options. When the rev moves, I intercept in PLM. End state: **clear to build**. I’m not redesigning your part.
 
-## Short answers (any lane)
-
-**Shortage morning:** Confirm real → call supplier → MFG build-around → fix system miss.  
-**ECO after PO:** Effectivity → disposition → freeze bad rev → update mBOM same day (Arena).  
-**Not an ME:** I make the requirement buyable and keep material moving. I don’t redesign the part.  
-**Commodity gap:** Method transfers. I’ll learn your red parts on the floor.
+**Lead story:** Comcast disaggregation (S17) — specs with eng → built-to-spec + OTS.  
+**Backup:** cold plasma / sanitation (S10/S18) only if quality/process — not as “I’m an ME.”  
+**UoM proof (if BOM hygiene):** ops weight vs sales cases vs buy count/box — purchasable BOM (S19).
 
 ---
 
-## Ask (pick 2 after you know his seat)
+## Answers he’ll likely ask
 
-1. When material is late or bad, who can stop a build?
-2. Biggest materials friction between Quincy and Quonset?
-3. What does a bad day look like on your team that this hire is supposed to fix?
-4. How do you want supply chain to show up for you week to week?
+**Drawing still moving, long lead already running?**  
+> Hedge blank/raw/long-lead path now. Name scrap owner. Decision date on eng. Finish when the dash locks. Update mBOM same day.
+
+**Technical BOM / clear to build?**  
+> Don’t PO the PDF. Read packet. Sort critical path / COTS / custom / soft. Flag landmines same week. Buy long lead first. Keep MRP/UoM honest. Intercept ECOs.
+
+**You’re not an ME — why trust you?**  
+> I won’t fake your domain. I’ll learn your BOM on the floor, ask before I assume, and protect schedule by catching unbuyable and late-risk parts early.
+
+**Make vs buy / OTS?**  
+> COTS: buy, dual source if a miss kills schedule. Custom while iterating: keep you close. Specialty: buy from people who live there.
+
+---
+
+## Ask him (pick 2–3)
+
+1. On Copperhead/Sentry NPI right now, which long leads are burning clock while the print’s still open?
+2. When you release a rev, what do you want from planning/buyer the same day?
+3. Where does clear-to-build usually break between eng and supply — soft specs, sole source, or master data?
+4. What does a good buyer do in your design review that a bad one doesn’t?
+5. Which parts are still sole source for a soft reason vs a real technical one?
+6. How do you want me to push back when a callout isn’t buyable yet?
 
 ## Don’t
 
-Guess his job · lead Coupa · geopolitics · same full recall he already heard from another room · fake his domain
+Fake mechanical depth · lead Coupa · geopolitics · stack three NPI stories · full tub recall as opener · apologize for 10 minutes about not being an ME

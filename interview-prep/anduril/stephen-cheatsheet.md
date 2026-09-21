@@ -83,10 +83,11 @@ Same as master `cheatsheet.md`.
 
 1. Day-one ownership: Copperhead / Sentry vs LD / Alder?
 2. Which long-lead hedges do you want signed before finish specs lock?
-3. How will you measure this seat at six months?
-4. Any reservations about my background I can clear up now?
+3. How will you measure this seat at six months — clear-to-build, shortage rate, something else?
+4. Between Robbie’s program lane and Kyle’s NPI ME lane, where should this buyer spend the most time early?
 5. Quincy vs Quonset: who owns inventory and the PO when a kit moves?
 6. Which parts lose most often to DPAS-rated customers, and what’s the workaround?
+7. Any reservations about my background I can clear up now?
 
 ## Don’t
 

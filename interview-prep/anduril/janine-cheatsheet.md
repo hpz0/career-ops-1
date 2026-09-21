@@ -76,10 +76,12 @@ Full steps: `stephen-onsite.md` §5.7.
 
 ## Ask her (pick 2)
 
-1. Bad shortage morning on your book right now?
-2. Copperhead vs Sentry: what’s actually common on the BOM?
-3. How clean is Oracle / item master day to day?
-4. When eng flips a rev after the PO, how fast should planning intercept?
+1. On your book, where does clear-to-build usually break — BOM, lead time, UoM/master data, or suppliers?
+2. Copperhead vs Sentry: what’s actually common on the BOM vs what’s forced unique?
+3. How clean is Oracle / item master / unit of measure day to day?
+4. When eng flips a rev after the PO, how fast should planning intercept — and who owns the scrap call?
+5. What’s the worst shortage morning you’ve had recently, and what would have prevented it?
+6. What do you wish the last person in this seat had done differently?
 
 ## Don’t
 

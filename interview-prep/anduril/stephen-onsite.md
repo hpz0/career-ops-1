@@ -276,8 +276,8 @@ Full cards: `loop-schedule.md`. Rotate stories. Do **not** tell the full recall 
 | Room | What they care about | Lead with | Have ready |
 |------|----------------------|-----------|------------|
 | **Jamie Lichay** (Mon) | Desk-ready buyer/planner | MRP + safety stock · technical BOM method | Short recall · Base A/B commonality |
-| **Robbie Collins** | Sourcing eng / high-speed AUV supply | Comcast disaggregation NPI **or** cold plasma | Trade-study hedge · sole source |
-| **Kyle Davis** | Confirm his seat in minute one | Match to MFG / quality / planning | Independence + one data story |
+| **Robbie Collins** | Sourcing → eng program / NPI | Comcast disaggregation + clear-to-build | Trade-study hedge · sole source · program gates |
+| **Kyle Davis** | NPI mechanical engineer | Comcast disaggregation + clear-to-build | Trade-study · “not an ME” · design-review asks |
 | **Stephen Shaw** (HM, 45m) | Ownership, judgment, you’ll stay | Why Anduril (one answer) + trade-study + MOQ | Comp / Quincy only if he opens it |
 
 ---

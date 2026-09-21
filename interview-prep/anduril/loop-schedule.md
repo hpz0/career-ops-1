@@ -51,14 +51,14 @@ Their line: *take something from 0% to 80%, then 80 to 100%.* Use it once if it 
 
 | Room | Lead | Backup |
 |------|------|--------|
-| **Jamie** | MRP + safety stock · technical BOM method | Short recall · Base A/B · MOQ |
-| **Robbie** | How you work with NPI eng + **Comcast disaggregation** | Trade-study hedge · Arena ECO |
-| **Kyle** | Ask what he owns first | Match MFG / quality / planning |
-| **Stephen** | Why Anduril one answer + trade-study + MOQ | DPAS · 90-day · comp only if opened |
+| **Jamie** | Clear-to-build · MRP · purchasable BOM/UoM | Short recall · Base A/B · MOQ · S18 if process |
+| **Robbie** | NPI + BOM→plan · **Comcast disaggregation** · trade-study | Arena ECO · program/clear-to-build asks |
+| **Kyle** | NPI ME partnership · BOM→clear-to-build · **Comcast disaggregation** | Trade-study · “not an ME” posture |
+| **Stephen** | Why Anduril · clear-to-build · trade-study · MOQ | DPAS · 90-day · NPI split Robbie/Kyle · comp if opened |
 | **Janine** | Same peer desk as Jamie | See `janine-cheatsheet.md` |
 
-### Robbie posture (nervous room)
-You make eng’s intent **buyable and on time**. Not the ME. Full script on `robbie-cheatsheet.md`. Don’t lead cold plasma; lead Comcast disaggregation.
+### NPI rooms (Robbie + Kyle) — Stephen coaching
+Both are NPI-heavy. Robbie: sourcing → eng program. Kyle: NPI mechanical engineer. Same buyer posture: **buyable + on time + clear to build**. Lead Comcast disaggregation. Not the ME. Full scripts on their sheets.
 
 ---
 
@@ -108,7 +108,7 @@ Full BOM method: `stephen-onsite.md` §5.7.
 | Good buyer uses all info | Don’t be a PO clerk. |
 | Spot issues in parts early | Long lead, sole source, soft specs, rev mush, bad UoM. |
 | Buying strategy on a technical BOM | §5.7 method → **clear to build**. Practice until automatic. |
-| Stephen last coaching (2026-09-21) | BOM → viable plan → clear to build. Lead that with Jamie and the panel. |
+| Stephen last coaching (2026-09-21) | BOM → viable plan → clear to build. **NPI heavy** — Robbie + Kyle both NPI. Lead that with Jamie and the panel. |
 
 ---
 
@@ -117,12 +117,13 @@ Full BOM method: `stephen-onsite.md` §5.7.
 | Story | Mon Jamie | Robbie | Kyle | Stephen |
 |-------|-----------|--------|------|---------|
 | Opening / why | short | short | short | full |
-| Clear-to-build / BOM→plan | **LEAD** | **yes** | if MFG/planner | **must** |
-| Purchasable BOM + UoM (S19) | **LEAD proof** | light | if planner | yes |
-| MRP / safety stock / nutrients (S9) | **LEAD** | backup | if planner | yes |
-| Sanitation process (S18) | **LEAD if process** | backup | **if MFG** | **yes if process** |
-| Trade-study / NPI (S10/S17) | backup | **LEAD S17** | if eng-adj | yes |
-| Tub recall (S8) | short if quality | only if asked | **LEAD** if quality/MFG | once if needed |
+| Clear-to-build / BOM→plan | **LEAD** | **LEAD** | **LEAD** | **must** |
+| Purchasable BOM + UoM (S19) | **LEAD proof** | light | light | yes |
+| MRP / safety stock / nutrients (S9) | **LEAD** | backup | backup | yes |
+| NPI partnership + Comcast (S17) | backup | **LEAD** | **LEAD** | one NPI max |
+| Sanitation process (S18) | **LEAD if process** | backup | backup | **yes if process** |
+| Trade-study hedge | backup | **yes** | **yes** | **must** |
+| Tub recall (S8) | short if quality | only if asked | only if asked | once if needed |
 | MOQ / low volume (S14) | yes | light | light | **must** |
 | Coupa 0→80 (S11) | if process | skip | skip | light |
 | Mistake double PO (S15) | if asked | if asked | if asked | if asked |
