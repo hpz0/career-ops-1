@@ -51,14 +51,14 @@ Their line: *take something from 0% to 80%, then 80 to 100%.* Use it once if it 
 
 | Room | Lead | Backup |
 |------|------|--------|
-| **Jamie** | MRP + safety stock · technical BOM method | Short recall · Base A/B · MOQ |
-| **Robbie** | How you work with NPI eng + **Comcast disaggregation** | Trade-study hedge · Arena ECO |
-| **Kyle** | Ask what he owns first | Match MFG / quality / planning |
-| **Stephen** | Why Anduril one answer + trade-study + MOQ | DPAS · 90-day · comp only if opened |
+| **Jamie** | Clear-to-build · MRP · purchasable BOM/UoM | Short recall · Base A/B · MOQ · S18 if process |
+| **Robbie** | NPI + BOM→plan · **Comcast disaggregation** · trade-study | Arena ECO · program/clear-to-build asks |
+| **Kyle** | NPI ME partnership · BOM→clear-to-build · **Comcast disaggregation** | Trade-study · “not an ME” posture |
+| **Stephen** | Why Anduril · clear-to-build · trade-study · MOQ | DPAS · 90-day · NPI split Robbie/Kyle · comp if opened |
 | **Janine** | Same peer desk as Jamie | See `janine-cheatsheet.md` |
 
-### Robbie posture (nervous room)
-You make eng’s intent **buyable and on time**. Not the ME. Full script on `robbie-cheatsheet.md`. Don’t lead cold plasma; lead Comcast disaggregation.
+### NPI rooms (Robbie + Kyle) — Stephen coaching
+Both are NPI-heavy. Robbie: sourcing → eng program. Kyle: NPI mechanical engineer. Same buyer posture: **buyable + on time + clear to build**. Lead Comcast disaggregation. Not the ME. Full scripts on their sheets.
 
 ---
 
@@ -89,9 +89,11 @@ If they want more, they’ll pull. Padding kills you in a 30-minute block.
 | Story | Use for | Don’t use for |
 |-------|---------|---------------|
 | Base A/B nutrients | Commonality, consolidation, eng partnership | “How I buy a technical BOM” |
-| Cold plasma | Spotting a quality/parts problem early; vendor development | Pretending you’re an ME / primary eng NPI for Robbie |
+| Cold plasma (S10) | Spotting a quality/parts problem early; vendor development | Pretending you’re an ME / primary eng NPI for Robbie |
+| Sanitation process (S18) | Building a floor process; change control; outside → in-line; dirty/clean PNs | Leading Robbie; Coupa replacement when they want P2P |
+| Purchasable BOM + UoM (S19) | Clear to build; item master; ops weight vs sales cases vs buy count | UoM lecture; sole Robbie lead |
 | Comcast disaggregation | Spec with eng → OTS vs built-to-spec; better eng-room NPI | Leading the whole interview |
-| Technical BOM method | Recruiter’s explicit ask | Hand-waving “I read it carefully” |
+| Technical BOM method | Recruiter’s explicit ask + Stephen clear-to-build | Hand-waving “I read it carefully” |
 
 Full BOM method: `stephen-onsite.md` §5.7.
 
@@ -104,8 +106,9 @@ Full BOM method: `stephen-onsite.md` §5.7.
 | Why Anduril must be strong | One answer above. Every room. |
 | Maritime = startup inside Anduril | Stay when it’s on fire. Meet deadlines. |
 | Good buyer uses all info | Don’t be a PO clerk. |
-| Spot issues in parts early | Long lead, sole source, soft specs, rev mush. |
-| Buying strategy on a technical BOM | §5.7 method. Practice until automatic. |
+| Spot issues in parts early | Long lead, sole source, soft specs, rev mush, bad UoM. |
+| Buying strategy on a technical BOM | §5.7 method → **clear to build**. Practice until automatic. |
+| Stephen last coaching (2026-09-21) | BOM → viable plan → clear to build. **NPI heavy** — Robbie + Kyle both NPI. Lead that with Jamie and the panel. |
 
 ---
 
@@ -114,9 +117,13 @@ Full BOM method: `stephen-onsite.md` §5.7.
 | Story | Mon Jamie | Robbie | Kyle | Stephen |
 |-------|-----------|--------|------|---------|
 | Opening / why | short | short | short | full |
-| MRP / safety stock / nutrients (S9) | **LEAD** | backup | if planner | yes |
-| Trade-study / NPI (S10) | backup | **LEAD** | if eng-adj | yes |
-| Tub recall (S8) | short if quality | only if asked | **LEAD** if quality/MFG | once if needed |
+| Clear-to-build / BOM→plan | **LEAD** | **LEAD** | **LEAD** | **must** |
+| Purchasable BOM + UoM (S19) | **LEAD proof** | light | light | yes |
+| MRP / safety stock / nutrients (S9) | **LEAD** | backup | backup | yes |
+| NPI partnership + Comcast (S17) | backup | **LEAD** | **LEAD** | one NPI max |
+| Sanitation process (S18) | **LEAD if process** | backup | backup | **yes if process** |
+| Trade-study hedge | backup | **yes** | **yes** | **must** |
+| Tub recall (S8) | short if quality | only if asked | only if asked | once if needed |
 | MOQ / low volume (S14) | yes | light | light | **must** |
 | Coupa 0→80 (S11) | if process | skip | skip | light |
 | Mistake double PO (S15) | if asked | if asked | if asked | if asked |
