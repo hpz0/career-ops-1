@@ -32,7 +32,7 @@ Full open on master `cheatsheet.md`. Short version for eng room:
 
 Same as master `cheatsheet.md` (short ok):
 
-> Close to the product. Procurement that enables production. Ownership and speed. Warfighters faster, break cost-plus. Maritime startup. Copperhead and Seabed Sentry.
+> Anduril isn’t just building products — you’re rebuilding the industrial base and supply chain to scale them faster. Supply chain is what I know and enjoy. Plenty manufacturing plus Comcast commercial. Procurement as part of the problem, not support. Maritime — Copperhead and Seabed Sentry.
 
 ---
 
