@@ -126,6 +126,17 @@ These are the themes he told you to lead with. Each one has a real Plenty exampl
 
 **Rule:** One NPI story per room. Don’t stack cold plasma + Comcast + hydrogel.
 
+### C. Seed / grow-media sanitation process (Plenty) — use for building a floor process
+
+**Best for:** Jamie / Janine / Stephen when they ask “built a process?” Better than Coupa for manufacturing change control. Robbie backup only.
+
+**Story**
+> Seed and grow-media sanitation started as an outside service. I worked change control with engineering and plant science to bring it in-house and put it in-line — same family of work as the cold plasma cleaning.
+>
+> Dirty / raw under one NetSuite part number. Work order for disposition and cleaning. Clean material received back under a differentiated part number so the system couldn’t treat dirty and clean as the same thing. Planning had to respect throughput, capacity, and how long clean stayed inside our specs.
+>
+> Outside service → in-house capability. Process + inventory truth + timing to the build.
+
 ## 4.5 Quality escape / CAPA
 
 **Use once fully. Shorten in later rooms.**
