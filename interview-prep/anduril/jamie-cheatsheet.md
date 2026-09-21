@@ -30,16 +30,14 @@ Recall / ETQ / Stephen only if they ask.
 
 Same as master `cheatsheet.md`.
 
-> What really draws me to Anduril is that you’re not just building advanced defense products — you’re trying to build the industrial base and supply chain around them in a fundamentally different way.
+> When I look at Anduril, I see a company where procurement and supply chain aren’t just a support function. They’re part of solving the actual problem. Doing that on the maritime team, helping scale Copperhead and Seabed Sentry, is exactly the work I want.
 >
-> The traditional defense model can mean huge, fragmented supply chains and very long production timelines. Anduril is trying to change that — build capable systems, scale them faster, and create a supply chain that can actually support that speed.
+> You’re not just building advanced defense products — you’re trying to build the industrial base and supply chain around them in a fundamentally different way. Traditional defense can mean huge, fragmented supply chains and very long production timelines. Anduril is trying to change that — capable systems, scaled faster, with a supply chain that can actually support that speed.
 >
-> That’s personally exciting to me because supply chain is the part of the business I understand and enjoy. I’ve worked the manufacturing side — BOMs, MRP, suppliers, inventory, production — and at Comcast I’ve built real experience managing complex suppliers and commercial relationships.
->
-> So when I look at Anduril, I see a company where procurement and supply chain aren’t just a support function. They’re part of solving the actual problem. Doing that on the maritime team, helping scale Copperhead and Seabed Sentry, is exactly the work I want.
+> That’s the kind of work I like. I like thinking independently on problems where the process itself is still being invented — Plenty was indoor vertical farming at scale; a lot of what we stood up hadn’t been proven that way before. Anduril has that same energy. Supply chain is the part of the business I understand and enjoy: manufacturing side with BOMs, MRP, suppliers, inventory, and production, plus complex suppliers and commercial relationships at Comcast.
 
 **If they only ask why leave Comcast:**
-> Comcast is strong commercial work. I want supply chain tied to building and scaling hardware. That’s this seat.
+> Comcast is strong commercial work. I want supply chain tied to building and scaling hardware — and to problems where the operating model is still being built. That’s this seat.
 
 
 ---
