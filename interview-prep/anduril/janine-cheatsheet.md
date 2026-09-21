@@ -42,11 +42,13 @@ Same as master `cheatsheet.md`.
 
 | Need | Use | Don’t |
 |------|-----|-------|
-| Planning / data | NetSuite MRP + safety stock | Lead with Coupa |
+| Planning / data | NetSuite MRP + safety stock · clear-to-build | Lead with Coupa |
+| Process / change control | Sanitation (S18): outside → in-line; dirty PN → WO → clean PN | Cold plasma as physics flex |
+| Purchasable BOM | Built/cleaned BOMs for buy unit vs ops weight vs sales cases | SKU-count bravado |
 | Ownership | Tub recall (short if already in open) | Full recall twice |
 | Commonality | Base A/B nutrients → shared base, cultivar fine-tune, ~20% changeover | As your “how I buy a BOM” answer |
 | Low volume | Seeds/nutrients MOQ contracts | — |
-| NPI / eng | **Comcast disaggregation** (specs + OTS vs built-to-spec) **or** cold plasma (quality problem → early vendor tech) | Stack both |
+| NPI / eng | **Comcast disaggregation** (specs + OTS vs built-to-spec) **or** cold plasma (quality problem → early vendor tech) | Stack both + S18 |
 | Current role | Samsung market schedule → volumes · Nokia 90-day hold | Lead the interview with Comcast |
 
 ---
@@ -62,6 +64,8 @@ Full steps: `stephen-onsite.md` §5.7.
 ## Other short answers
 
 **Shortage morning:** Confirm it’s real → call supplier → ask MFG if we can build around it → fix why the system missed it.  
+**Clear to build:** BOM → buyable timed plan. Plenty: purchasable BOMs; ops weight vs sales cases vs buy count/box — UoM had to line up or MRP lied.  
+**Built a process:** Sanitation (S18) — outside service → in-house/in-line with eng + plant science; dirty PN → WO → clean PN; plan to clean-window.  
 **ECO after PO:** Effectivity, what’s bought, use/rework/scrap, freeze bad rev, update mBOM same day. Arena + ETQ were the day-to-day systems for that at Plenty.  
 **Quality / SCAR:** Tub recall sequence. ETQ was the supplier-quality / CAPA platform.  
 **Oracle:** Same job as NetSuite MRP. I’ll learn the screens.  
@@ -72,10 +76,12 @@ Full steps: `stephen-onsite.md` §5.7.
 
 ## Ask her (pick 2)
 
-1. Bad shortage morning on your book right now?
-2. Copperhead vs Sentry: what’s actually common on the BOM?
-3. How clean is Oracle / item master day to day?
-4. When eng flips a rev after the PO, how fast should planning intercept?
+1. On your book, where does clear-to-build usually break — BOM, lead time, UoM/master data, or suppliers?
+2. Copperhead vs Sentry: what’s actually common on the BOM vs what’s forced unique?
+3. How clean is Oracle / item master / unit of measure day to day?
+4. When eng flips a rev after the PO, how fast should planning intercept — and who owns the scrap call?
+5. What’s the worst shortage morning you’ve had recently, and what would have prevented it?
+6. What do you wish the last person in this seat had done differently?
 
 ## Don’t
 

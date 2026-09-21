@@ -1,12 +1,15 @@
-# Robbie Collins — Product Sourcing / NPI eng (Thu)
+# Robbie Collins — Sourcing → Eng Program Mgmt / NPI (Thu)
 
-**Who:** Robbie Collins · Product Sourcing Engineer (maritime / high-speed AUVs)  
+**Who:** Robbie Collins · Product Sourcing Engineer → moving toward **engineering program management** (per Stephen, Sep 2026); maritime / high-speed AUVs  
 **You:** Harrison · Buyer/Planner · Copperhead + Seabed Sentry · Quincy  
-**His lens:** Can you buy against a moving print. Specs. Make/buy. OTS vs custom. Partnership with eng, not smoke.  
+**His lens:** NPI. Can you buy against a moving print. Specs. Make/buy. OTS vs custom. Clear-to-build. Partnership with eng/program, not smoke.  
 **Format:** ~90–120 sec. Situation → Approach → Result → stop.  
 **Posture:** You make engineering’s intent **buyable and on time**. You are not the ME.
 
-Deep: `stephen-onsite.md` §4.4B (Comcast) · §5.1 (trade study) · §5.7 (technical BOM)
+Deep: master `cheatsheet.md` §3–4 · `stephen-onsite.md` §4.4B (Comcast) · §5.1 (trade study) · §5.7 (BOM → clear to build)
+
+**If he corrects the seat:** stay on NPI/BOM/clear-to-build — Stephen said both he and Kyle are NPI-focused (other seat = NPI ME).
+
 
 ---
 
@@ -39,9 +42,9 @@ Same as master `cheatsheet.md`.
 
 ---
 
-## How you work with NPI engineering (HAVE THIS COLD)
+## How you work with NPI (HAVE THIS COLD — he and Kyle are both NPI)
 
-Same as master `cheatsheet.md` §4.
+Same as master `cheatsheet.md` §4. Program accent: schedule, gates, clear-to-build — not just the PO.
 
 > Eng owns the requirement. I turn it into a buyable, schedulable plan. I want in early, before the unique part is sacred: what’s frozen vs in trade study, what’s long lead, what’s sole source, and whether OTS dies for a real reason or a soft one.
 >
@@ -63,9 +66,10 @@ Same as master `cheatsheet.md` §4.
 >
 > That’s the buyer half of NPI: help eng write something buyable, then bring options that fit.
 
-**Backup only if needed:** cold plasma = seed pathogens → early tech → prototypes + test plans → vendor refined to cleanliness requirements. Frame as catching a parts/process problem early, not as you inventing physics.
+**Backup only if needed:** cold plasma = seed pathogens → early tech → prototypes + test plans → vendor refined to cleanliness requirements. Frame as catching a parts/process problem early, not as you inventing physics.  
+**Process backup (not lead):** sanitation (S18) — outside service → in-line with eng/plant science; dirty PN → WO → clean PN. Only if he asks how the floor process ran.
 
-**Do not lead:** Coupa · Base A/B nutrients · full tub recall · foam/electronics cosplay
+**Do not lead:** Coupa · Base A/B nutrients · full tub recall · foam/electronics cosplay · S18 as your eng NPI story
 
 ---
 
@@ -75,7 +79,7 @@ Same as master `cheatsheet.md` §4.
 > Hedge what I can buy now — blank, raw, long-lead path — write who owns scrap if the study flips, put a decision date on eng, finish when the dash locks. Update the BOM the same day.
 
 **Technical BOM?**  
-> Don’t PO the PDF. Read the packet in PLM (Arena for me). Sort critical path / COTS / custom / soft. Flag landmines same week. Buy long lead first. Keep MRP honest. Intercept ECOs.
+> Don’t PO the PDF. Read the packet in PLM (Arena for me). Sort critical path / COTS / custom / soft. Flag landmines same week. Buy long lead first. Keep MRP honest. Intercept ECOs. End state: clear to build.
 
 **You’re not an engineer — why trust you?**  
 > I won’t fake your domain. I’ll learn your BOM on the floor, ask before I assume, and protect schedule by catching unbuyable and late-risk parts early. That’s the partnership.
@@ -90,12 +94,13 @@ Same as master `cheatsheet.md` §4.
 
 ## Ask him (pick 2–3)
 
-1. On Copperhead, which open trade studies are burning long-lead clock, and who signs a hedge before finish specs lock?
-2. Where are you still forced into sole source — real technical reason, qual, or volume?
-3. When you release a rev, what do you want from planning the same day?
-4. What does a good buyer/planner do in your design reviews that a mediocre one doesn’t?
-5. Which part families blow up schedule most: boards, housings, batteries, connectors, something else?
-6. How early do you want supply chain in before a unique part gets locked?
+1. On Copperhead/Sentry NPI, which open trade studies are burning long-lead clock — and who signs a hedge before finish locks?
+2. As you move more toward program: what does “clear to build” mean for a gate you’re accountable for?
+3. Where are you still forced into sole source — real technical reason, qual, or volume?
+4. When eng releases a rev, what do you want from planning/buyer the same day?
+5. What does a good buyer/planner do in design review that a mediocre one doesn’t?
+6. Which part families blow schedule most: boards, housings, batteries, connectors, something else?
+7. How early do you want supply chain in before a unique part gets locked?
 
 ---
 
