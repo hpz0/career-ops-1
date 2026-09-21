@@ -79,13 +79,11 @@ If they want more, they’ll pull. Padding kills you in a 30-minute block.
 
 **Source of truth:** master `cheatsheet.md` §1 (open) and §2 (why). Full open lives there — don’t invent a shorter one for the loop. Why text below matches master:
 
-> What really draws me to Anduril is that you’re not just building advanced defense products — you’re trying to build the industrial base and supply chain around them in a fundamentally different way.
+> When I look at Anduril, I see a company where procurement and supply chain aren’t just a support function. They’re part of solving the actual problem. Doing that on the maritime team, helping scale Copperhead and Seabed Sentry, is exactly the work I want.
 >
-> The traditional defense model can mean huge, fragmented supply chains and very long production timelines. Anduril is trying to change that — build capable systems, scale them faster, and create a supply chain that can actually support that speed.
+> You’re not just building advanced defense products — you’re trying to build the industrial base and supply chain around them in a fundamentally different way. Traditional defense can mean huge, fragmented supply chains and very long production timelines. Anduril is trying to change that — capable systems, scaled faster, with a supply chain that can actually support that speed.
 >
-> That’s personally exciting to me because supply chain is the part of the business I understand and enjoy. I’ve worked the manufacturing side — BOMs, MRP, suppliers, inventory, production — and at Comcast I’ve built real experience managing complex suppliers and commercial relationships.
->
-> So when I look at Anduril, I see a company where procurement and supply chain aren’t just a support function. They’re part of solving the actual problem. Doing that on the maritime team, helping scale Copperhead and Seabed Sentry, is exactly the work I want.
+> That’s the kind of work I like. I like thinking independently on problems where the process itself is still being invented — Plenty was indoor vertical farming at scale; a lot of what we stood up hadn’t been proven that way before. Anduril has that same energy. Supply chain is the part of the business I understand and enjoy: manufacturing side with BOMs, MRP, suppliers, inventory, and production, plus complex suppliers and commercial relationships at Comcast.
 
 
 ### Story use (corrected)
@@ -144,7 +142,7 @@ Full BOM method: `stephen-onsite.md` §5.7.
 ## Night before (Sun for Jamie; Wed for Thursday stack)
 
 Say out loud once each:
-1. Why Anduril (industrial base + supply chain scale — master §2)
+1. Why Anduril (lead: procurement as part of the problem — master §2)
 2. Maritime pace (deadlines / stay when on fire)
 3. Why this role + Why Anduril (short version)
 4. MRP / safety stock
