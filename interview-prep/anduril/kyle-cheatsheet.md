@@ -32,7 +32,7 @@ Full open on master `cheatsheet.md`. Short version for eng room:
 
 Same as master `cheatsheet.md` (short ok):
 
-> Anduril isn’t just building products — you’re rebuilding the industrial base and supply chain to scale them faster. Supply chain is what I know and enjoy. Plenty manufacturing plus Comcast commercial. Procurement as part of the problem, not support. Maritime — Copperhead and Seabed Sentry.
+> Procurement and supply chain as part of solving the problem — not support. Maritime: scale Copperhead and Seabed Sentry. Industrial base rebuilt for speed. I like inventing processes that haven’t been proven at scale yet — Plenty vertical farming, Anduril. That’s the work I want.
 
 ---
 

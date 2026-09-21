@@ -78,7 +78,7 @@ You’ve lived this on the tub recall (S8). Lead with that story, not the textbo
 > Yeah, I’m not an ME. At Plenty I still sat with engineers and scientists on specs, SOWs, tooling, and new cultivars. Cold plasma equipment, hydrogel, packaging tools, spares BOMs. I don’t pretend I can design the part. I can learn the requirement fast, translate it into a buy, and keep the line fed when the drawing moves.
 
 ### Why Anduril
-**Source of truth:** master `cheatsheet.md` §2 (industrial base + supply chain scale + maritime). Use that wording.
+**Source of truth:** master `cheatsheet.md` §2 — lead with procurement as part of the problem (maritime / Copperhead + Sentry); industrial base; Plenty-scale innovation.
 
 
 ### How do you negotiate / run suppliers
